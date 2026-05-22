@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-05-22T10:00:04Z",
-  "updated_local": "2026-05-22 06:00 EDT",
+  "updated": "2026-05-22T22:00:04Z",
+  "updated_local": "2026-05-22 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -92,6 +92,11 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2167?html=true"
     },
     {
+      "date": "2026-05-27",
+      "agenda_id": "2164",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2164?html=true"
+    },
+    {
       "date": "2026-05-26",
       "agenda_id": "2168",
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05262026-2168?html=true"
@@ -115,11 +120,6 @@
       "date": "2026-05-12",
       "agenda_id": "2159",
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2159?html=true"
-    },
-    {
-      "date": "2026-05-11",
-      "agenda_id": "2163",
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05112026-2163?html=true"
     }
   ],
   "briefs": {
