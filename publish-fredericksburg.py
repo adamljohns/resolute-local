@@ -18,6 +18,7 @@ from pathlib import Path
 REPO = Path(__file__).parent
 SRC = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-civic-latest.json'
 OUT = REPO / 'data' / 'fredericksburg.json'
+BRIEFS = REPO / 'briefs' / 'fredericksburg.json'   # Phase 2: authored/auto citizen briefs
 
 # Lines that are pure structural noise we don't surface as agenda items
 NOISE = {'agenda', 'city council', 'topics', 'call to order', '&nbsp;', ':', 'pm',
@@ -116,8 +117,15 @@ def main():
         'council': council,
         'next_meeting': next_meeting,
         'meetings': raw.get('meetings', []),
-        'briefs': {},   # Phase 2 fills this (agenda_id → citizen brief)
+        'briefs': {},   # Phase 2: filled from briefs/fredericksburg.json below
     }
+    # Phase 2 — merge authored/auto citizen briefs (keyed by meeting date)
+    if BRIEFS.exists():
+        try:
+            bdata = json.loads(BRIEFS.read_text())
+            out['briefs'] = {k: v for k, v in bdata.items() if not k.startswith('_')}
+        except (json.JSONDecodeError, ValueError):
+            pass
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2) + '\n')
     print(f'Wrote {OUT.relative_to(REPO)} — {len(council)} council members, '

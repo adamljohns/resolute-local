@@ -684,6 +684,8 @@
       var brief=briefs[nm.agenda_id]||briefs[nm.date];
       if(brief){
         html+='<div style="margin-top:14px;padding:12px 14px;background:rgba(255,255,255,0.04);border-radius:6px;">';
+        html+='<div style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.8px;font-weight:700;color:#D4AF37;margin-bottom:6px;">Citizen brief</div>';
+        if(brief.summary) html+='<p style="margin:0 0 8px;">'+esc(brief.summary)+'</p>';
         if(brief.why) html+='<p style="margin:0 0 6px;"><strong>Why it matters:</strong> '+esc(brief.why)+'</p>';
         if(brief.how) html+='<p style="margin:0;"><strong>How to weigh in:</strong> '+esc(brief.how)+'</p>';
         html+='</div>';

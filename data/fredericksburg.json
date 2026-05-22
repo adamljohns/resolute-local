@@ -122,5 +122,13 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05112026-2163?html=true"
     }
   ],
-  "briefs": {}
+  "briefs": {
+    "2026-05-27": {
+      "summary": "This joint work session allows city officials to review feasibility scenarios and economic impacts for the Phase III Commercial Corridor Revitalization Study. The discussion focuses on how specific development models for shopping centers might affect the local economy and urban planning goals. No binding votes are taken during this informational session; it is designed to gather input before formal decisions are made.",
+      "why": "Changes to commercial corridors directly influence the city's tax base by determining which businesses can operate in designated zones. These zoning adjustments affect local traffic patterns, public safety resource allocation, and the availability of goods and services for residents. The study's outcomes will shape the physical character of neighborhoods and the economic opportunities available to local families.",
+      "how": "Residents can attend the meeting on May 27, 2026, at 5:30 PM in the Council Chambers at 715 Princess Anne Street. Public comment periods are typically available during work sessions; check the agenda posted 48 hours prior for specific sign-up procedures. You may also submit written comments via email to the City Clerk or your council member before the meeting date.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    }
+  }
 }
