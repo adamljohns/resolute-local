@@ -690,10 +690,17 @@
         if(brief.how) html+='<p style="margin:0;"><strong>How to weigh in:</strong> '+esc(brief.how)+'</p>';
         html+='</div>';
       }
+      window.__rlMeeting=nm; // Phase 3 tools read this
+      var btn='display:inline-block;font-weight:700;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;cursor:pointer;border:none;';
+      var btnGold='background:linear-gradient(90deg,#c9a84c,#D4AF37);color:#000;'+btn;
+      var btnOutline='background:transparent;border:1px solid rgba(212,175,55,0.5);color:#D4AF37;font-weight:600;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;cursor:pointer;';
       html+='<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;">';
-      if(nm.agenda_url) html+='<a href="'+esc(nm.agenda_url)+'" style="background:linear-gradient(90deg,#c9a84c,#D4AF37);color:#000;font-weight:700;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;">View full agenda →</a>';
-      html+='<a href="#participate-heading" style="border:1px solid rgba(212,175,55,0.5);color:#D4AF37;font-weight:600;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;">How to weigh in →</a>';
+      if(nm.agenda_url) html+='<a href="'+esc(nm.agenda_url)+'" style="'+btnGold+'">View full agenda →</a>';
+      html+='<button type="button" onclick="rlAddToCalendar()" style="'+btnOutline+'">📅 Add to calendar</button>';
+      html+='<button type="button" onclick="rlDraftComment()" style="'+btnOutline+'">✍️ Draft a comment</button>';
+      html+='<a href="#participate-heading" style="'+btnOutline+'">How to weigh in →</a>';
       html+='</div>';
+      html+='<div id="rl-comment-helper" style="display:none;margin-top:14px;"></div>';
       b.innerHTML=html;
 
       // Refresh the live council roster into the existing council list if present
@@ -711,6 +718,58 @@
       if(b) b.innerHTML='<p class="lead">Couldn\'t load the live agenda right now. View it at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p>';
     });
 })();
+
+// --- Phase 3 activism tools ---
+function rlEsc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function rlParseTime(t){ // "5:30pm" -> {h:17,m:30}; default 18:00
+  if(!t) return {h:18,m:0};
+  var m=String(t).match(/(\d{1,2}):(\d{2})\s*([ap])\.?m\.?/i);
+  if(!m) return {h:18,m:0};
+  var h=+m[1]%12; if(/p/i.test(m[3])) h+=12; return {h:h,m:+m[2]};
+}
+window.rlAddToCalendar=function(){
+  var nm=window.__rlMeeting||{}; if(!nm.date){alert('No meeting date available yet.');return;}
+  var p=nm.date.split('-'); var t=rlParseTime(nm.time);
+  function pad(n){return (n<10?'0':'')+n;}
+  var start=p[0]+pad(p[1])+pad(p[2])+'T'+pad(t.h)+pad(t.m)+'00';
+  var endH=(t.h+2)%24; var end=p[0]+pad(p[1])+pad(p[2])+'T'+pad(endH)+pad(t.m)+'00';
+  var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//RESOLUTE Local//Fredericksburg//EN',
+    'BEGIN:VEVENT','UID:'+nm.date+'-fxbg@resolute-local','DTSTART:'+start,'DTEND:'+end,
+    'SUMMARY:Fredericksburg — '+(nm.title||'City Council Meeting'),
+    'LOCATION:'+((nm.location||'715 Princess Anne Street, Fredericksburg, VA').replace(/,/g,'\\,')),
+    'DESCRIPTION:City Council meeting. Agenda: '+(nm.agenda_url||'fredericksburgva.gov/AgendaCenter'),
+    'END:VEVENT','END:VCALENDAR'].join('\r\n');
+  var blob=new Blob([ics],{type:'text/calendar'});
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download='fredericksburg-council-'+nm.date+'.ics'; document.body.appendChild(a); a.click();
+  document.body.removeChild(a);
+};
+window.rlDraftComment=function(){
+  var nm=window.__rlMeeting||{}; var box=document.getElementById('rl-comment-helper'); if(!box) return;
+  if(box.style.display==='block'){box.style.display='none';return;}
+  var topic=(nm.items&&nm.items.length)?nm.items[nm.items.length-1]:(nm.title||'an item on the agenda');
+  var tmpl='Dear Mayor Devine and Members of the City Council,\n\n'
+    +'My name is [your name] and I am a resident of [your ward/neighborhood] in Fredericksburg.\n\n'
+    +'I am writing regarding the '+(nm.title||'upcoming meeting')+' on '+(nm.date||'')+', specifically: '+topic+'.\n\n'
+    +'[State your position in 1-2 sentences. Be specific and respectful.]\n\n'
+    +'[Add one concrete reason — how this affects your family, street, school, or business.]\n\n'
+    +'I respectfully ask the Council to [your specific request]. Thank you for your service and for considering my input.\n\n'
+    +'Sincerely,\n[Your name]\n[Your address / contact]';
+  box.innerHTML='<div style="padding:12px 14px;background:rgba(255,255,255,0.04);border-radius:6px;">'
+    +'<div style="font-size:0.72rem;text-transform:uppercase;letter-spacing:0.8px;font-weight:700;color:#D4AF37;margin-bottom:6px;">Draft your public comment</div>'
+    +'<p style="margin:0 0 8px;font-size:0.85rem;color:var(--gray,#8a93a0);">Edit the template, then copy it into an email to the council or read it at public comment. Keep it under ~3 minutes spoken.</p>'
+    +'<textarea id="rl-comment-text" style="width:100%;min-height:200px;font-family:inherit;font-size:0.9rem;padding:10px;border-radius:6px;border:1px solid rgba(168,176,188,0.3);background:rgba(0,0,0,0.2);color:inherit;">'+rlEsc(tmpl)+'</textarea>'
+    +'<div style="margin-top:8px;display:flex;gap:10px;flex-wrap:wrap;">'
+    +'<button type="button" onclick="rlCopyComment()" style="background:linear-gradient(90deg,#c9a84c,#D4AF37);color:#000;font-weight:700;padding:8px 16px;border-radius:6px;border:none;cursor:pointer;font-size:0.85rem;">Copy to clipboard</button>'
+    +'<a href="https://www.fredericksburgva.gov/Directory.aspx" style="border:1px solid rgba(212,175,55,0.5);color:#D4AF37;font-weight:600;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;">City contact directory →</a>'
+    +'</div></div>';
+  box.style.display='block';
+};
+window.rlCopyComment=function(){
+  var t=document.getElementById('rl-comment-text'); if(!t) return;
+  t.select(); try{navigator.clipboard.writeText(t.value);}catch(e){document.execCommand('copy');}
+  var btn=event.target; var o=btn.textContent; btn.textContent='Copied ✓'; setTimeout(function(){btn.textContent=o;},1500);
+};
 </script>
 
 </body>
