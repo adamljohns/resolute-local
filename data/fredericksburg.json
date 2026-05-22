@@ -1,0 +1,126 @@
+{
+  "city": "Fredericksburg",
+  "state": "VA",
+  "slug": "fredericksburg",
+  "updated": "2026-05-21T22:00:05Z",
+  "updated_local": "2026-05-21 18:00 EDT",
+  "source": "fredericksburgva.gov/AgendaCenter",
+  "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
+  "council": [
+    {
+      "name": "Kerry P. Devine",
+      "role": "Mayor"
+    },
+    {
+      "name": "Charlie L. Frye, Jr.",
+      "role": "Vice-Mayor, Ward Four"
+    },
+    {
+      "name": "Jannan W. Holmes",
+      "role": "At-Large"
+    },
+    {
+      "name": "Dr. Will B. Mackintosh",
+      "role": "At-Large"
+    },
+    {
+      "name": "Matt D. Rowe",
+      "role": "Ward One"
+    },
+    {
+      "name": "Joy Y. Crump",
+      "role": "Ward Two"
+    },
+    {
+      "name": "Susanna R. Finn",
+      "role": "Ward Three"
+    }
+  ],
+  "next_meeting": {
+    "title": "Joint Work Session",
+    "date": "2026-05-27",
+    "time": "5:30pm",
+    "location": "715 Princess Anne Street, Council Chambers, Fredericksburg, VA 22401",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2165?html=true",
+    "items": [
+      "The City Council, Economic Development Authority, and Planning Commission will hold a Joint Work Session to discuss the following:",
+      "Phase III- Commercial Corridor Revitalization Study (Shopping Center Study) - Scenario Feasibility and Economic Impacts"
+    ],
+    "raw_lines": [
+      "Agenda - 05/27/2026",
+      "City of Fredericksburg, Virginia",
+      "Hon. Kerry P. Devine, Mayor",
+      "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
+      "Hon. Jannan W. Holmes, At-Large",
+      "Hon. Dr. Will B. Mackintosh, At-Large",
+      "Hon. Matt D. Rowe, Ward One",
+      "Hon. Joy Y. Crump, Ward Two",
+      "Hon. Susanna R. Finn, Ward Three",
+      "City Council",
+      "AGENDA",
+      "Council Chambers",
+      "715 Princess Anne Street",
+      "Fredericksburg, Virginia \u00a022401",
+      "Joint Work Session Agenda",
+      "May 27, 2026",
+      "5",
+      ":",
+      "30pm in Council Chambers",
+      "1.",
+      "Call to Order",
+      "A.",
+      "Topics",
+      "The City Council, Economic Development Authority, and Planning Commission will hold a Joint Work Session to discuss the following:",
+      "&nbsp;",
+      "Phase III- Commercial Corridor Revitalization Study (Shopping Center Study) - Scenario Feasibility and Economic Impacts",
+      "&nbsp;",
+      "Members of the public are invited to attend this meeting.",
+      "&nbsp;",
+      "2.",
+      "Adjournment"
+    ]
+  },
+  "meetings": [
+    {
+      "date": "2026-05-27",
+      "agenda_id": "2165",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2165?html=true"
+    },
+    {
+      "date": "2026-05-27",
+      "agenda_id": "2167",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2167?html=true"
+    },
+    {
+      "date": "2026-05-26",
+      "agenda_id": "2168",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05262026-2168?html=true"
+    },
+    {
+      "date": "2026-05-26",
+      "agenda_id": "2166",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05262026-2166?html=true"
+    },
+    {
+      "date": "2026-05-12",
+      "agenda_id": "2160",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2160?html=true"
+    },
+    {
+      "date": "2026-05-12",
+      "agenda_id": "2161",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2161?html=true"
+    },
+    {
+      "date": "2026-05-12",
+      "agenda_id": "2159",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2159?html=true"
+    },
+    {
+      "date": "2026-05-11",
+      "agenda_id": "2163",
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05112026-2163?html=true"
+    }
+  ],
+  "briefs": {}
+}

@@ -1,0 +1,129 @@
+#!/usr/bin/env python3
+"""
+publish-fredericksburg.py — Phase 1: transform the civic-rounds pipeline output
+into clean site data the public page can render.
+
+Reads the cron's snapshot (shared-memory/fxbg-civic-latest.json, refreshed 2x/day
+by ~/Scripts/fxbg-civic-rounds.sh) and writes data/fredericksburg.json — the live
+source of truth the FXBG civic page fetches.
+
+Run by the cron's publish step after each scrape; also runnable by hand:
+    python3 publish-fredericksburg.py
+"""
+import json
+import re
+import os
+from pathlib import Path
+
+REPO = Path(__file__).parent
+SRC = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-civic-latest.json'
+OUT = REPO / 'data' / 'fredericksburg.json'
+
+# Lines that are pure structural noise we don't surface as agenda items
+NOISE = {'agenda', 'city council', 'topics', 'call to order', '&nbsp;', ':', 'pm',
+         'council chambers', 'a.', 'b.', 'c.', 'd.', 'i.', 'ii.', 'iii.'}
+
+
+def parse_council(lines):
+    """Pull the 'Hon. NAME[, Jr.], ROLE[, WARD]' roster lines into members."""
+    members = []
+    for ln in lines:
+        m = re.match(r'^Hon\.\s+(.+)$', ln.strip())
+        if not m:
+            continue
+        rest = m.group(1).strip()
+        parts = [p.strip() for p in rest.split(',')]
+        # Re-attach a generational suffix to the name (Jr./Sr./II/III/IV)
+        name = parts[0]
+        idx = 1
+        if idx < len(parts) and re.match(r'^(Jr\.?|Sr\.?|II|III|IV)$', parts[idx], re.I):
+            name = f'{name}, {parts[idx]}'
+            idx += 1
+        role = ', '.join(parts[idx:]).strip()
+        if role:
+            members.append({'name': name, 'role': role})
+    return members
+
+
+def parse_meeting(na):
+    """Best-effort structured summary of the next meeting from agenda lines."""
+    lines = [l.strip() for l in (na.get('lines') or [])]
+
+    # Time is often split across lines ("5" / ":" / "30pm"). Join + normalise.
+    joined = ' '.join(lines)
+    joined = re.sub(r'(\d{1,2})\s*:\s*(\d{2})', r'\1:\2', joined)   # "5 : 30" -> "5:30"
+    tm = re.search(r'(\d{1,2}:\d{2}\s*[ap]\.?m\.?)', joined, re.I)
+    when_time = tm.group(1).replace(' ', '') if tm else ''
+
+    title = ''
+    location = ''
+    for l in lines:
+        if not title and re.search(r'(work session|regular session|public hearing|meeting)\s+agenda$', l, re.I):
+            title = re.sub(r'\s+agenda$', '', l, flags=re.I).strip()
+        if 'princess anne' in l.lower():
+            location = '715 Princess Anne Street, Council Chambers, Fredericksburg, VA 22401'
+    if not title:
+        title = 'City Council Session'
+
+    # Substantive agenda items: descriptive topic lines only. Drop boilerplate,
+    # the title/address/time fragments, numbering, and short noise.
+    items = []
+    seen = set()
+    drop_re = re.compile(r'^(agenda|city of|hon\.|fredericksburg|council chambers|'
+                         r'\d+\s*princess anne|members of the public|joint work session|'
+                         r'regular session|public hearing|call to order|topics|'
+                         r'\d{1,2}:\d{2}|.*in council chambers$)', re.I)
+    for l in lines:
+        low = l.lower().strip()
+        if len(l) < 25:                       # topics are descriptive; drop fragments
+            continue
+        if low in NOISE or l.startswith('&nbsp;') or drop_re.match(low):
+            continue
+        words = [w for w in re.split(r'\s+', l) if w]
+        if len(words) < 4:                    # need a real phrase
+            continue
+        if l in seen:
+            continue
+        seen.add(l)
+        items.append(l)
+    return {
+        'title': title,
+        'date': na.get('date', ''),
+        'time': when_time,
+        'location': location,
+        'agenda_url': na.get('url', ''),
+        'items': items[:25],
+        'raw_lines': lines,          # kept for Phase 2 brief generation
+    }
+
+
+def main():
+    if not SRC.exists():
+        raise SystemExit(f'pipeline snapshot not found: {SRC} (run fxbg-civic-rounds.sh first)')
+    raw = json.loads(SRC.read_text())
+    na = raw.get('next_agenda', {}) or {}
+    council = parse_council(na.get('lines', []))
+    next_meeting = parse_meeting(na)
+
+    out = {
+        'city': 'Fredericksburg',
+        'state': 'VA',
+        'slug': 'fredericksburg',
+        'updated': raw.get('ts', ''),
+        'updated_local': raw.get('ts_local', ''),
+        'source': (raw.get('sources') or ['fredericksburgva.gov/AgendaCenter'])[0],
+        'agenda_center': 'https://www.fredericksburgva.gov/AgendaCenter',
+        'council': council,
+        'next_meeting': next_meeting,
+        'meetings': raw.get('meetings', []),
+        'briefs': {},   # Phase 2 fills this (agenda_id → citizen brief)
+    }
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    OUT.write_text(json.dumps(out, indent=2) + '\n')
+    print(f'Wrote {OUT.relative_to(REPO)} — {len(council)} council members, '
+          f'{len(out["meetings"])} meetings, next: {next_meeting["title"]} {next_meeting["date"]}, '
+          f'{len(next_meeting["items"])} agenda items')
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://usmcmin.com/fredericksburg.html">
+  <title>Fredericksburg, VA — RESOLUTE Citizen | U.S.M.C. Ministries</title>
+  <meta name="description" content="Local-government engagement page for Fredericksburg, VA residents. Current city council, meeting schedule, public-comment instructions, active issues, RESOLUTE Citizen scores, primary-source citations.">
+  <meta property="og:title" content="Fredericksburg City Council — RESOLUTE Citizen">
+  <meta property="og:description" content="Know your council. Watch your meetings. Send your message. The decisions that affect your family most happen at the local level.">
+  <meta property="og:image" content="https://usmcmin.com/assets/og/og-brain.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://usmcmin.com/assets/og/og-brain.jpg">
+  <link rel="stylesheet" href="assets/css/main.min.css">
+  <link rel="icon" href="assets/img/favicon.png" type="image/png">
+  <style>
+    .fxbg-container { max-width: 1100px; margin: 0 auto; padding: 24px 20px 60px; }
+    .fxbg-hero {
+      text-align: center;
+      padding: 40px 20px 32px;
+      border-bottom: 2px solid var(--border);
+      margin-bottom: 24px;
+    }
+    .fxbg-hero-badge {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: var(--accent);
+      background: rgba(168,176,188,0.12);
+      border: 1px solid rgba(168,176,188,0.25);
+      padding: 6px 18px;
+      border-radius: 20px;
+      margin-bottom: 14px;
+    }
+    .fxbg-hero h1 {
+      font-size: clamp(1.9rem, 4.5vw, 2.8rem);
+      color: var(--white);
+      margin-bottom: 8px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .fxbg-hero h1 .gold { color: var(--accent); }
+    .fxbg-hero p {
+      color: var(--gray);
+      font-size: 0.98rem;
+      line-height: 1.7;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    .fxbg-section {
+      margin: 30px 0;
+      padding: 22px 24px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+    .fxbg-section h2 {
+      color: var(--accent);
+      font-size: 1.1rem;
+      letter-spacing: 0.3px;
+      margin-bottom: 14px;
+      font-family: var(--font-main);
+    }
+    .fxbg-section .lead {
+      color: var(--gray);
+      font-size: 0.92rem;
+      line-height: 1.7;
+      margin-bottom: 16px;
+    }
+    .fxbg-section a {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+
+    /* Quick civic facts strip */
+    .fxbg-facts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+    }
+    .fxbg-fact {
+      padding: 14px 16px;
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .fxbg-fact-label {
+      font-size: 0.66rem;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--accent);
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .fxbg-fact-value {
+      color: var(--white);
+      font-size: 0.95rem;
+      line-height: 1.55;
+    }
+    .fxbg-fact-value a { color: var(--accent); text-decoration: underline; }
+
+    /* Council card grid */
+    .fxbg-council-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 14px;
+    }
+    .fxbg-council-card {
+      padding: 16px 18px;
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .fxbg-council-name {
+      font-size: 1rem;
+      font-weight: 800;
+      color: var(--white);
+      line-height: 1.3;
+    }
+    .fxbg-council-role {
+      font-size: 0.78rem;
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+    }
+    .fxbg-council-meta {
+      font-size: 0.78rem;
+      color: var(--gray);
+      line-height: 1.55;
+    }
+    .fxbg-council-actions {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 4px;
+    }
+    .fxbg-btn {
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.74rem;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--white);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .fxbg-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .fxbg-btn.primary {
+      background: linear-gradient(90deg, var(--accent), var(--accent));
+      color: #000;
+      border-color: transparent;
+    }
+
+    /* How to participate */
+    .fxbg-3col {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+    }
+    .fxbg-step {
+      padding: 16px 18px;
+      background: rgba(255,255,255,0.02);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 6px 6px 0;
+    }
+    .fxbg-step-num {
+      display: inline-flex;
+      width: 26px; height: 26px;
+      align-items: center; justify-content: center;
+      border-radius: 50%;
+      background: rgba(168,176,188,0.18);
+      color: var(--accent);
+      font-weight: 800;
+      font-size: 0.85rem;
+      margin-right: 8px;
+    }
+    .fxbg-step h3 {
+      color: var(--white);
+      font-size: 0.98rem;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+    }
+    .fxbg-step p {
+      color: var(--gray);
+      font-size: 0.85rem;
+      line-height: 1.65;
+    }
+    .fxbg-step p a { color: var(--accent); text-decoration: underline; }
+
+    /* Issue list */
+    .fxbg-issues {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .fxbg-issue {
+      padding: 14px 16px;
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .fxbg-issue h3 {
+      color: var(--white);
+      font-size: 0.95rem;
+      margin-bottom: 6px;
+      font-family: var(--font-main);
+    }
+    .fxbg-issue .summary {
+      color: var(--gray);
+      font-size: 0.85rem;
+      line-height: 1.65;
+      margin-bottom: 8px;
+    }
+    .fxbg-issue .src {
+      font-size: 0.74rem;
+      color: var(--text-muted, #94a3b8);
+    }
+    .fxbg-issue .src a { color: var(--text-muted, #94a3b8); text-decoration: underline; }
+
+    .fxbg-scripture {
+      text-align: center;
+      padding: 26px 20px;
+      margin: 30px 0 20px;
+      background: rgba(168,176,188,0.06);
+      border: 1px solid rgba(168,176,188,0.15);
+      border-radius: var(--radius);
+    }
+    .fxbg-scripture blockquote {
+      color: var(--gray);
+      font-style: italic;
+      font-size: 1.02rem;
+      line-height: 1.75;
+      max-width: 720px;
+      margin: 0 auto 8px;
+    }
+    .fxbg-scripture cite {
+      color: var(--accent);
+      font-size: 0.85rem;
+      font-weight: 600;
+      font-style: normal;
+    }
+  </style>
+</head>
+<body>
+
+<a href="#main" class="skip-link">Skip to content</a>
+
+<nav>
+  <a href="/" class="nav-brand" style="text-decoration:none">
+    <img src="assets/img/logo.png" alt="U.S.M.C. Ministries" style="object-fit:contain">
+    <div class="nav-brand-text">
+      <div class="name">U.S.M.C. Ministries</div>
+      <div class="tag">Warriors Equipped</div>
+    </div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="https://usmcmin.com/citizen.html">Scorecard</a></li>
+    <li><a href="find-my-reps.html">Find My Reps</a></li>
+    <li><a href="petition.html">Petition</a></li>
+    <li><a href="fredericksburg.html" class="active">Fredericksburg</a></li>
+    <li><a href="stats.html">Stats</a></li>
+    <li><a href="changelog.html">Changelog</a></li>
+    <li><a href="https://usmcmin.org" target="_blank">Ministry Site</a></li>
+  </ul>
+  <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme" title="Switch light/dark mode">🌙</button>
+  <button class="nav-toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+</nav>
+
+<div class="fxbg-container">
+  <div class="fxbg-hero">
+    <span class="fxbg-hero-badge">Local Watchman Page</span>
+    <h1>Know Your <span class="gold">Fredericksburg</span> Council</h1>
+    <p>
+      The decisions that affect your family most — schools, taxes, zoning, public safety,
+      what is taught in the library — happen <em>two miles from your house</em>, not in
+      Richmond and not in Washington. This page exists so a working parent in
+      Fredericksburg can spend ten minutes a month and know exactly what their elected
+      neighbors are deciding on their behalf.
+    </p>
+  </div>
+
+  <!-- LIVE: NEXT CITY COUNCIL MEETING (auto-updated 2x/day from the city AgendaCenter) -->
+  <section class="fxbg-section" aria-labelledby="next-meeting-heading" id="next-meeting"
+           style="border:1px solid rgba(212,175,55,0.4);border-left:4px solid #D4AF37;border-radius:8px;padding:18px 20px;background:rgba(212,175,55,0.05);">
+    <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+      <h2 id="next-meeting-heading" style="margin:0;">📅 Next City Council Meeting</h2>
+      <span id="nm-updated" style="font-size:0.7rem;color:var(--gray,#8a93a0);"></span>
+    </div>
+    <div id="nm-body" aria-live="polite" style="margin-top:10px;">
+      <p class="lead" style="color:var(--gray,#8a93a0);">Loading the latest agenda from the city…</p>
+    </div>
+    <noscript><p class="lead">Enable JavaScript to see the live council agenda, or view it
+      directly at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p></noscript>
+  </section>
+
+  <!-- QUICK CIVIC FACTS -->
+  <section class="fxbg-section" aria-labelledby="facts-heading">
+    <h2 id="facts-heading">Quick civic facts</h2>
+    <p class="lead">
+      Everything below is sourced from the city's own
+      <a href="https://www.fredericksburgva.gov/" target="_blank" rel="noopener">official site</a>
+      and verified on 2026-04-24.
+    </p>
+    <div class="fxbg-facts">
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">City Hall</div>
+        <div class="fxbg-fact-value">715 Princess Anne Street<br>Fredericksburg, VA 22401</div>
+      </div>
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">Council meetings</div>
+        <div class="fxbg-fact-value">2nd &amp; 4th Tuesdays · 7:30 PM<br>Council Chambers, City Hall</div>
+      </div>
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">Watch live</div>
+        <div class="fxbg-fact-value">
+          <a href="https://www.regionalwebtv.com/fredcc" target="_blank" rel="noopener">Regional WebTV — Fredericksburg City Council</a>
+        </div>
+      </div>
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">Agendas &amp; minutes</div>
+        <div class="fxbg-fact-value">
+          <a href="https://www.fredericksburgva.gov/agendacenter" target="_blank" rel="noopener">Agenda Center</a>
+        </div>
+      </div>
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">Council roster</div>
+        <div class="fxbg-fact-value">
+          <a href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">fredericksburgva.gov/263/Council-Members</a>
+        </div>
+      </div>
+      <div class="fxbg-fact">
+        <div class="fxbg-fact-label">Form of government</div>
+        <div class="fxbg-fact-value">Council–Manager (since 1911)<br>7 elected members + appointed City Manager</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CURRENT COUNCIL ROSTER -->
+  <section class="fxbg-section" aria-labelledby="council-heading">
+    <h2 id="council-heading">Your current council (verified 2026-04-24)</h2>
+    <p class="lead">
+      All seven seats below are presently filled. Click any name to open that
+      official's full RESOLUTE Citizen scorecard profile. Click "Email" to send
+      directly via the address listed on the city's official Council Members page.
+      Wards 1 &amp; 2 turned over in the 2025 cycle (Matt Rowe replaced Jason
+      Graham, Joy Crump replaced Jonathan Gerlach); their RESOLUTE scoring pass
+      hasn't run yet — their profiles carry the "Awaiting review" banner until
+      we have voting evidence.
+    </p>
+    <div class="fxbg-council-grid">
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Mayor · At-Large</div>
+        <div class="fxbg-council-name">Kerry P. Devine</div>
+        <div class="fxbg-council-meta">Term ends 2027 · Independent</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/kerry-devine.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Vice Mayor · Ward 4</div>
+        <div class="fxbg-council-name">Charlie L. Frye, Jr.</div>
+        <div class="fxbg-council-meta">Term ends 2029 · Independent</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/charlie-frye-jr.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Council · Ward 1</div>
+        <div class="fxbg-council-name">Matt D. Rowe</div>
+        <div class="fxbg-council-meta">Term ends 2029 · Awaiting RESOLUTE review</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/matt-rowe-fxbg.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Council · Ward 2</div>
+        <div class="fxbg-council-name">Joy Y. Crump</div>
+        <div class="fxbg-council-meta">Term ends 2029 · Awaiting RESOLUTE review</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/joy-crump-fxbg.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Council · Ward 3</div>
+        <div class="fxbg-council-name">Susanna R. Finn</div>
+        <div class="fxbg-council-meta">Term ends 2029 · Independent</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/susanna-finn.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Council · At-Large</div>
+        <div class="fxbg-council-name">Jannan W. Holmes</div>
+        <div class="fxbg-council-meta">Term ends 2027 · Independent</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/jannan-holmes.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+      <div class="fxbg-council-card">
+        <div class="fxbg-council-role">Council · At-Large</div>
+        <div class="fxbg-council-name">Will B. Mackintosh</div>
+        <div class="fxbg-council-meta">Term ends 2027 · Independent</div>
+        <div class="fxbg-council-actions">
+          <a class="fxbg-btn primary" href="candidates/va/will-mackintosh.html">Profile</a>
+          <a class="fxbg-btn" href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Email</a>
+        </div>
+      </div>
+    </div>
+    <p class="lead" style="margin-top:14px;font-size:0.78rem;">
+      Source: <a href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">City of Fredericksburg — Council Members</a> ·
+      Roster cross-checked against
+      <a href="https://en.wikipedia.org/wiki/Fredericksburg,_Virginia" target="_blank" rel="noopener">Wikipedia: Fredericksburg, Virginia</a>.
+    </p>
+  </section>
+
+  <!-- HOW TO PARTICIPATE -->
+  <section class="fxbg-section" aria-labelledby="participate-heading">
+    <h2 id="participate-heading">How to participate (10 minutes a month)</h2>
+    <p class="lead">
+      Showing up is the lowest-cost way to influence local outcomes.
+      Most council motions pass with under five public-comment speakers in the
+      room. Pick one of the three modes below.
+    </p>
+    <div class="fxbg-3col">
+      <div class="fxbg-step">
+        <h3><span class="fxbg-step-num">1</span> Watch</h3>
+        <p>
+          Council meets the 2nd &amp; 4th Tuesdays at 7:30 PM. Live and archived
+          video lives on
+          <a href="https://www.regionalwebtv.com/fredcc" target="_blank" rel="noopener">Regional WebTV</a>.
+          Read the upcoming agenda 2–3 days before via the
+          <a href="https://www.fredericksburgva.gov/agendacenter" target="_blank" rel="noopener">Agenda Center</a>.
+        </p>
+      </div>
+      <div class="fxbg-step">
+        <h3><span class="fxbg-step-num">2</span> Comment</h3>
+        <p>
+          Public-comment slots open at the start of each regular session. To
+          speak in person, sign up at the door before 7:30. To submit a written
+          comment without attending, email the Clerk via the
+          <a href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener">Council Members page</a>
+          or call City Hall at <a href="tel:+15403725010">(540) 372-1010</a>.
+          Comments tied to a specific agenda item carry more weight than
+          unrelated ones.
+        </p>
+      </div>
+      <div class="fxbg-step">
+        <h3><span class="fxbg-step-num">3</span> Reach</h3>
+        <p>
+          Send a one-page letter using our
+          <a href="petition.html?state=VA">draft-a-petition tool</a> (state-level
+          templates also work for the council, since their portfolio overlaps
+          with state policy). Personalize the letter, copy each council member,
+          and bcc your state delegate so the message lands at every level.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ACTIVE ISSUES -->
+  <section class="fxbg-section" aria-labelledby="issues-heading">
+    <h2 id="issues-heading">Active issues this cycle (researched 2026-04-24)</h2>
+    <p class="lead">
+      The items below are surfaced from primary local-news coverage and the
+      city's published agendas. Sources cited per item; click through to read
+      directly. If you see something missing, the
+      <a href="petition.html">petition tool</a> + the
+      <a href="changelog.html">scorecard changelog</a> let you push us to update.
+    </p>
+    <ul class="fxbg-issues">
+      <li class="fxbg-issue">
+        <h3>FY 2027 budget — first reading April 28, 2026</h3>
+        <p class="summary">
+          The City Council holds the first reading of the FY 2027 operating
+          budget at its April 28 meeting. Property-tax-rate decisions, police
+          and fire staffing, and school-division allocations are part of the
+          conversation — including pressure on special-education funding flagged
+          by parent advocates this spring.
+        </p>
+        <div class="src">
+          Source:
+          <a href="https://www.fredericksburgva.gov/agendacenter" target="_blank" rel="noopener">Fredericksburg Agenda Center</a>
+          ·
+          <a href="https://www.fredericksburgfreepress.com/" target="_blank" rel="noopener">Fredericksburg Free Press — school-funding coverage</a>
+        </div>
+      </li>
+      <li class="fxbg-issue">
+        <h3>School-division special-education funding</h3>
+        <p class="summary">
+          Local parent advocates have been pressing both the council and the
+          school board to increase line-item funding for special-education
+          services, citing service-delivery gaps documented by city-school
+          internal reports.
+        </p>
+        <div class="src">
+          Source:
+          <a href="https://www.fredericksburgfreepress.com/" target="_blank" rel="noopener">Fredericksburg Free Press</a>
+          ·
+          <a href="https://en.wikipedia.org/wiki/Fredericksburg,_Virginia" target="_blank" rel="noopener">Wikipedia — Fredericksburg, Virginia</a>
+        </div>
+      </li>
+      <li class="fxbg-issue">
+        <h3>Downtown / Princess Anne corridor zoning &amp; development</h3>
+        <p class="summary">
+          Ongoing discussions at the planning commission and council about
+          mixed-use density along Princess Anne and the historic-district
+          envelope. Watch the Planning Commission meetings (3rd Wednesday)
+          to see what's coming up to council.
+        </p>
+        <div class="src">
+          Source:
+          <a href="https://www.fredericksburgva.gov/agendacenter" target="_blank" rel="noopener">Agenda Center — Planning Commission</a>
+        </div>
+      </li>
+      <li class="fxbg-issue">
+        <h3>Regional cooperation: Stafford / King George tax decisions</h3>
+        <p class="summary">
+          Stafford County is re-evaluating real-estate tax options and King
+          George County voted to raise its meals tax from 4% to 6%. Even
+          though Fredericksburg is its own jurisdiction, regional pricing
+          decisions ripple into the city's budget assumptions and into how
+          residents experience the area as a whole.
+        </p>
+        <div class="src">
+          Source:
+          <a href="https://www.fredericksburgfreepress.com/" target="_blank" rel="noopener">Fredericksburg Free Press</a>
+        </div>
+      </li>
+      <li class="fxbg-issue">
+        <h3>Government-transparency &amp; agenda-publication cadence</h3>
+        <p class="summary">
+          Several local watchdog groups have raised the question of how soon
+          before a meeting the agenda packet must be published, and whether
+          public-comment limits at council disadvantage residents with full-time
+          jobs. This is a process issue but it shapes every other issue on
+          this list.
+        </p>
+        <div class="src">
+          Source:
+          <a href="https://fxbgadvance.com/" target="_blank" rel="noopener">FXBG Advance</a>
+          ·
+          <a href="https://www.fredericksburgva.gov/agendacenter" target="_blank" rel="noopener">Agenda Center</a>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <!-- LOCAL JOURNALISM -->
+  <section class="fxbg-section" aria-labelledby="news-heading">
+    <h2 id="news-heading">Where to read local journalism</h2>
+    <p class="lead">
+      Council coverage gets thinner every year as legacy outlets shrink. These
+      three independent publications are doing the bulk of substantive
+      government reporting in Fredericksburg right now:
+    </p>
+    <div class="fxbg-3col">
+      <div class="fxbg-step">
+        <h3>Fredericksburg Free Press</h3>
+        <p>
+          Independent local news with steady council + school-board coverage.
+          <a href="https://www.fredericksburgfreepress.com/" target="_blank" rel="noopener">fredericksburgfreepress.com</a>
+        </p>
+      </div>
+      <div class="fxbg-step">
+        <h3>FXBG Advance</h3>
+        <p>
+          Substack-style local newsletter covering city government and regional
+          policy.
+          <a href="https://fxbgadvance.com/" target="_blank" rel="noopener">fxbgadvance.com</a>
+        </p>
+      </div>
+      <div class="fxbg-step">
+        <h3>Cardinal News</h3>
+        <p>
+          Statewide nonprofit newsroom with frequent Fredericksburg-region
+          stories.
+          <a href="https://cardinalnews.org/" target="_blank" rel="noopener">cardinalnews.org</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCRIPTURE -->
+  <div class="fxbg-scripture">
+    <blockquote>
+      "Son of man, I have made thee a watchman unto the house of Israel:
+      therefore hear the word at my mouth, and give them warning from me."
+    </blockquote>
+    <cite>Ezekiel 3:17 (KJV)</cite>
+  </div>
+
+  <p style="text-align:center;color:var(--gray);font-size:0.78rem;line-height:1.7;">
+    This page is updated as council composition or major active issues
+    change. Every fact is sourced; corrections via the
+    <a href="petition.html" style="color:var(--accent);">feedback path</a>
+    are encouraged. Compiled by U.S.M.C. Ministries · RESOLUTE Citizen.
+  </p>
+</div>
+
+<footer>
+  <p><strong>Fredericksburg Council Watch</strong> — a RESOLUTE Citizen tool by <a href="https://usmcmin.org">U.S.M.C. Ministries</a></p>
+  <p style="margin-top:6px;font-size:0.72rem;">
+    <a href="https://usmcmin.com/citizen.html">Scorecard</a> ·
+    <a href="find-my-reps.html">Find My Reps</a> ·
+    <a href="petition.html">Petition</a> ·
+    <a href="changelog.html">Changelog</a> ·
+    <a href="https://usmcmin.org/bible.html?ref=Proverbs+29:2">Proverbs 29:2</a>
+  </p>
+</footer>
+
+<script>
+(function(){
+  var btn = document.getElementById('themeToggle');
+  if (!btn) return;
+  var saved = localStorage.getItem('theme');
+  if (saved === 'light') document.documentElement.setAttribute('data-theme','light');
+  btn.addEventListener('click', function(){
+    var cur = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+    if (cur === 'light') document.documentElement.setAttribute('data-theme','light');
+    else document.documentElement.removeAttribute('data-theme');
+    localStorage.setItem('theme', cur);
+  });
+  var navToggle = document.querySelector('.nav-toggle');
+  var navLinks = document.querySelector('.nav-links');
+  if (navToggle && navLinks) navToggle.addEventListener('click', function(){ navLinks.classList.toggle('open'); });
+})();
+</script>
+
+<!-- Phase 1: live next-meeting renderer (Phase 2 will add citizen briefs) -->
+<script>
+(function(){
+  var esc = function(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');};
+  function fmtDate(iso){
+    if(!iso) return '';
+    var p=iso.split('-'); if(p.length!==3) return iso;
+    var d=new Date(+p[0],+p[1]-1,+p[2]);
+    return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  }
+  fetch('../data/fredericksburg.json',{cache:'no-cache'})
+    .then(function(r){return r.json();})
+    .then(function(d){
+      var nm=d.next_meeting||{};
+      var up=document.getElementById('nm-updated');
+      if(up&&d.updated_local) up.textContent='Auto-updated '+d.updated_local+' · source: city AgendaCenter';
+      var b=document.getElementById('nm-body'); if(!b) return;
+      var briefs=d.briefs||{};
+      var html='';
+      html+='<div style="font-size:1.15rem;font-weight:700;color:var(--white,#fff);">'+esc(nm.title||'City Council Session')+'</div>';
+      var when=fmtDate(nm.date)+(nm.time?(' · '+esc(nm.time)):'');
+      html+='<div style="margin:4px 0 2px;font-weight:600;">'+esc(when)+'</div>';
+      if(nm.location) html+='<div style="font-size:0.85rem;color:var(--gray,#8a93a0);">'+esc(nm.location)+'</div>';
+      if(nm.items&&nm.items.length){
+        html+='<div style="margin-top:12px;font-weight:600;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.8px;color:#D4AF37;">On the agenda</div><ul style="margin:6px 0 0;padding-left:20px;line-height:1.6;">';
+        nm.items.forEach(function(it){html+='<li>'+esc(it)+'</li>';});
+        html+='</ul>';
+      }
+      // Phase 2 hook: render a citizen brief if one exists for this meeting
+      var brief=briefs[nm.agenda_id]||briefs[nm.date];
+      if(brief){
+        html+='<div style="margin-top:14px;padding:12px 14px;background:rgba(255,255,255,0.04);border-radius:6px;">';
+        if(brief.why) html+='<p style="margin:0 0 6px;"><strong>Why it matters:</strong> '+esc(brief.why)+'</p>';
+        if(brief.how) html+='<p style="margin:0;"><strong>How to weigh in:</strong> '+esc(brief.how)+'</p>';
+        html+='</div>';
+      }
+      html+='<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;">';
+      if(nm.agenda_url) html+='<a href="'+esc(nm.agenda_url)+'" style="background:linear-gradient(90deg,#c9a84c,#D4AF37);color:#000;font-weight:700;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;">View full agenda →</a>';
+      html+='<a href="#participate-heading" style="border:1px solid rgba(212,175,55,0.5);color:#D4AF37;font-weight:600;padding:8px 16px;border-radius:6px;text-decoration:none;font-size:0.85rem;">How to weigh in →</a>';
+      html+='</div>';
+      b.innerHTML=html;
+
+      // Refresh the live council roster into the existing council list if present
+      if(d.council&&d.council.length){
+        var roster=document.getElementById('live-council-roster');
+        if(roster){
+          roster.innerHTML=d.council.map(function(m){
+            return '<li><strong>'+esc(m.name)+'</strong> — '+esc(m.role)+'</li>';
+          }).join('');
+        }
+      }
+    })
+    .catch(function(e){
+      var b=document.getElementById('nm-body');
+      if(b) b.innerHTML='<p class="lead">Couldn\'t load the live agenda right now. View it at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p>';
+    });
+})();
+</script>
+
+</body>
+</html>
