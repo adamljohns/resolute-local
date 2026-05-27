@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-05-27T10:00:01Z",
-  "updated_local": "2026-05-27 06:00 EDT",
+  "updated": "2026-05-27T22:00:03Z",
+  "updated_local": "2026-05-27 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -282,6 +282,60 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2167?html=true",
       "date": "2026-05-27",
       "agenda_id": "2167",
+      "vimeo_id": "1195787791",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 3794,
+      "video_lobby_only": true
+    },
+    {
+      "format": "html",
+      "session_type": "Work Session",
+      "body": "City Council",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Topics",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 05/27/2026 JOINT WORK SESSION AGENDA MAY 27, 2026 5:30 P.M. PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc . 1. Call to Order 1.A. Topics The City Council, Economic Development Authority, and Planning Commission will hold a Joint Work Session to discuss the following: The Phase III- Commercial Corridor Revitalization Study (Shopping Center Study) - Scenario Feasibility and Economic Impacts Members of the public are invited to attend this meeting. 2. Adjournment PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc .",
+      "lines": [
+        "Agenda - 05/27/2026",
+        "JOINT WORK SESSION",
+        "AGENDA",
+        "MAY 27, 2026",
+        "5:30 P.M.",
+        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
+        "www.regionalwebtv.com/fredpc",
+        ".",
+        "1.",
+        "Call to Order",
+        "1.A.",
+        "Topics",
+        "The City Council, Economic Development Authority, and Planning Commission will hold a Joint Work Session to discuss the following:",
+        "The Phase III- Commercial Corridor Revitalization Study (Shopping Center Study) - Scenario Feasibility and Economic Impacts",
+        "Members of the public are invited to attend this meeting.",
+        "2.",
+        "Adjournment",
+        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
+        "www.regionalwebtv.com/fredpc",
+        "."
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2170?html=true",
+      "date": "2026-05-27",
+      "agenda_id": "2170",
       "vimeo_id": "1195787791",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [],
@@ -1184,182 +1238,6 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2160?html=true",
       "date": "2026-05-12",
       "agenda_id": "2160",
-      "vimeo_id": "1187534433",
-      "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [
-        {
-          "section_title": "Call to Order",
-          "start_sec": 709,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=709s",
-          "summary": "The meeting begins with a discussion on the 2027 budget, and the Deputy City Manager is called to the floor."
-        },
-        {
-          "section_title": "Invocation",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No invocation is recorded in this transcript segment."
-        },
-        {
-          "section_title": "Pledge of Allegiance",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No pledge is recorded in this transcript segment."
-        },
-        {
-          "section_title": "Presentations",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No formal presentation is recorded in this transcript segment."
-        },
-        {
-          "section_title": "Consent Agenda",
-          "start_sec": 763,
-          "end_sec": 817,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=763s",
-          "summary": "Staff lists items on the consent agenda, including older and sooner availability fees, EMT fees, and the main budget."
-        },
-        {
-          "section_title": "Public Hearing",
-          "start_sec": 817,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=817s",
-          "summary": "The council discusses the 2027 budget, specifically focusing on water and sewer rate structures, tiered pricing impacts on single-family homes versus apartment complexes, and the use of school fund balances."
-        },
-        {
-          "section_title": "Comments from the Public",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No public comments are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Council Agenda",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No council agenda items are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Minutes",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No minutes are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Boards and Commission Appointments",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No appointments are recorded in this transcript segment."
-        },
-        {
-          "section_title": "City Manager Agenda",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No city manager agenda items are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Adjournment",
-          "start_sec": 3127,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3127s",
-          "summary": "The council announces a break and plans to meet downstairs at 7:30 p.m."
-        }
-      ],
-      "video_duration_sec": 3159,
-      "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "location": "City Hall Large Conference Room 6:00 p",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Tuesday, May 12, 2026",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "City Hall Large Conference Room",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "6:00 p.m.",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Topics",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "FY 2027 Budget Discussions",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 05/12/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council Work Session 715 Princess Anne Street, Second Floor Conference Room Fredericksburg, Virginia 22401 Tuesday, May 12, 2026 City Hall Large Conference Room 6:00 p.m. 1. Call to Order 2. Topics A. FY 2027 Budget Discussions 3. Adjournment",
-      "lines": [
-        "Agenda - 05/12/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "Work Session",
-        "715 Princess Anne Street, Second Floor Conference Room",
-        "Fredericksburg, Virginia \u00a022401",
-        "Tuesday, May 12, 2026",
-        "City Hall Large Conference Room",
-        "6:00 p.m.",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Topics",
-        "A.",
-        "FY 2027 Budget Discussions",
-        "3.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2161?html=true",
-      "date": "2026-05-12",
-      "agenda_id": "2161",
       "vimeo_id": "1187534433",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
