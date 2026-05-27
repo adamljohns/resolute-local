@@ -312,6 +312,20 @@
       directly at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p></noscript>
   </section>
 
+  <!-- LIVE: RECENT CITY COUNCIL MEETINGS (auto-updated from structured agenda parser, 2026-05-26) -->
+  <section class="fxbg-section" aria-labelledby="recent-meetings-heading" id="recent-meetings"
+           style="border-left:4px solid rgba(212,175,55,0.5);padding:18px 20px;background:rgba(212,175,55,0.03);">
+    <h2 id="recent-meetings-heading">🗂️ Recent City Council Meetings</h2>
+    <p class="lead" style="color:var(--gray,#8a93a0);font-size:0.9rem;">
+      Past sessions with the agenda items as they appeared. Official minutes typically post ~2 weeks after each meeting; video replays land on <a href="https://www.regionalwebtv.com/fredcc" target="_blank" rel="noopener" style="color:#D4AF37;">Regional WebTV</a> 24–48 hours after gavel-down.
+    </p>
+    <div id="rm-list" aria-live="polite" style="margin-top:12px;">
+      <p class="lead" style="color:var(--gray,#8a93a0);">Loading…</p>
+    </div>
+    <noscript><p class="lead">Enable JavaScript to see recent council activity, or browse it
+      at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p></noscript>
+  </section>
+
   <!-- QUICK CIVIC FACTS -->
   <section class="fxbg-section" aria-labelledby="facts-heading">
     <h2 id="facts-heading">Quick civic facts</h2>
@@ -708,6 +722,53 @@
         if(roster){
           roster.innerHTML=d.council.map(function(m){
             return '<li><strong>'+esc(m.name)+'</strong> — '+esc(m.role)+'</li>';
+          }).join('');
+        }
+      }
+
+      // Recent City Council meetings (added 2026-05-26 — uses new structured
+      // `sections` field from fxbg_agenda_parser.py).
+      var rm=document.getElementById('rm-list');
+      if(rm&&d.meetings){
+        var today=new Date().toISOString().slice(0,10);
+        var recent=d.meetings
+          .filter(function(m){return (m.body||'').toLowerCase()==='city council' && m.date<=today && (m.sections||[]).length;})
+          .sort(function(a,b){return (a.date<b.date)?1:(a.date>b.date)?-1:0;})
+          .slice(0,4);
+        if(!recent.length){
+          rm.innerHTML='<p class="lead" style="color:var(--gray,#8a93a0);">No recent Council sessions indexed yet. Check back after the next 2nd-or-4th-Tuesday meeting.</p>';
+        } else {
+          rm.innerHTML=recent.map(function(m){
+            var secs=(m.sections||[]).filter(function(s){return s.title;});
+            var secsHtml='';
+            if(secs.length){
+              secsHtml='<ul style="margin:8px 0 0;padding-left:20px;line-height:1.55;font-size:0.9rem;">';
+              secs.forEach(function(s){
+                var sub='';
+                if(s.subitems&&s.subitems.length){
+                  sub='<ul style="margin:3px 0 0;padding-left:18px;font-size:0.85rem;color:var(--gray,#a8b0bc);">';
+                  s.subitems.forEach(function(si){
+                    sub+='<li>'+esc(si.title||'')+'</li>';
+                  });
+                  sub+='</ul>';
+                }
+                secsHtml+='<li>'+esc(s.title)+sub+'</li>';
+              });
+              secsHtml+='</ul>';
+            } else {
+              secsHtml='<p style="font-size:0.85rem;color:var(--gray,#8a93a0);font-style:italic;margin:6px 0 0;">Agenda available at source link below — not yet parsed into items.</p>';
+            }
+            var when=fmtDate(m.date)+(m.time?' · '+esc(m.time):'');
+            var card='<div style="border:1px solid rgba(168,176,188,0.2);border-radius:8px;padding:14px 16px;margin-bottom:12px;background:rgba(255,255,255,0.02);">';
+            card+='<div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;">';
+            card+='<div style="font-weight:700;color:var(--white,#fff);font-size:1rem;">'+esc(m.session_type||'Session')+'</div>';
+            card+='<div style="font-size:0.78rem;color:#D4AF37;">'+esc(when)+'</div>';
+            card+='</div>';
+            if(m.location) card+='<div style="font-size:0.78rem;color:var(--gray,#8a93a0);margin-top:2px;">'+esc(m.location)+'</div>';
+            card+=secsHtml;
+            if(m.url) card+='<div style="margin-top:10px;"><a href="'+esc(m.url)+'" target="_blank" rel="noopener" style="font-size:0.82rem;color:#D4AF37;">View full agenda ↗</a></div>';
+            card+='</div>';
+            return card;
           }).join('');
         }
       }
