@@ -247,7 +247,12 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2165?html=true",
       "date": "2026-05-27",
-      "agenda_id": "2165"
+      "agenda_id": "2165",
+      "vimeo_id": "1195787791",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 3794,
+      "video_lobby_only": true
     },
     {
       "format": "pdf",
@@ -276,7 +281,12 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2167?html=true",
       "date": "2026-05-27",
-      "agenda_id": "2167"
+      "agenda_id": "2167",
+      "vimeo_id": "1195787791",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 3794,
+      "video_lobby_only": true
     },
     {
       "format": "html",
@@ -518,7 +528,12 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05272026-2164?html=true",
       "date": "2026-05-27",
-      "agenda_id": "2164"
+      "agenda_id": "2164",
+      "vimeo_id": "1195787791",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 3794,
+      "video_lobby_only": true
     },
     {
       "format": "html",

@@ -1001,6 +1001,10 @@
               if(m.video_duration_sec){
                 videoHtml+='<span style="font-size:0.76rem;color:var(--gray,#8a93a0);">'+fmtSec(m.video_duration_sec)+'</span>';
               }
+              if(m.video_lobby_only){
+                videoHtml+='<span style="font-size:0.72rem;color:var(--gray,#8a93a0);font-style:italic;">'
+                  +'(recording contains pre-meeting broadcast — meeting may not have been streamed)</span>';
+              }
               videoHtml+='</div>';
             }
 

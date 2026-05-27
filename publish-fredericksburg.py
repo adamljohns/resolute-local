@@ -289,6 +289,7 @@ def main():
                 m['vimeo_event_url'] = rec.get('vimeo_event_url', 'https://vimeo.com/event/898581')
                 m['video_clips'] = rec.get('clips', [])
                 m['video_duration_sec'] = rec.get('duration_sec', 0)
+                m['video_lobby_only'] = rec.get('is_lobby_only', False)
                 video_count += 1
         except (json.JSONDecodeError, ValueError, KeyError) as e:
             print(f'WARN: failed to merge video clip data: {e}')
