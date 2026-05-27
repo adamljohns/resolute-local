@@ -326,6 +326,28 @@
       at the <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p></noscript>
   </section>
 
+  <!-- LIVE: COUNCIL VOTING RECORD (auto-aggregated from parsed minutes, 2026-05-27) -->
+  <section class="fxbg-section" aria-labelledby="voting-record-heading" id="voting-record"
+           style="border-left:4px solid rgba(102,187,106,0.5);padding:18px 20px;background:rgba(102,187,106,0.03);">
+    <h2 id="voting-record-heading">📊 Council Voting Record</h2>
+    <p class="lead" style="color:var(--gray,#8a93a0);font-size:0.9rem;">
+      Each member's votes across every meeting where official minutes have been parsed.
+      Most council votes pass unanimously — the interesting data is the rare split
+      decisions. We surface each member's dissent count + the specific motions they
+      voted against the majority on.
+    </p>
+    <div id="vr-summary" aria-live="polite" style="margin-top:10px;"></div>
+    <div id="vr-grid" aria-live="polite" style="margin-top:16px;"></div>
+    <div id="vr-splits" aria-live="polite" style="margin-top:18px;"></div>
+    <p style="margin-top:14px;font-size:0.78rem;color:var(--gray,#8a93a0);font-style:italic;">
+      Caveat: only counts meetings whose minutes have been officially posted by the
+      city (typically a 6-week lag after the meeting). Newer meetings get added
+      automatically as the city publishes their minutes — daily polling at 10 AM.
+    </p>
+    <noscript><p class="lead">Enable JavaScript to see voting records, or browse minutes directly at the
+      <a href="https://www.fredericksburgva.gov/AgendaCenter">city AgendaCenter</a>.</p></noscript>
+  </section>
+
   <!-- QUICK CIVIC FACTS -->
   <section class="fxbg-section" aria-labelledby="facts-heading">
     <h2 id="facts-heading">Quick civic facts</h2>
@@ -728,6 +750,126 @@
 
       // Recent City Council meetings (added 2026-05-26 — uses new structured
       // `sections` field from fxbg_agenda_parser.py).
+      // Council voting record aggregation (added 2026-05-27 — task #40).
+      // Walks d.meetings[*].resolutions_voted[*] and builds per-member tallies
+      // + a "most-split decisions" list. Pure client-side; no extra fetch.
+      (function renderVotingRecord(){
+        var vrSum=document.getElementById('vr-summary');
+        var vrGrid=document.getElementById('vr-grid');
+        var vrSplits=document.getElementById('vr-splits');
+        if(!vrSum||!vrGrid||!vrSplits) return;
+
+        // Collect votes
+        var votes=[];
+        (d.meetings||[]).forEach(function(m){
+          (m.resolutions_voted||[]).forEach(function(r){
+            votes.push({date:m.date, session:m.session_type, vote:r});
+          });
+        });
+        if(!votes.length){
+          vrSum.innerHTML='<p class="lead" style="color:var(--gray,#8a93a0);">No vote records yet — waiting on first minutes to be posted.</p>';
+          return;
+        }
+
+        // Per-member stats
+        var stats={};
+        function bump(who,key){
+          var s=stats[who]=stats[who]||{ayes:0,nays:0,abstain:0,participated:0,majority:0,minority:0,dissents:[]};
+          s[key]=(s[key]||0)+1;
+        }
+        votes.forEach(function(v){
+          var r=v.vote;
+          var majorityIsAyes=(r.ayes_count||0)>=(r.nays_count||0);
+          (r.ayes||[]).forEach(function(w){
+            bump(w,'ayes'); bump(w,'participated');
+            if(majorityIsAyes) bump(w,'majority');
+            else { bump(w,'minority'); stats[w].dissents.push({date:v.date, title:r.title, tally:r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'')}); }
+          });
+          (r.nays||[]).forEach(function(w){
+            bump(w,'nays'); bump(w,'participated');
+            if(!majorityIsAyes) bump(w,'majority');
+            else { bump(w,'minority'); stats[w].dissents.push({date:v.date, title:r.title, tally:r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'')}); }
+          });
+          (r.abstain||[]).forEach(function(w){
+            bump(w,'abstain'); bump(w,'participated');
+          });
+        });
+
+        // Roster info — pair surnames to full roster cards from d.council
+        var roleByLast={};
+        (d.council||[]).forEach(function(c){
+          var parts=(c.name||'').split(/\s+/);
+          var last=(parts[parts.length-1]||'').replace(/[.,]/g,'').replace(/Jr$/,'').trim();
+          if(last) roleByLast[last]={name:c.name, role:c.role||''};
+        });
+
+        // Summary line
+        var splitVotes=votes.filter(function(v){return (v.vote.nays_count||0)>0;});
+        var splitDates={}; splitVotes.forEach(function(v){splitDates[v.date]=1;});
+        vrSum.innerHTML='<p style="font-size:0.92rem;color:var(--gray,#a8b0bc);line-height:1.6;">'
+          +'<strong style="color:var(--white,#fff);">'+votes.length+'</strong> recorded vote'+(votes.length===1?'':'s')
+          +' across <strong style="color:var(--white,#fff);">'+Object.keys(splitDates).reduce(function(a){return a+1;},0)
+          +'</strong> meeting'+(Object.keys(splitDates).length===1?'':'s')+' since minutes-tracker came online. '
+          +'<strong style="color:'+(splitVotes.length?'#ffb84d':'#66bb6a')+';">'+splitVotes.length
+          +'</strong> split decision'+(splitVotes.length===1?'':'s')+'.</p>';
+
+        // Per-member grid
+        var sortedKeys=Object.keys(stats).sort(function(a,b){
+          // Sort: most dissents first, then alphabetical
+          var diff=(stats[b].minority||0)-(stats[a].minority||0);
+          return diff!==0?diff:a.localeCompare(b);
+        });
+        vrGrid.innerHTML='<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;">'
+          +sortedKeys.map(function(last){
+            var s=stats[last];
+            var roster=roleByLast[last]||{name:last,role:''};
+            var majPct=s.participated?Math.round(100*s.majority/s.participated):0;
+            var minClr=s.minority>0?'#ffb84d':'#66bb6a';
+            var minLine=s.minority>0
+              ?'<div style="color:'+minClr+';font-size:0.82rem;margin-top:6px;"><strong>'+s.minority+'</strong> minority vote'+(s.minority===1?'':'s')+'</div>'
+              :'<div style="color:#66bb6a;font-size:0.82rem;margin-top:6px;">Always voted with majority</div>';
+            var dissentLines='';
+            if(s.dissents.length){
+              dissentLines='<div style="margin-top:6px;font-size:0.78rem;color:var(--gray,#a8b0bc);">';
+              s.dissents.slice(0,3).forEach(function(d_){
+                dissentLines+='<div style="margin-top:3px;"><span style="color:'+minClr+';">'+esc(d_.tally)+'</span> · '+esc(d_.date)+' — '+esc((d_.title||'(motion)').slice(0,55))+'</div>';
+              });
+              if(s.dissents.length>3) dissentLines+='<div style="margin-top:3px;font-style:italic;">+'+(s.dissents.length-3)+' more</div>';
+              dissentLines+='</div>';
+            }
+            return '<div style="border:1px solid rgba(168,176,188,0.2);border-radius:8px;padding:12px 14px;background:rgba(255,255,255,0.02);">'
+              +'<div style="font-weight:700;color:var(--white,#fff);font-size:0.95rem;">'+esc(roster.name)+'</div>'
+              +(roster.role?'<div style="font-size:0.74rem;color:#D4AF37;margin-top:1px;text-transform:uppercase;letter-spacing:0.6px;">'+esc(roster.role)+'</div>':'')
+              +'<div style="font-size:0.82rem;color:var(--gray,#a8b0bc);margin-top:8px;">Voted in <strong style="color:var(--white,#fff);">'+s.participated+'</strong> of '+votes.length+' (majority '+majPct+'%)</div>'
+              +minLine+dissentLines
+              +'</div>';
+          }).join('')
+          +'</div>';
+
+        // Most-split decisions list (across all meetings)
+        if(splitVotes.length){
+          var splitList=splitVotes.slice().sort(function(a,b){
+            // Closest votes first
+            var ma=Math.abs(a.vote.ayes_count-a.vote.nays_count);
+            var mb=Math.abs(b.vote.ayes_count-b.vote.nays_count);
+            return ma-mb;
+          }).slice(0,8);
+          vrSplits.innerHTML='<div style="margin-top:14px;padding:12px 14px;background:rgba(255,184,77,0.06);border-left:3px solid #ffb84d;border-radius:0 4px 4px 0;">'
+            +'<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#ffb84d;">⚠️ Split decisions — where members differed</div>'
+            +'<ul style="margin:8px 0 0;padding-left:18px;line-height:1.55;font-size:0.85rem;">'
+            +splitList.map(function(v){
+              var r=v.vote;
+              var nays=(r.nays||[]).join(', ');
+              return '<li><strong style="color:#ffb84d;">'+r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'')
+                +'</strong> · <span style="color:var(--gray,#8a93a0);font-size:0.78rem;">'+esc(v.date)+'</span><br>'
+                +esc((r.title||'(motion)').slice(0,130))
+                +(nays?'<br><span style="font-size:0.78rem;color:var(--gray,#a8b0bc);">Against: '+esc(nays)+'</span>':'')
+                +'</li>';
+            }).join('')
+            +'</ul></div>';
+        }
+      })();
+
       var rm=document.getElementById('rm-list');
       if(rm&&d.meetings){
         var today=new Date().toISOString().slice(0,10);
