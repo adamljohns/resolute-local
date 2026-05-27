@@ -1167,6 +1167,1162 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2161?html=true",
       "date": "2026-05-12",
       "agenda_id": "2161"
+    },
+    {
+      "date": "2026-02-24",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_02242026-2124",
+      "minutes_pages": 8,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-02-24",
+      "body": "City Council",
+      "session_type": "Public Hearing",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_02242026-2125",
+      "minutes_pages": 12,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "(motion)",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the following minutes as submitted: Regular Session \u2013 February 10, 2026; Public Hearing \u2013 February 10, 2026; Work Session \u2013 February 10, 2026",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": "Finn",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to return to open session",
+          "motion_by": "Finn",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-11 certifying the closed meeting",
+          "motion_by": "Finn",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-02-10",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_02102026-2119",
+      "minutes_pages": 7,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-02-10",
+      "body": "City Council",
+      "session_type": "Public Hearing",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_02102026-2120",
+      "minutes_pages": 14,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "(motion)",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the following minutes as submitted: Special Session \u2013 January 5, 2026; Regular Session \u2013 January 13, 2026; Public Hearing \u2013 January 13, 2026; Work Session \u2013 December 9, 2025, and January 13, 2026",
+          "motion_by": "Holmes",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Luther Forbes to the Bicycle and Pedestrian Advisory Committee",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Stuart Penninger to the Planning Commission",
+          "motion_by": null,
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 4,
+          "ayes": [
+            "Devine",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 3,
+          "nays": [
+            "Frye",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Eric Stafford to the Recreation Commission",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Sgt",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint A",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-01-13",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_01132026-2108",
+      "minutes_pages": 4,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-01-13",
+      "body": "City Council",
+      "session_type": "Public Hearing",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_01132026-2109",
+      "minutes_pages": 16,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Resolution 26-01, on second read, Fiscal Year 2026 Budget Amendment Authorizing the Release of the Appropriation Holdback in the amount of $6,000,000",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Holmes",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the following minutes as submitted: Regular Session \u2013 December 09, 2025; Public Hearing \u2013 December 09, 2025; Work Session \u2013 October 28, 2025, and November 18, 2025",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Finn to the BSS",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Mayor Devine to the CRRL Board of Trustees",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Holmes to the CPMT for Youth and Family Services",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Deputy City Manager Mark Whitely as alternate on the CPMT for Youth and Family Services",
+          "motion_by": "Finn",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Rowe to the FAM Board",
+          "motion_by": "Holmes",
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilors Holmes and Rowe to the Arts Commission",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Mackintosh to the Clean and Green Commission",
+          "motion_by": "Frye",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Mayor Devine to the Fredericksburg Regional Alliance with Councilor Mackintosh as alternate",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilors Holmes and Finn to the GWRC with Councilor 22750 Regular Session 01/13/26 Crump as alternate",
+          "motion_by": "Frye",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilors Mackintosh, Holmes, and Finn to the FAMPO Policy Committee with Councilor Rowe as alternate",
+          "motion_by": "Crump",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Crump to the HGAAA Board of Directors",
+          "motion_by": "Crump",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Vice-Mayor Frye and Councilor Crump to the Housing Advisory Committee",
+          "motion_by": "Holmes",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Crump to the Main Street Board",
+          "motion_by": "Finn",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Vice- Mayor Frye and Councilor Rowe to the Parking Advisory Committee",
+          "motion_by": "Rowe",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Holmes to the PRTC with Councilor Mackintosh as alternate",
+          "motion_by": "Crump",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Deputy City Manager Mark Whitley to the Rappahannock Juvenile Detention Commission with Vice-Mayor Frye as alternate",
+          "motion_by": "Frye",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilors Holmes and Mackintosh to the R- Board",
+          "motion_by": "Frye",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Holmes to the Rappahannock River Basin Commission with Councilor Rowe as alternate",
+          "motion_by": "Frye",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Finn to the Recreation Commission",
+          "motion_by": "Crump",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Deputy City Manager Mark Whitley and Vice-Mayor Frye to the Rappahannock Area Youth Services & Group Home Commission",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilors Finn and Crump to the Town and Gown Committee",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Councilor Holmes to the Virginia Railway Express Operations Board with Councilor Mackintosh as alternate",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Vice- Mayor Frye and Councilor Mackintosh to the City/Schools Joint Leadership Group",
+          "motion_by": "Frye",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Mayor Devine as the Liaison to 300th Anniversary Blue Ribbon Steering Committee with Councilor Rowe as alternate",
+          "motion_by": "Finn",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-04, Appointing Jannan Holmes and Will Mackintosh to the Potomac and Rappahannock Transportation Commission (PRTC) and the Virginia Railway Express Operations Board",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-04, Appointing Jannan Holmes and Will Mackintosh to the Potomac and Rappahannock Transportation Commission (PRTC) and the Virginia Railway Express Operations Board",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Arya Nair to the Citizens Transportation Advisory Committee",
+          "motion_by": "Frye",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-05, on first read, Amending the Fiscal Year 22755 Regular Session 01/13/26 2026 Budget to Appropriate Funds in the City Grants & Special Programs Fund",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-01-05",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_01052026-2105",
+      "minutes_pages": 4,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Motion to nominate Councilor Frye for the position of Vice-Mayor",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Kelly Lackey as the City Attorney",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Molly Henderson as the Clerk of the City Council",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Brenda Martin as the Deputy Clerk of the City Council",
+          "motion_by": "Frye",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the Calendar Year 2026 Council Meeting Schedule",
+          "motion_by": "Frye",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
     }
   ],
   "briefs": {

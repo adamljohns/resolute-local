@@ -731,42 +731,83 @@
       var rm=document.getElementById('rm-list');
       if(rm&&d.meetings){
         var today=new Date().toISOString().slice(0,10);
+        // Show recent Council meetings: include any with structured agenda
+        // sections OR with minutes posted (vote outcomes). Up to 8 cards.
         var recent=d.meetings
-          .filter(function(m){return (m.body||'').toLowerCase()==='city council' && m.date<=today && (m.sections||[]).length;})
+          .filter(function(m){return (m.body||'').toLowerCase()==='city council' && m.date<=today && ((m.sections||[]).length || m.minutes_available);})
           .sort(function(a,b){return (a.date<b.date)?1:(a.date>b.date)?-1:0;})
-          .slice(0,4);
+          .slice(0,8);
         if(!recent.length){
           rm.innerHTML='<p class="lead" style="color:var(--gray,#8a93a0);">No recent Council sessions indexed yet. Check back after the next 2nd-or-4th-Tuesday meeting.</p>';
         } else {
           rm.innerHTML=recent.map(function(m){
+            // ── Agenda sections (from agenda scraper) ──
             var secs=(m.sections||[]).filter(function(s){return s.title;});
             var secsHtml='';
             if(secs.length){
-              secsHtml='<ul style="margin:8px 0 0;padding-left:20px;line-height:1.55;font-size:0.9rem;">';
+              secsHtml='<div style="margin-top:10px;font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#D4AF37;">On the agenda</div>';
+              secsHtml+='<ul style="margin:6px 0 0;padding-left:20px;line-height:1.55;font-size:0.88rem;">';
               secs.forEach(function(s){
                 var sub='';
                 if(s.subitems&&s.subitems.length){
-                  sub='<ul style="margin:3px 0 0;padding-left:18px;font-size:0.85rem;color:var(--gray,#a8b0bc);">';
-                  s.subitems.forEach(function(si){
-                    sub+='<li>'+esc(si.title||'')+'</li>';
-                  });
+                  sub='<ul style="margin:3px 0 0;padding-left:18px;font-size:0.83rem;color:var(--gray,#a8b0bc);">';
+                  s.subitems.forEach(function(si){sub+='<li>'+esc(si.title||'')+'</li>';});
                   sub+='</ul>';
                 }
                 secsHtml+='<li>'+esc(s.title)+sub+'</li>';
               });
               secsHtml+='</ul>';
-            } else {
-              secsHtml='<p style="font-size:0.85rem;color:var(--gray,#8a93a0);font-style:italic;margin:6px 0 0;">Agenda available at source link below — not yet parsed into items.</p>';
             }
+
+            // ── Vote outcomes (from minutes parser) ──
+            var votesHtml='';
+            if(m.minutes_available){
+              var rv=m.resolutions_voted||[];
+              var splits=rv.filter(function(r){return (r.nays_count||0)>0;});
+              var unan=rv.filter(function(r){return (r.nays_count||0)===0 && (r.abstain_count||0)===0;});
+              votesHtml='<div style="margin-top:14px;padding:10px 12px;background:rgba(76,175,80,0.06);border-left:3px solid #66bb6a;border-radius:0 4px 4px 0;">';
+              votesHtml+='<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#66bb6a;">✓ Official minutes posted'+(m.minutes_pages?' · '+m.minutes_pages+'pg':'')+'</div>';
+              if(m.council_present&&m.council_present.length){
+                var absText=(m.council_absent&&m.council_absent.length)?' · absent: '+m.council_absent.join(', '):' · no absences';
+                votesHtml+='<div style="font-size:0.78rem;color:var(--gray,#a8b0bc);margin-top:4px;">'+m.council_present.length+' present'+esc(absText)+'</div>';
+              }
+              if(rv.length){
+                votesHtml+='<div style="font-size:0.82rem;margin-top:6px;color:var(--gray,#a8b0bc);">'+rv.length+' recorded vote'+(rv.length===1?'':'s')+(splits.length?' · <strong style="color:#ffb84d;">'+splits.length+' split decision'+(splits.length===1?'':'s')+'</strong>':' · all unanimous')+'</div>';
+                // Show split votes prominently (or all if few enough)
+                var show=splits.length?splits.slice(0,3):rv.slice(0,3);
+                if(show.length){
+                  votesHtml+='<ul style="margin:6px 0 0;padding-left:18px;font-size:0.83rem;line-height:1.5;">';
+                  show.forEach(function(r){
+                    var tally=r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'');
+                    var clr=(r.nays_count>0)?'#ffb84d':'#66bb6a';
+                    var detail='';
+                    if(r.nays&&r.nays.length) detail=' <span style="color:#ffb84d;font-size:0.78rem;">(against: '+esc(r.nays.join(', '))+')</span>';
+                    votesHtml+='<li style="margin-bottom:3px;"><strong style="color:'+clr+';">'+tally+'</strong> — '+esc((r.title||'(motion)').slice(0,120))+detail+'</li>';
+                  });
+                  votesHtml+='</ul>';
+                  if(splits.length>3) votesHtml+='<div style="font-size:0.76rem;color:var(--gray,#8a93a0);margin-top:4px;">'+(splits.length-3)+' more split decision(s) in the minutes PDF below ↓</div>';
+                  else if(!splits.length && rv.length>3) votesHtml+='<div style="font-size:0.76rem;color:var(--gray,#8a93a0);margin-top:4px;">+ '+(rv.length-3)+' more unanimous vote(s) in the minutes PDF below ↓</div>';
+                }
+              }
+              votesHtml+='</div>';
+            }
+
+            // ── Card assembly ──
             var when=fmtDate(m.date)+(m.time?' · '+esc(m.time):'');
+            var injBadge=m.historical_injection?'<span style="margin-left:6px;font-size:0.65rem;background:rgba(168,176,188,0.18);color:var(--gray,#a8b0bc);padding:1px 6px;border-radius:3px;text-transform:uppercase;letter-spacing:0.4px;">archive</span>':'';
             var card='<div style="border:1px solid rgba(168,176,188,0.2);border-radius:8px;padding:14px 16px;margin-bottom:12px;background:rgba(255,255,255,0.02);">';
             card+='<div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;">';
-            card+='<div style="font-weight:700;color:var(--white,#fff);font-size:1rem;">'+esc(m.session_type||'Session')+'</div>';
+            card+='<div style="font-weight:700;color:var(--white,#fff);font-size:1rem;">'+esc(m.session_type||'Session')+injBadge+'</div>';
             card+='<div style="font-size:0.78rem;color:#D4AF37;">'+esc(when)+'</div>';
             card+='</div>';
             if(m.location) card+='<div style="font-size:0.78rem;color:var(--gray,#8a93a0);margin-top:2px;">'+esc(m.location)+'</div>';
             card+=secsHtml;
-            if(m.url) card+='<div style="margin-top:10px;"><a href="'+esc(m.url)+'" target="_blank" rel="noopener" style="font-size:0.82rem;color:#D4AF37;">View full agenda ↗</a></div>';
+            card+=votesHtml;
+            // Source links
+            var links=[];
+            if(m.url) links.push('<a href="'+esc(m.url)+'" target="_blank" rel="noopener" style="font-size:0.82rem;color:#D4AF37;">View agenda ↗</a>');
+            if(m.minutes_url) links.push('<a href="'+esc(m.minutes_url)+'" target="_blank" rel="noopener" style="font-size:0.82rem;color:#D4AF37;">View official minutes (PDF) ↗</a>');
+            if(links.length) card+='<div style="margin-top:10px;display:flex;gap:14px;flex-wrap:wrap;">'+links.join('')+'</div>';
             card+='</div>';
             return card;
           }).join('');

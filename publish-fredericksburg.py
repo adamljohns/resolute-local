@@ -17,6 +17,7 @@ from pathlib import Path
 
 REPO = Path(__file__).parent
 SRC = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-civic-latest.json'
+MINUTES = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-minutes-state.json'  # Phase 3 (2026-05-27): vote outcomes from parsed minutes
 OUT = REPO / 'data' / 'fredericksburg.json'
 BRIEFS = REPO / 'briefs' / 'fredericksburg.json'   # Phase 2: authored/auto citizen briefs
 
@@ -126,11 +127,90 @@ def main():
             out['briefs'] = {k: v for k, v in bdata.items() if not k.startswith('_')}
         except (json.JSONDecodeError, ValueError):
             pass
+
+    # Phase 3 (2026-05-27) — merge parsed-minutes vote outcomes into the
+    # matching meeting record (by date + body=City Council). Each meeting
+    # may gain `minutes_available: true`, `minutes_url`, `minutes_pages`,
+    # `council_present`, `council_absent`, and a `resolutions_voted` list
+    # with per-vote ayes/nays/abstain breakdowns. Multiple minutes docs
+    # can match one date (Public Hearing + Regular Session) — we attach
+    # all of them. Minutes from older meetings NOT in the current agenda
+    # snapshot (the agenda center ages out older items) are also injected
+    # as standalone historical entries so the page can show vote history
+    # going back as far as minutes are available.
+    minutes_count = 0
+    injected_count = 0
+    if MINUTES.exists():
+        try:
+            mstate = json.loads(MINUTES.read_text())
+            # Index by meeting_date for fast lookup. Group multiple
+            # docs (e.g., Public Hearing + Regular Session same date).
+            by_date: dict[str, list] = {}
+            for p in mstate.get('processed', []):
+                if p.get('error') or not p.get('meeting_date'):
+                    continue
+                by_date.setdefault(p['meeting_date'], []).append(p)
+
+            existing_dates = {
+                (m.get('date'), (m.get('session_type') or '').lower())
+                for m in out.get('meetings', []) if isinstance(m, dict)
+            }
+
+            # Pass 1: enrich existing meeting records that match by date.
+            for m in out.get('meetings', []):
+                if not isinstance(m, dict):
+                    continue
+                if (m.get('body') or '').lower() != 'city council':
+                    continue
+                matches = by_date.get(m.get('date'), [])
+                if not matches:
+                    continue
+                pick = matches[0]
+                if len(matches) > 1 and m.get('session_type'):
+                    aligned = [x for x in matches if (x.get('session_type','').lower() == m['session_type'].lower())]
+                    if aligned:
+                        pick = aligned[0]
+                m['minutes_available'] = True
+                m['minutes_url'] = pick.get('url')
+                m['minutes_pages'] = pick.get('pages')
+                m['council_present'] = pick.get('council_present', [])
+                m['council_absent'] = pick.get('council_absent', [])
+                m['resolutions_voted'] = pick.get('resolutions', [])
+                minutes_count += 1
+
+            # Pass 2: inject historical meetings that no longer appear in
+            # the agenda-center snapshot but DO have minutes posted.
+            for date_str, minutes_list in by_date.items():
+                for p in minutes_list:
+                    sess = (p.get('session_type') or '').lower()
+                    if (date_str, sess) in existing_dates:
+                        continue
+                    out['meetings'].append({
+                        'date': date_str,
+                        'body': 'City Council',
+                        'session_type': p.get('session_type'),
+                        'url': None,  # agenda is no longer linked from listing
+                        'sections': [],
+                        'minutes_available': True,
+                        'minutes_url': p.get('url'),
+                        'minutes_pages': p.get('pages'),
+                        'council_present': p.get('council_present', []),
+                        'council_absent': p.get('council_absent', []),
+                        'resolutions_voted': p.get('resolutions', []),
+                        'historical_injection': True,
+                    })
+                    injected_count += 1
+            # Re-sort meetings newest-first after injection
+            out['meetings'].sort(key=lambda m: (m.get('date') or '0'), reverse=True)
+        except (json.JSONDecodeError, ValueError, KeyError):
+            pass
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2) + '\n')
     print(f'Wrote {OUT.relative_to(REPO)} — {len(council)} council members, '
           f'{len(out["meetings"])} meetings, next: {next_meeting["title"]} {next_meeting["date"]}, '
-          f'{len(next_meeting["items"])} agenda items')
+          f'{len(next_meeting["items"])} agenda items, '
+          f'{minutes_count} matched + {injected_count} historical-injected meeting(s) with vote outcomes')
 
 
 if __name__ == '__main__':
