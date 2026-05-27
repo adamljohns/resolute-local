@@ -21,6 +21,7 @@ MINUTES = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-minute
 SCORECARD_INDEX = Path.home() / '.openclaw' / 'workspace' / 'usmcmin-com' / 'data' / 'search-index.json'  # Phase 4 (2026-05-27): cross-link to RESOLUTE Citizen profiles
 OUT = REPO / 'data' / 'fredericksburg.json'
 BRIEFS = REPO / 'briefs' / 'fredericksburg.json'   # Phase 2: authored/auto citizen briefs
+VIDEO_CLIPS = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-video-clips.json'  # Phase 5: Vimeo clip metadata
 
 # Lines that are pure structural noise we don't surface as agenda items
 NOISE = {'agenda', 'city council', 'topics', 'call to order', '&nbsp;', ':', 'pm',
@@ -267,13 +268,41 @@ def main():
     out['scorecard_links'] = scorecard_links
     out['scorecard_by_role'] = scorecard_by_role
 
+    # Phase 5 (2026-05-27) — merge Vimeo video clip metadata produced by
+    # ~/Scripts/fxbg-video-pipeline.py. Keyed by meeting_date (YYYY-MM-DD).
+    # Each meeting record gains:
+    #   vimeo_id        — Vimeo video ID for the full recording
+    #   vimeo_event_url — the live event embed URL (for next-meeting embed)
+    #   video_clips     — list of {section_title, start_sec, end_sec, vimeo_id,
+    #                              vimeo_url, summary} per agenda section
+    video_count = 0
+    if VIDEO_CLIPS.exists():
+        try:
+            vclips = json.loads(VIDEO_CLIPS.read_text())
+            for m in out.get('meetings', []):
+                if not isinstance(m, dict):
+                    continue
+                rec = vclips.get(m.get('date'))
+                if not rec:
+                    continue
+                m['vimeo_id'] = rec.get('vimeo_id')
+                m['vimeo_event_url'] = rec.get('vimeo_event_url', 'https://vimeo.com/event/898581')
+                m['video_clips'] = rec.get('clips', [])
+                m['video_duration_sec'] = rec.get('duration_sec', 0)
+                video_count += 1
+        except (json.JSONDecodeError, ValueError, KeyError) as e:
+            print(f'WARN: failed to merge video clip data: {e}')
+    # Always surface the live event URL for the next-meeting section
+    out['vimeo_live_event'] = 'https://vimeo.com/event/898581/embed/interaction'
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2) + '\n')
     print(f'Wrote {OUT.relative_to(REPO)} — {len(council)} council members, '
           f'{len(out["meetings"])} meetings, next: {next_meeting["title"]} {next_meeting["date"]}, '
           f'{len(next_meeting["items"])} agenda items, '
           f'{minutes_count} matched + {injected_count} historical-injected meeting(s) with vote outcomes, '
-          f'{len(scorecard_by_role)} cross-linked scorecard profiles')
+          f'{len(scorecard_by_role)} cross-linked scorecard profiles, '
+          f'{video_count} meeting(s) with video clips')
 
 
 if __name__ == '__main__':

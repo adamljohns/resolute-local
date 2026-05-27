@@ -6,5 +6,19 @@
     "how": "Residents can attend the meeting on May 27, 2026, at 5:30 PM in the Council Chambers at 715 Princess Anne Street. Public comment periods are typically available during work sessions; check the agenda posted 48 hours prior for specific sign-up procedures. You may also submit written comments via email to the City Clerk or your council member before the meeting date.",
     "source": "auto-llm",
     "model": "qwen3.6-35b-a3b"
+  },
+  "2026-06-02": {
+    "summary": "The provided raw agenda data is corrupted and unreadable, preventing identification of specific items for the Fredericksburg City Council session on June 2, 2026. Consequently, no factual summary of the meeting's decisions can be generated from this input.",
+    "why": "Without a valid agenda, it is impossible to determine how this specific session impacts local tax bases, zoning, schools, or public safety. Residents cannot assess the relevance of the meeting to their community without knowing the actual topics under discussion.",
+    "how": "To engage with the Fredericksburg City Council, residents should monitor the official city website for the finalized agenda prior to the June 2, 2026 meeting. Attend the session at the Council Chambers to observe proceedings, or submit public comments according to the city's established deadlines and procedures.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-05-26": {
+    "summary": "No specific agenda items are currently published for the Fredericksburg City Council session on May 26, 2026, as the detailed agenda has not yet been released. Typically, such sessions involve the consideration of ordinances, budget approvals, or policy updates affecting city operations. Residents should check the city's official website closer to the date for the finalized list of topics.",
+    "why": "City Council decisions directly impact local property values, zoning regulations, and the allocation of funds for public services like schools and infrastructure. Understanding the agenda helps residents anticipate changes that may affect their neighborhood's character, tax burden, and quality of life. Engaging with these decisions ensures that community priorities are reflected in municipal governance.",
+    "how": "Monitor the City of Fredericksburg's official website or contact the City Clerk's office for the published agenda prior to the meeting. Attend the session at the Council Chambers to observe proceedings and submit public comments during the designated time slots. Residents may also email council members with written input regarding specific agenda items once they are available.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
   }
 }
