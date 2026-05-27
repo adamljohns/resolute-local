@@ -724,14 +724,15 @@
       rec = links[last.toLowerCase()];
     }
     if (!rec || !rec.profile_url) return esc(raw);
-    var badge = '';
-    if (!opts.noBadge && rec.letter_grade) {
-      var gradeColors = {A:'#66bb6a',B:'#9ccc65',C:'#ffb84d',D:'#ff8a65',F:'#ef5350'};
-      var clr = gradeColors[rec.letter_grade] || '#a8b0bc';
-      badge = ' <span title="RESOLUTE Citizen scorecard grade — '+rec.pct_of_max+'% across '+rec.answered+' verified questions" style="font-size:0.62rem;padding:1px 5px;background:'+clr+';color:#000;border-radius:3px;font-weight:800;vertical-align:middle;letter-spacing:0.3px;">'+rec.letter_grade+'</span>';
-    }
+    // 2026-05-27: per Adam's feedback, REMOVED inline grade badges from
+    // the civic tool — most local candidates show F because of dynamic-max
+    // scoring on small answered counts (7/50 verified → 0% → F), which
+    // poisons the well visually. Grades stay on the individual scorecard
+    // profile pages where the questions + evidence substantiate them.
+    // memberLink now only emits a clickable name; badge code preserved
+    // commented-out below for future re-enable if scoring depth grows.
     var style = opts.style || 'color:#D4AF37;text-decoration:none;border-bottom:1px dotted rgba(212,175,55,0.5);';
-    return '<a href="'+esc(rec.profile_url)+'" target="_blank" rel="noopener" title="Open '+esc(raw)+'\'s full RESOLUTE Citizen profile" style="'+style+'">'+esc(raw)+'</a>'+badge;
+    return '<a href="'+esc(rec.profile_url)+'" target="_blank" rel="noopener" title="Open '+esc(raw)+'\'s full RESOLUTE Citizen profile" style="'+style+'">'+esc(raw)+'</a>';
   }
 
   fetch('../data/fredericksburg.json',{cache:'no-cache'})
@@ -787,36 +788,12 @@
         }
       }
 
-      // Enhance existing static .fxbg-council-card elements with RESOLUTE
-      // Citizen scorecard grade badges + percentage. Keeps the static HTML
-      // as-is (SEO + no-JS fallback) and overlays grade data when JS runs.
-      // Also adds a "→ See vote history" link to anchor down to the live
-      // voting-record section (#voting-record).
+      // Enhance existing static .fxbg-council-card elements with a quick
+      // jump-to-votes button. 2026-05-27: removed the inline grade badge
+      // injection here too (same well-poisoning concern — F appears on
+      // candidates with <10 verified answers and looks like a verdict
+      // when it's actually an evidence-gap signal).
       document.querySelectorAll('.fxbg-council-card').forEach(function(card){
-        var nameEl = card.querySelector('.fxbg-council-name');
-        if (!nameEl) return;
-        var fullName = nameEl.textContent.trim();
-        var parts = fullName.split(/\s+/);
-        var last = parts[parts.length-1].replace(/[.,]/g,'').trim();
-        if (last.match(/^(Jr|Sr|II|III|IV)$/i) && parts.length >= 2) {
-          last = parts[parts.length-2].replace(/[.,]/g,'').trim();
-        }
-        var rec = SCORE[last.toLowerCase()] || SCORE[fullName.toLowerCase()];
-        if (!rec) return;
-        var roleEl = card.querySelector('.fxbg-council-role');
-        if (roleEl && rec.letter_grade) {
-          var clr = ({A:'#66bb6a',B:'#9ccc65',C:'#ffb84d',D:'#ff8a65',F:'#ef5350'})[rec.letter_grade] || '#a8b0bc';
-          // Only inject if not already present (idempotent if JS re-runs)
-          if (roleEl.querySelector('.fxbg-grade-badge') === null) {
-            var badge = document.createElement('span');
-            badge.className = 'fxbg-grade-badge';
-            badge.title = 'RESOLUTE Citizen scorecard — ' + rec.pct_of_max + '% across ' + rec.answered + ' verified question' + (rec.answered===1?'':'s') + ' (tier: ' + (rec.tier||'?') + ')';
-            badge.style.cssText = 'display:inline-block;font-size:0.62rem;padding:1px 5px;margin-left:6px;background:'+clr+';color:#000;border-radius:3px;font-weight:800;vertical-align:middle;letter-spacing:0.3px;';
-            badge.textContent = rec.letter_grade + ' · ' + rec.pct_of_max + '%';
-            roleEl.appendChild(badge);
-          }
-        }
-        // Add "Vote history" link to actions
         var actionsEl = card.querySelector('.fxbg-council-actions');
         if (actionsEl && actionsEl.querySelector('.fxbg-votes-link') === null) {
           var votesLink = document.createElement('a');
