@@ -18,6 +18,7 @@ from pathlib import Path
 REPO = Path(__file__).parent
 SRC = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-civic-latest.json'
 MINUTES = Path.home() / '.openclaw' / 'shared-memory' / 'context' / 'fxbg-minutes-state.json'  # Phase 3 (2026-05-27): vote outcomes from parsed minutes
+SCORECARD_INDEX = Path.home() / '.openclaw' / 'workspace' / 'usmcmin-com' / 'data' / 'search-index.json'  # Phase 4 (2026-05-27): cross-link to RESOLUTE Citizen profiles
 OUT = REPO / 'data' / 'fredericksburg.json'
 BRIEFS = REPO / 'briefs' / 'fredericksburg.json'   # Phase 2: authored/auto citizen briefs
 
@@ -205,12 +206,74 @@ def main():
         except (json.JSONDecodeError, ValueError, KeyError):
             pass
 
+    # Phase 4 (2026-05-27) — cross-link to RESOLUTE Citizen scorecard.
+    # Loads usmcmin-com's search-index.json (same-machine local read; no
+    # network), filters to City of Fredericksburg jurisdiction, and emits
+    # a compact `scorecard_links` dict keyed by surname (lowercase) AND
+    # by full name (lowercase). City page JS uses this to:
+    #   - wrap council-member name occurrences with <a> links to their
+    #     full scorecard profile at usmcmin.com/candidates/<state>/<slug>.html
+    #   - render the per-member score badge next to their name everywhere
+    #
+    # The publisher also produces a `scorecard_by_role` list keyed by
+    # office (Mayor / Vice-Mayor / City Council Ward N / etc.) for the
+    # "Live Council" UI that wants to show members in office order with
+    # their score, grade, and party.
+    scorecard_links: dict[str, dict] = {}
+    scorecard_by_role: list[dict] = []
+    if SCORECARD_INDEX.exists():
+        try:
+            idx = json.loads(SCORECARD_INDEX.read_text())
+            for r in idx.get('rows', []):
+                if (r.get('j') or '').lower() != 'city of fredericksburg':
+                    continue
+                slug = r.get('s', '')
+                state = r.get('st', 'va').lower()
+                profile_url = f'https://usmcmin.com/candidates/{state}/{slug}.html'
+                name = r.get('n', '')
+                # Surname = last whitespace-separated token, stripped of
+                # Jr./Sr./III/punctuation. Handles "Charlie Frye Jr." →
+                # "Frye" not "Jr.".
+                parts = name.split()
+                if parts:
+                    last = parts[-1].rstrip('.,').strip()
+                    if last.lower() in ('jr', 'sr', 'ii', 'iii', 'iv') and len(parts) >= 2:
+                        last = parts[-2].rstrip('.,').strip()
+                else:
+                    last = name
+                rec = {
+                    'slug': slug,
+                    'profile_url': profile_url,
+                    'name': name,
+                    'office': r.get('o', ''),
+                    'party': r.get('p', ''),
+                    'tier': r.get('tr', ''),
+                    'status': r.get('sts', ''),
+                    'pct_of_max': r.get('pct', 0),
+                    'letter_grade': r.get('lg', ''),
+                    'total_score': r.get('ts', 0),
+                    'max_possible': r.get('mp', 0),
+                    'answered': r.get('ans', 0),
+                    'na_count': r.get('na', 0),
+                    'god_first': r.get('gf', 0),
+                    'america_first': r.get('af', 0),
+                }
+                # Two keys for fast lookup from the JS render
+                scorecard_links[last.lower()] = rec
+                scorecard_links[name.lower()] = rec
+                scorecard_by_role.append(rec)
+        except (json.JSONDecodeError, ValueError, KeyError) as e:
+            print(f'WARN: failed to load scorecard cross-references: {e}')
+    out['scorecard_links'] = scorecard_links
+    out['scorecard_by_role'] = scorecard_by_role
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2) + '\n')
     print(f'Wrote {OUT.relative_to(REPO)} — {len(council)} council members, '
           f'{len(out["meetings"])} meetings, next: {next_meeting["title"]} {next_meeting["date"]}, '
           f'{len(next_meeting["items"])} agenda items, '
-          f'{minutes_count} matched + {injected_count} historical-injected meeting(s) with vote outcomes')
+          f'{minutes_count} matched + {injected_count} historical-injected meeting(s) with vote outcomes, '
+          f'{len(scorecard_by_role)} cross-linked scorecard profiles')
 
 
 if __name__ == '__main__':

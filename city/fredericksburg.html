@@ -392,15 +392,19 @@
 
   <!-- CURRENT COUNCIL ROSTER -->
   <section class="fxbg-section" aria-labelledby="council-heading">
-    <h2 id="council-heading">Your current council (verified 2026-04-24)</h2>
+    <h2 id="council-heading">Your current council — full RESOLUTE Citizen profiles</h2>
     <p class="lead">
-      All seven seats below are presently filled. Click any name to open that
-      official's full RESOLUTE Citizen scorecard profile. Click "Email" to send
-      directly via the address listed on the city's official Council Members page.
-      Wards 1 &amp; 2 turned over in the 2025 cycle (Matt Rowe replaced Jason
-      Graham, Joy Crump replaced Jonathan Gerlach); their RESOLUTE scoring pass
-      hasn't run yet — their profiles carry the "Awaiting review" banner until
-      we have voting evidence.
+      All seven seats below are presently filled. Each name links to that
+      official's full RESOLUTE Citizen scorecard profile — letter grade and
+      percentage are shown next to the role (when JavaScript loads), and
+      "Votes ↓" jumps to their per-member voting history below.
+      Click "Email" to reach them via the address listed on the city's
+      official <a href="https://www.fredericksburgva.gov/263/Council-Members" target="_blank" rel="noopener" style="color:var(--accent);">Council Members</a> page.
+    </p>
+    <p class="lead" style="margin-top:6px;font-size:0.82rem;color:var(--gray,#8a93a0);">
+      Wards 1 &amp; 2 turned over in the 2025 cycle (Rowe replaced Graham, Crump replaced Gerlach).
+      All sitting members are graded against the <strong>local-tier rubric</strong> (70 God-First / 30 Local-First split).
+      Newer members have fewer verified answers, so percentages reflect dynamic-max scoring (denominator shrinks for unanswered questions).
     </p>
     <div class="fxbg-council-grid">
       <div class="fxbg-council-card">
@@ -697,9 +701,43 @@
     var d=new Date(+p[0],+p[1]-1,+p[2]);
     return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
   }
+  // ── Council-member linkification helper (Phase 4 — 2026-05-27 — Adam's
+  // "wherever a council member's name appears, click to go to their
+  // RESOLUTE Citizen profile" ask). Reads d.scorecard_links (surname →
+  // profile_url + letter_grade) injected by publish-fredericksburg.py.
+  function memberLink(name, links, opts){
+    opts = opts || {};
+    if (!name) return '';
+    var raw = String(name).trim();
+    if (!raw) return '';
+    if (!links) return esc(raw);
+    // Try exact match first (full name), then surname-only (last token,
+    // stripping Jr./Sr./III/punctuation).
+    var key = raw.toLowerCase();
+    var rec = links[key];
+    if (!rec) {
+      var parts = raw.split(/\s+/);
+      var last = (parts[parts.length-1]||'').replace(/[.,]/g,'').trim();
+      if (last.toLowerCase().match(/^(jr|sr|ii|iii|iv)$/) && parts.length >= 2) {
+        last = parts[parts.length-2].replace(/[.,]/g,'').trim();
+      }
+      rec = links[last.toLowerCase()];
+    }
+    if (!rec || !rec.profile_url) return esc(raw);
+    var badge = '';
+    if (!opts.noBadge && rec.letter_grade) {
+      var gradeColors = {A:'#66bb6a',B:'#9ccc65',C:'#ffb84d',D:'#ff8a65',F:'#ef5350'};
+      var clr = gradeColors[rec.letter_grade] || '#a8b0bc';
+      badge = ' <span title="RESOLUTE Citizen scorecard grade — '+rec.pct_of_max+'% across '+rec.answered+' verified questions" style="font-size:0.62rem;padding:1px 5px;background:'+clr+';color:#000;border-radius:3px;font-weight:800;vertical-align:middle;letter-spacing:0.3px;">'+rec.letter_grade+'</span>';
+    }
+    var style = opts.style || 'color:#D4AF37;text-decoration:none;border-bottom:1px dotted rgba(212,175,55,0.5);';
+    return '<a href="'+esc(rec.profile_url)+'" target="_blank" rel="noopener" title="Open '+esc(raw)+'\'s full RESOLUTE Citizen profile" style="'+style+'">'+esc(raw)+'</a>'+badge;
+  }
+
   fetch('../data/fredericksburg.json',{cache:'no-cache'})
     .then(function(r){return r.json();})
     .then(function(d){
+      var SCORE = d.scorecard_links || {};
       var nm=d.next_meeting||{};
       var up=document.getElementById('nm-updated');
       if(up&&d.updated_local) up.textContent='Auto-updated '+d.updated_local+' · source: city AgendaCenter';
@@ -738,15 +776,57 @@
       html+='<div id="rl-comment-helper" style="display:none;margin-top:14px;"></div>';
       b.innerHTML=html;
 
-      // Refresh the live council roster into the existing council list if present
+      // Refresh the live council roster into the existing council list if
+      // present — names link to RESOLUTE Citizen profiles with grade badges.
       if(d.council&&d.council.length){
         var roster=document.getElementById('live-council-roster');
         if(roster){
           roster.innerHTML=d.council.map(function(m){
-            return '<li><strong>'+esc(m.name)+'</strong> — '+esc(m.role)+'</li>';
+            return '<li>'+memberLink(m.name, SCORE, {style:'color:#D4AF37;text-decoration:none;font-weight:700;'})+' — '+esc(m.role)+'</li>';
           }).join('');
         }
       }
+
+      // Enhance existing static .fxbg-council-card elements with RESOLUTE
+      // Citizen scorecard grade badges + percentage. Keeps the static HTML
+      // as-is (SEO + no-JS fallback) and overlays grade data when JS runs.
+      // Also adds a "→ See vote history" link to anchor down to the live
+      // voting-record section (#voting-record).
+      document.querySelectorAll('.fxbg-council-card').forEach(function(card){
+        var nameEl = card.querySelector('.fxbg-council-name');
+        if (!nameEl) return;
+        var fullName = nameEl.textContent.trim();
+        var parts = fullName.split(/\s+/);
+        var last = parts[parts.length-1].replace(/[.,]/g,'').trim();
+        if (last.match(/^(Jr|Sr|II|III|IV)$/i) && parts.length >= 2) {
+          last = parts[parts.length-2].replace(/[.,]/g,'').trim();
+        }
+        var rec = SCORE[last.toLowerCase()] || SCORE[fullName.toLowerCase()];
+        if (!rec) return;
+        var roleEl = card.querySelector('.fxbg-council-role');
+        if (roleEl && rec.letter_grade) {
+          var clr = ({A:'#66bb6a',B:'#9ccc65',C:'#ffb84d',D:'#ff8a65',F:'#ef5350'})[rec.letter_grade] || '#a8b0bc';
+          // Only inject if not already present (idempotent if JS re-runs)
+          if (roleEl.querySelector('.fxbg-grade-badge') === null) {
+            var badge = document.createElement('span');
+            badge.className = 'fxbg-grade-badge';
+            badge.title = 'RESOLUTE Citizen scorecard — ' + rec.pct_of_max + '% across ' + rec.answered + ' verified question' + (rec.answered===1?'':'s') + ' (tier: ' + (rec.tier||'?') + ')';
+            badge.style.cssText = 'display:inline-block;font-size:0.62rem;padding:1px 5px;margin-left:6px;background:'+clr+';color:#000;border-radius:3px;font-weight:800;vertical-align:middle;letter-spacing:0.3px;';
+            badge.textContent = rec.letter_grade + ' · ' + rec.pct_of_max + '%';
+            roleEl.appendChild(badge);
+          }
+        }
+        // Add "Vote history" link to actions
+        var actionsEl = card.querySelector('.fxbg-council-actions');
+        if (actionsEl && actionsEl.querySelector('.fxbg-votes-link') === null) {
+          var votesLink = document.createElement('a');
+          votesLink.className = 'fxbg-btn fxbg-votes-link';
+          votesLink.href = '#voting-record';
+          votesLink.title = 'Jump to per-member voting record from city minutes';
+          votesLink.textContent = 'Votes ↓';
+          actionsEl.appendChild(votesLink);
+        }
+      });
 
       // Recent City Council meetings (added 2026-05-26 — uses new structured
       // `sections` field from fxbg_agenda_parser.py).
@@ -838,10 +918,11 @@
               dissentLines+='</div>';
             }
             return '<div style="border:1px solid rgba(168,176,188,0.2);border-radius:8px;padding:12px 14px;background:rgba(255,255,255,0.02);">'
-              +'<div style="font-weight:700;color:var(--white,#fff);font-size:0.95rem;">'+esc(roster.name)+'</div>'
+              +'<div style="font-size:0.95rem;">'+memberLink(roster.name, SCORE, {style:'color:#fff;text-decoration:none;font-weight:700;'})+'</div>'
               +(roster.role?'<div style="font-size:0.74rem;color:#D4AF37;margin-top:1px;text-transform:uppercase;letter-spacing:0.6px;">'+esc(roster.role)+'</div>':'')
               +'<div style="font-size:0.82rem;color:var(--gray,#a8b0bc);margin-top:8px;">Voted in <strong style="color:var(--white,#fff);">'+s.participated+'</strong> of '+votes.length+' (majority '+majPct+'%)</div>'
               +minLine+dissentLines
+              +'<div style="margin-top:8px;font-size:0.78rem;"><a href="'+esc((SCORE[last.toLowerCase()]||{}).profile_url||('https://usmcmin.com/citizen.html?state=VA'))+'" target="_blank" rel="noopener" style="color:#D4AF37;">View full RESOLUTE Citizen profile ↗</a></div>'
               +'</div>';
           }).join('')
           +'</div>';
@@ -859,11 +940,13 @@
             +'<ul style="margin:8px 0 0;padding-left:18px;line-height:1.55;font-size:0.85rem;">'
             +splitList.map(function(v){
               var r=v.vote;
-              var nays=(r.nays||[]).join(', ');
-              return '<li><strong style="color:#ffb84d;">'+r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'')
+              var naysList=(r.nays||[]).map(function(n){return memberLink(n, SCORE, {noBadge:true});}).join(', ');
+              var ayesList=(r.ayes||[]).map(function(n){return memberLink(n, SCORE, {noBadge:true});}).join(', ');
+              return '<li style="margin-bottom:6px;"><strong style="color:#ffb84d;">'+r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'')
                 +'</strong> · <span style="color:var(--gray,#8a93a0);font-size:0.78rem;">'+esc(v.date)+'</span><br>'
                 +esc((r.title||'(motion)').slice(0,130))
-                +(nays?'<br><span style="font-size:0.78rem;color:var(--gray,#a8b0bc);">Against: '+esc(nays)+'</span>':'')
+                +(naysList?'<br><span style="font-size:0.78rem;color:var(--gray,#a8b0bc);">Against: '+naysList+'</span>':'')
+                +(ayesList?'<br><span style="font-size:0.78rem;color:var(--gray,#8a93a0);">For: '+ayesList+'</span>':'')
                 +'</li>';
             }).join('')
             +'</ul></div>';
@@ -910,8 +993,10 @@
               votesHtml='<div style="margin-top:14px;padding:10px 12px;background:rgba(76,175,80,0.06);border-left:3px solid #66bb6a;border-radius:0 4px 4px 0;">';
               votesHtml+='<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#66bb6a;">✓ Official minutes posted'+(m.minutes_pages?' · '+m.minutes_pages+'pg':'')+'</div>';
               if(m.council_present&&m.council_present.length){
-                var absText=(m.council_absent&&m.council_absent.length)?' · absent: '+m.council_absent.join(', '):' · no absences';
-                votesHtml+='<div style="font-size:0.78rem;color:var(--gray,#a8b0bc);margin-top:4px;">'+m.council_present.length+' present'+esc(absText)+'</div>';
+                var absLink = (m.council_absent && m.council_absent.length)
+                  ? ' · absent: ' + m.council_absent.map(function(n){return memberLink(n, SCORE, {noBadge:true});}).join(', ')
+                  : ' · no absences';
+                votesHtml+='<div style="font-size:0.78rem;color:var(--gray,#a8b0bc);margin-top:4px;">'+m.council_present.length+' present'+absLink+'</div>';
               }
               if(rv.length){
                 votesHtml+='<div style="font-size:0.82rem;margin-top:6px;color:var(--gray,#a8b0bc);">'+rv.length+' recorded vote'+(rv.length===1?'':'s')+(splits.length?' · <strong style="color:#ffb84d;">'+splits.length+' split decision'+(splits.length===1?'':'s')+'</strong>':' · all unanimous')+'</div>';
@@ -923,7 +1008,9 @@
                     var tally=r.ayes_count+'-'+r.nays_count+(r.abstain_count?'-'+r.abstain_count:'');
                     var clr=(r.nays_count>0)?'#ffb84d':'#66bb6a';
                     var detail='';
-                    if(r.nays&&r.nays.length) detail=' <span style="color:#ffb84d;font-size:0.78rem;">(against: '+esc(r.nays.join(', '))+')</span>';
+                    if(r.nays&&r.nays.length){
+                      detail=' <span style="color:#ffb84d;font-size:0.78rem;">(against: '+r.nays.map(function(n){return memberLink(n, SCORE, {noBadge:true});}).join(', ')+')</span>';
+                    }
                     votesHtml+='<li style="margin-bottom:3px;"><strong style="color:'+clr+';">'+tally+'</strong> — '+esc((r.title||'(motion)').slice(0,120))+detail+'</li>';
                   });
                   votesHtml+='</ul>';
