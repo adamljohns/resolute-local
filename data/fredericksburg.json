@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-05-28T10:00:04Z",
-  "updated_local": "2026-05-28 06:00 EDT",
+  "updated": "2026-05-28T22:00:02Z",
+  "updated_local": "2026-05-28 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -1312,39 +1312,48 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "1500 Gateway Data Center \u2014 Public Hearing",
+          "section_title": "Public Hearing: 1500 Gateway Data Center Project",
           "start_sec": 2644,
           "end_sec": 3910,
           "vimeo_id": "1191716331",
           "vimeo_url": "https://vimeo.com/1191716331#t=2644s",
-          "summary": "A massive coalition of labor unions (IBEW, Steamfitters, Laborers), the Virginia Building Trades, and the Virginia Black Chamber of Commerce testified in strong support of the 1500 Gateway Data Center. Speakers highlighted that the project would generate over 1,400 construction jobs and 100 permanent positions, with projected tax revenues exceeding $26 million by 2032. Multiple speakers, including apprentices and long-time residents, shared personal stories of driving 50-80 miles daily to work in Northern Virginia, emphasizing that this local project would allow them to live closer to home and provide economic stability for working-class families.",
+          "summary": "A unified block of testimony from labor unions (IBEW, Carpenters, Steamfitters), the Virginia Building Trades, and the Virginia Black Chamber of Commerce strongly supported the 1500 Gateway Data Center. Speakers highlighted the project's potential to bring $26.5 million in annual tax revenue, create 1,400+ construction jobs, and provide local employment opportunities that would reduce long commutes for workers currently traveling to Northern Virginia or Maryland.",
           "significance": "highlight"
         },
         {
-          "section_title": "Water and Sewer Rate Amendments",
-          "start_sec": 4651,
-          "end_sec": 5835,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=4651s",
-          "summary": "Council voted 6-1 to approve amendments to water and sewer rates. The vote included significant debate regarding equity, with Councilor Rowe raising concerns that the new structure might disproportionately impact apartment residents compared to single-family homeowners. Councilor Holmes defended the decision, citing the need to fund a new wastewater treatment plant at Mott's Run and arguing that the cost would be spread more equitably among high-volume users rather than just apartments. Councilor Corral expressed empathy for residents' financial strain but supported the vote, promising a future review of the impact.",
-          "significance": "lowlight"
-        },
-        {
-          "section_title": "Children's Services Act Fund Supplement",
-          "start_sec": 5839,
-          "end_sec": 5947,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=5839s",
-          "summary": "Deputy City Manager Mark Whitley presented a resolution to supplement the Children's Services Act (CSA) fund by $550,000 to cover mandated services for children in need. The funding would come from recognizing $350,000 in expected sales tax revenues and $200,000 from the general fund contingency. This adjustment brings the total CSA budget to nearly $5 million, ensuring services for vulnerable children identified by schools and the juvenile justice system.",
-          "significance": "highlight"
-        },
-        {
-          "section_title": "HB 702 \u2014 Statewide Gun Buy-Back Program",
+          "section_title": "Legislative Recognition: HB 702 (Statewide Gun Buy-Back)",
           "start_sec": 3926,
           "end_sec": 4156,
           "vimeo_id": "1191716331",
           "vimeo_url": "https://vimeo.com/1191716331#t=3926s",
-          "summary": "Mayor Devine recognized Vice Mayor Charlie Frye for his work on HB 702, which expands Fredericksburg's successful local gun buy-back program to a statewide level. Vice Mayor Frye shared a personal testimony about witnessing a murder in third grade as the motivation for his advocacy, noting the emotional toll of his work but expressing pride that the initiative has grown from a local idea to a state-wide success.",
+          "summary": "Mayor Devine recognized Vice Mayor Charlie Frye for his work on HB 702, which expands Fredericksburg\u2019s successful local gun buy-back program to a statewide initiative. Vice Mayor Frye shared a personal reflection on how witnessing gun violence in his childhood motivated his civic service and expressed shock and gratitude that the local initiative has achieved state-level recognition.",
+          "significance": "highlight"
+        },
+        {
+          "section_title": "Budget Adoption: FY2027 Operating and Capital Budget",
+          "start_sec": 4356,
+          "end_sec": 4555,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=4356s",
+          "summary": "The City Council approved the FY2027 budget on second read. Key components include a 4% increase to city pay scales, implementation of the public safety pay plan, and a $1 million adjustment to the Fredericksburg City Public Schools appropriation using their operating fund balance. The motion passed 7-0.",
+          "significance": "highlight"
+        },
+        {
+          "section_title": "Water/Sewer Rate Amendment and Equity Debate",
+          "start_sec": 4651,
+          "end_sec": 5835,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=4651s",
+          "summary": "The Council approved amendments to water and sewer rates. The vote sparked a significant debate on equity: Councilor Rowe raised concerns that the new metering structure might disproportionately affect apartment residents compared to single-family homeowners. Councilors Holmes and Corral defended the rates, citing the need to fund a new wastewater treatment plant at Mott's Run and arguing that the cost burden is spread across high-volume users rather than just apartments. The motion passed 6-1.",
+          "significance": "lowlight"
+        },
+        {
+          "section_title": "Children's Services Act (CSA) Fund Supplement",
+          "start_sec": 5839,
+          "end_sec": 5947,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=5839s",
+          "summary": "Deputy City Manager Mark Whitley presented a resolution to supplement the current year's Children's Services Act fund by $550,000. The funding, derived from recognized sales tax revenues and general fund contingency, brings the total CSA budget to nearly $5 million to cover mandated services for children in need identified by schools and juvenile justice systems.",
           "significance": "highlight"
         }
       ],
@@ -2527,6 +2536,13 @@
       "summary": "No specific agenda items are currently published for the Fredericksburg City Council session on May 26, 2026, as the detailed agenda has not yet been released. Typically, such sessions involve the consideration of ordinances, budget approvals, or policy updates affecting city operations. Residents should check the city's official website closer to the date for the finalized list of topics.",
       "why": "City Council decisions directly impact local property values, zoning regulations, and the allocation of funds for public services like schools and infrastructure. Understanding the agenda helps residents anticipate changes that may affect their neighborhood's character, tax burden, and quality of life. Engaging with these decisions ensures that community priorities are reflected in municipal governance.",
       "how": "Monitor the City of Fredericksburg's official website or contact the City Clerk's office for the published agenda prior to the meeting. Attend the session at the Council Chambers to observe proceedings and submit public comments during the designated time slots. Residents may also email council members with written input regarding specific agenda items once they are available.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-05-12": {
+      "summary": "The Fredericksburg City Council will conduct first and second readings of ordinances to adjust water, sewer, and EMS fees, approve a courthouse security budget, and finalize the FY 2027 real estate tax rate. The session also includes a public hearing on a national PFAS water settlement and appointments to the Arts Commission. These actions directly impact household utility costs, property taxes, and local infrastructure funding.",
+      "why": "Changes to water, sewer, and EMS fees will alter monthly household expenses for residents, while the real estate tax rate of $0.84 per $100 of assessed value affects property owners' annual tax liabilities. Approving the courthouse security budget impacts public safety resources, and the PFAS settlement may influence long-term water quality and community health. These financial decisions shape the city's fiscal health and service delivery for families and businesses.",
+      "how": "Attend the meeting on May 12, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. Submit written comments via U.S. mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to have them read aloud. Identify yourself by name and address, keep remarks under three minutes for written submissions, and ensure topics relate to City business.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
