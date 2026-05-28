@@ -317,7 +317,7 @@
            style="border-left:4px solid rgba(212,175,55,0.5);padding:18px 20px;background:rgba(212,175,55,0.03);">
     <h2 id="recent-meetings-heading">🗂️ Recent City Council Meetings</h2>
     <p class="lead" style="color:var(--gray,#8a93a0);font-size:0.9rem;">
-      Past sessions with the agenda items as they appeared. Official minutes typically post ~2 weeks after each meeting; video replays are recorded by <a href="https://www.regionalwebtv.com/fredcc" target="_blank" rel="noopener" style="color:#D4AF37;">Regional WebTV</a> and hosted on <a href="https://vimeo.com/event/898581" target="_blank" rel="noopener" style="color:#D4AF37;">Vimeo</a>. Where available, agenda items link directly to their timestamp in the recording (▶).
+      Past sessions with the agenda items as they appeared. Official minutes typically post ~2 weeks after each meeting; video replays are recorded by <a href="https://www.regionalwebtv.com/fredcc" target="_blank" rel="noopener" style="color:#D4AF37;">Regional WebTV</a> and hosted on <a href="https://vimeo.com/event/898581" target="_blank" rel="noopener" style="color:#D4AF37;">Vimeo</a>. Where video is available, the <strong style="color:#D4AF37;">📍 Key Moments</strong> reel shows only the consequential parts — votes, contested testimony, and decisions that affect residents. Routine procedural items are omitted.
     </p>
     <div id="rm-list" aria-live="polite" style="margin-top:12px;">
       <p class="lead" style="color:var(--gray,#8a93a0);">Loading…</p>
@@ -954,11 +954,6 @@
           rm.innerHTML=recent.map(function(m){
             // ── Agenda sections (from agenda scraper) ──
             var secs=(m.sections||[]).filter(function(s){return s.title;});
-            // Build clip lookup by section title (case-insensitive) for timestamp links
-            var clipsByTitle={};
-            (m.video_clips||[]).forEach(function(c){
-              if(c.section_title) clipsByTitle[c.section_title.toLowerCase()]=c;
-            });
             function fmtSec(s){ // 3725 → "1:02:05"
               var h=Math.floor(s/3600),r=s%3600,m2=Math.floor(r/60),s2=r%60;
               return (h?h+':':'')+('0'+m2).slice(-2)+':'+('0'+s2).slice(-2);
@@ -974,37 +969,49 @@
                   s.subitems.forEach(function(si){sub+='<li>'+esc(si.title||'')+'</li>';});
                   sub+='</ul>';
                 }
-                // Timestamp link if a matching clip exists
-                var clip=clipsByTitle[(s.title||'').toLowerCase()];
-                var clipBtn='';
-                if(clip&&m.vimeo_id){
-                  var vUrl='https://vimeo.com/'+esc(m.vimeo_id)+'#t='+clip.start_sec+'s';
-                  clipBtn=' <a href="'+vUrl+'" target="_blank" rel="noopener" '
-                    +'title="'+(clip.summary?esc(clip.summary):'Watch this segment')+'" '
-                    +'style="font-size:0.73rem;color:#D4AF37;white-space:nowrap;text-decoration:none;'
-                    +'background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.3);'
-                    +'border-radius:3px;padding:1px 5px;margin-left:4px;">'
-                    +'▶ '+fmtSec(clip.start_sec)+'</a>';
-                }
-                secsHtml+='<li>'+esc(s.title)+clipBtn+sub+'</li>';
+                secsHtml+='<li>'+esc(s.title)+sub+'</li>';
               });
               secsHtml+='</ul>';
             }
-            // ── Full recording button ──
+
+            // ── Highlight / Lowlight reel (curated clips only — no routine procedural) ──
+            var clips=(m.video_clips||[]).filter(function(c){return c.section_title && c.vimeo_url;});
+            var clipsHtml='';
+            if(clips.length){
+              clipsHtml='<div style="margin-top:14px;">';
+              clipsHtml+='<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#D4AF37;margin-bottom:6px;">📍 Key Moments</div>';
+              clips.forEach(function(c){
+                var sig=c.significance||'neutral';
+                var isHl=sig==='highlight', isLl=sig==='lowlight';
+                var accentClr=isHl?'#66bb6a':isLl?'#ef5350':'#8a93a0';
+                var bgClr=isHl?'rgba(102,187,106,0.06)':isLl?'rgba(239,83,80,0.06)':'rgba(138,147,160,0.04)';
+                var badge=isHl?'<span style="font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#66bb6a;background:rgba(102,187,106,0.12);border-radius:3px;padding:1px 5px;margin-right:6px;">✓ highlight</span>'
+                              :isLl?'<span style="font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.5px;color:#ef5350;background:rgba(239,83,80,0.12);border-radius:3px;padding:1px 5px;margin-right:6px;">⚠ lowlight</span>'
+                              :'';
+                clipsHtml+='<div style="border-left:3px solid '+accentClr+';background:'+bgClr+';border-radius:0 4px 4px 0;padding:8px 10px;margin-bottom:8px;">';
+                clipsHtml+='<div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;flex-wrap:wrap;">';
+                clipsHtml+='<div style="font-size:0.85rem;font-weight:600;color:#fff;flex:1;">'+badge+esc(c.section_title)+'</div>';
+                clipsHtml+='<a href="'+esc(c.vimeo_url)+'" target="_blank" rel="noopener" '
+                  +'style="font-size:0.78rem;font-weight:700;color:#D4AF37;white-space:nowrap;text-decoration:none;'
+                  +'background:rgba(212,175,55,0.1);border:1px solid rgba(212,175,55,0.3);'
+                  +'border-radius:3px;padding:2px 7px;flex-shrink:0;">▶ '+fmtSec(c.start_sec)+'</a>';
+                clipsHtml+='</div>';
+                if(c.summary) clipsHtml+='<div style="font-size:0.8rem;color:var(--gray,#a8b0bc);margin-top:4px;line-height:1.4;">'+esc(c.summary)+'</div>';
+                clipsHtml+='</div>';
+              });
+              clipsHtml+='</div>';
+            }
+
+            // ── Full recording link (secondary — clips are the primary entry point) ──
             var videoHtml='';
-            if(m.vimeo_id){
-              videoHtml='<div style="margin-top:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;">'
+            if(m.vimeo_id && !clips.length){
+              // Only show the full-recording link when there are no curated clips
+              videoHtml='<div style="margin-top:10px;">'
                 +'<a href="https://vimeo.com/'+esc(m.vimeo_id)+'" target="_blank" rel="noopener" '
-                +'style="display:inline-flex;align-items:center;gap:5px;font-size:0.82rem;font-weight:600;'
-                +'color:#fff;background:rgba(212,175,55,0.15);border:1px solid rgba(212,175,55,0.4);'
-                +'border-radius:5px;padding:4px 10px;text-decoration:none;">📹 Full recording on Vimeo</a>';
-              if(m.video_duration_sec){
-                videoHtml+='<span style="font-size:0.76rem;color:var(--gray,#8a93a0);">'+fmtSec(m.video_duration_sec)+'</span>';
-              }
-              if(m.video_lobby_only){
-                videoHtml+='<span style="font-size:0.72rem;color:var(--gray,#8a93a0);font-style:italic;">'
-                  +'(recording contains pre-meeting broadcast — meeting may not have been streamed)</span>';
-              }
+                +'style="display:inline-flex;align-items:center;gap:5px;font-size:0.8rem;'
+                +'color:var(--gray,#8a93a0);border:1px solid rgba(168,176,188,0.25);'
+                +'border-radius:5px;padding:3px 9px;text-decoration:none;">📹 Full recording</a>';
+              if(m.video_duration_sec) videoHtml+='<span style="font-size:0.73rem;color:var(--gray,#8a93a0);margin-left:6px;">'+fmtSec(m.video_duration_sec)+'</span>';
               videoHtml+='</div>';
             }
 
@@ -1055,6 +1062,7 @@
             card+='</div>';
             if(m.location) card+='<div style="font-size:0.78rem;color:var(--gray,#8a93a0);margin-top:2px;">'+esc(m.location)+'</div>';
             card+=secsHtml;
+            card+=clipsHtml;
             card+=videoHtml;
             card+=votesHtml;
             // Source links
