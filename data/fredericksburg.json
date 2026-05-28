@@ -1238,107 +1238,27 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2160?html=true",
       "date": "2026-05-12",
       "agenda_id": "2160",
-      "vimeo_id": "1187534433",
+      "vimeo_id": "1191716331",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "Call to Order",
-          "start_sec": 709,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=709s",
-          "summary": "The meeting begins with a discussion on the 2027 budget, and the Deputy City Manager is called to the floor."
-        },
-        {
-          "section_title": "Invocation",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No invocation is recorded in this transcript segment."
-        },
-        {
-          "section_title": "Pledge of Allegiance",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No pledge is recorded in this transcript segment."
-        },
-        {
           "section_title": "Presentations",
-          "start_sec": 730,
-          "end_sec": 730,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=730s",
-          "summary": "No formal presentation is recorded in this transcript segment."
-        },
-        {
-          "section_title": "Consent Agenda",
-          "start_sec": 763,
-          "end_sec": 817,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=763s",
-          "summary": "Staff lists items on the consent agenda, including older and sooner availability fees, EMT fees, and the main budget."
-        },
-        {
-          "section_title": "Public Hearing",
-          "start_sec": 817,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=817s",
-          "summary": "The council discusses the 2027 budget, specifically focusing on water and sewer rate structures, tiered pricing impacts on single-family homes versus apartment complexes, and the use of school fund balances."
-        },
-        {
-          "section_title": "Comments from the Public",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No public comments are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Council Agenda",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No council agenda items are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Minutes",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No minutes are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Boards and Commission Appointments",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No appointments are recorded in this transcript segment."
+          "start_sec": 2644,
+          "end_sec": 5855,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=2644s",
+          "summary": "Multiple speakers, primarily from construction unions and local businesses, testified in support of the 1500 Gateway Data Center Project, highlighting economic benefits, job creation, and workforce development opportunities."
         },
         {
           "section_title": "City Manager Agenda",
-          "start_sec": 3132,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3132s",
-          "summary": "No city manager agenda items are recorded in this transcript segment."
-        },
-        {
-          "section_title": "Adjournment",
-          "start_sec": 3127,
-          "end_sec": 3132,
-          "vimeo_id": "1187534433",
-          "vimeo_url": "https://vimeo.com/1187534433#t=3127s",
-          "summary": "The council announces a break and plans to meet downstairs at 7:30 p.m."
+          "start_sec": 5855,
+          "end_sec": 6270,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=5855s",
+          "summary": "The City Manager presented budget amendments for the Children's Services Act fund and a resolution for motor fuels tax allocations to VRE and PRTC, both of which were approved by the council."
         }
       ],
-      "video_duration_sec": 3159,
+      "video_duration_sec": 6295,
       "video_lobby_only": false
     },
     {
