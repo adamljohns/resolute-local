@@ -976,10 +976,35 @@
 
             // ── Highlight / Lowlight reel (curated clips only — no routine procedural) ──
             var clips=(m.video_clips||[]).filter(function(c){return c.section_title && c.vimeo_url;});
+
+            // ── YouTube reel embed (when uploaded to RESOLUTE Local channel) ──
+            var ytUrl = (clips[0]||{}).youtube_url || m.youtube_url || '';
+            var ytId = '';
+            if(ytUrl){
+              var match = ytUrl.match(/(?:v=|youtu\.be\/|embed\/)([\w-]{11})/);
+              if(match) ytId = match[1];
+            }
+            var ytHtml='';
+            if(ytId){
+              ytHtml='<div style="margin-top:14px;">'
+                +'<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#D4AF37;margin-bottom:6px;">▶ Watch the reel</div>'
+                +'<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;background:#000;">'
+                +'<iframe src="https://www.youtube.com/embed/'+ytId+'?rel=0" '
+                +'style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" '
+                +'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" '
+                +'referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+                +'</div>'
+                +'<div style="margin-top:5px;font-size:0.75rem;color:var(--gray,#8a93a0);">'
+                +'<a href="'+esc(ytUrl)+'" target="_blank" rel="noopener" style="color:#D4AF37;text-decoration:none;">Watch on YouTube ↗</a>'
+                +' · <a href="https://www.youtube.com/@resolutelocalfxbg" target="_blank" rel="noopener" style="color:#D4AF37;text-decoration:none;">RESOLUTE Local channel</a>'
+                +'</div></div>';
+            }
+
             var clipsHtml='';
             if(clips.length){
               clipsHtml='<div style="margin-top:14px;">';
-              clipsHtml+='<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#D4AF37;margin-bottom:6px;">📍 Key Moments</div>';
+              var chapterLabel = ytId ? 'Jump to chapters (original recording)' : '📍 Key Moments';
+              clipsHtml+='<div style="font-size:0.72rem;font-weight:700;letter-spacing:0.6px;text-transform:uppercase;color:#D4AF37;margin-bottom:6px;">'+chapterLabel+'</div>';
               clips.forEach(function(c){
                 var sig=c.significance||'neutral';
                 var isHl=sig==='highlight', isLl=sig==='lowlight';
@@ -1062,6 +1087,7 @@
             card+='</div>';
             if(m.location) card+='<div style="font-size:0.78rem;color:var(--gray,#8a93a0);margin-top:2px;">'+esc(m.location)+'</div>';
             card+=secsHtml;
+            card+=ytHtml;
             card+=clipsHtml;
             card+=videoHtml;
             card+=votesHtml;

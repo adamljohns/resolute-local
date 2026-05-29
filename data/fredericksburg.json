@@ -771,44 +771,48 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "EDA Candidate Interview: Curry Roberts on Housing and Data Centers",
-          "start_sec": 246,
-          "end_sec": 946,
+          "section_title": "EDA Candidate Interviews: Economic Vision",
+          "start_sec": 1370,
+          "end_sec": 1520,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=246s",
-          "summary": "Candidate Curry Roberts discussed transformative opportunities for the Economic Development Authority (EDA), specifically highlighting the hospital area conversion, infill development for affordable housing, and the need for creative incentives. He addressed data center concerns by suggesting closed-loop cooling systems to reduce water drain and emphasized the importance of partnering with developers who prioritize environmental health.",
+          "vimeo_url": "https://vimeo.com/1191743329#t=1370s",
+          "summary": "Candidates for the Economic Development Authority discuss revitalization strategies, with one member suggesting bold concepts like Top Golf to drive tourism and economic growth.",
           "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         },
         {
-          "section_title": "EDA Candidate Interview: Enjoy Crump on Workforce and Mental Health",
-          "start_sec": 959,
-          "end_sec": 2894,
+          "section_title": "Trail Safety & Crime Response",
+          "start_sec": 3560,
+          "end_sec": 3710,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=959s",
-          "summary": "Candidate Enjoy Crump focused on workforce development, proposing grants to offset upfront costs for paid internships for small businesses. She emphasized the role of mental health in community well-being and discussed revitalizing downtown by preserving history while offering offsets for businesses. She also highlighted the need to leverage major employers like Blumey to boost economic vitality.",
-          "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "vimeo_url": "https://vimeo.com/1191743329#t=3560s",
+          "summary": "Police Chief details recent assaults on local trails and outlines a new strategy involving 135 hours of dedicated patrols and increased bike officer presence to address public safety concerns.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         },
         {
-          "section_title": "Police Chief Mason on Panhandling and Canal Trail Safety",
-          "start_sec": 2902,
-          "end_sec": 3005,
+          "section_title": "Red Key Development & Tax Incentives",
+          "start_sec": 5030,
+          "end_sec": 5180,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=2902s",
-          "summary": "Police Chief Nancy Mason reported on enforcement at the Carl D. and Planck intersection, noting that while the ordinance prohibits panhandling in the roadway, enforcement is difficult due to the large, spread-out nature of the area. She confirmed officers have responded to welfare checks and suspicious activity but stated no new signs are needed as the current ordinance is clear.",
-          "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
-        },
-        {
-          "section_title": "Developer Presentation: 10-Year Tax Abatement for Affordable Housing",
-          "start_sec": 5544,
-          "end_sec": 6082,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=5544s",
-          "summary": "A developer presented a proposal for a 10-year tax abatement strategy in exchange for committing to 70 affordable housing units at $508/month. Councilors questioned the financials, clarifying that the pre-purchase assessment was $4.7M (with significant tax-exempt status due to nonprofit ownership) and that the projected tax revenue increases were hypothetical projections, not guaranteed commitments. The discussion highlighted the complexity of negotiating incentives for affordable housing.",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5030s",
+          "summary": "Council members scrutinize the financial structure of the Red Key affordable housing deal, specifically questioning the $2 million in incentives provided to the developer and the enforceability of the 10-year rent cap.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
+        },
+        {
+          "section_title": "Historic Tax Credit Revenue Analysis",
+          "start_sec": 5650,
+          "end_sec": 5800,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5650s",
+          "summary": "A critical exchange regarding the financial impact of historic tax credits, where officials clarify that the previous owner paid negligible taxes due to nonprofit status, challenging the narrative of lost revenue.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         }
       ],
       "video_duration_sec": 6118,
@@ -1030,44 +1034,48 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "EDA Candidate Interview: Curry Roberts on Housing and Data Centers",
-          "start_sec": 246,
-          "end_sec": 946,
+          "section_title": "EDA Candidate Interviews: Economic Vision",
+          "start_sec": 1370,
+          "end_sec": 1520,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=246s",
-          "summary": "Candidate Curry Roberts discussed transformative opportunities for the Economic Development Authority (EDA), specifically highlighting the hospital area conversion, infill development for affordable housing, and the need for creative incentives. He addressed data center concerns by suggesting closed-loop cooling systems to reduce water drain and emphasized the importance of partnering with developers who prioritize environmental health.",
+          "vimeo_url": "https://vimeo.com/1191743329#t=1370s",
+          "summary": "Candidates for the Economic Development Authority discuss revitalization strategies, with one member suggesting bold concepts like Top Golf to drive tourism and economic growth.",
           "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         },
         {
-          "section_title": "EDA Candidate Interview: Enjoy Crump on Workforce and Mental Health",
-          "start_sec": 959,
-          "end_sec": 2894,
+          "section_title": "Trail Safety & Crime Response",
+          "start_sec": 3560,
+          "end_sec": 3710,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=959s",
-          "summary": "Candidate Enjoy Crump focused on workforce development, proposing grants to offset upfront costs for paid internships for small businesses. She emphasized the role of mental health in community well-being and discussed revitalizing downtown by preserving history while offering offsets for businesses. She also highlighted the need to leverage major employers like Blumey to boost economic vitality.",
-          "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "vimeo_url": "https://vimeo.com/1191743329#t=3560s",
+          "summary": "Police Chief details recent assaults on local trails and outlines a new strategy involving 135 hours of dedicated patrols and increased bike officer presence to address public safety concerns.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         },
         {
-          "section_title": "Police Chief Mason on Panhandling and Canal Trail Safety",
-          "start_sec": 2902,
-          "end_sec": 3005,
+          "section_title": "Red Key Development & Tax Incentives",
+          "start_sec": 5030,
+          "end_sec": 5180,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=2902s",
-          "summary": "Police Chief Nancy Mason reported on enforcement at the Carl D. and Planck intersection, noting that while the ordinance prohibits panhandling in the roadway, enforcement is difficult due to the large, spread-out nature of the area. She confirmed officers have responded to welfare checks and suspicious activity but stated no new signs are needed as the current ordinance is clear.",
-          "significance": "neutral",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
-        },
-        {
-          "section_title": "Developer Presentation: 10-Year Tax Abatement for Affordable Housing",
-          "start_sec": 5544,
-          "end_sec": 6082,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=5544s",
-          "summary": "A developer presented a proposal for a 10-year tax abatement strategy in exchange for committing to 70 affordable housing units at $508/month. Councilors questioned the financials, clarifying that the pre-purchase assessment was $4.7M (with significant tax-exempt status due to nonprofit ownership) and that the projected tax revenue increases were hypothetical projections, not guaranteed commitments. The discussion highlighted the complexity of negotiating incentives for affordable housing.",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5030s",
+          "summary": "Council members scrutinize the financial structure of the Red Key affordable housing deal, specifically questioning the $2 million in incentives provided to the developer and the enforceability of the 10-year rent cap.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
+        },
+        {
+          "section_title": "Historic Tax Credit Revenue Analysis",
+          "start_sec": 5650,
+          "end_sec": 5800,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5650s",
+          "summary": "A critical exchange regarding the financial impact of historic tax credits, where officials clarify that the previous owner paid negligible taxes due to nonprofit status, challenging the narrative of lost revenue.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=4ZoA07VJzPU"
         }
       ],
       "video_duration_sec": 6118,
@@ -1356,54 +1364,48 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "Public Hearing: 1500 Gateway Data Center Project",
-          "start_sec": 2644,
-          "end_sec": 3910,
+          "section_title": "FY27 Real Estate Tax Rate Approval",
+          "start_sec": 4627,
+          "end_sec": 4659,
           "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=2644s",
-          "summary": "A unified block of testimony from labor unions (IBEW, Carpenters, Steamfitters), the Virginia Building Trades, and the Virginia Black Chamber of Commerce strongly supported the 1500 Gateway Data Center. Speakers highlighted the project's potential to bring $26.5 million in annual tax revenue, create 1,400+ construction jobs, and provide local employment opportunities that would reduce long commutes for workers currently traveling to Northern Virginia or Maryland.",
+          "vimeo_url": "https://vimeo.com/1191716331#t=4627s",
+          "summary": "Council votes 7-0 to finalize the FY27 real estate tax rate at $0.84 per $100 of assessed value, setting the baseline for resident property taxes.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=TXZfPWrUtvs"
         },
         {
-          "section_title": "Legislative Recognition: HB 702 (Statewide Gun Buy-Back)",
-          "start_sec": 3926,
-          "end_sec": 4156,
+          "section_title": "FY27 Budget and Water/Sewer Rate Adjustments",
+          "start_sec": 5751,
+          "end_sec": 5847,
           "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=3926s",
-          "summary": "Mayor Devine recognized Vice Mayor Charlie Frye for his work on HB 702, which expands Fredericksburg\u2019s successful local gun buy-back program to a statewide initiative. Vice Mayor Frye shared a personal reflection on how witnessing gun violence in his childhood motivated his civic service and expressed shock and gratitude that the local initiative has achieved state-level recognition.",
-          "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
-        },
-        {
-          "section_title": "Budget Adoption: FY2027 Operating and Capital Budget",
-          "start_sec": 4356,
-          "end_sec": 4555,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=4356s",
-          "summary": "The City Council approved the FY2027 budget on second read. Key components include a 4% increase to city pay scales, implementation of the public safety pay plan, and a $1 million adjustment to the Fredericksburg City Public Schools appropriation using their operating fund balance. The motion passed 7-0.",
-          "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
-        },
-        {
-          "section_title": "Water/Sewer Rate Amendment and Equity Debate",
-          "start_sec": 4651,
-          "end_sec": 5835,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=4651s",
-          "summary": "The Council approved amendments to water and sewer rates. The vote sparked a significant debate on equity: Councilor Rowe raised concerns that the new metering structure might disproportionately affect apartment residents compared to single-family homeowners. Councilors Holmes and Corral defended the rates, citing the need to fund a new wastewater treatment plant at Mott's Run and arguing that the cost burden is spread across high-volume users rather than just apartments. The motion passed 6-1.",
+          "vimeo_url": "https://vimeo.com/1191716331#t=5751s",
+          "summary": "Council approves the FY27 budget with a 6-1 vote. The dissenting vote highlights ongoing tension regarding the equity of water/sewer rate increases and the city's financial reliance on data center revenue.",
           "significance": "lowlight",
-          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=TXZfPWrUtvs"
         },
         {
-          "section_title": "Children's Services Act (CSA) Fund Supplement",
-          "start_sec": 5839,
-          "end_sec": 5947,
+          "section_title": "Children's Services Act Funding Amendment",
+          "start_sec": 6039,
+          "end_sec": 6130,
           "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=5839s",
-          "summary": "Deputy City Manager Mark Whitley presented a resolution to supplement the current year's Children's Services Act fund by $550,000. The funding, derived from recognized sales tax revenues and general fund contingency, brings the total CSA budget to nearly $5 million to cover mandated services for children in need identified by schools and juvenile justice systems.",
+          "vimeo_url": "https://vimeo.com/1191716331#t=6039s",
+          "summary": "Council unanimously approves an amendment to fund the Children's Services Act, addressing state-mandated requirements for vulnerable youth services.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=TXZfPWrUtvs"
+        },
+        {
+          "section_title": "VRE Motor Fuels Tax Authorization",
+          "start_sec": 6142,
+          "end_sec": 6220,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=6142s",
+          "summary": "Council votes 7-0 to authorize the use of gasoline tax revenue for the Virginia Railway Express (VRE), supporting regional transit funding.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=TXZfPWrUtvs"
         }
       ],
       "video_duration_sec": 6295,

@@ -20,5 +20,12 @@
     "how": "Monitor the City of Fredericksburg's official website or contact the City Clerk's office for the published agenda prior to the meeting. Attend the session at the Council Chambers to observe proceedings and submit public comments during the designated time slots. Residents may also email council members with written input regarding specific agenda items once they are available.",
     "source": "auto-llm",
     "model": "qwen3.6-35b-a3b"
+  },
+  "2026-05-12": {
+    "summary": "The Fredericksburg City Council will conduct first and second readings of ordinances to adjust water, sewer, and EMS fees, approve a courthouse security budget, and finalize the FY 2027 real estate tax rate. The session also includes a public hearing on a national PFAS water settlement and appointments to the Arts Commission. These actions directly impact household utility costs, property taxes, and local infrastructure funding.",
+    "why": "Changes to water, sewer, and EMS fees will alter monthly household expenses for residents, while the real estate tax rate of $0.84 per $100 of assessed value affects property owners' annual tax liabilities. Approving the courthouse security budget impacts public safety resources, and the PFAS settlement may influence long-term water quality and community health. These financial decisions shape the city's fiscal health and service delivery for families and businesses.",
+    "how": "Attend the meeting on May 12, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. Submit written comments via U.S. mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to have them read aloud. Identify yourself by name and address, keep remarks under three minutes for written submissions, and ensure topics relate to City business.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
   }
 }
