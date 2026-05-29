@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-05-29T01:30:03Z",
-  "updated_local": "2026-05-28 21:30 EDT",
+  "updated": "2026-05-29T10:00:01Z",
+  "updated_local": "2026-05-29 06:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -771,22 +771,44 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "EDA Candidate Interviews: Housing and Economic Strategy",
-          "start_sec": 220,
-          "end_sec": 2890,
+          "section_title": "EDA Candidate Interview: Curry Roberts on Housing and Data Centers",
+          "start_sec": 246,
+          "end_sec": 946,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=220s",
-          "summary": "Candidates for the Economic Development Authority (EDA) discussed critical strategies for Fredericksburg. Curry Roberts emphasized using data center tax increments to subsidize housing costs and revitalizing Eagle Village. Susie Anikin highlighted the need to support small businesses with paid internship grants and preserve downtown historic assets. Both candidates stressed that retaining city and school employees through housing assistance is vital for the local tax base.",
-          "significance": "highlight"
+          "vimeo_url": "https://vimeo.com/1191743329#t=246s",
+          "summary": "Candidate Curry Roberts discussed transformative opportunities for the Economic Development Authority (EDA), specifically highlighting the hospital area conversion, infill development for affordable housing, and the need for creative incentives. He addressed data center concerns by suggesting closed-loop cooling systems to reduce water drain and emphasized the importance of partnering with developers who prioritize environmental health.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
         },
         {
-          "section_title": "Developer Abatement Proposal for Hospital Area Project",
+          "section_title": "EDA Candidate Interview: Enjoy Crump on Workforce and Mental Health",
+          "start_sec": 959,
+          "end_sec": 2894,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=959s",
+          "summary": "Candidate Enjoy Crump focused on workforce development, proposing grants to offset upfront costs for paid internships for small businesses. She emphasized the role of mental health in community well-being and discussed revitalizing downtown by preserving history while offering offsets for businesses. She also highlighted the need to leverage major employers like Blumey to boost economic vitality.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+        },
+        {
+          "section_title": "Police Chief Mason on Panhandling and Canal Trail Safety",
+          "start_sec": 2902,
+          "end_sec": 3005,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=2902s",
+          "summary": "Police Chief Nancy Mason reported on enforcement at the Carl D. and Planck intersection, noting that while the ordinance prohibits panhandling in the roadway, enforcement is difficult due to the large, spread-out nature of the area. She confirmed officers have responded to welfare checks and suspicious activity but stated no new signs are needed as the current ordinance is clear.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+        },
+        {
+          "section_title": "Developer Presentation: 10-Year Tax Abatement for Affordable Housing",
           "start_sec": 5544,
-          "end_sec": 6080,
+          "end_sec": 6082,
           "vimeo_id": "1191743329",
           "vimeo_url": "https://vimeo.com/1191743329#t=5544s",
-          "summary": "City staff and developers presented a draft agreement for a new housing project in the former hospital area. The developer requested a 10-year tax abatement strategy in exchange for providing 70 affordable housing units at $508/month. Councilors questioned the financials, noting the property was previously tax-exempt under nonprofit status. Staff clarified that the projected tax revenue over 10 years would exceed what was paid previously, but confirmed that occupancy rates do not directly trigger the abatement clock, which is tied to construction completion.",
-          "significance": "lowlight"
+          "summary": "A developer presented a proposal for a 10-year tax abatement strategy in exchange for committing to 70 affordable housing units at $508/month. Councilors questioned the financials, clarifying that the pre-purchase assessment was $4.7M (with significant tax-exempt status due to nonprofit ownership) and that the projected tax revenue increases were hypothetical projections, not guaranteed commitments. The discussion highlighted the complexity of negotiating incentives for affordable housing.",
+          "significance": "highlight",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
         }
       ],
       "video_duration_sec": 6118,
@@ -1008,22 +1030,44 @@
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
         {
-          "section_title": "EDA Candidate Interviews: Housing and Economic Strategy",
-          "start_sec": 220,
-          "end_sec": 2890,
+          "section_title": "EDA Candidate Interview: Curry Roberts on Housing and Data Centers",
+          "start_sec": 246,
+          "end_sec": 946,
           "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=220s",
-          "summary": "Candidates for the Economic Development Authority (EDA) discussed critical strategies for Fredericksburg. Curry Roberts emphasized using data center tax increments to subsidize housing costs and revitalizing Eagle Village. Susie Anikin highlighted the need to support small businesses with paid internship grants and preserve downtown historic assets. Both candidates stressed that retaining city and school employees through housing assistance is vital for the local tax base.",
-          "significance": "highlight"
+          "vimeo_url": "https://vimeo.com/1191743329#t=246s",
+          "summary": "Candidate Curry Roberts discussed transformative opportunities for the Economic Development Authority (EDA), specifically highlighting the hospital area conversion, infill development for affordable housing, and the need for creative incentives. He addressed data center concerns by suggesting closed-loop cooling systems to reduce water drain and emphasized the importance of partnering with developers who prioritize environmental health.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
         },
         {
-          "section_title": "Developer Abatement Proposal for Hospital Area Project",
+          "section_title": "EDA Candidate Interview: Enjoy Crump on Workforce and Mental Health",
+          "start_sec": 959,
+          "end_sec": 2894,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=959s",
+          "summary": "Candidate Enjoy Crump focused on workforce development, proposing grants to offset upfront costs for paid internships for small businesses. She emphasized the role of mental health in community well-being and discussed revitalizing downtown by preserving history while offering offsets for businesses. She also highlighted the need to leverage major employers like Blumey to boost economic vitality.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+        },
+        {
+          "section_title": "Police Chief Mason on Panhandling and Canal Trail Safety",
+          "start_sec": 2902,
+          "end_sec": 3005,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=2902s",
+          "summary": "Police Chief Nancy Mason reported on enforcement at the Carl D. and Planck intersection, noting that while the ordinance prohibits panhandling in the roadway, enforcement is difficult due to the large, spread-out nature of the area. She confirmed officers have responded to welfare checks and suspicious activity but stated no new signs are needed as the current ordinance is clear.",
+          "significance": "neutral",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
+        },
+        {
+          "section_title": "Developer Presentation: 10-Year Tax Abatement for Affordable Housing",
           "start_sec": 5544,
-          "end_sec": 6080,
+          "end_sec": 6082,
           "vimeo_id": "1191743329",
           "vimeo_url": "https://vimeo.com/1191743329#t=5544s",
-          "summary": "City staff and developers presented a draft agreement for a new housing project in the former hospital area. The developer requested a 10-year tax abatement strategy in exchange for providing 70 affordable housing units at $508/month. Councilors questioned the financials, noting the property was previously tax-exempt under nonprofit status. Staff clarified that the projected tax revenue over 10 years would exceed what was paid previously, but confirmed that occupancy rates do not directly trigger the abatement clock, which is tied to construction completion.",
-          "significance": "lowlight"
+          "summary": "A developer presented a proposal for a 10-year tax abatement strategy in exchange for committing to 70 affordable housing units at $508/month. Councilors questioned the financials, clarifying that the pre-purchase assessment was $4.7M (with significant tax-exempt status due to nonprofit ownership) and that the projected tax revenue increases were hypothetical projections, not guaranteed commitments. The discussion highlighted the complexity of negotiating incentives for affordable housing.",
+          "significance": "highlight",
+          "youtube_url": "https://www.youtube.com/watch?v=PGfUfYDDXv8"
         }
       ],
       "video_duration_sec": 6118,
@@ -1319,7 +1363,7 @@
           "vimeo_url": "https://vimeo.com/1191716331#t=2644s",
           "summary": "A unified block of testimony from labor unions (IBEW, Carpenters, Steamfitters), the Virginia Building Trades, and the Virginia Black Chamber of Commerce strongly supported the 1500 Gateway Data Center. Speakers highlighted the project's potential to bring $26.5 million in annual tax revenue, create 1,400+ construction jobs, and provide local employment opportunities that would reduce long commutes for workers currently traveling to Northern Virginia or Maryland.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=SbrVkW5JseQ"
+          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
         },
         {
           "section_title": "Legislative Recognition: HB 702 (Statewide Gun Buy-Back)",
@@ -1329,7 +1373,7 @@
           "vimeo_url": "https://vimeo.com/1191716331#t=3926s",
           "summary": "Mayor Devine recognized Vice Mayor Charlie Frye for his work on HB 702, which expands Fredericksburg\u2019s successful local gun buy-back program to a statewide initiative. Vice Mayor Frye shared a personal reflection on how witnessing gun violence in his childhood motivated his civic service and expressed shock and gratitude that the local initiative has achieved state-level recognition.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=SbrVkW5JseQ"
+          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
         },
         {
           "section_title": "Budget Adoption: FY2027 Operating and Capital Budget",
@@ -1339,7 +1383,7 @@
           "vimeo_url": "https://vimeo.com/1191716331#t=4356s",
           "summary": "The City Council approved the FY2027 budget on second read. Key components include a 4% increase to city pay scales, implementation of the public safety pay plan, and a $1 million adjustment to the Fredericksburg City Public Schools appropriation using their operating fund balance. The motion passed 7-0.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=SbrVkW5JseQ"
+          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
         },
         {
           "section_title": "Water/Sewer Rate Amendment and Equity Debate",
@@ -1349,7 +1393,7 @@
           "vimeo_url": "https://vimeo.com/1191716331#t=4651s",
           "summary": "The Council approved amendments to water and sewer rates. The vote sparked a significant debate on equity: Councilor Rowe raised concerns that the new metering structure might disproportionately affect apartment residents compared to single-family homeowners. Councilors Holmes and Corral defended the rates, citing the need to fund a new wastewater treatment plant at Mott's Run and arguing that the cost burden is spread across high-volume users rather than just apartments. The motion passed 6-1.",
           "significance": "lowlight",
-          "youtube_url": "https://www.youtube.com/watch?v=SbrVkW5JseQ"
+          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
         },
         {
           "section_title": "Children's Services Act (CSA) Fund Supplement",
@@ -1359,7 +1403,7 @@
           "vimeo_url": "https://vimeo.com/1191716331#t=5839s",
           "summary": "Deputy City Manager Mark Whitley presented a resolution to supplement the current year's Children's Services Act fund by $550,000. The funding, derived from recognized sales tax revenues and general fund contingency, brings the total CSA budget to nearly $5 million to cover mandated services for children in need identified by schools and juvenile justice systems.",
           "significance": "highlight",
-          "youtube_url": "https://www.youtube.com/watch?v=SbrVkW5JseQ"
+          "youtube_url": "https://www.youtube.com/watch?v=pVlbFzA57tI"
         }
       ],
       "video_duration_sec": 6295,
