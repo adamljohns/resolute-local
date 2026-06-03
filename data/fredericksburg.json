@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-03T10:00:04Z",
-  "updated_local": "2026-06-03 06:00 EDT",
+  "updated": "2026-06-03T22:00:05Z",
+  "updated_local": "2026-06-03 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -38,39 +38,19 @@
   ],
   "next_meeting": {
     "title": "City Council Session",
-    "date": "2026-05-12",
-    "time": "7:30p.m.",
+    "date": "2026-05-26",
+    "time": "5:00pm",
     "location": "715 Princess Anne Street, Council Chambers, Fredericksburg, VA 22401",
-    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2160?html=true",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05262026-2166?html=true",
     "items": [
-      "Mayor Kerry P. Devine, Presiding",
-      "Vice-Mayor Charlie L. Frye, Jr.",
-      "Councilor Jannan W. Holmes",
-      "Proclamation for the Marine Corp Historic Half Race - Alex Hetherington, Director, Marine Corps Marathon and Angela Anderson, Deputy Director, Marine Corps Marathon",
-      "Ordinance 26-__, First Read, Amending the Water and Sewer Availability Fees",
-      "5A Amending Water and Sewer Availibility Fees.pdf",
-      "Ordinance 26-__, First Read, Amending Emergency Medical Services Transport Fees",
-      "5B Amending EMT Services.pdf",
-      "Resolution 26-__, First Read, Amending the FY 2026 Capital Budget for Replacement Security Equipment in the Fredericksburg Courthouse",
-      "5C Courthouse Security Equipment.pdf",
-      "Resolution 26-__, Authorizing the City\u2019s Participation in the National PFAS Water System Class Action Settlements with the 3M Company and Dupont Business Entities",
-      "5D National PFAS Water SystemSettlements.pdf",
-      "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-      "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than",
-      ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-      "03-24-26 Regular Session Minutes Draft .pdf",
-      "Boards and Commission Appointments",
-      "10A Arts Commission Appointment - Booker.pdf",
-      "Budgeting and Appropriating Funds for Fiscal Year (FY) 2027 Beginning July 1, 2026 through June 30, 2027",
-      "Ordinance 26-__, Second Read, Setting the Real Estate Tax Rate at $0.84 per Every $100 of Assessed Value of Real Estate",
-      "11B Setting the Real Estate Tax Rate.pdf"
+      "Second Floor Conference Room",
+      "City Council Work Session",
+      "City Hall Large Conference Room",
+      "Interviews for Economic Development Authority Candidates (3)",
+      "Panhandling, Canal Safety - Chief Mason"
     ],
     "raw_lines": [
-      "Agenda - 05/12/2026",
+      "Agenda - 05/26/2026",
       "City of Fredericksburg, Virginia",
       "Hon. Kerry P. Devine, Mayor",
       "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
@@ -80,102 +60,503 @@
       "Hon. Joy Y. Crump, Ward Two",
       "Hon. Susanna R. Finn, Ward Three",
       "City Council",
-      "AGENDA",
-      "Council Chambers",
+      "WORK SESSION",
+      "City Hall",
+      "Second Floor Conference Room",
       "715 Princess Anne Street",
       "Fredericksburg, Virginia \u00a022401",
-      "May 12, 2026",
-      "7:30 p.m.",
-      "Mayor Kerry P. Devine, Presiding",
+      "City Council Work Session",
+      "Tuesday, May 26, 2026",
+      "City Hall Large Conference Room",
+      "5:00 pm",
       "1.",
       "Call to Order",
       "2.",
-      "Invocation",
-      "Vice-Mayor Charlie L. Frye, Jr.",
+      "Topics",
+      "A.",
+      "Interviews for Economic Development Authority Candidates (3)",
+      "B.",
+      "Panhandling, Canal Safety - Chief Mason",
+      "C.",
+      "Rebkee Incentive Agreement",
       "3.",
-      "Pledge of Allegiance",
-      "Councilor Jannan W. Holmes",
-      "4.",
-      "Presentations",
-      "A.",
-      "Proclamation for the Marine Corp Historic Half Race - Alex Hetherington, Director, Marine Corps Marathon and Angela Anderson, Deputy Director, Marine Corps Marathon",
-      "Documents:",
-      "4A Proclamation.pdf",
-      "5.",
-      "Consent Agenda",
-      "A.",
-      "Ordinance 26-__, First Read, Amending the Water and Sewer Availability Fees",
-      "Documents:",
-      "5A Amending Water and Sewer Availibility Fees.pdf",
-      "B.",
-      "Ordinance 26-__, First Read, Amending Emergency Medical Services Transport Fees",
-      "Documents:",
-      "5B Amending EMT Services.pdf",
-      "C.",
-      "Resolution 26-__, First Read, Amending the FY 2026 Capital Budget for Replacement Security Equipment in the Fredericksburg Courthouse",
-      "Documents:",
-      "5C Courthouse Security Equipment.pdf",
-      "D.",
-      "Resolution 26-__, Authorizing the City\u2019s Participation in the National PFAS Water System Class Action Settlements with the 3M Company and Dupont Business Entities",
-      "Documents:",
-      "5D National PFAS Water SystemSettlements.pdf",
-      "6.",
-      "Public Hearing",
-      "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-      "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "7.",
-      "Comments from the Public",
-      "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than",
-      "1:30 p.m. on the meeting date",
-      ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-      "8.",
-      "Council Agenda",
-      "9.",
-      "Minutes",
-      "A.",
-      "Regular Session \u2013 March 24, 2026",
-      "Documents:",
-      "03-24-26 Regular Session Minutes Draft .pdf",
-      "10.",
-      "Boards and Commission Appointments",
-      "A.",
-      "Arts Commission Appointment",
-      "Documents:",
-      "10A Arts Commission Appointment - Booker.pdf",
-      "11.",
-      "City Manager Agenda",
-      "A.",
-      "Budgeting and Appropriating Funds for Fiscal Year (FY) 2027 Beginning July 1, 2026 through June 30, 2027",
-      "Documents:",
-      "11A FY 2027 Budget.pdf",
-      "B.",
-      "Ordinance 26-__, Second Read, Setting the Real Estate Tax Rate at $0.84 per Every $100 of Assessed Value of Real Estate",
-      "Documents:",
-      "11B Setting the Real Estate Tax Rate.pdf",
-      "C.",
-      "Ordinance 26-__, Second Read, Amending the Water and Sewer Rates and Charges",
-      "Documents:",
-      "11C Amending the Water and Sewer Rate Changes.pdf",
-      "D.",
-      "Resolution 26-__, First Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund",
-      "Documents:",
-      "11D Childrens Services Act Fund.pdf",
-      "E.",
-      "Resolution 26-__, Authorizing the Use of $680,457 in Motor Fuels Taxes for the Virginia Railway Express and $26,600 for the Potomac and Rappahannock Transportation Commission for Fiscal Year 2027",
-      "Documents:",
-      "11E VRE PRTC.pdf",
-      "F.",
-      "Calendars",
-      "Documents:",
-      "11F Calendars.pdf",
-      "12.",
       "Adjournment"
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Regular Session",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of a quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination that public notice requirements have been met",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "June 8, 2026 ARB Public Notice",
+              "documents": [
+                "3 2026-06-08_2ndprint_public notice_ARBhearing.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Approval of Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "June 8, 2026 ARB Agenda",
+              "documents": [
+                "1 06-08-2026_ARB Agenda.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Announcements and Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Review of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "May 11, 2026 \u2013 Public Meeting ARB Minutes",
+              "documents": [
+                "6A 2026-05-11 ARB Minutes DRAFT.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Ex Parte Communication",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Conflicts of Interest",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Consent Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation",
+              "documents": [
+                "9A COA2605-0197_Administrative Review Form_205 William Street.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation",
+              "documents": [
+                "9B COA2605-0198_Administrative Review Form_604 Caroline Street.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation",
+              "documents": [
+                "9C COA2605-0199_Administrative Review Form_900 Caroline Street.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation",
+              "documents": [
+                "9D COA2605-0200_Administrative Review Form_307 Amelia Street.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "General Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Other Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Update",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 06/08/2026 ARCHITECTURAL REVIEW BOARD AGENDA June 8, 2025 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. June 8, 2026 ARB Public Notice Documents: 3 2026-06-08_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. June 8, 2026 ARB Agenda Documents: 1 06-08-2026_ARB Agenda.pdf 5. Announcements and Reports 6. Review of Minutes 6.A. May 11, 2026 \u2013 Public Meeting ARB Minutes Documents: 6A 2026-05-11 ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation Documents: 9A COA2605-0197_Administrative Review Form_205 William Street.pdf 9.B. COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation Documents: 9B COA2605-0198_Administrative Review Form_604 Caroline Street.pdf 9.C. COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation Documents: 9C COA2605-0199_Administrative Review Form_900 Caroline Street.pdf 9.D. COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation Documents: 9D COA2605-0200_Administrative Review Form_307 Amelia Street.pdf 10. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 11. Other Business 12. Staff Update 13. Adjournment",
+      "lines": [
+        "Agenda - 06/08/2026",
+        "ARCHITECTURAL REVIEW BOARD",
+        "AGENDA",
+        "June 8, 2025",
+        "7:00 P.M.",
+        "Live streaming available during meetings and archived meeting videos are also available.",
+        "View Meeting Stream",
+        "Agenda",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Determination of a quorum",
+        "3.",
+        "Determination that public notice requirements have been met",
+        "3.A.",
+        "June 8, 2026 ARB Public Notice",
+        "Documents:",
+        "3       2026-06-08_2ndprint_public notice_ARBhearing.pdf",
+        "4.",
+        "Approval of Agenda",
+        "4.A.",
+        "June 8, 2026 ARB Agenda",
+        "Documents:",
+        "1       06-08-2026_ARB Agenda.pdf",
+        "5.",
+        "Announcements and Reports",
+        "6.",
+        "Review of Minutes",
+        "6.A.",
+        "May 11, 2026 \u2013 Public Meeting ARB Minutes",
+        "Documents:",
+        "6A    2026-05-11 ARB Minutes DRAFT.pdf",
+        "7.",
+        "Disclosure of Ex Parte Communication",
+        "8.",
+        "Disclosure of Conflicts of Interest",
+        "9.",
+        "Consent Agenda",
+        "9.A.",
+        "COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation",
+        "Documents:",
+        "9A    COA2605-0197_Administrative Review Form_205 William Street.pdf",
+        "9.B.",
+        "COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation",
+        "Documents:",
+        "9B    COA2605-0198_Administrative Review Form_604 Caroline Street.pdf",
+        "9.C.",
+        "COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation",
+        "Documents:",
+        "9C    COA2605-0199_Administrative Review Form_900 Caroline Street.pdf",
+        "9.D.",
+        "COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation",
+        "Documents:",
+        "9D    COA2605-0200_Administrative Review Form_307 Amelia Street.pdf",
+        "10.",
+        "General Public Comment",
+        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
+        "[email\u00a0protected]",
+        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
+        "11.",
+        "Other Business",
+        "12.",
+        "Staff Update",
+        "13.",
+        "Adjournment"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06082026-2173?html=true",
+      "date": "2026-06-08",
+      "agenda_id": "2173"
+    },
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order \u2013 Chair Schatz",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of Quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of the Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Public Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Treasurer\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Old Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "New Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Committee & Liaison Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Chair\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Board Member Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment \u2013 Next Meeting, July 13, 2026",
+          "subitems": []
+        }
+      ],
+      "raw_text": "601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax Monday, June 8, 2026 8:30 a.m. \u25cf EDA Regular Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 1. Call to Order \u2013 Chair Schatz 2. Determination of Quorum 3. Approval of the Agenda 4. Public Comments 5. Treasurer\u2019s Report a. EDA Budget Update May 2026 b. Approval FY2027 Budget 6. Old Business Serve and Stay Fredericksburg Fund Program Discussion \u2013 Chair Schatz 7. New Business a. Election of Officers \u2013 Chair Schatz b. Economic Development Agreement - 2300 Fall Hill Partners, LLC, the City of Fredericksburg, and the Economic Development Authority of the City of Fredericksburg \u2013 Josh Summits 8. Committee & Liaison Reports a. City Relations Committee \u2013 Mitzi Brown & Meredith Schatz b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk d. Strategic Investments \u2013 Tom Wack & Evan Sullivan e. Workforce Development \u2013 Mitzi Brown & Meredith Schatz f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk g. Main Street \u2013 Mitzi Brown & Meredith Schatz h. Marketing & Promotions \u2013 Eugeniy Mikityuk i. Business Relations \u2013 Meredith Schatz & Anita Crossfield 9. Staff Report 10. Chair\u2019s Report 11. Board Member Comments 12. Adjournment \u2013 Next Meeting, July 13, 2026 NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 8, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. 601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES Monday, May 11, 2026 8:30 a.m. \u25cf Regular Meeting FXBG City Center, First Floor Visitor Center Auditorium & Exhibit Room 601 Caroline St. Fredericksburg, VA 22401 The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday, May 11, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Auditorium & Exhibit Room, 601 Caroline St., Fredericksburg, VA 22401. EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Tom Wack, Mitzi Brown, and Eugeniy Mikityuk (via phone). ABSENT. Evan Sullivan. ALSO PRESENT. Rivers Region Entrepreneurial Ecosystem (RREE): Michael Purello, Executive Director; Fredericksburg Fashion Week: Latoya White, President; Synctivate: Madeline McMahon, Marketing and Business Development; Hyperbole: John Simms; Fredericksburg Main Street: Kristen Reed, Assistant Director; EDA Counsel: Jackson Key; EDA Assistant, Jordan Seurattan, Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager; Danelle Rose, Marketing and Communications Manager. DETERMINATION OF QUORUM. Mitzi Brown. APPROVAL OF AGENDA. MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the agenda: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan). PUBLIC COMMENTS. None. APPROVAL OF MINUTES. MOTION by Mitzi Brown seconded by Tom Wack for the regular meeting minutes from April 13, 2026 were approved: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan). TREASURER'S REPORT. Mr. Hughes reported that year-to-date finances are strong, with expenses under budget and income exceeding projections. a. Draft FY2027 Budget Discussion The FY2027 draft budget was presented for discussion which focused primarily on baseline operating costs and income. Specific areas like professional services and the Sports Tourism Fund were identified as needing further consideration. A few members expressed concern that the Loan Program's $25,000 budget is too low. Mr. Hughes and others suggested increasing the Loan Program\u2019s budget to around $100,000 to support revenue-generating opportunities. The final budget is expected to be approved in June, following further refinement of year-end figures. OLD BUSINESS. b. InvestFXBG Loan Program \u2013 Josh Summits Mr. Summits presented the proposed amendments and changes to the InvestFXBG credit program policy manual, noting that the document had been reviewed and approved by legal counsel and the loan underwriting team. Key changes include: an increase in borrowing limits to between $5,000 and $250,000, with larger amounts considered under special circumstances, and loan terms typically priced around the Wall Street general prime rate for three to five years, with potential for longer terms on larger cap financing. The policy now establishes one-time and/or monthly servicing fees for closed loans. Regarding collateral, the updated policy aims for the EDA to hold first position but allows flexibility to slide to second position, particularly for real estate. The Loan Review Committee (LRC) composition has been formalized to include two EDA board members and up to three non-EDA members from commercial lending institutions within zip code 22401, with details on the appointm...[truncated]",
+      "session_type": "Work Session",
+      "time": "5:30 PM",
+      "lines": [
+        "601 Caroline Street, Suite 303                                                          (540) 372-1216",
+        "Fredericksburg, VA 22401                                                                (540) 372-6587 Fax",
+        "Monday, June 8, 2026",
+        "8:30 a.m. \u25cf EDA Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "1. Call to Order \u2013 Chair Schatz",
+        "2. Determination of Quorum",
+        "3. Approval of the Agenda",
+        "4. Public Comments",
+        "5. Treasurer\u2019s Report",
+        "a. EDA Budget Update May 2026",
+        "b. Approval FY2027 Budget",
+        "6. Old Business",
+        "Serve and Stay Fredericksburg Fund Program Discussion \u2013 Chair Schatz",
+        "7. New Business",
+        "a. Election of Officers \u2013 Chair Schatz",
+        "b. Economic Development Agreement - 2300 Fall Hill Partners, LLC, the City of Fredericksburg,",
+        "and the Economic Development Authority of the City of Fredericksburg \u2013 Josh Summits",
+        "8. Committee & Liaison Reports",
+        "a. City Relations Committee \u2013 Mitzi Brown & Meredith Schatz",
+        "b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan",
+        "c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk",
+        "d. Strategic Investments \u2013 Tom Wack & Evan Sullivan",
+        "e. Workforce Development \u2013 Mitzi Brown & Meredith Schatz",
+        "f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk",
+        "g. Main Street \u2013 Mitzi Brown & Meredith Schatz",
+        "h. Marketing & Promotions \u2013 Eugeniy Mikityuk",
+        "i. Business Relations \u2013 Meredith Schatz & Anita Crossfield",
+        "9. Staff Report",
+        "10. Chair\u2019s Report",
+        "11. Board Member Comments",
+        "12. Adjournment \u2013 Next Meeting, July 13, 2026",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 8, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "601 Caroline Street, Suite 303                                                       (540) 372-1216",
+        "Fredericksburg, VA 22401                                                             (540) 372-6587 Fax",
+        "ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES",
+        "Monday, May 11, 2026",
+        "8:30 a.m. \u25cf Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Auditorium & Exhibit Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday,",
+        "May 11, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Auditorium & Exhibit Room, 601 Caroline St.,",
+        "Fredericksburg, VA 22401.",
+        "EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Tom Wack,",
+        "Mitzi Brown, and Eugeniy Mikityuk (via phone).",
+        "ABSENT. Evan Sullivan.",
+        "ALSO PRESENT. Rivers Region Entrepreneurial Ecosystem (RREE): Michael Purello, Executive Director;",
+        "Fredericksburg Fashion Week: Latoya White, President; Synctivate: Madeline McMahon, Marketing and",
+        "Business Development; Hyperbole: John Simms; Fredericksburg Main Street: Kristen Reed, Assistant Director;",
+        "EDA Counsel: Jackson Key; EDA Assistant, Jordan Seurattan, Department of Economic Development and",
+        "Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager; Danelle Rose, Marketing and",
+        "Communications Manager.",
+        "DETERMINATION OF QUORUM. Mitzi Brown.",
+        "APPROVAL OF AGENDA.",
+        "MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the agenda: Ayes (6); Nays (0); Absent",
+        "from Meeting (1 - Sullivan).",
+        "PUBLIC COMMENTS. None.",
+        "APPROVAL OF MINUTES.",
+        "MOTION by Mitzi Brown seconded by Tom Wack for the regular meeting minutes from April 13, 2026 were",
+        "approved: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan).",
+        "TREASURER'S REPORT.",
+        "Mr. Hughes reported that year-to-date finances are strong, with expenses under budget and income exceeding",
+        "projections.",
+        "a.   Draft FY2027 Budget Discussion",
+        "The FY2027 draft budget was presented for discussion which focused primarily on baseline operating costs",
+        "and income. Specific areas like professional services and the Sports Tourism Fund were identified as",
+        "needing further consideration. A few members expressed concern that the Loan Program's $25,000 budget",
+        "is too low. Mr. Hughes and others suggested increasing the Loan Program\u2019s budget to around $100,000 to",
+        "support revenue-generating opportunities. The final budget is expected to be approved in June, following",
+        "further refinement of year-end figures.",
+        "OLD BUSINESS.",
+        "b.   InvestFXBG Loan Program \u2013 Josh Summits",
+        "Mr. Summits presented the proposed amendments and changes to the InvestFXBG credit program policy",
+        "manual, noting that the document had been reviewed and approved by legal counsel and the loan",
+        "underwriting team. Key changes include: an increase in borrowing limits to between $5,000 and $250,000,",
+        "with larger amounts considered under special circumstances, and loan terms typically priced around the",
+        "Wall Street general prime rate for three to five years, with potential for longer terms on larger cap",
+        "financing. The policy now establishes one-time and/or monthly servicing fees for closed loans. Regarding",
+        "collateral, the updated policy aims for the EDA to hold first position but allows flexibility to slide to second",
+        "position, particularly for real estate. The Loan Review Committee (LRC) composition has been formalized",
+        "to include two EDA board members and up to three non-EDA members from commercial lending",
+        "institutions within zip code 22401, with details on the appointment process and potential conflicts",
+        "addressed. Notably, the LRC's authority has shifted from full loan approval to making recommendations to",
+        "the full EDA board. Banks that have expressed interest in participating with the LRC include Shore United,",
+        "Citizens and Farmers (C&F) Bank, and First Citizens. Mr. Summits also confirmed that the Small Business",
+        "Catalyst Fund, Microloan Program, and Business Capital Growth Fund terms remain unchanged from the",
+        "previous meeting.",
+        "MOTION by Mitzi Brown seconded by Tom Wack to adopt the proposed policies to the InvestFXBG Loan",
+        "Program: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan).",
+        "c.   Establishment of the Serve & Stay Fredericksburg Fund \u2013 Chair Schatz",
+        "Chair Schatz introduced the \"Serve and Stay Program,\" designed to support key public service workers in",
+        "Fredericksburg. The program aims to assist first responders, teachers, and other city and school employees",
+        "with housing costs. Following a conversation with a banker specializing in workforce housing, the",
+        "proposed guidelines include mortgage rate buy-downs of up to $6,500 for home purchases and up to $4,500",
+        "for security deposits and initial rent for renters. Initially conceived for first responders and teachers, the",
+        "program has been broadened to include all City of Fredericksburg and public-school employees, while",
+        "retaining preferred qualifications for those in essential service roles.",
+        "Chair Schatz proposed an initial allocation of $30,000 to the Community Foundation to establish the fund,",
+        "emphasizing that this demonstrates public sector leadership and provides a platform for private sector",
+        "investment. The program anticipates the need for a committee, potentially composed of two EDA members,",
+        "to review and approve applications within a two-week timeframe to ensure quick turnaround for applicants",
+        "who often make employment decisions concurrently. The creation of this committee and the allocation of",
+        "funds were presented for approval, with the understanding that specific language and implementation",
+        "details would be refined.",
+        "During the discussion, Mr. Mikityuk sought clarity around the \"high need\" criteria and the potential for",
+        "perceived inequity, especially when considering household incomes that could exceed typical public",
+        "servant salaries. Chair Schatz and other members explained that the intent is to support individuals offered",
+        "employment in critical roles, with the city and schools determining which roles qualify as \u201chigh need\u201d, and",
+        "the Board making final allocation decisions based on these inputs and financial qualifications. The",
+        "discussion also touched upon the role of the Community Foundation as an intermediary for managing funds",
+        "and applications.",
+        "MOTION by Mitzi Brown seconded by Anita Crossfield to allocate $30,000 from the FY2026 operating",
+        "budget to the Serve and Stay Program through the Community Foundation: Ayes (6); Nays (0); Absent from",
+        "Meeting (1 - Sullivan).",
+        "NEW BUSINESS.",
+        "a.   Regional Entrepreneurial Initiative Strategic Plan and Upcoming Implementation \u2013 Mike Purello",
+        "Michael Purello, head of the Rivers Region Entrepreneurial Ecosystem (RREC), provided a detailed update",
+        "on the Regional Entrepreneurial Initiative (REI) Strategic Plan and its upcoming implementation,",
+        "specifically requesting a matching fund commitment of $10,000 per year for two years from the",
+        "Fredericksburg EDA. This funding is crucial for supporting the GoVirginia implementation grant, building",
+        "upon prior support received for the planning grant.",
+        "Mr. Purello contextualized the initiative within GoVirginia Region 6, which comprises the Fredericksburg",
+        "subregion, Middle Peninsula, and Northern Neck. He highlighted that despite considerable entrepreneurial",
+        "activity and innovation ingredients; this region has not yet achieved the same level of entrepreneurial",
+        "ecosystem development as other areas. The REI Action Plan was developed through extensive research,",
+        "gap analysis, and consultations with hundreds of stakeholders across the region. The implementation grant",
+        "will focus on a subset of this comprehensive plan. The RREC aims to increase the number of",
+        "entrepreneurial startups in Region 6 and cultivate a sustainable, long-term entrepreneurial ecosystem.",
+        "Mr. Purello identified several key regional strengths, including military bases, educational institutions, and",
+        "its extensive waterways, which have inspired the \"Thrive by Water\" thematic approach. He also outlined",
+        "significant identified gaps, such as the underutilization of military bases, a higher-than-average veteran",
+        "population with a lower rate of veteran entrepreneurship, and limited access to venture capital and angel",
+        "investors compared to demographic and size-similar regions like Colorado Springs and Huntsville,",
+        "Alabama.",
+        "The implementation plan is structured around three core regional priorities: first, strengthening",
+        "entrepreneurial support by making it easier for entrepreneurs to discover the region, connect with peers, and",
+        "access expert advice; second, expanding capital access and regional networks, exploring avenues like",
+        "crowdfunding and community-based funding models; and third, leveraging regional assets such as patents",
+        "from Dahlgren, working with research institutions like VIMS, and commercializing technologies to foster",
+        "high-growth businesses. Mr. Purello emphasized that this initiative is designed to be complementary ,",
+        "rather to duplicate existing efforts, particularly those of the Fredericksburg Regional Alliance, which",
+        "focuses on attracting existing businesses and site development, while the RREC targets the attraction and",
+        "support of new entrepreneurs and startups.",
+        "Mr. Purello further elaborated on the distinction between high-growth businesses, which have the potential",
+        "for rapid scaling and global reach, and Main Street businesses. While the initiative will benefit both, the",
+        "focus on high-growth businesses is driven by GoVirginia's emphasis on economic impact and tax revenue",
+        "generation. The two-year implementation plan aims to establish a robust online presence, launch key",
+        "activities, and importantly, develop a sustainable model for the ecosystem beyond the GoVirginia funding,",
+        "likely through corporate sponsorships. The primary implementation focus will be on the Fredericksburg",
+        "subregion, with efforts to develop high-growth businesses there, while still supporting the broader region.",
+        "Regarding funding, Mr. Purello detailed existing match commitments from entities like FRA, Stafford,",
+        "Spotsylvania, King George, and Germanna, and is requesting $20,000 from the Fredericksburg EDA over",
+        "two years. The total matching funds secured will determine the amount requested from Go Virginia, with a",
+        "target of under $500,000 for GoVirginia, requiring approximately $225,000 in matching funds. The",
+        "Fredericksburg EDA will need to provide a commitment by July 10th to be included in the final",
+        "application, with a potential discussion to occur at a future meeting.",
+        "b.   EDA Grant Program Application \u2013 Amy Peregoy",
+        "An application was presented from Fredericksburg Fashion Week International requesting $2,500 in",
+        "sponsorship for the Fredericksburg Fashion Block Party, scheduled for June 6, 2026, at the Fredericksburg",
+        "Area Museum (FAM). The event is projected to attract 400 attendees and aims to enhance event",
+        "production, support local designers and artists, expand community engagement, and strengthen educational",
+        "programs, with the goal of generating measurable economic and workforce development benefits for",
+        "Fredericksburg. The applicant, Ms. Latoya White, owner of Fredericksburg Fashion Week International,",
+        "clarified that while this is a new event for Fredericksburg, her organization has a history of successful",
+        "fashion events in the area, attracting significant crowds and media attention, and has a strong track record",
+        "of placing students into higher education and reducing bullying rates in schools through fashion-focused",
+        "programs.",
+        "Ms. White explained that the requested EDA funds would primarily support production enhancements for",
+        "the block party, including lighting, backdrops, and overall visual appeal, to ensure a high-quality",
+        "representation of Fredericksburg. She noted that this event is a \"block party\" designed to be free and open",
+        "to the community, encouraging exploration of local businesses and shopping opportunities. While the initial",
+        "projection was for 400 attendees, organizers now anticipate 2,000-2,500 people. The event has secured",
+        "proclamations from the Mayor and participation from notable speakers like Chuck Frye. International",
+        "designers and models with substantial social media following are expected to participate, bringing their",
+        "own audiences.",
+        "Members raised concerns regarding the short timeline for securing sponsorships, the event's promotion, and",
+        "the clarity of vendor numbers and their confirmation. Ms. White addressed these by explaining that while",
+        "this is her first time actively seeking sponsorships from organizations like the EDA, Fredericksburg",
+        "Fashion Week International has a history of sponsorships coming to them, and that this block party event",
+        "has been promoted for nearly a year through social media, local partnerships, and media appearances,",
+        "including Channel 9 and \"Great Day Washington.\"",
+        "MOTION by Kevin Hughes seconded by Chair Schatz to approve a grant in the amount of $2,500, structured",
+        "as vendor invoices, to support the Fredericksburg Fashion Week Block Party: Ayes (6); Nays (0); Absent",
+        "from Meeting (1 - Sullivan).",
+        "c.   2026 VA1 Governor\u2019s Tourism Summit \u2013 Chair Schatz",
+        "The committee discussed the upcoming Virginia Governor's Tourism Summit, scheduled for November 18-",
+        "20th at Kalahari Resort. The proposal is to have one or two EDA representatives attend, potentially",
+        "including the members of the Tourism Committee and Chair Schatz, to gain insights from this regionally",
+        "close event. While hotel stays are not anticipated, the idea is to have a presence, with the early bird ticket",
+        "price being $425 per person before September 18th.This would amount to approximately $1,000 for two",
+        "tickets. The full agenda is not yet available, so members agreed to wait to make a decision on purchasing",
+        "tickets after reviewing the agenda in September.",
+        "d.   Nomination Discussion for Slate of Officers \u2013 Chair Schatz"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06082026-2174?html=true",
+      "date": "2026-06-08",
+      "agenda_id": "2174"
+    },
     {
       "format": "pdf",
       "sections": [
@@ -816,599 +1197,6 @@
         }
       ],
       "video_duration_sec": 6118,
-      "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "date_label": "May 26, 2026",
-      "time": "7:30 pm",
-      "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Regular Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Invocation",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Presentations",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Second Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund",
-              "documents": [
-                "5A Amending the FY 2026 Budget to Supplement CSA Funding 2nd Read.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Board and Commission Minutes",
-              "documents": [
-                "EDA Minutes_02.09.2026.pdf",
-                "EDA Minutes_03.09.2026.pdf",
-                "EDA Minutes_04.13.2026.pdf",
-                "300th Minutes_01.07.2026.pdf",
-                "300th Minutes_02.04.2026.pdf",
-                "300th Minutes_03.04.2026.pdf",
-                "APVD Minutes_03.09.2026.pdf",
-                "APVD Minutes_04.13.2026.pdf",
-                "APVD Minutes_03.09.2026 (Supplementary Meeting).pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Comments from the Public",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Council Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Minutes",
-              "documents": [
-                "04-14-26 Regular Session Minutes Draft .pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Boards and Commission Appointments",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "City Manager Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Adopting the Fiscal Year 2027 \u2013 Fiscal Year 2031 Capital Improvement Plan",
-              "documents": [
-                "11A Adopting the Fiscal Year 2027 _ Fiscal Year 2031 Capital Improvement Plan.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Authorizing the Use of Surplus Motor Fuels Tax for Transportation Purposes in the FY 2026 Budget",
-              "documents": [
-                "11B Authorizing Use of 1,100,597 of Motor Fuels Tax Funds for Various Transportation Projects.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Calendars",
-              "documents": [
-                "11C Calendars.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 05/26/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 May 26, 2026 7:30 pm Mayor Kerry P. Devine, Presiding 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations 5. Consent Agenda A. Resolution 26-__, Second Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund Documents: 5A Amending the FY 2026 Budget to Supplement CSA Funding 2nd Read.pdf B. Transmittal of Board and Commission Minutes Documents: EDA Minutes_02.09.2026.pdf EDA Minutes_03.09.2026.pdf EDA Minutes_04.13.2026.pdf 300th Minutes_01.07.2026.pdf 300th Minutes_02.04.2026.pdf 300th Minutes_03.04.2026.pdf APVD Minutes_03.09.2026.pdf APVD Minutes_04.13.2026.pdf APVD Minutes_03.09.2026 (Supplementary Meeting).pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date . Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters. 8. Council Agenda 9. Minutes A. Minutes Documents: 04-14-26 Regular Session Minutes Draft .pdf 10. Boards and Commission Appointments 11. City Manager Agenda A. Resolution 26-__, Adopting the Fiscal Year 2027 \u2013 Fiscal Year 2031 Capital Improvement Plan Documents: 11A Adopting the Fiscal Year 2027 _ Fiscal Year 2031 Capital Improvement Plan.pdf B. Resolution 26-__, Authorizing the Use of Surplus Motor Fuels Tax for Transportation Purposes in the FY 2026 Budget Documents: 11B Authorizing Use of 1,100,597 of Motor Fuels Tax Funds for Various Transportation Projects.pdf C. Calendars Documents: 11C Calendars.pdf 12. Adjournment",
-      "lines": [
-        "Agenda - 05/26/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "May 26, 2026",
-        "7:30 pm",
-        "Mayor Kerry P. Devine, Presiding",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Invocation",
-        "Vice-Mayor Charlie L. Frye, Jr.",
-        "3.",
-        "Pledge of Allegiance",
-        "Councilor Jannan W. Holmes",
-        "4.",
-        "Presentations",
-        "5.",
-        "Consent Agenda",
-        "A.",
-        "Resolution 26-__, Second Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund",
-        "Documents:",
-        "5A Amending the FY 2026 Budget to Supplement CSA Funding 2nd Read.pdf",
-        "B.",
-        "Transmittal of Board and Commission Minutes",
-        "Documents:",
-        "EDA Minutes_02.09.2026.pdf",
-        "EDA Minutes_03.09.2026.pdf",
-        "EDA Minutes_04.13.2026.pdf",
-        "300th Minutes_01.07.2026.pdf",
-        "300th Minutes_02.04.2026.pdf",
-        "300th Minutes_03.04.2026.pdf",
-        "APVD Minutes_03.09.2026.pdf",
-        "APVD Minutes_04.13.2026.pdf",
-        "APVD Minutes_03.09.2026 (Supplementary Meeting).pdf",
-        "6.",
-        "Public Hearing",
-        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "7.",
-        "Comments from the Public",
-        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than",
-        "1:30 p.m. on the meeting date",
-        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-        "8.",
-        "Council Agenda",
-        "9.",
-        "Minutes",
-        "A.",
-        "Minutes",
-        "Documents:",
-        "04-14-26 Regular Session Minutes Draft .pdf",
-        "10.",
-        "Boards and Commission Appointments",
-        "11.",
-        "City Manager Agenda",
-        "A.",
-        "Resolution 26-__, Adopting the Fiscal Year 2027 \u2013 Fiscal Year 2031 Capital Improvement Plan",
-        "Documents:",
-        "11A Adopting the Fiscal Year 2027 _ Fiscal Year 2031 Capital Improvement Plan.pdf",
-        "B.",
-        "Resolution 26-__, Authorizing the Use of Surplus Motor Fuels Tax for Transportation Purposes in the FY 2026 Budget",
-        "Documents:",
-        "11B Authorizing Use of 1,100,597 of Motor Fuels Tax Funds for Various Transportation Projects.pdf",
-        "C.",
-        "Calendars",
-        "Documents:",
-        "11C Calendars.pdf",
-        "12.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05262026-2168?html=true",
-      "date": "2026-05-26",
-      "agenda_id": "2168",
-      "vimeo_id": "1191743329",
-      "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [
-        {
-          "section_title": "EDA Candidate Interviews: Economic Vision",
-          "start_sec": 1370,
-          "end_sec": 1520,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=1370s",
-          "summary": "Candidates for the Economic Development Authority discuss revitalization strategies, with one member suggesting bold concepts like Top Golf to drive tourism and economic growth.",
-          "significance": "neutral",
-          "importance": 3,
-          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
-        },
-        {
-          "section_title": "Trail Safety & Crime Response",
-          "start_sec": 3560,
-          "end_sec": 3710,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=3560s",
-          "summary": "Police Chief details recent assaults on local trails and outlines a new strategy involving 135 hours of dedicated patrols and increased bike officer presence to address public safety concerns.",
-          "significance": "lowlight",
-          "importance": 5,
-          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
-        },
-        {
-          "section_title": "Red Key Development & Tax Incentives",
-          "start_sec": 5030,
-          "end_sec": 5180,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=5030s",
-          "summary": "Council members scrutinize the financial structure of the Red Key affordable housing deal, specifically questioning the $2 million in incentives provided to the developer and the enforceability of the 10-year rent cap.",
-          "significance": "highlight",
-          "importance": 5,
-          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
-        },
-        {
-          "section_title": "Historic Tax Credit Revenue Analysis",
-          "start_sec": 5650,
-          "end_sec": 5800,
-          "vimeo_id": "1191743329",
-          "vimeo_url": "https://vimeo.com/1191743329#t=5650s",
-          "summary": "A critical exchange regarding the financial impact of historic tax credits, where officials clarify that the previous owner paid negligible taxes due to nonprofit status, challenging the narrative of lost revenue.",
-          "significance": "neutral",
-          "importance": 4,
-          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
-        }
-      ],
-      "video_duration_sec": 6118,
-      "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "date_label": "May 12, 2026",
-      "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Regular Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "7:30 p.m.",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Invocation",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Presentations",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Proclamation for the Marine Corp Historic Half Race - Alex Hetherington, Director, Marine Corps Marathon and Angela Anderson, Deputy Director, Marine Corps Marathon",
-              "documents": [
-                "4A Proclamation.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Ordinance 26-__, First Read, Amending the Water and Sewer Availability Fees",
-              "documents": [
-                "5A Amending Water and Sewer Availibility Fees.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Ordinance 26-__, First Read, Amending Emergency Medical Services Transport Fees",
-              "documents": [
-                "5B Amending EMT Services.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, First Read, Amending the FY 2026 Capital Budget for Replacement Security Equipment in the Fredericksburg Courthouse",
-              "documents": [
-                "5C Courthouse Security Equipment.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Authorizing the City\u2019s Participation in the National PFAS Water System Class Action Settlements with the 3M Company and Dupont Business Entities",
-              "documents": [
-                "5D National PFAS Water SystemSettlements.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Comments from the Public",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Council Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Regular Session \u2013 March 24, 2026",
-              "documents": [
-                "03-24-26 Regular Session Minutes Draft .pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Boards and Commission Appointments",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Arts Commission Appointment",
-              "documents": [
-                "10A Arts Commission Appointment - Booker.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "City Manager Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Budgeting and Appropriating Funds for Fiscal Year (FY) 2027 Beginning July 1, 2026 through June 30, 2027",
-              "documents": [
-                "11A FY 2027 Budget.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Ordinance 26-__, Second Read, Setting the Real Estate Tax Rate at $0.84 per Every $100 of Assessed Value of Real Estate",
-              "documents": [
-                "11B Setting the Real Estate Tax Rate.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Ordinance 26-__, Second Read, Amending the Water and Sewer Rates and Charges",
-              "documents": [
-                "11C Amending the Water and Sewer Rate Changes.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, First Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund",
-              "documents": [
-                "11D Childrens Services Act Fund.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Authorizing the Use of $680,457 in Motor Fuels Taxes for the Virginia Railway Express and $26,600 for the Potomac and Rappahannock Transportation Commission for Fiscal Year 2027",
-              "documents": [
-                "11E VRE PRTC.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Calendars",
-              "documents": [
-                "11F Calendars.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 05/12/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 May 12, 2026 7:30 p.m. Mayor Kerry P. Devine, Presiding 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations A. Proclamation for the Marine Corp Historic Half Race - Alex Hetherington, Director, Marine Corps Marathon and Angela Anderson, Deputy Director, Marine Corps Marathon Documents: 4A Proclamation.pdf 5. Consent Agenda A. Ordinance 26-__, First Read, Amending the Water and Sewer Availability Fees Documents: 5A Amending Water and Sewer Availibility Fees.pdf B. Ordinance 26-__, First Read, Amending Emergency Medical Services Transport Fees Documents: 5B Amending EMT Services.pdf C. Resolution 26-__, First Read, Amending the FY 2026 Capital Budget for Replacement Security Equipment in the Fredericksburg Courthouse Documents: 5C Courthouse Security Equipment.pdf D. Resolution 26-__, Authorizing the City\u2019s Participation in the National PFAS Water System Class Action Settlements with the 3M Company and Dupont Business Entities Documents: 5D National PFAS Water SystemSettlements.pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date . Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters. 8. Council Agenda 9. Minutes A. Regular Session \u2013 March 24, 2026 Documents: 03-24-26 Regular Session Minutes Draft .pdf 10. Boards and Commission Appointments A. Arts Commission Appointment Documents: 10A Arts Commission Appointment - Booker.pdf 11. City Manager Agenda A. Budgeting and Appropriating Funds for Fiscal Year (FY) 2027 Beginning July 1, 2026 through June 30, 2027 Documents: 11A FY 2027 Budget.pdf B. Ordinance 26-__, Second Read, Setting the Real Estate Tax Rate at $0.84 per Every $100 of Assessed Value of Real Estate Documents: 11B Setting the Real Estate Tax Rate.pdf C. Ordinance 26-__, Second Read, Amending the Water and Sewer Rates and Charges Documents: 11C Amending the Water and Sewer Rate Changes.pdf D. Resolution 26-__, First Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund Documents: 11D Childrens Services Act Fund.pdf E. Resolution 26-__, Authorizing the Use of $680,457 in Motor Fuels Taxes for the Virginia Railway Express and $26,600 for the Potomac and Rappahannock Transportation Commission for Fiscal Year 2027 Documents: 11E VRE PRTC.pdf F. Calendars Documents: 11F Calendars.pdf 12. Adjournment",
-      "lines": [
-        "Agenda - 05/12/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "May 12, 2026",
-        "7:30 p.m.",
-        "Mayor Kerry P. Devine, Presiding",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Invocation",
-        "Vice-Mayor Charlie L. Frye, Jr.",
-        "3.",
-        "Pledge of Allegiance",
-        "Councilor Jannan W. Holmes",
-        "4.",
-        "Presentations",
-        "A.",
-        "Proclamation for the Marine Corp Historic Half Race - Alex Hetherington, Director, Marine Corps Marathon and Angela Anderson, Deputy Director, Marine Corps Marathon",
-        "Documents:",
-        "4A Proclamation.pdf",
-        "5.",
-        "Consent Agenda",
-        "A.",
-        "Ordinance 26-__, First Read, Amending the Water and Sewer Availability Fees",
-        "Documents:",
-        "5A Amending Water and Sewer Availibility Fees.pdf",
-        "B.",
-        "Ordinance 26-__, First Read, Amending Emergency Medical Services Transport Fees",
-        "Documents:",
-        "5B Amending EMT Services.pdf",
-        "C.",
-        "Resolution 26-__, First Read, Amending the FY 2026 Capital Budget for Replacement Security Equipment in the Fredericksburg Courthouse",
-        "Documents:",
-        "5C Courthouse Security Equipment.pdf",
-        "D.",
-        "Resolution 26-__, Authorizing the City\u2019s Participation in the National PFAS Water System Class Action Settlements with the 3M Company and Dupont Business Entities",
-        "Documents:",
-        "5D National PFAS Water SystemSettlements.pdf",
-        "6.",
-        "Public Hearing",
-        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "7.",
-        "Comments from the Public",
-        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than",
-        "1:30 p.m. on the meeting date",
-        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-        "8.",
-        "Council Agenda",
-        "9.",
-        "Minutes",
-        "A.",
-        "Regular Session \u2013 March 24, 2026",
-        "Documents:",
-        "03-24-26 Regular Session Minutes Draft .pdf",
-        "10.",
-        "Boards and Commission Appointments",
-        "A.",
-        "Arts Commission Appointment",
-        "Documents:",
-        "10A Arts Commission Appointment - Booker.pdf",
-        "11.",
-        "City Manager Agenda",
-        "A.",
-        "Budgeting and Appropriating Funds for Fiscal Year (FY) 2027 Beginning July 1, 2026 through June 30, 2027",
-        "Documents:",
-        "11A FY 2027 Budget.pdf",
-        "B.",
-        "Ordinance 26-__, Second Read, Setting the Real Estate Tax Rate at $0.84 per Every $100 of Assessed Value of Real Estate",
-        "Documents:",
-        "11B Setting the Real Estate Tax Rate.pdf",
-        "C.",
-        "Ordinance 26-__, Second Read, Amending the Water and Sewer Rates and Charges",
-        "Documents:",
-        "11C Amending the Water and Sewer Rate Changes.pdf",
-        "D.",
-        "Resolution 26-__, First Read, Amending the FY 2026 Budget to Supplement Funding in the Children's Services Act Fund",
-        "Documents:",
-        "11D Childrens Services Act Fund.pdf",
-        "E.",
-        "Resolution 26-__, Authorizing the Use of $680,457 in Motor Fuels Taxes for the Virginia Railway Express and $26,600 for the Potomac and Rappahannock Transportation Commission for Fiscal Year 2027",
-        "Documents:",
-        "11E VRE PRTC.pdf",
-        "F.",
-        "Calendars",
-        "Documents:",
-        "11F Calendars.pdf",
-        "12.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_05122026-2160?html=true",
-      "date": "2026-05-12",
-      "agenda_id": "2160",
-      "vimeo_id": "1191716331",
-      "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [
-        {
-          "section_title": "FY27 Real Estate Tax Rate Approval",
-          "start_sec": 4627,
-          "end_sec": 4659,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=4627s",
-          "summary": "Council votes 7-0 to finalize the FY27 real estate tax rate at $0.84 per $100 of assessed value, setting the baseline for resident property taxes.",
-          "significance": "highlight",
-          "importance": 5,
-          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
-        },
-        {
-          "section_title": "FY27 Budget and Water/Sewer Rate Adjustments",
-          "start_sec": 5751,
-          "end_sec": 5847,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=5751s",
-          "summary": "Council approves the FY27 budget with a 6-1 vote. The dissenting vote highlights ongoing tension regarding the equity of water/sewer rate increases and the city's financial reliance on data center revenue.",
-          "significance": "lowlight",
-          "importance": 5,
-          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
-        },
-        {
-          "section_title": "Children's Services Act Funding Amendment",
-          "start_sec": 6039,
-          "end_sec": 6130,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=6039s",
-          "summary": "Council unanimously approves an amendment to fund the Children's Services Act, addressing state-mandated requirements for vulnerable youth services.",
-          "significance": "highlight",
-          "importance": 4,
-          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
-        },
-        {
-          "section_title": "VRE Motor Fuels Tax Authorization",
-          "start_sec": 6142,
-          "end_sec": 6220,
-          "vimeo_id": "1191716331",
-          "vimeo_url": "https://vimeo.com/1191716331#t=6142s",
-          "summary": "Council votes 7-0 to authorize the use of gasoline tax revenue for the Virginia Railway Express (VRE), supporting regional transit funding.",
-          "significance": "highlight",
-          "importance": 3,
-          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
-        }
-      ],
-      "video_duration_sec": 6295,
       "video_lobby_only": false
     },
     {
