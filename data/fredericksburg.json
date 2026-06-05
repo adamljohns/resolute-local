@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-04T22:00:01Z",
-  "updated_local": "2026-06-04 18:00 EDT",
+  "updated": "2026-06-05T01:30:00Z",
+  "updated_local": "2026-06-04 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -2384,6 +2384,13 @@
       "summary": "The Fredericksburg City Council will conduct first and second readings of ordinances to adjust water, sewer, and EMS fees, approve a courthouse security budget, and finalize the FY 2027 real estate tax rate. The session also includes a public hearing on a national PFAS water settlement and appointments to the Arts Commission. These actions directly impact household utility costs, property taxes, and local infrastructure funding.",
       "why": "Changes to water, sewer, and EMS fees will alter monthly household expenses for residents, while the real estate tax rate of $0.84 per $100 of assessed value affects property owners' annual tax liabilities. Approving the courthouse security budget impacts public safety resources, and the PFAS settlement may influence long-term water quality and community health. These financial decisions shape the city's fiscal health and service delivery for families and businesses.",
       "how": "Attend the meeting on May 12, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. Submit written comments via U.S. mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to have them read aloud. Identify yourself by name and address, keep remarks under three minutes for written submissions, and ensure topics relate to City business.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-06-09": {
+      "summary": "The City Council will consider resolutions authorizing a joint workforce development consortium under federal law and terminating a gas rights lease at a regional landfill. The agenda also includes a first reading of amendments to the FY 2026 budget for school grants and capital funds, alongside routine approvals of board minutes and planning area processes.",
+      "why": "These decisions directly impact local economic development strategies and the management of regional waste infrastructure, which affects the city's tax base and environmental resources. The budget amendments influence funding levels for school grants and capital projects, determining how educational resources are allocated for the upcoming fiscal year.",
+      "how": "Residents can submit written comments for the public hearing by mail or email to the Clerk of Council no later than 1:30 p.m. on June 9, 2026. To speak in person, sign up with the Clerk before the meeting begins at 1:30 p.m. at 715 Princess Anne Street, adhering to the five-minute time limit and decorum rules.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
