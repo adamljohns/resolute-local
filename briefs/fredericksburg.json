@@ -27,5 +27,12 @@
     "how": "Attend the meeting on May 12, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. Submit written comments via U.S. mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to have them read aloud. Identify yourself by name and address, keep remarks under three minutes for written submissions, and ensure topics relate to City business.",
     "source": "auto-llm",
     "model": "qwen3.6-35b-a3b"
+  },
+  "2026-06-09": {
+    "summary": "The City Council will consider resolutions authorizing a joint workforce development consortium under federal law and terminating a gas rights lease at a regional landfill. The agenda also includes a first reading of amendments to the FY 2026 budget for school grants and capital funds, alongside routine approvals of board minutes and planning area processes.",
+    "why": "These decisions directly impact local economic development strategies and the management of regional waste infrastructure, which affects the city's tax base and environmental resources. The budget amendments influence funding levels for school grants and capital projects, determining how educational resources are allocated for the upcoming fiscal year.",
+    "how": "Residents can submit written comments for the public hearing by mail or email to the Clerk of Council no later than 1:30 p.m. on June 9, 2026. To speak in person, sign up with the Clerk before the meeting begins at 1:30 p.m. at 715 Princess Anne Street, adhering to the five-minute time limit and decorum rules.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
   }
 }

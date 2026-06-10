@@ -271,7 +271,57 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06102026-2172?html=true",
       "date": "2026-06-10",
-      "agenda_id": "2172"
+      "agenda_id": "2172",
+      "vimeo_id": "1199916983",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "EDA Launches 'Serve and Stay' Housing Fund for Civic Workers",
+          "start_sec": 1355,
+          "end_sec": 1505,
+          "vimeo_id": "1199916983",
+          "vimeo_url": "https://vimeo.com/1199916983#t=1355s",
+          "summary": "The Economic Development Authority presents a new fund designed to help city employees and school staff afford housing in Fredericksburg. The program addresses the gap between public sector salaries ($50k-$70k) and rising home values ($500k+), offering one-time assistance for purchases or leases to stabilize the civic workforce.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=D2ZoJBo1zIo"
+        },
+        {
+          "section_title": "Public Hearing on Mayfield Zoning and Anti-Displacement Concerns",
+          "start_sec": 2049,
+          "end_sec": 2199,
+          "vimeo_id": "1199916983",
+          "vimeo_url": "https://vimeo.com/1199916983#t=2049s",
+          "summary": "Residents and community leaders testify regarding the proposed 'Creative Maker District' in Area 8 (Mayfield). Speakers urge the Council to establish anti-displacement strategies, such as community land trusts and tax relief, before revitalization pressures increase, citing historical displacement in neighborhoods like Hazel Hill.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=D2ZoJBo1zIo"
+        },
+        {
+          "section_title": "Ratification of Landfill Gas Lease Termination",
+          "start_sec": 4171,
+          "end_sec": 4220,
+          "vimeo_id": "1199916983",
+          "vimeo_url": "https://vimeo.com/1199916983#t=4171s",
+          "summary": "Council votes unanimously to terminate the lease with MRS Go LLC for the Rappahannock Regional Solid Waste Management Board landfill. The move allows the city to pursue new opportunities for capturing methane gas for renewable energy as the current agreement nears its 2029 expiration.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=D2ZoJBo1zIo"
+        },
+        {
+          "section_title": "Council Approves Tax Abatement for Former Mary Washington Hospital Redevelopment",
+          "start_sec": 4330,
+          "end_sec": 4480,
+          "vimeo_id": "1199916983",
+          "vimeo_url": "https://vimeo.com/1199916983#t=4330s",
+          "summary": "Council votes on first read for a 10-year economic development agreement with 2300 Fall Hill Partners. The project involves redeveloping the historic former hospital site into mixed-use housing. The agreement includes specific affordability mandates: 12 units capped at $1,000/month and 10 units with rent discounts for city/ school employees.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=D2ZoJBo1zIo"
+        }
+      ],
+      "video_duration_sec": 5777,
+      "video_lobby_only": false
     },
     {
       "format": "html",
