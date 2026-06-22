@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-22T10:00:04Z",
-  "updated_local": "2026-06-22 06:00 EDT",
+  "updated": "2026-06-22T22:00:04Z",
+  "updated_local": "2026-06-22 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -84,6 +84,124 @@
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Regular Session",
+      "body": "City Council",
+      "sections": [
+        {
+          "level": 1,
+          "title": "(unattached)",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Biannual Planning Off-Site",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "June 25 and 26, 2026",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Council Biannual Planning Off-Site",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 06/26/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council Biannual Planning Off-Site FXBG City Center 601 Caroline Street, Third Floor Training Room Fredericksburg, Virginia 22401 June 25 and 26, 2026 Agenda 1. Council Biannual Planning Off-Site Thursday, June 25 from 8:15 \u2013 5:00pm Friday, June 26 from 8:15 \u2013 4:30pm",
+      "lines": [
+        "Agenda - 06/26/2026",
+        "City of Fredericksburg, Virginia",
+        "Hon. Kerry P. Devine, Mayor",
+        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
+        "Hon. Jannan W. Holmes, At-Large",
+        "Hon. Dr. Will B. Mackintosh, At-Large",
+        "Hon. Matt D. Rowe, Ward One",
+        "Hon. Joy Y. Crump, Ward Two",
+        "Hon. Susanna R. Finn, Ward Three",
+        "City Council",
+        "Biannual Planning Off-Site",
+        "FXBG City Center",
+        "601 Caroline Street, Third Floor Training Room",
+        "Fredericksburg, Virginia \u00a022401",
+        "June 25 and 26, 2026",
+        "Agenda",
+        "1.",
+        "Council Biannual Planning Off-Site",
+        "Thursday, June 25 from 8:15 \u2013 5:00pm",
+        "Friday, June 26 from 8:15 \u2013 4:30pm"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06262026-2182?html=true",
+      "date": "2026-06-26",
+      "agenda_id": "2182"
+    },
+    {
+      "format": "html",
+      "session_type": "Regular Session",
+      "body": "City Council",
+      "sections": [
+        {
+          "level": 1,
+          "title": "(unattached)",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Biannual Planning Off-Site",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Notice of Meeting",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "June 25 and 26, 2026",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Council Biannual Planning Off-Site",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 06/25/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council Biannual Planning Off-Site FXBG City Center 601 Caroline Street, Third Floor Training Room Fredericksburg, Virginia 22401 Notice of Meeting June 25 and 26, 2026 1. Council Biannual Planning Off-Site Thursday, June 25 from 8:15 \u2013 5:00pm Friday, June 26 from 8:15 \u2013 4:30pm",
+      "lines": [
+        "Agenda - 06/25/2026",
+        "City of Fredericksburg, Virginia",
+        "Hon. Kerry P. Devine, Mayor",
+        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
+        "Hon. Jannan W. Holmes, At-Large",
+        "Hon. Dr. Will B. Mackintosh, At-Large",
+        "Hon. Matt D. Rowe, Ward One",
+        "Hon. Joy Y. Crump, Ward Two",
+        "Hon. Susanna R. Finn, Ward Three",
+        "City Council",
+        "Biannual Planning Off-Site",
+        "FXBG City Center",
+        "601 Caroline Street, Third Floor Training Room",
+        "Fredericksburg, Virginia \u00a022401",
+        "Notice of Meeting",
+        "June 25 and 26, 2026",
+        "1.",
+        "Council Biannual Planning Off-Site",
+        "Thursday, June 25 from 8:15 \u2013 5:00pm",
+        "Friday, June 26 from 8:15 \u2013 4:30pm"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06252026-2181?html=true",
+      "date": "2026-06-25",
+      "agenda_id": "2181"
+    },
     {
       "format": "html",
       "time": "5:30 PM",
@@ -1273,277 +1391,6 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06092026-2175?html=true",
       "date": "2026-06-09",
       "agenda_id": "2175"
-    },
-    {
-      "format": "html",
-      "time": "5:00 PM",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Tuesday, June 9, 2026",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Large Conference Room",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Topics",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 06/09/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council Work Session 715 Princess Anne Street, Second Floor Conference Room Fredericksburg, Virginia 22401 Tuesday, June 9, 2026 Large Conference Room 5:00 PM Agenda 1. Call to Order 2. Topics Economic Development Authority Interviews (3 candidates) Jeremiah Community Update & Introduce New Outreach Case Manager Land Use Legislation by General Assembly Sophia Street Parking Lot Agreement 3. Adjournment",
-      "lines": [
-        "Agenda - 06/09/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "Work Session",
-        "715 Princess Anne Street, Second Floor Conference Room",
-        "Fredericksburg, Virginia \u00a022401",
-        "Tuesday, June 9, 2026",
-        "Large Conference Room",
-        "5:00 PM",
-        "Agenda",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Topics",
-        "Economic Development Authority Interviews (3 candidates)",
-        "Jeremiah Community Update & Introduce New Outreach Case Manager",
-        "Land Use Legislation by General Assembly",
-        "Sophia Street Parking Lot Agreement",
-        "3.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06092026-2176?html=true",
-      "date": "2026-06-09",
-      "agenda_id": "2176"
-    },
-    {
-      "format": "html",
-      "session_type": "Regular Session",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination of a quorum",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination that public notice requirements have been met",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "June 8, 2026 ARB Public Notice",
-              "documents": [
-                "3 2026-06-08_2ndprint_public notice_ARBhearing.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Approval of Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "June 8, 2026 ARB Agenda",
-              "documents": [
-                "1 06-08-2026_ARB Agenda.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Announcements and Reports",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Review of Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "May 11, 2026 \u2013 Public Meeting ARB Minutes",
-              "documents": [
-                "6A 2026-05-11 ARB Minutes DRAFT.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Ex Parte Communication",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Conflicts of Interest",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation",
-              "documents": [
-                "9A COA2605-0197_Administrative Review Form_205 William Street.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation",
-              "documents": [
-                "9B COA2605-0198_Administrative Review Form_604 Caroline Street.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation",
-              "documents": [
-                "9C COA2605-0199_Administrative Review Form_900 Caroline Street.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation",
-              "documents": [
-                "9D COA2605-0200_Administrative Review Form_307 Amelia Street.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "General Public Comment",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Other Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Staff Update",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 06/08/2026 ARCHITECTURAL REVIEW BOARD AGENDA June 8, 2025 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. June 8, 2026 ARB Public Notice Documents: 3 2026-06-08_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. June 8, 2026 ARB Agenda Documents: 1 06-08-2026_ARB Agenda.pdf 5. Announcements and Reports 6. Review of Minutes 6.A. May 11, 2026 \u2013 Public Meeting ARB Minutes Documents: 6A 2026-05-11 ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation Documents: 9A COA2605-0197_Administrative Review Form_205 William Street.pdf 9.B. COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation Documents: 9B COA2605-0198_Administrative Review Form_604 Caroline Street.pdf 9.C. COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation Documents: 9C COA2605-0199_Administrative Review Form_900 Caroline Street.pdf 9.D. COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation Documents: 9D COA2605-0200_Administrative Review Form_307 Amelia Street.pdf 10. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 11. Other Business 12. Staff Update 13. Adjournment",
-      "lines": [
-        "Agenda - 06/08/2026",
-        "ARCHITECTURAL REVIEW BOARD",
-        "AGENDA",
-        "June 8, 2025",
-        "7:00 P.M.",
-        "Live streaming available during meetings and archived meeting videos are also available.",
-        "View Meeting Stream",
-        "Agenda",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Determination of a quorum",
-        "3.",
-        "Determination that public notice requirements have been met",
-        "3.A.",
-        "June 8, 2026 ARB Public Notice",
-        "Documents:",
-        "3       2026-06-08_2ndprint_public notice_ARBhearing.pdf",
-        "4.",
-        "Approval of Agenda",
-        "4.A.",
-        "June 8, 2026 ARB Agenda",
-        "Documents:",
-        "1       06-08-2026_ARB Agenda.pdf",
-        "5.",
-        "Announcements and Reports",
-        "6.",
-        "Review of Minutes",
-        "6.A.",
-        "May 11, 2026 \u2013 Public Meeting ARB Minutes",
-        "Documents:",
-        "6A    2026-05-11 ARB Minutes DRAFT.pdf",
-        "7.",
-        "Disclosure of Ex Parte Communication",
-        "8.",
-        "Disclosure of Conflicts of Interest",
-        "9.",
-        "Consent Agenda",
-        "9.A.",
-        "COA 2605-0197 \u2013 205 William Street \u2013 Sign Installation",
-        "Documents:",
-        "9A    COA2605-0197_Administrative Review Form_205 William Street.pdf",
-        "9.B.",
-        "COA 2605-0198 \u2013 604 Caroline Street \u2013 Sign Installation",
-        "Documents:",
-        "9B    COA2605-0198_Administrative Review Form_604 Caroline Street.pdf",
-        "9.C.",
-        "COA 2605-0199 \u2013 900 Caroline Street \u2013 Sign Installation",
-        "Documents:",
-        "9C    COA2605-0199_Administrative Review Form_900 Caroline Street.pdf",
-        "9.D.",
-        "COA 2605-0200 \u2013 307 Amelia Street \u2013 Fence Installation",
-        "Documents:",
-        "9D    COA2605-0200_Administrative Review Form_307 Amelia Street.pdf",
-        "10.",
-        "General Public Comment",
-        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
-        "[email\u00a0protected]",
-        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
-        "11.",
-        "Other Business",
-        "12.",
-        "Staff Update",
-        "13.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06082026-2173?html=true",
-      "date": "2026-06-08",
-      "agenda_id": "2173"
     },
     {
       "date": "2026-02-24",
