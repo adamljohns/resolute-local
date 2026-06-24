@@ -291,7 +291,57 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06232026-2178?html=true",
       "date": "2026-06-23",
-      "agenda_id": "2178"
+      "agenda_id": "2178",
+      "vimeo_id": "1199943879",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Main Street District Pilot Program: Street Closures and Safety",
+          "start_sec": 1174,
+          "end_sec": 1300,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=1174s",
+          "summary": "City proposes a two-year pilot program in the Main Street district to streamline event planning. Key decision: No new street closures will be approved during the pilot except for two annual events organized by Main Street, aiming to reduce bureaucratic friction for community gatherings while ensuring safety.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Renwick Courthouse PPEA Solicitation and Public Access",
+          "start_sec": 2381,
+          "end_sec": 2531,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2381s",
+          "summary": "Planning Director presents the Request for Proposals (RFP) for the historic Renwick Courthouse. The city seeks to transform the building into a public asset, emphasizing that 'public use or public access' is a core priority. Council reviews the scope to ensure the project serves the community rather than becoming a private luxury development.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Zoning Updates for 'Two-Over-Two' Housing",
+          "start_sec": 2812,
+          "end_sec": 2930,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2812s",
+          "summary": "Council reviews technical amendments to allow 'stacked' townhomes (two-over-two) in form-based codes. This change permits up to 16 units per lot, directly addressing the need for affordable, family-sized housing options in established neighborhoods without requiring large-scale redevelopment.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "300th Anniversary Celebration: Community Engagement and Art",
+          "start_sec": 3598,
+          "end_sec": 3748,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=3598s",
+          "summary": "The 300th Anniversary Committee outlines plans for community conversations and a culminating art installation. They highlight partnerships with local organizations and the goal of using the celebration to beautify public spaces, inviting residents to engage in shaping the city's future identity.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        }
+      ],
+      "video_duration_sec": 4198,
+      "video_lobby_only": false
     },
     {
       "format": "html",
@@ -339,7 +389,57 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06232026-2179?html=true",
       "date": "2026-06-23",
-      "agenda_id": "2179"
+      "agenda_id": "2179",
+      "vimeo_id": "1199943879",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Main Street District Pilot Program: Street Closures and Safety",
+          "start_sec": 1174,
+          "end_sec": 1300,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=1174s",
+          "summary": "City proposes a two-year pilot program in the Main Street district to streamline event planning. Key decision: No new street closures will be approved during the pilot except for two annual events organized by Main Street, aiming to reduce bureaucratic friction for community gatherings while ensuring safety.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Renwick Courthouse PPEA Solicitation and Public Access",
+          "start_sec": 2381,
+          "end_sec": 2531,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2381s",
+          "summary": "Planning Director presents the Request for Proposals (RFP) for the historic Renwick Courthouse. The city seeks to transform the building into a public asset, emphasizing that 'public use or public access' is a core priority. Council reviews the scope to ensure the project serves the community rather than becoming a private luxury development.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Zoning Updates for 'Two-Over-Two' Housing",
+          "start_sec": 2812,
+          "end_sec": 2930,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2812s",
+          "summary": "Council reviews technical amendments to allow 'stacked' townhomes (two-over-two) in form-based codes. This change permits up to 16 units per lot, directly addressing the need for affordable, family-sized housing options in established neighborhoods without requiring large-scale redevelopment.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "300th Anniversary Celebration: Community Engagement and Art",
+          "start_sec": 3598,
+          "end_sec": 3748,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=3598s",
+          "summary": "The 300th Anniversary Committee outlines plans for community conversations and a culminating art installation. They highlight partnerships with local organizations and the goal of using the celebration to beautify public spaces, inviting residents to engage in shaping the city's future identity.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        }
+      ],
+      "video_duration_sec": 4198,
+      "video_lobby_only": false
     },
     {
       "format": "html",
@@ -613,7 +713,57 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06232026-2180?html=true",
       "date": "2026-06-23",
-      "agenda_id": "2180"
+      "agenda_id": "2180",
+      "vimeo_id": "1199943879",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Main Street District Pilot Program: Street Closures and Safety",
+          "start_sec": 1174,
+          "end_sec": 1300,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=1174s",
+          "summary": "City proposes a two-year pilot program in the Main Street district to streamline event planning. Key decision: No new street closures will be approved during the pilot except for two annual events organized by Main Street, aiming to reduce bureaucratic friction for community gatherings while ensuring safety.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Renwick Courthouse PPEA Solicitation and Public Access",
+          "start_sec": 2381,
+          "end_sec": 2531,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2381s",
+          "summary": "Planning Director presents the Request for Proposals (RFP) for the historic Renwick Courthouse. The city seeks to transform the building into a public asset, emphasizing that 'public use or public access' is a core priority. Council reviews the scope to ensure the project serves the community rather than becoming a private luxury development.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Zoning Updates for 'Two-Over-Two' Housing",
+          "start_sec": 2812,
+          "end_sec": 2930,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2812s",
+          "summary": "Council reviews technical amendments to allow 'stacked' townhomes (two-over-two) in form-based codes. This change permits up to 16 units per lot, directly addressing the need for affordable, family-sized housing options in established neighborhoods without requiring large-scale redevelopment.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "300th Anniversary Celebration: Community Engagement and Art",
+          "start_sec": 3598,
+          "end_sec": 3748,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=3598s",
+          "summary": "The 300th Anniversary Committee outlines plans for community conversations and a culminating art installation. They highlight partnerships with local organizations and the goal of using the celebration to beautify public spaces, inviting residents to engage in shaping the city's future identity.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        }
+      ],
+      "video_duration_sec": 4198,
+      "video_lobby_only": false
     },
     {
       "format": "pdf",
