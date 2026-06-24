@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-24T10:00:01Z",
-  "updated_local": "2026-06-24 06:00 EDT",
+  "updated": "2026-06-24T22:00:05Z",
+  "updated_local": "2026-06-24 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -2727,6 +2727,13 @@
       "summary": "The Fredericksburg City Council will review text amendments to the Two-Over-Twos and Form-Based Code regulations, which dictate density and building design standards. The council will also receive a report from the 300th Steering Committee regarding the city's upcoming bicentennial anniversary and consider requests for special event street closures.",
       "why": "Changes to zoning codes directly impact housing supply, neighborhood character, and the long-term tax base by determining what can be built where. The 300th anniversary planning affects local business activity and public safety logistics through street closures. These decisions shape the community's physical environment and fiscal health for years to come.",
       "how": "Residents can attend the session on June 23, 2026, at 5:30 PM in the Second Floor Conference Room at 715 Princess Anne Street. Public comment periods are typically available during the meeting; check the agenda for specific time limits and registration procedures. You may also email council members prior to the meeting to express your views on the zoning amendments or anniversary plans.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-06-25": {
+      "summary": "The listed agenda items indicate a biannual planning off-site for the Fredericksburg City Council, not a regular public session. This internal retreat is scheduled for June 25-26, 2026, and is not open to the public for comment or observation. Regular council meetings where binding decisions are made typically occur on separate dates and are held in the Council Chambers.",
+      "why": "While this specific off-site does not allow public input, the strategic plans developed during such retreats directly influence future zoning changes, tax base growth, and infrastructure investments. These long-term decisions shape the quality of local schools, public safety resource allocation, and the mix of businesses in the community. Residents should monitor subsequent regular council meetings to see how these strategic plans are translated into actionable ordinances.",
+      "how": "You cannot attend or speak at this off-site session as it is an internal working retreat. To engage with the council, you must attend the next regular City Council session, which is typically held in the Council Chambers at 601 Caroline Street. Check the official City of Fredericksburg website for the specific date and time of the next public meeting, where you can sign up for public comment or email council members regarding agenda items.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
