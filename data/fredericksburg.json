@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-26T01:30:05Z",
-  "updated_local": "2026-06-25 21:30 EDT",
+  "updated": "2026-06-26T10:00:04Z",
+  "updated_local": "2026-06-26 06:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -38,10 +38,10 @@
   ],
   "next_meeting": {
     "title": "City Council Session",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "time": "5:00pm",
     "location": "",
-    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06252026-2181?html=true",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06262026-2182?html=true",
     "items": [
       "601 Caroline Street, Third Floor Training Room",
       "Council Biannual Planning Off-Site",
@@ -49,7 +49,7 @@
       "Friday, June 26 from 8:15 \u2013 4:30pm"
     ],
     "raw_lines": [
-      "Agenda - 06/25/2026",
+      "Agenda - 06/26/2026",
       "City of Fredericksburg, Virginia",
       "Hon. Kerry P. Devine, Mayor",
       "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
@@ -63,8 +63,8 @@
       "FXBG City Center",
       "601 Caroline Street, Third Floor Training Room",
       "Fredericksburg, Virginia \u00a022401",
-      "Notice of Meeting",
       "June 25 and 26, 2026",
+      "Agenda",
       "1.",
       "Council Biannual Planning Off-Site",
       "Thursday, June 25 from 8:15 \u2013 5:00pm",
