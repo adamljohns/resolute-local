@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-26T10:00:04Z",
-  "updated_local": "2026-06-26 06:00 EDT",
+  "updated": "2026-06-26T22:00:05Z",
+  "updated_local": "2026-06-26 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -2734,6 +2734,13 @@
       "summary": "The listed agenda items indicate a biannual planning off-site for the Fredericksburg City Council, not a regular public session. This internal retreat is scheduled for June 25-26, 2026, and is not open to the public for comment or observation. Regular council meetings where binding decisions are made typically occur on separate dates and are held in the Council Chambers.",
       "why": "While this specific off-site does not allow public input, the strategic plans developed during such retreats directly influence future zoning changes, tax base growth, and infrastructure investments. These long-term decisions shape the quality of local schools, public safety resource allocation, and the mix of businesses in the community. Residents should monitor subsequent regular council meetings to see how these strategic plans are translated into actionable ordinances.",
       "how": "You cannot attend or speak at this off-site session as it is an internal working retreat. To engage with the council, you must attend the next regular City Council session, which is typically held in the Council Chambers at 601 Caroline Street. Check the official City of Fredericksburg website for the specific date and time of the next public meeting, where you can sign up for public comment or email council members regarding agenda items.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-06-26": {
+      "summary": "The City Council is conducting a biannual planning session off-site, not a public legislative meeting. This session is dedicated to internal strategy and long-term goal setting rather than voting on specific ordinances or budgets. No public votes or formal public comment periods are scheduled for this event.",
+      "why": "While this specific session does not result in immediate policy changes, the strategic plans developed here influence future zoning decisions, tax base growth, and public safety resource allocation. The outcomes will shape the city's development trajectory and service levels for local families and businesses over the coming years.",
+      "how": "Residents cannot attend this off-site planning session as it is closed to the public. To influence the topics discussed, contact your City Council members via email or phone before the meeting to share your priorities. Public input on specific issues will be available during regular City Council meetings held in the Council Chambers.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
