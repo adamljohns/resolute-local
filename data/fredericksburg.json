@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-06-29T10:00:04Z",
-  "updated_local": "2026-06-29 06:00 EDT",
+  "updated": "2026-06-29T22:00:04Z",
+  "updated_local": "2026-06-29 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -38,39 +38,19 @@
   ],
   "next_meeting": {
     "title": "City Council Session",
-    "date": "2026-06-09",
-    "time": "7:30p.m.",
+    "date": "2026-06-23",
+    "time": "5:30PM",
     "location": "715 Princess Anne Street, Council Chambers, Fredericksburg, VA 22401",
-    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06092026-2175?html=true",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06232026-2178?html=true",
     "items": [
-      "Mayor Kerry P. Devine, Presiding",
-      "Vice-Mayor Charlie L. Frye, Jr.",
-      "Councilor Jannan W. Holmes",
-      "Introduction of New Rappahannock Area Health District Director, Rachel Stradling",
-      "Presentation and Proclamation \u2013 Fredericksburg 250, Danelle Rose, Fredericksburg Tourism Marketing and Communications Manager",
-      "100th Anniversary of the Fredericksburg Rail Bridge, Kylie Thompson, Fredericksburg Area Museum",
-      "4C  Bridge Celebration Support Letter.pdf",
-      "Economic Development Authority \u2013 Meredith Schatz, Chair of the EDA",
-      "Resolution 26-__, Authorizing the Mayor to Execute a Joint Agreement between the Jurisdictions in the Bay Consortium Workforce Investment Area to Form a Consortium under the Federal Workforce \tInnovation and Opportunity Act",
-      "5A Approving an updated charter for the Bay Consortium Local Workforce Development Area.pdf2.pdf",
-      "Transmittal of Board and Commission Minutes",
-      "Public Transit Advisory Board Meeting - April 8, 2026",
-      "5B Public Transit Advisory Board Mtg 04082026.pdf",
-      "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-      "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than",
-      ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-      "A.\u00a0 Small Planning Area 8 Process \u2013 Vice-Mayor Frye",
-      "9A  Public Hearing Minutes 04142026 Draft  .pdf",
-      "Boards and Commission Appointments",
-      "Resolution 26-__, Ratifying the Termination of the Lease Agreement between the Rappahannock Regional Solid Waste Management Board, the County of Stafford, the City of Fredericksburg, and Ameresco Stafford LLC relating to gas rights at the R-Board Operated Landfill",
-      "11A R-Board Lease with Ameresco.pdf"
+      "City Hall, 715 Princess Anne Street",
+      "Second Floor Conference Room",
+      "Special Event Street Closures",
+      "Two-Over-Twos/Form-Based Code Text Amendments",
+      "300th Steering Committee Report"
     ],
     "raw_lines": [
-      "Agenda - 06/09/2026",
+      "Agenda - 06/23/2026",
       "City of Fredericksburg, Virginia",
       "Hon. Kerry P. Devine, Mayor",
       "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
@@ -81,91 +61,144 @@
       "Hon. Susanna R. Finn, Ward Three",
       "City Council",
       "AGENDA",
-      "Council Chambers",
-      "715 Princess Anne Street",
+      "City Hall, 715 Princess Anne Street",
+      "Second Floor Conference Room",
       "Fredericksburg, Virginia \u00a022401",
-      "June 9, 2026",
-      "7:30 p.m.",
-      "Mayor Kerry P. Devine, Presiding",
-      "Agenda",
+      "Tuesday, June 23, 2026",
+      "Large Conference Room",
+      "5:30 PM",
       "1.",
       "Call to Order",
       "2.",
-      "Invocation",
-      "Vice-Mayor Charlie L. Frye, Jr.",
+      "Topics",
+      "A.",
+      "Special Event Street Closures",
+      "B.",
+      "Renwick PPEA RFP Draft",
+      "C.",
+      "Two-Over-Twos/Form-Based Code Text Amendments",
+      "D.",
+      "300th Steering Committee Report",
       "3.",
-      "Pledge of Allegiance",
-      "Councilor Jannan W. Holmes",
-      "4.",
-      "Presentations",
-      "A.",
-      "Introduction of New Rappahannock Area Health District Director, Rachel Stradling",
-      "B.",
-      "Presentation and Proclamation \u2013 Fredericksburg 250, Danelle Rose, Fredericksburg Tourism Marketing and Communications Manager",
-      "C.",
-      "100th Anniversary of the Fredericksburg Rail Bridge, Kylie Thompson, Fredericksburg Area Museum",
-      "Documents:",
-      "4C  Bridge Celebration Support Letter.pdf",
-      "D.",
-      "Economic Development Authority \u2013 Meredith Schatz, Chair of the EDA",
-      "5.",
-      "Consent Agenda",
-      "A.",
-      "Resolution 26-__, Authorizing the Mayor to Execute a Joint Agreement between the Jurisdictions in the Bay Consortium Workforce Investment Area to Form a Consortium under the Federal Workforce \tInnovation and Opportunity Act",
-      "Documents:",
-      "5A Approving an updated charter for the Bay Consortium Local Workforce Development Area.pdf2.pdf",
-      "B.",
-      "Transmittal of Board and Commission Minutes",
-      "Public Transit Advisory Board Meeting - April 8, 2026",
-      "Documents:",
-      "5B Public Transit Advisory Board Mtg 04082026.pdf",
-      "6.",
-      "Public Hearing",
-      "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-      "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "7.",
-      "Comments from the Public",
-      "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-      "Written comments must be received no later than",
-      "1:30 p.m. on the meeting date",
-      ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-      "8.",
-      "1  Council Agenda",
-      "A.\u00a0 Small Planning Area 8 Process \u2013 Vice-Mayor Frye",
-      "9.",
-      "Minutes",
-      "A.",
-      "Minutes",
-      "Public Hearing - April 14, 2026",
-      "Documents:",
-      "9A  Public Hearing Minutes 04142026 Draft  .pdf",
-      "10.",
-      "Boards and Commission Appointments",
-      "11.",
-      "City Manager Agenda",
-      "A.",
-      "Resolution 26-__, Ratifying the Termination of the Lease Agreement between the Rappahannock Regional Solid Waste Management Board, the County of Stafford, the City of Fredericksburg, and Ameresco Stafford LLC relating to gas rights at the R-Board Operated Landfill",
-      "Documents:",
-      "11A R-Board Lease with Ameresco.pdf",
-      "B.",
-      "Resolution 26-__,First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds",
-      "Documents:",
-      "11B Amending the FY 2026 Budget for Supplemental Activity in the School Grants and School Capital Funds.pdf",
-      "C.",
-      "Resolution 26 - __, First Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-      "Documents:",
-      "11C Fall Hill Ave.pdf",
-      "D.",
-      "Transmittal of Calendars",
-      "Documents:",
-      "11D Calendars.pdf",
-      "12.",
       "Adjournment"
     ]
   },
   "meetings": [
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of the Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Electoral Board Meeting June 2, 2026",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "General Registrar Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Old Business",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "August 4, 2026 Republican Primary",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "New Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Closed Session",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Certification of Closed Session",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Officers of Election for August 4, 2026 Republican Primary",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Next Meeting Date",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "AGENDA Electoral Board Meeting Tuesday, July 7, 2026, 5:00 pm Office of Voter Registration and Elections Fredericksburg City Center Public Speakers The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired. Observers At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business. A. Public Comment B. Approval of the Agenda C. Approval of Minutes a. Electoral Board Meeting June 2, 2026 D. General Registrar Report E. Old Business a. August 4, 2026 Republican Primary 1. Establish Canvass Dates and Times F. New Business G. Closed Session H. Certification of Closed Session I. Approval of Officers of Election for August 4, 2026 Republican Primary J. Next Meeting Date K. Adjournment 601 Caroline Street Suite 500 Fredericksburg, VA 22401 Email: vote@vote.fredericksburgva.gov Web: www.fredericksburgVA.gov/Vote Telephone: 540-372-1030 Fax: 540-373-8381",
+      "session_type": "Regular Session",
+      "body": "Electoral Board",
+      "time": "5:00 pm",
+      "lines": [
+        "AGENDA",
+        "Electoral Board Meeting",
+        "Tuesday, July 7, 2026, 5:00 pm",
+        "Office of Voter Registration and Elections",
+        "Fredericksburg City Center",
+        "Public Speakers",
+        "The Electoral Board provides this opportunity for comments from voters before the start",
+        "of the meeting. Comments relevant to the registration of voters, the establishment of",
+        "voting precincts, and polling places, and the conduct of the elections are welcome. To",
+        "be fair to everyone, please observe the five-minute time limit and yield the floor when",
+        "the Chair of the Electoral Board indicates that your time has expired.",
+        "Observers",
+        "At this point the Board will Open the Meeting. All speakers and those observers who",
+        "have waived their right to speak are reminded that at this point you are clearly and",
+        "only observers. You are not invited to interrupt nor attempt to engage Board members",
+        "in discussion of Board Agenda items or other business.",
+        "A. Public Comment",
+        "B. Approval of the Agenda",
+        "C. Approval of Minutes",
+        "a. Electoral Board Meeting June 2, 2026",
+        "D. General Registrar Report",
+        "E. Old Business",
+        "a. August 4, 2026 Republican Primary",
+        "1. Establish Canvass Dates and Times",
+        "F. New Business",
+        "G. Closed Session",
+        "H. Certification of Closed Session",
+        "I.   Approval of Officers of Election for August 4, 2026 Republican Primary",
+        "J.   Next Meeting Date",
+        "K. Adjournment",
+        "601 Caroline Street Suite 500 Fredericksburg, VA 22401",
+        "Email: vote@vote.fredericksburgva.gov",
+        "Web: www.fredericksburgVA.gov/Vote",
+        "Telephone: 540-372-1030       Fax: 540-373-8381"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07072026-2184?html=true",
+      "date": "2026-07-07",
+      "agenda_id": "2184"
+    },
     {
       "format": "html",
       "session_type": "Regular Session",
@@ -1369,260 +1402,6 @@
       ],
       "video_duration_sec": 5777,
       "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "date_label": "June 9, 2026",
-      "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Regular Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "7:30 p.m.",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Invocation",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Presentations",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Introduction of New Rappahannock Area Health District Director, Rachel Stradling",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Presentation and Proclamation \u2013 Fredericksburg 250, Danelle Rose, Fredericksburg Tourism Marketing and Communications Manager",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "100th Anniversary of the Fredericksburg Rail Bridge, Kylie Thompson, Fredericksburg Area Museum",
-              "documents": [
-                "4C Bridge Celebration Support Letter.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Economic Development Authority \u2013 Meredith Schatz, Chair of the EDA",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Authorizing the Mayor to Execute a Joint Agreement between the Jurisdictions in the Bay Consortium Workforce Investment Area to Form a Consortium under the Federal Workforce Innovation and Opportunity Act",
-              "documents": [
-                "5A Approving an updated charter for the Bay Consortium Local Workforce Development Area.pdf2.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Board and Commission Minutes",
-              "documents": [
-                "5B Public Transit Advisory Board Mtg 04082026.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Comments from the Public",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "1 Council Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Minutes",
-              "documents": [
-                "9A Public Hearing Minutes 04142026 Draft .pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Boards and Commission Appointments",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "City Manager Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Ratifying the Termination of the Lease Agreement between the Rappahannock Regional Solid Waste Management Board, the County of Stafford, the City of Fredericksburg, and Ameresco Stafford LLC relating to gas rights at the R-Board Operated Landfill",
-              "documents": [
-                "11A R-Board Lease with Ameresco.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__,First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds",
-              "documents": [
-                "11B Amending the FY 2026 Budget for Supplemental Activity in the School Grants and School Capital Funds.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26 - __, First Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-              "documents": [
-                "11C Fall Hill Ave.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Calendars",
-              "documents": [
-                "11D Calendars.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 06/09/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 June 9, 2026 7:30 p.m. Mayor Kerry P. Devine, Presiding Agenda 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations A. Introduction of New Rappahannock Area Health District Director, Rachel Stradling B. Presentation and Proclamation \u2013 Fredericksburg 250, Danelle Rose, Fredericksburg Tourism Marketing and Communications Manager C. 100th Anniversary of the Fredericksburg Rail Bridge, Kylie Thompson, Fredericksburg Area Museum Documents: 4C Bridge Celebration Support Letter.pdf D. Economic Development Authority \u2013 Meredith Schatz, Chair of the EDA 5. Consent Agenda A. Resolution 26-__, Authorizing the Mayor to Execute a Joint Agreement between the Jurisdictions in the Bay Consortium Workforce Investment Area to Form a Consortium under the Federal Workforce Innovation and Opportunity Act Documents: 5A Approving an updated charter for the Bay Consortium Local Workforce Development Area.pdf2.pdf B. Transmittal of Board and Commission Minutes Public Transit Advisory Board Meeting - April 8, 2026 Documents: 5B Public Transit Advisory Board Mtg 04082026.pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date . Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters. 8. 1 Council Agenda A. Small Planning Area 8 Process \u2013 Vice-Mayor Frye 9. Minutes A. Minutes Public Hearing - April 14, 2026 Documents: 9A Public Hearing Minutes 04142026 Draft .pdf 10. Boards and Commission Appointments 11. City Manager Agenda A. Resolution 26-__, Ratifying the Termination of the Lease Agreement between the Rappahannock Regional Solid Waste Management Board, the County of Stafford, the City of Fredericksburg, and Ameresco Stafford LLC relating to gas rights at the R-Board Operated Landfill Documents: 11A R-Board Lease with Ameresco.pdf B. Resolution 26-__,First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds Documents: 11B Amending the FY 2026 Budget for Supplemental Activity in the School Grants and School Capital Funds.pdf C. Resolution 26 - __, First Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital Documents: 11C Fall Hill Ave.pdf D. Transmittal of Calendars Documents: 11D Calendars.pdf 12. Adjournment",
-      "lines": [
-        "Agenda - 06/09/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "June 9, 2026",
-        "7:30 p.m.",
-        "Mayor Kerry P. Devine, Presiding",
-        "Agenda",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Invocation",
-        "Vice-Mayor Charlie L. Frye, Jr.",
-        "3.",
-        "Pledge of Allegiance",
-        "Councilor Jannan W. Holmes",
-        "4.",
-        "Presentations",
-        "A.",
-        "Introduction of New Rappahannock Area Health District Director, Rachel Stradling",
-        "B.",
-        "Presentation and Proclamation \u2013 Fredericksburg 250, Danelle Rose, Fredericksburg Tourism Marketing and Communications Manager",
-        "C.",
-        "100th Anniversary of the Fredericksburg Rail Bridge, Kylie Thompson, Fredericksburg Area Museum",
-        "Documents:",
-        "4C  Bridge Celebration Support Letter.pdf",
-        "D.",
-        "Economic Development Authority \u2013 Meredith Schatz, Chair of the EDA",
-        "5.",
-        "Consent Agenda",
-        "A.",
-        "Resolution 26-__, Authorizing the Mayor to Execute a Joint Agreement between the Jurisdictions in the Bay Consortium Workforce Investment Area to Form a Consortium under the Federal Workforce \tInnovation and Opportunity Act",
-        "Documents:",
-        "5A Approving an updated charter for the Bay Consortium Local Workforce Development Area.pdf2.pdf",
-        "B.",
-        "Transmittal of Board and Commission Minutes",
-        "Public Transit Advisory Board Meeting - April 8, 2026",
-        "Documents:",
-        "5B Public Transit Advisory Board Mtg 04082026.pdf",
-        "6.",
-        "Public Hearing",
-        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "7.",
-        "Comments from the Public",
-        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than",
-        "1:30 p.m. on the meeting date",
-        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-        "8.",
-        "1  Council Agenda",
-        "A.\u00a0 Small Planning Area 8 Process \u2013 Vice-Mayor Frye",
-        "9.",
-        "Minutes",
-        "A.",
-        "Minutes",
-        "Public Hearing - April 14, 2026",
-        "Documents:",
-        "9A  Public Hearing Minutes 04142026 Draft  .pdf",
-        "10.",
-        "Boards and Commission Appointments",
-        "11.",
-        "City Manager Agenda",
-        "A.",
-        "Resolution 26-__, Ratifying the Termination of the Lease Agreement between the Rappahannock Regional Solid Waste Management Board, the County of Stafford, the City of Fredericksburg, and Ameresco Stafford LLC relating to gas rights at the R-Board Operated Landfill",
-        "Documents:",
-        "11A R-Board Lease with Ameresco.pdf",
-        "B.",
-        "Resolution 26-__,First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds",
-        "Documents:",
-        "11B Amending the FY 2026 Budget for Supplemental Activity in the School Grants and School Capital Funds.pdf",
-        "C.",
-        "Resolution 26 - __, First Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-        "Documents:",
-        "11C Fall Hill Ave.pdf",
-        "D.",
-        "Transmittal of Calendars",
-        "Documents:",
-        "11D Calendars.pdf",
-        "12.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06092026-2175?html=true",
-      "date": "2026-06-09",
-      "agenda_id": "2175"
     },
     {
       "date": "2026-02-24",
