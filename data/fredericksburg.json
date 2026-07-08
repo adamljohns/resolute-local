@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-07-08T10:00:05Z",
-  "updated_local": "2026-07-08 06:00 EDT",
+  "updated": "2026-07-08T22:00:05Z",
+  "updated_local": "2026-07-08 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -84,6 +84,619 @@
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Work Session",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of a quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination that public notice requirements have been met",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "July 13, 2026 Public Notice",
+              "documents": [
+                "3 2026-07-13_2ndprint_public notice_ARBhearing.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Approval of Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "July 13, 2026 Agenda",
+              "documents": [
+                "1 07-13-2026-ARB Agenda.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Announcements and Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Review of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "June 8, 2026 \u2013 Public Hearing Minutes",
+              "documents": [
+                "6A 2026-06-08 ARB Minutes DRAFT.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "June 8, 2026 \u2013 Advisory Review Guidelines Committee Meeting",
+              "documents": [
+                "6B 2026-06-08 - Committee Meeting - ARB Minutes DRAFT.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "June 22, 2026 \u2013 Work Session Minutes",
+              "documents": [
+                "6C 2026-06-22 - Supplemental Meeting - ARB Minutes DRAFT.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Ex Parte Communication",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Conflicts of Interest",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Consent Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "COA 2605-0201 \u2013 1314 Princess Anne Street \u2013 Sign Installation",
+              "documents": [
+                "9A COA2605-0201_Administrative Review Form_1314 Princess Anne Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0204 \u2013 723 Caroline Street \u2013 Sign Installation",
+              "documents": [
+                "9B COA2606-0204_Administrative Review Form_723 Caroline Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0205 \u2013 307 Amelia Street \u2013 Accessory Structure Installation",
+              "documents": [
+                "9C COA2606-0205_Administrative Review Form_307 Amelia Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0209 \u2013 1200 Charles Street \u2013 Security Camera, Railing, & Gate Installation",
+              "documents": [
+                "9D COA2606-0209_Administrative Review Form_1200 Charles Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0210 \u2013 1300 Charles Street \u2013 Security Camera & Railing Installation",
+              "documents": [
+                "9E COA2606-0210_Administrative Review Form_1300 Charles Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0211 \u2013 1020 Caroline Street \u2013 Security Camera & Fence Installation",
+              "documents": [
+                "9F COA2606-0211_Administrative Review Form_1020 Caroline Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0212 \u2013 1304 Caroline Street \u2013 Security Camera Installation",
+              "documents": [
+                "9G COA2606-0212_Administrative Review Form_1304 Caroline Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0213 \u2013 1500 Washington Avenue \u2013 Security Camera Installation",
+              "documents": [
+                "9H COA2606-0213_Administrative Review Form_1500 Washington Avenue_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2606-0214 \u2013 1205 Charles Street \u2013 Attic Fan Installation",
+              "documents": [
+                "9I COA2606-0214_Administrative Review Form_1205 Charles Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2607-0217 \u2013 1011 Charles Street \u2013 Sign Installation",
+              "documents": [
+                "9J COA2607-0217_Administrative Review Form_1011 Charles Street_signed.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Public Hearing",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "New Applications",
+              "documents": [
+                "10A Revised_COA 2512-0164_ARBmemo_407 William Street-07-13-2026.pdf",
+                "10B Revised_COA 2601-0169_ARBmemo_1104 Caroline Street_07-13-2026.pdf",
+                "10C COA 2606-0206_ARBmemo_124 Caroline Street_07-13-2026.pdf",
+                "10D COA 2606-0207_ARBmemo_203 Ford Street_07-13-2026.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "General Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Other Business",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Advisory Review Guidelines Committee",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Staff Update",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 07/13/2026 ARCHITECTURAL REVIEW BOARD AGENDA July 13, 2025 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. July 13, 2026 Public Notice Documents: 3 2026-07-13_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. July 13, 2026 Agenda Documents: 1 07-13-2026-ARB Agenda.pdf 5. Announcements and Reports 6. Review of Minutes 6.A. June 8, 2026 \u2013 Public Hearing Minutes Documents: 6A 2026-06-08 ARB Minutes DRAFT.pdf 6.B. June 8, 2026 \u2013 Advisory Review Guidelines Committee Meeting Documents: 6B 2026-06-08 - Committee Meeting - ARB Minutes DRAFT.pdf 6.C. June 22, 2026 \u2013 Work Session Minutes Documents: 6C 2026-06-22 - Supplemental Meeting - ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2605-0201 \u2013 1314 Princess Anne Street \u2013 Sign Installation Documents: 9A COA2605-0201_Administrative Review Form_1314 Princess Anne Street_signed.pdf 9.B. COA 2606-0204 \u2013 723 Caroline Street \u2013 Sign Installation Documents: 9B COA2606-0204_Administrative Review Form_723 Caroline Street_signed.pdf 9.C. COA 2606-0205 \u2013 307 Amelia Street \u2013 Accessory Structure Installation Documents: 9C COA2606-0205_Administrative Review Form_307 Amelia Street_signed.pdf 9.D. COA 2606-0209 \u2013 1200 Charles Street \u2013 Security Camera, Railing, & Gate Installation Documents: 9D COA2606-0209_Administrative Review Form_1200 Charles Street_signed.pdf 9.E. COA 2606-0210 \u2013 1300 Charles Street \u2013 Security Camera & Railing Installation Documents: 9E COA2606-0210_Administrative Review Form_1300 Charles Street_signed.pdf 9.F. COA 2606-0211 \u2013 1020 Caroline Street \u2013 Security Camera & Fence Installation Documents: 9F COA2606-0211_Administrative Review Form_1020 Caroline Street_signed.pdf 9.G. COA 2606-0212 \u2013 1304 Caroline Street \u2013 Security Camera Installation Documents: 9G COA2606-0212_Administrative Review Form_1304 Caroline Street_signed.pdf 9.H. COA 2606-0213 \u2013 1500 Washington Avenue \u2013 Security Camera Installation Documents: 9H COA2606-0213_Administrative Review Form_1500 Washington Avenue_signed.pdf 9.I. COA 2606-0214 \u2013 1205 Charles Street \u2013 Attic Fan Installation Documents: 9I COA2606-0214_Administrative Review Form_1205 Charles Street_signed.pdf 9.J. COA 2607-0217 \u2013 1011 Charles Street \u2013 Sign Installation Documents: 9J COA2607-0217_Administrative Review Form_1011 Charles Street_signed.pdf 10. Public Hearing 10.A. New Applications 10.A.i. COA 2512-0164 \u2013 407 William Street Joshua Grady requests to modify the previously approved COA for storefront alterations to use a different window type. Documents: 10A Revised_COA 2512-0164_ARBmemo_407 William Street-07-13-2026.pdf 10.A.ii. COA 2601-0169 \u2013 1104 Caroline Street Zach Snyder requests to modify the previously approved COA for this new residence by altering the proposed porch foundation. Documents: 10B Revised_COA 2601-0169_ARBmemo_1104 Caroline Street_07-13-2026.pdf 10.A.iii. COA 2606-0206 \u2013 124 Caroline Street John Carey requests to install solar panels on the roof of this single-family residence. Documents: 10C COA 2606-0206_ARBmemo_124 Caroline Street_07-13-2026.pdf 10.A.iv. COA 2606-0207 \u2013 203 Ford Street Ed Whelan requests to modify the previously approved COA for this site including alterations to the accessory garage elevations and construction of a wood deck. Documents: 10D COA 2606-0207_ARBmemo_203 Ford Street_07-13-2026.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 12.A. Advisory Review Guidelines Committee 13. Staff Update 14. Adjournment",
+      "lines": [
+        "Agenda - 07/13/2026",
+        "ARCHITECTURAL REVIEW BOARD",
+        "AGENDA",
+        "July 13, 2025",
+        "7:00 P.M.",
+        "Live streaming available during meetings and archived meeting videos are also available.",
+        "View Meeting Stream",
+        "Agenda",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Determination of a quorum",
+        "3.",
+        "Determination that public notice requirements have been met",
+        "3.A.",
+        "July 13, 2026 Public Notice",
+        "Documents:",
+        "3      2026-07-13_2ndprint_public notice_ARBhearing.pdf",
+        "4.",
+        "Approval of Agenda",
+        "4.A.",
+        "July 13, 2026 Agenda",
+        "Documents:",
+        "1       07-13-2026-ARB Agenda.pdf",
+        "5.",
+        "Announcements and Reports",
+        "6.",
+        "Review of Minutes",
+        "6.A.",
+        "June 8, 2026 \u2013 Public Hearing Minutes",
+        "Documents:",
+        "6A    2026-06-08 ARB Minutes DRAFT.pdf",
+        "6.B.",
+        "June 8, 2026 \u2013 Advisory Review Guidelines Committee Meeting",
+        "Documents:",
+        "6B    2026-06-08 - Committee Meeting - ARB Minutes DRAFT.pdf",
+        "6.C.",
+        "June 22, 2026 \u2013 Work Session Minutes",
+        "Documents:",
+        "6C    2026-06-22 - Supplemental Meeting - ARB Minutes DRAFT.pdf",
+        "7.",
+        "Disclosure of Ex Parte Communication",
+        "8.",
+        "Disclosure of Conflicts of Interest",
+        "9.",
+        "Consent Agenda",
+        "9.A.",
+        "COA 2605-0201 \u2013 1314 Princess Anne Street \u2013 Sign Installation",
+        "Documents:",
+        "9A    COA2605-0201_Administrative Review Form_1314 Princess Anne Street_signed.pdf",
+        "9.B.",
+        "COA 2606-0204 \u2013 723 Caroline Street \u2013 Sign Installation",
+        "Documents:",
+        "9B    COA2606-0204_Administrative Review Form_723 Caroline Street_signed.pdf",
+        "9.C.",
+        "COA 2606-0205 \u2013 307 Amelia Street \u2013 Accessory Structure Installation",
+        "Documents:",
+        "9C    COA2606-0205_Administrative Review Form_307 Amelia Street_signed.pdf",
+        "9.D.",
+        "COA 2606-0209 \u2013 1200 Charles Street \u2013 Security Camera, Railing, & Gate Installation",
+        "Documents:",
+        "9D    COA2606-0209_Administrative Review Form_1200 Charles Street_signed.pdf",
+        "9.E.",
+        "COA 2606-0210 \u2013 1300 Charles Street \u2013 Security Camera & Railing Installation",
+        "Documents:",
+        "9E    COA2606-0210_Administrative Review Form_1300 Charles Street_signed.pdf",
+        "9.F.",
+        "COA 2606-0211 \u2013 1020 Caroline Street \u2013 Security Camera & Fence Installation",
+        "Documents:",
+        "9F    COA2606-0211_Administrative Review Form_1020 Caroline Street_signed.pdf",
+        "9.G.",
+        "COA 2606-0212 \u2013 1304 Caroline Street \u2013 Security Camera Installation",
+        "Documents:",
+        "9G    COA2606-0212_Administrative Review Form_1304 Caroline Street_signed.pdf",
+        "9.H.",
+        "COA 2606-0213 \u2013 1500 Washington Avenue \u2013 Security Camera Installation",
+        "Documents:",
+        "9H    COA2606-0213_Administrative Review Form_1500 Washington Avenue_signed.pdf",
+        "9.I.",
+        "COA 2606-0214 \u2013 1205 Charles Street \u2013 Attic Fan Installation",
+        "Documents:",
+        "9I     COA2606-0214_Administrative Review Form_1205 Charles Street_signed.pdf",
+        "9.J.",
+        "COA 2607-0217 \u2013 1011 Charles Street \u2013 Sign Installation",
+        "Documents:",
+        "9J    COA2607-0217_Administrative Review Form_1011 Charles Street_signed.pdf",
+        "10.",
+        "Public Hearing",
+        "10.A.",
+        "New Applications",
+        "10.A.i.",
+        "COA 2512-0164 \u2013 407 William Street",
+        "Joshua Grady requests to modify the previously approved COA for storefront alterations to use a different window type.",
+        "Documents:",
+        "10A  Revised_COA 2512-0164_ARBmemo_407 William Street-07-13-2026.pdf",
+        "10.A.ii.",
+        "COA 2601-0169 \u2013 1104 Caroline Street",
+        "Zach Snyder requests to modify the previously approved COA for this new residence by altering the proposed porch foundation.",
+        "Documents:",
+        "10B  Revised_COA 2601-0169_ARBmemo_1104 Caroline Street_07-13-2026.pdf",
+        "10.A.iii.",
+        "COA 2606-0206 \u2013 124 Caroline Street",
+        "John Carey requests to install solar panels on the roof of this single-family residence.",
+        "Documents:",
+        "10C  COA 2606-0206_ARBmemo_124 Caroline Street_07-13-2026.pdf",
+        "10.A.iv.",
+        "COA 2606-0207 \u2013 203 Ford Street",
+        "Ed Whelan requests to modify the previously approved COA for this site including alterations to the accessory garage elevations and construction of a wood deck.",
+        "Documents:",
+        "10D  COA 2606-0207_ARBmemo_203 Ford Street_07-13-2026.pdf",
+        "11.",
+        "General Public Comment",
+        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
+        "[email\u00a0protected]",
+        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
+        "12.",
+        "Other Business",
+        "12.A.",
+        "Advisory Review Guidelines Committee",
+        "13.",
+        "Staff Update",
+        "14.",
+        "Adjournment"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07132026-2186?html=true",
+      "date": "2026-07-13",
+      "agenda_id": "2186"
+    },
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order \u2013 Chair Schatz",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of Quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of the Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Public Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Minutes",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Treasurer\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Old Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "New Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Committee & Liaison Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Chair\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Board Member Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment \u2013 Next Meeting, August 10, 2026",
+          "subitems": []
+        }
+      ],
+      "raw_text": "601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax Monday, July 13, 2026 8:30 a.m. \u25cf EDA Regular Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 1. Call to Order \u2013 Chair Schatz 2. Determination of Quorum 3. Approval of the Agenda 4. Public Comments 5. Approval of Minutes Special Meeting Minutes of June 16, 2026 6. Treasurer\u2019s Report EDA Budget Update June 2026 7. Old Business Serve and Stay Fredericksburg Program Discussion \u2013 Chair Schatz 8. New Business 9. Committee & Liaison Reports a. City Relations Committee \u2013 Meredith Schatz b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk d. Strategic Investments \u2013 Evan Sullivan e. Workforce Development \u2013 Meredith Schatz f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk g. Main Street \u2013 Meredith Schatz h. Marketing & Promotions \u2013 Eugeniy Mikityuk i. Business Relations \u2013 Meredith Schatz & Anita Crossfield 10. Staff Report 11. Chair\u2019s Report 12. Board Member Comments 13. Adjournment \u2013 Next Meeting, August 10, 2026 NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JULY 13, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. 601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES Tuesday, June 16, 2026 8:30 a.m. \u25cf Special Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 The Economic Development Authority of the City of Fredericksburg, Virginia met in Special Session on Tuesday, June 16, 2026, at 8:30 a.m. at the FXBG City Center, Visitor Center Conference Room, 601 Caroline St., Fredericksburg, VA 22401. EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Tom Wack, Mitzi Brown, Eugeniy Mikityuk (via Teams), and Evan Sullivan (via Teams). ABSENT. Kevin Hughes. ALSO PRESENT. Susan N. Sargent, Resident; Jon Gerlach, Former City Councilor; Parrish Snead Franklin Simpson, PLC: Michael Whitaker, Attorney; 300th Blue Ribbon Steering Committee: Beth Black, Chair; Synctivate: Madeline McMahon, Marketing and Business Development; Hyperbole: John Simms, Reporter; Fredericksburg Main Street: Kristen Reed, Assistant Director; EDA Counsel: Jackson Key; EDA Assistant, Jordan Seurattan, Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager. DETERMINATION OF QUORUM. Mitzi Brown. APPROVAL OF AGENDA. Mr. Summits requested New Business, item c. InvestFXBG Loan Review Committee Representation to be added to the agenda. MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the amended agenda: Ayes (6); Nays (0); Absent from Meeting (1 - Hughes). PUBLIC COMMENTS. \u201cMy name is Sue Sergeant. I live at 1318 Williams Street, 22401. In talking with neighbors, we have some concerns with the lack of information about the Serve and Stay Fund, which is proposed as a local workforce housing initiative designed to help city employees and educators afford to live in the community they serve. The EDA requires public comments to be sent in ahead of the meeting, and I wrote this public comment, and the agenda was showing and the meeting date was yesterday, and it was on the website. Since then, a packet PDF has been added to the city website with more details on this workforce housing initiative. Neighbors remain concerned if this $30,000 needs to be allocated fast because it has to be spent down by the close of this fiscal year on June 30th. Or is this just seed money already privately donated? Fairfax County has workforce housing programs. They're often admired because they do it right the first time. They collect baseline data for need, not anecdotal comments from friends, and do a review of the literature to study similar initiatives. Was any of this done by the Fredericksburg EDA? How are two members of the Serve and Stay Fund committee going to review and approve applications within a two-week time frame to ensure a quick turnaround for the applicants? Does EDA already have their list of potential applicants, and then later we'll get the language and implementation details to match these names? Fairfax County has two departments assigned to work housing, due to the higher population. But how can you expect two people, two EDA members, to process these applications using criteria, sensitive private information in the criteria? Such as one, the gross household income must be at or below 80% of the area median income. Two, it must remain below the program's maximum income limits. Three, the rent on the applicant's unit must be up to 150% of the fair market rent. To whom does the applicant recipient certify their income eligibility annually? Do stipends for coaching and summer school count as income?...[truncated]",
+      "session_type": "Regular Session",
+      "lines": [
+        "601 Caroline Street, Suite 303                                                          (540) 372-1216",
+        "Fredericksburg, VA 22401                                                                (540) 372-6587 Fax",
+        "Monday, July 13, 2026",
+        "8:30 a.m. \u25cf EDA Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "1. Call to Order \u2013 Chair Schatz",
+        "2. Determination of Quorum",
+        "3. Approval of the Agenda",
+        "4. Public Comments",
+        "5. Approval of Minutes",
+        "Special Meeting Minutes of June 16, 2026",
+        "6. Treasurer\u2019s Report",
+        "EDA Budget Update June 2026",
+        "7. Old Business",
+        "Serve and Stay Fredericksburg Program Discussion \u2013 Chair Schatz",
+        "8. New Business",
+        "9. Committee & Liaison Reports",
+        "a. City Relations Committee \u2013 Meredith Schatz",
+        "b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan",
+        "c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk",
+        "d. Strategic Investments \u2013 Evan Sullivan",
+        "e. Workforce Development \u2013 Meredith Schatz",
+        "f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk",
+        "g. Main Street \u2013 Meredith Schatz",
+        "h. Marketing & Promotions \u2013 Eugeniy Mikityuk",
+        "i. Business Relations \u2013 Meredith Schatz & Anita Crossfield",
+        "10. Staff Report",
+        "11. Chair\u2019s Report",
+        "12. Board Member Comments",
+        "13. Adjournment \u2013 Next Meeting, August 10, 2026",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JULY 13, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "601 Caroline Street, Suite 303                                                         (540) 372-1216",
+        "Fredericksburg, VA 22401                                                               (540) 372-6587 Fax",
+        "ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES",
+        "Tuesday, June 16, 2026",
+        "8:30 a.m. \u25cf Special Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "The Economic Development Authority of the City of Fredericksburg, Virginia met in Special Session on Tuesday,",
+        "June 16, 2026, at 8:30 a.m. at the FXBG City Center, Visitor Center Conference Room, 601 Caroline St.,",
+        "Fredericksburg, VA 22401.",
+        "EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Tom Wack, Mitzi Brown,",
+        "Eugeniy Mikityuk (via Teams), and Evan Sullivan (via Teams).",
+        "ABSENT. Kevin Hughes.",
+        "ALSO PRESENT. Susan N. Sargent, Resident; Jon Gerlach, Former City Councilor; Parrish Snead Franklin",
+        "Simpson, PLC: Michael Whitaker, Attorney; 300th Blue Ribbon Steering Committee: Beth Black, Chair;",
+        "Synctivate: Madeline McMahon, Marketing and Business Development; Hyperbole: John Simms, Reporter;",
+        "Fredericksburg Main Street: Kristen Reed, Assistant Director; EDA Counsel: Jackson Key; EDA Assistant,",
+        "Jordan Seurattan, Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy,",
+        "Economic Development Manager.",
+        "DETERMINATION OF QUORUM. Mitzi Brown.",
+        "APPROVAL OF AGENDA. Mr. Summits requested New Business, item c. InvestFXBG Loan Review",
+        "Committee Representation to be added to the agenda.",
+        "MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the amended agenda: Ayes (6); Nays",
+        "(0); Absent from Meeting (1 - Hughes).",
+        "PUBLIC COMMENTS. \u201cMy name is Sue Sergeant. I live at 1318 Williams Street, 22401. In talking with",
+        "neighbors, we have some concerns with the lack of information about the Serve and Stay Fund, which is proposed as",
+        "a local workforce housing initiative designed to help city employees and educators afford to live in the community",
+        "they serve. The EDA requires public comments to be sent in ahead of the meeting, and I wrote this public comment,",
+        "and the agenda was showing and the meeting date was yesterday, and it was on the website. Since then, a packet",
+        "PDF has been added to the city website with more details on this workforce housing initiative.",
+        "Neighbors remain concerned if this $30,000 needs to be allocated fast because it has to be spent down by the close",
+        "of this fiscal year on June 30th. Or is this just seed money already privately donated? Fairfax County has workforce",
+        "housing programs. They're often admired because they do it right the first time.",
+        "They collect baseline data for need, not anecdotal comments from friends, and do a review of the literature to study",
+        "similar initiatives. Was any of this done by the Fredericksburg EDA? How are two members of the Serve and Stay",
+        "Fund committee going to review and approve applications within a two-week time frame to ensure a quick",
+        "turnaround for the applicants? Does EDA already have their list of potential applicants, and then later we'll get the",
+        "language and implementation details to match these names? Fairfax County has two departments assigned to work",
+        "housing, due to the higher population.",
+        "But how can you expect two people, two EDA members, to process these applications using criteria, sensitive",
+        "private information in the criteria? Such as one, the gross household income must be at or below 80% of the area",
+        "median income. Two, it must remain below the program's maximum income limits. Three, the rent on the applicant's",
+        "unit must be up to 150% of the fair market rent.",
+        "To whom does the applicant recipient certify their income eligibility annually? Do stipends for coaching and",
+        "summer school count as income? Will the applicant sign and maintain a two-year lease? Will the applicant be a",
+        "contracted employee, a teacher, a bus driver, a recruit in training, and not a 1099 contractor? If the applicant receives",
+        "a housing choice voucher, formerly known as Section 8, are they given priority points? Is this fund meant for",
+        "applicants who are single adults over 18 years old, living on a limited budget? Does the EDA have an MOU,",
+        "Memorandum of Understanding with the schools and city police, fire, rescue, sheriff, that they will report in writing",
+        "within a week if their employee quits the contract? Do these agents, the agencies, have it in writing what EDA is",
+        "already expecting them to do? Who pays for the applicant's background verification, like credit checks, criminal",
+        "history review, and rental reference verifications? Is there an exclusion clause that the applicant cannot already own",
+        "residential real estate? Will the fund also pay for pet deposits or not? Has Kelly Lackey, City Attorney, looked at the",
+        "applicant criteria? Has she thought that there could be a disparate impact, indirect discrimination, by locking out",
+        "other professions in heightened fields, like ER nurses or surgical techs? Will there be a disclosure statement to the",
+        "applicant for informed consent in accepting the money? In fact, is it taxable income? Have you even communicated",
+        "to the local rental marketeers if they'll offer profession-based discounts on the lower security deposit, wave",
+        "application fees, or offer monthly rent discount exclusively for teachers and first responders? Kilburn Crossing near",
+        "Chancellor High School out in Spotsylvania County was doing this under their Hometown Heroes initiative in 2007,",
+        "irregardless of income. And I was able to benefit from it as a four-year-old teacher.",
+        "So anyway, those things are just the usual statements, I think, from the applicant. I certify that this information is",
+        "correct and complete to the best of my knowledge, and I give consent for exchange of information with the agencies,",
+        "which seems fine, but with the EDA members, I am concerned about their privacy and that they will notify the",
+        "EDA, promptly within a week in writing if any changes in the address, employment, or income.",
+        "Thank you for your consideration of these comments and questions\u201d.",
+        "APPROVAL OF MINUTES.",
+        "MOTION by Mitzi Brown seconded by Tom Wack for the regular meeting minutes from May 11, 2026 were",
+        "approved: Ayes (6); Nays (0); Absent from Meeting (1 - Hughes).",
+        "TREASURER'S REPORT.",
+        "a.   Chair Schatz provided the Treasurer\u2019s Report on Mr. Hughes\u2019 behalf. Chair Schatz reported that in May,",
+        "significant financial activities included the settlement of legal fees related to ongoing EDA initiatives with",
+        "legal counsel, ongoing marketing promotion expenditures disbursed to Lori Rowe, and a partial payment to",
+        "WZHA, LLC for services rendered on the Phase III Corridor Study. The EDA also received payments from",
+        "multiple borrowers, all of whom are currently in good standing.",
+        "b.   FY2027 Budget Discussion - Members discussed revisions to the FY2027 budget. Legal expenditure",
+        "allocations have been reassessed to $14,000, following a collaborative review with Mr. Key and Mr.",
+        "Whitaker to optimize spending, and a strategic adjustment has been made to the marketing and promotions",
+        "budget. In consultation with the EDT staff, it was determined that the EDA\u2032s financial support for Lori",
+        "Rowe\u2032s services will be phased out. For FY27, the EDA will contribute $15,000, representing a 50%",
+        "reduction in the current contract rate, with the understanding that the EDT will assume full marketing",
+        "budget responsibility in subsequent fiscal years. This adjustment anticipates a further reduction in EDA's",
+        "marketing allocation in future years, absent specific EDA-directed marketing campaigns.",
+        "MOTION by Mitzi Brown seconded by Anita Crossfield to approve the FY2027 Budget as amended: Ayes",
+        "(6); Nays (0); Absent from Meeting (1 - Hughes).",
+        "OLD BUSINESS.",
+        "a.   Serve and Stay Fredericksburg Fund Program Discussion \u2013 Chair Schatz",
+        "Chair Schatz reported the agreement with the Community Foundation has been finalized, incorporating",
+        "numerous edits. The fund's parameters and guidelines can be modified with direct communication to Dr.",
+        "Rodgers at the Community Foundation.",
+        "Members allocated $30,000 of EDA funds to establish the program, and the final stages of developing both",
+        "the grantee and funder pages on the Community Foundation's website are underway. The anticipated launch",
+        "date is by the end of June, specifically around the 29th or 30th, coinciding with the prime recruitment",
+        "season for teachers, police officers, and firefighters. The fund's primary purpose is to serve as a recruitment",
+        "and retention tool through housing incentives, rather than a housing affordability program.",
+        "Chair Schatz clarified that no recipients have been approved as the fund has not yet been launched. Efforts",
+        "are currently focused on securing additional private funding, with an initial $10,000 secured from the",
+        "business community, signaling broad community support. The Community Foundation's extensive",
+        "experience in administering similar funds, particularly through its CEO, Dr. Rodgers, who was instrumental",
+        "in designing the program. The next communication regarding the fund is expected to be a press release.",
+        "Members celebrated the initiative as a collaborative effort that began with informal conversations and has",
+        "evolved into a robust program designed to support individuals who wish to live and work in",
+        "Fredericksburg.",
+        "NEW BUSINESS.",
+        "a.   Election of Officers \u2013 Chair Schatz",
+        "The slate of officers, as previously proposed, is Meredith Schatz, Chair; Anita Crossfield, Vice Chair;",
+        "Kevin Hughes, Treasurer; and Eugeniy Mikityuk, Secretary.",
+        "MOTION by Tom Wack seconded by Mitzi Brown to accept the slate of officers, as presented: Ayes (6); Nays",
+        "(0); Absent from Meeting (1 - Hughes).",
+        "b.   Resolution No. 26-06 - Authorizing the Chair of the EDA to execute an Economic Development",
+        "Agreement with 2300 Fall Hill Partners, LLC and the City of Fredericksburg for the Redevelopment of",
+        "the Property Commonly known as the Former Mary Washington Hospital \u2013 Mr. Summits",
+        "Mr. Summits highlighted that this agreement, which has been reviewed by legal counsel, previously",
+        "received a unanimous 7-0 vote at the City Council meeting on June 9th, with a second read scheduled for",
+        "June 23rd. Two minor amendments have been made: a grammatical correction on page four regarding the",
+        "\"Projects\" section and a revised definition of affordability targets. The updated language for affordability",
+        "now states incentives will be for \"public sector employees, including Fredericksburg City School and City",
+        "of Fredericksburg employees\u201d to apply, broadening the scope from the previous mention of teachers and",
+        "first responders. The incentive agreement secures 70 units within the 242-unit development for a 10-year",
+        "period, with 20% of units (12 studios) designated at 80% AMI for $1,000 per month. Qualifying public",
+        "sector employees will receive a security deposit of $500 on their first month's rent. The board expressed",
+        "excitement for this timely initiative, and it was clarified that 2300 Fall Hill Partners has significant",
+        "experience in managing such projects and will be responsible for informing the public about these",
+        "opportunities through their established intake processes. Annual reporting will ensure compliance. The",
+        "developers are currently in site plan review and historic tax credit due diligence, anticipating certification in",
+        "Q4 2028, with most units expected to come online around the same time.",
+        "MOTION by Mitzi Brown seconded by Eugeniy Mikityuk to approve Resolution No. 26-06 - Authorizing the",
+        "Chair of the EDA to execute an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the",
+        "City of Fredericksburg for the Redevelopment of the Property Commonly known as the Former Mary",
+        "Washington Hospital: Ayes (6); Nays (0); Absent from Meeting (1 - Hughes).",
+        "c.     LRC Representation \u2013 Mr. Summits",
+        "Following the April approval of revised InvestFXBG loan programs and guidelines, the EDA sought to re-",
+        "establish banking sector representation on the Loan Review Committee (LRC). Following discussions with",
+        "various banks, three institutions have expressed interest in participating: Citizens and Farmers Bank (C&F),",
+        "First Citizens Bank, and Shore United Bank.",
+        "Initially, Shore United Bank intended to participate but have experienced staffing changes causing a delay",
+        "on their end. Shore United is currently identifying a new member to fill that spot. Daniel Maddox, formerly",
+        "with Shore United Bank and now a VP Senior Commercial Credit Officer at C&F Bank, has expressed",
+        "interest in serving on the LRC and brings extensive underwriting experience, making C&F Bank the second",
+        "participating institution. First Citizens Bank, known for its community involvement, has designated Samir",
+        "Patel, VP of Business Banking, as their representative. These three banks will form the banking",
+        "community's representation on the LRC.",
+        "Regarding the timeline for loan reviews, it was confirmed that meetings will be regularly scheduled as",
+        "applications arise. The aim is to process recommendations from the LRC and present them to the full EDA",
+        "agenda within approximately one week, typically at the end of the month, by coordinating with committee",
+        "members and banking representatives.",
+        "MOTION by Mitzi Brown seconded by Tom Wack to approve Citizens and Farmers Bank (C&F), Shore",
+        "United, and First Citizens Bank as members of the Loan Review Committee: Ayes (6); Nays (0); Absent from",
+        "Meeting (1 - Hughes).",
+        "COMMITTEE & LIAISON REPORTS.",
+        "a. City Relations Committee \u2013 Chair Schatz reported the City Relations Committee will meet in September.",
+        "b. InvestFXBG Loan Committee \u2013 Ms. Crossfield reported all accounts are up to date and there are no new",
+        "applications pending.",
+        "c. Parking Improvements \u2013 None.",
+        "d. Strategic Investments \u2013 None.",
+        "e. Workforce Development \u2013 None.",
+        "f. Tourism \u2013 None.",
+        "g. Main Street \u2013 Ms. Brown reported Main Street is running their \u2018Downtown Summer Nights\u2019 initiative",
+        "officially launched last Thursday and will run through August 22. This initiative features 26 shops open",
+        "later Thursdays from 5 p.m. to 8 p.m., 24 restaurants offering extended happy hours and specials, along",
+        "with street performers and yard games. Last week, Fredericksburg Main Street received a Milestone Award",
+        "from Virginia Main Street, presented by the Secretary of Commerce, Carrie Chenery. This award",
+        "recognized over $40 million in private investment in the Downtown District since Fredericksburg's"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07132026-2187?html=true",
+      "date": "2026-07-13",
+      "agenda_id": "2187"
+    },
     {
       "format": "html",
       "session_type": "Work Session",
@@ -761,608 +1374,6 @@
       ],
       "video_duration_sec": 4198,
       "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "date_label": "June 23, 2026",
-      "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "7:30 p.m.",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Invocation",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Presentations",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Second Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds",
-              "documents": [
-                "5A Amending the FY Budget Supplemental Activity.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Board and Commission Minutes",
-              "documents": [
-                "Architectural Review Board Regular Meeting Minutes 2026-05-11.pdf",
-                "Board of Social Services Minutes 2026-04-04.pdf",
-                "Planning Commission 2026-03-11 Regular Meeting Minutes - Approved.pdf",
-                "Economic Development Authority Minutes Approved 2026-05-11.pdf",
-                "Planning Commission Regular Meeting Minutes - Approved 2026-05-27.pdf",
-                "Planning Commission CIP Committee Work Session Minutes - Approved 2026-04-03.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Comments from the Public",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Council Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "April 21, 2026 Budget Public Hearing Minutes",
-              "documents": [
-                "04-21-26 Regular Session Minutes Draft.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Boards and Commission Appointments",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Economic Development Authority Appointments (2) - David Fraizer, Emisha Hall, Erica Heppe, Matthew Kelly, John Payne, and Curry Roberts",
-              "documents": [
-                "10A EDA Appt_06.23.26.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Rappahannock Regional Library Board Appointment (1) - Jeffrey Edmunds, Kenneth Lapin and Cheryl Miller",
-              "documents": [
-                "10B Library Appt.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Board of Social Services Appointment (1) - Wyanika Christophe, David Garrison, Elizabeth Kniery, Leslie Martin and Christian Zammas",
-              "documents": [
-                "BSS Appt_06.23.26.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "City Manager Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26 - __, Second Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-              "documents": [
-                "11A EDA with 2300 Fall Hill Ave.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "300th Anniversary of Fredericksburg Blue Ribbon Steering Committee Budget Amendments",
-              "documents": [
-                "Cover Memorandum for Budget Amendments for the 300th Anniversary Celebration.pdf",
-                "Resolution Amending the FY 2026 Budget for the 300th Anniversary Celebration.pdf",
-                "Resolution Amending the FY 2027 Budget for the 300th Anniversary Celebration.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Council Calendars",
-              "documents": [
-                "1 Council Meeting Calendar 20260623.pdf",
-                "2 Boards and Commissions Calendar 20260623.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 06/23/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 June 23, 2026 7:30 p.m. Mayor Kerry P. Devine, Presiding 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations 5. Consent Agenda A. Resolution 26-__, Second Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds Documents: 5A Amending the FY Budget Supplemental Activity.pdf B. Transmittal of Board and Commission Minutes B.i. Architectural Review Board \u2013 May 11, 2026 Documents: Architectural Review Board Regular Meeting Minutes 2026-05-11.pdf B.ii. Board of Social Services \u2013 April 4, 2026 Documents: Board of Social Services Minutes 2026-04-04.pdf B.iii. Planning Commission \u2013 March 11, 2026 Documents: Planning Commission 2026-03-11 Regular Meeting Minutes - Approved.pdf B.iv. Economic Development Authority \u2013 May 11, 2026 Documents: Economic Development Authority Minutes Approved 2026-05-11.pdf B.v. Planning Commission \u2013 May 27, 2026 Documents: Planning Commission Regular Meeting Minutes - Approved 2026-05-27.pdf B.vi. Planning Commission CIP Committee Work Session \u2013 April 3, 2026 Documents: Planning Commission CIP Committee Work Session Minutes - Approved 2026-04-03.pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date . Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters. 8. Council Agenda 9. Minutes A. April 21, 2026 Budget Public Hearing Minutes Documents: 04-21-26 Regular Session Minutes Draft.pdf 10. Boards and Commission Appointments A. Economic Development Authority Appointments (2) - David Fraizer, Emisha Hall, Erica Heppe, Matthew Kelly, John Payne, and Curry Roberts Documents: 10A EDA Appt_06.23.26.pdf B. Rappahannock Regional Library Board Appointment (1) - Jeffrey Edmunds, Kenneth Lapin and Cheryl Miller Documents: 10B Library Appt.pdf C. Board of Social Services Appointment (1) - Wyanika Christophe, David Garrison, Elizabeth Kniery, Leslie Martin and Christian Zammas Documents: BSS Appt_06.23.26.pdf 11. City Manager Agenda A. Resolution 26 - __, Second Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital Documents: 11A EDA with 2300 Fall Hill Ave.pdf B. 300th Anniversary of Fredericksburg Blue Ribbon Steering Committee Budget Amendments Documents: Cover Memorandum for Budget Amendments for the 300th Anniversary Celebration.pdf B.i. Resolution 26 - __, First Read, Amending the FY 2026 Budget in the General Fund and the City Grants and Special Programs Fund for the Fredericksburg 300th Celebration Documents: Resolution Amending the FY 2026 Budget for the 300th Anniversary Celebration.pdf B.ii. Resolution ...[truncated]",
-      "lines": [
-        "Agenda - 06/23/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "June 23, 2026",
-        "7:30 p.m.",
-        "Mayor Kerry P. Devine, Presiding",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Invocation",
-        "Vice-Mayor Charlie L. Frye, Jr.",
-        "3.",
-        "Pledge of Allegiance",
-        "Councilor Jannan W. Holmes",
-        "4.",
-        "Presentations",
-        "5.",
-        "Consent Agenda",
-        "A.",
-        "Resolution 26-__, Second Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds",
-        "Documents:",
-        "5A Amending the FY Budget Supplemental Activity.pdf",
-        "B.",
-        "Transmittal of Board and Commission Minutes",
-        "B.i.",
-        "Architectural Review Board \u2013 May 11, 2026",
-        "Documents:",
-        "Architectural Review Board Regular Meeting Minutes 2026-05-11.pdf",
-        "B.ii.",
-        "Board of Social Services \u2013 April 4, 2026",
-        "Documents:",
-        "Board of Social Services Minutes 2026-04-04.pdf",
-        "B.iii.",
-        "Planning Commission \u2013 March 11, 2026",
-        "Documents:",
-        "Planning Commission 2026-03-11 Regular Meeting Minutes - Approved.pdf",
-        "B.iv.",
-        "Economic Development Authority \u2013 May 11, 2026",
-        "Documents:",
-        "Economic Development Authority Minutes  Approved  2026-05-11.pdf",
-        "B.v.",
-        "Planning Commission \u2013 May 27, 2026",
-        "Documents:",
-        "Planning Commission Regular Meeting Minutes - Approved 2026-05-27.pdf",
-        "B.vi.",
-        "Planning Commission CIP Committee Work Session \u2013 April 3, 2026",
-        "Documents:",
-        "Planning Commission  CIP Committee Work Session Minutes - Approved 2026-04-03.pdf",
-        "6.",
-        "Public Hearing",
-        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "7.",
-        "Comments from the Public",
-        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than",
-        "1:30 p.m. on the meeting date",
-        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-        "8.",
-        "Council Agenda",
-        "9.",
-        "Minutes",
-        "A.",
-        "April 21, 2026 Budget Public Hearing Minutes",
-        "Documents:",
-        "04-21-26 Regular Session Minutes Draft.pdf",
-        "10.",
-        "Boards and Commission Appointments",
-        "A.",
-        "Economic Development Authority Appointments (2) - David Fraizer, Emisha Hall, Erica Heppe, Matthew Kelly, John Payne, and Curry Roberts",
-        "Documents:",
-        "10A EDA Appt_06.23.26.pdf",
-        "B.",
-        "Rappahannock Regional Library Board Appointment (1) - Jeffrey Edmunds, Kenneth Lapin and Cheryl Miller",
-        "Documents:",
-        "10B Library Appt.pdf",
-        "C.",
-        "Board of Social Services Appointment (1) - Wyanika Christophe, David Garrison, Elizabeth Kniery,             Leslie Martin and Christian Zammas",
-        "Documents:",
-        "BSS Appt_06.23.26.pdf",
-        "11.",
-        "City Manager Agenda",
-        "A.",
-        "Resolution 26 - __, Second Read, Authorizing an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-        "Documents:",
-        "11A EDA with 2300 Fall Hill Ave.pdf",
-        "B.",
-        "300th Anniversary of Fredericksburg Blue Ribbon Steering Committee Budget Amendments",
-        "Documents:",
-        "Cover Memorandum for Budget Amendments for the 300th Anniversary Celebration.pdf",
-        "B.i.",
-        "Resolution 26 - __, First Read, Amending the FY 2026 Budget in the General Fund and the City Grants and Special Programs Fund for the Fredericksburg 300th Celebration",
-        "Documents:",
-        "Resolution Amending the FY 2026 Budget for the 300th Anniversary Celebration.pdf",
-        "B.ii.",
-        "Resolution 26 - __, First Read, Amending the FY 2027 Budget in the City Grants and Special Programs Fund for the Fredericksburg 300th Celebration",
-        "Documents:",
-        "Resolution Amending the FY 2027 Budget for the 300th Anniversary Celebration.pdf",
-        "C.",
-        "Transmittal of Council Calendars",
-        "Documents:",
-        "1 Council Meeting Calendar 20260623.pdf",
-        "2  Boards and Commissions Calendar 20260623.pdf",
-        "12.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06232026-2180?html=true",
-      "date": "2026-06-23",
-      "agenda_id": "2180",
-      "vimeo_id": "1199943879",
-      "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [
-        {
-          "section_title": "Main Street District Pilot Program: Street Closures and Safety",
-          "start_sec": 1174,
-          "end_sec": 1300,
-          "vimeo_id": "1199943879",
-          "vimeo_url": "https://vimeo.com/1199943879#t=1174s",
-          "summary": "City proposes a two-year pilot program in the Main Street district to streamline event planning. Key decision: No new street closures will be approved during the pilot except for two annual events organized by Main Street, aiming to reduce bureaucratic friction for community gatherings while ensuring safety.",
-          "significance": "highlight",
-          "importance": 4,
-          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
-        },
-        {
-          "section_title": "Renwick Courthouse PPEA Solicitation and Public Access",
-          "start_sec": 2381,
-          "end_sec": 2531,
-          "vimeo_id": "1199943879",
-          "vimeo_url": "https://vimeo.com/1199943879#t=2381s",
-          "summary": "Planning Director presents the Request for Proposals (RFP) for the historic Renwick Courthouse. The city seeks to transform the building into a public asset, emphasizing that 'public use or public access' is a core priority. Council reviews the scope to ensure the project serves the community rather than becoming a private luxury development.",
-          "significance": "highlight",
-          "importance": 5,
-          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
-        },
-        {
-          "section_title": "Zoning Updates for 'Two-Over-Two' Housing",
-          "start_sec": 2812,
-          "end_sec": 2930,
-          "vimeo_id": "1199943879",
-          "vimeo_url": "https://vimeo.com/1199943879#t=2812s",
-          "summary": "Council reviews technical amendments to allow 'stacked' townhomes (two-over-two) in form-based codes. This change permits up to 16 units per lot, directly addressing the need for affordable, family-sized housing options in established neighborhoods without requiring large-scale redevelopment.",
-          "significance": "highlight",
-          "importance": 4,
-          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
-        },
-        {
-          "section_title": "300th Anniversary Celebration: Community Engagement and Art",
-          "start_sec": 3598,
-          "end_sec": 3748,
-          "vimeo_id": "1199943879",
-          "vimeo_url": "https://vimeo.com/1199943879#t=3598s",
-          "summary": "The 300th Anniversary Committee outlines plans for community conversations and a culminating art installation. They highlight partnerships with local organizations and the goal of using the celebration to beautify public spaces, inviting residents to engage in shaping the city's future identity.",
-          "significance": "highlight",
-          "importance": 3,
-          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
-        }
-      ],
-      "video_duration_sec": 4198,
-      "video_lobby_only": false
-    },
-    {
-      "format": "pdf",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Call to Order \u2013 Chair Schatz",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination of Quorum",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of the Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Public Comments",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of Minutes",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Treasurer\u2019s Report",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Old Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "New Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Committee & Liaison Reports",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Staff Report",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Chair\u2019s Report",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Board Member Comments",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment \u2013 Next Meeting, July 13, 2026",
-          "subitems": []
-        }
-      ],
-      "raw_text": "601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax Tuesday, June 16, 2026 8:30 a.m. \u25cf EDA Special Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 1. Call to Order \u2013 Chair Schatz 2. Determination of Quorum 3. Approval of the Agenda 4. Public Comments 5. Approval of Minutes Regular Meeting Minutes of May 11, 2026 6. Treasurer\u2019s Report a. EDA Budget Update May 2026 b. Approval FY2027 Budget 7. Old Business Serve and Stay Fredericksburg Fund Program Discussion \u2013 Chair Schatz 8. New Business a. Election of Officers \u2013 Chair Schatz b. Resolution No. 26-__ - Authorizing the Chair of the EDA to execute an Economic Development Agreement with 2300 Fall Hill Partners, LLC and the City of Fredericksburg for the Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital \u2013 Josh Summits 9. Committee & Liaison Reports a. City Relations Committee \u2013 Mitzi Brown & Meredith Schatz b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk d. Strategic Investments \u2013 Tom Wack & Evan Sullivan e. Workforce Development \u2013 Mitzi Brown & Meredith Schatz f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk g. Main Street \u2013 Mitzi Brown & Meredith Schatz h. Marketing & Promotions \u2013 Eugeniy Mikityuk i. Business Relations \u2013 Meredith Schatz & Anita Crossfield NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 16, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. Page 2 of 2 EDA Agenda \u2013 June 16, 2026 10. Staff Report 11. Chair\u2019s Report 12. Board Member Comments 13. Adjournment \u2013 Next Meeting, July 13, 2026 NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 16, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. 601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES Monday, May 11, 2026 8:30 a.m. \u25cf Regular Meeting FXBG City Center, First Floor Visitor Center Auditorium & Exhibit Room 601 Caroline St. Fredericksburg, VA 22401 The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday, May 11, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Auditorium & Exhibit Room, 601 Caroline St., Fredericksburg, VA 22401. EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Tom Wack, Mitzi Brown, and Eugeniy Mikityuk (via phone). ABSENT. Evan Sullivan. ALSO PRESENT. Rivers Region Entrepreneurial Ecosystem (RREE): Michael Purello, Executive Director; Fredericksburg Fashion Week: Latoya White, President; Synctivate: Madeline McMahon, Marketing and Business Development; Hyperbole: John Simms; Fredericksburg Main Street: Kristen Reed, Assistant Director; EDA Counsel: Jackson Key; EDA Assistant, Jordan Seurattan, Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager; Danelle Rose, Marketing and Communications Manager. DETERMINATION OF QUORUM. Mitzi Brown. APPROVAL OF AGENDA. MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the agenda: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan). PUBLIC COMMENTS. None. APPROVAL OF MINUTES. MOTION by Mitzi Brown seconded by Tom Wack for the regular meeting minutes from April 13, 2026 were approved: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan). TREASURER'S REPORT. Mr. Hughes reported that year-to-date finances are strong, with expenses under budget and income exceeding projections. a. Draft FY2027 Budget Discussion The FY2027 draft budget was presented for discussion which focused primarily on baseline operating costs and income. Specific areas like professional services and the Sports Tourism Fund were identified as needing further consideration. A few members expressed concern that the Loan Program's $25,000 budget is too low. Mr. Hughes and others suggested increasing the Loan Program\u2019s budget to around $100,000 to support revenue-generating opportunities. The final budget is expected to be approved in June, following further refinement of year-end figures. OLD BUSINESS. b. InvestFXBG Loan Program \u2013 Josh Summits Mr. Summits presented the proposed amendments and changes to the InvestFXBG credit program policy manual, noting that the document had been reviewed and approved by legal counsel and the loan underwriting team. Key changes include: an increase in borrowing limits to between $5,000 and $250,000, with larger amounts considered under special circumstances, and loan terms typically priced around the Wall Street general prime rate for three to five years, with potential for longer terms on larger cap financing. The policy now establishes one-time ...[truncated]",
-      "session_type": "Work Session",
-      "time": "5:30 PM",
-      "lines": [
-        "601 Caroline Street, Suite 303                                                          (540) 372-1216",
-        "Fredericksburg, VA 22401                                                                (540) 372-6587 Fax",
-        "Tuesday, June 16, 2026",
-        "8:30 a.m. \u25cf EDA Special Meeting",
-        "FXBG City Center, First Floor",
-        "Visitor Center Conference Room",
-        "601 Caroline St.",
-        "Fredericksburg, VA 22401",
-        "1. Call to Order \u2013 Chair Schatz",
-        "2. Determination of Quorum",
-        "3. Approval of the Agenda",
-        "4. Public Comments",
-        "5. Approval of Minutes",
-        "Regular Meeting Minutes of May 11, 2026",
-        "6. Treasurer\u2019s Report",
-        "a. EDA Budget Update May 2026",
-        "b. Approval FY2027 Budget",
-        "7. Old Business",
-        "Serve and Stay Fredericksburg Fund Program Discussion \u2013 Chair Schatz",
-        "8. New Business",
-        "a. Election of Officers \u2013 Chair Schatz",
-        "b. Resolution No. 26-__ - Authorizing the Chair of the EDA to execute an Economic Development",
-        "Agreement with 2300 Fall Hill Partners, LLC and the City of Fredericksburg for the",
-        "Redevelopment of the Property Commonly Known as the Former Mary Washington Hospital",
-        "\u2013 Josh Summits",
-        "9. Committee & Liaison Reports",
-        "a. City Relations Committee \u2013 Mitzi Brown & Meredith Schatz",
-        "b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan",
-        "c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk",
-        "d. Strategic Investments \u2013 Tom Wack & Evan Sullivan",
-        "e. Workforce Development \u2013 Mitzi Brown & Meredith Schatz",
-        "f. Tourism \u2013 Anita Crossfield & Eugeniy Mikityuk",
-        "g. Main Street \u2013 Mitzi Brown & Meredith Schatz",
-        "h. Marketing & Promotions \u2013 Eugeniy Mikityuk",
-        "i. Business Relations \u2013 Meredith Schatz & Anita Crossfield",
-        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 16, 2026. ANY CITIZEN THAT WANTS TO",
-        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
-        "AGENDAS FORM.",
-        "Page 2 of 2",
-        "EDA Agenda \u2013 June 16, 2026",
-        "10. Staff Report",
-        "11. Chair\u2019s Report",
-        "12. Board Member Comments",
-        "13. Adjournment \u2013 Next Meeting, July 13, 2026",
-        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO JUNE 16, 2026. ANY CITIZEN THAT WANTS TO",
-        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
-        "AGENDAS FORM.",
-        "601 Caroline Street, Suite 303                                                       (540) 372-1216",
-        "Fredericksburg, VA 22401                                                             (540) 372-6587 Fax",
-        "ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES",
-        "Monday, May 11, 2026",
-        "8:30 a.m. \u25cf Regular Meeting",
-        "FXBG City Center, First Floor",
-        "Visitor Center Auditorium & Exhibit Room",
-        "601 Caroline St.",
-        "Fredericksburg, VA 22401",
-        "The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday,",
-        "May 11, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Auditorium & Exhibit Room, 601 Caroline St.,",
-        "Fredericksburg, VA 22401.",
-        "EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Tom Wack,",
-        "Mitzi Brown, and Eugeniy Mikityuk (via phone).",
-        "ABSENT. Evan Sullivan.",
-        "ALSO PRESENT. Rivers Region Entrepreneurial Ecosystem (RREE): Michael Purello, Executive Director;",
-        "Fredericksburg Fashion Week: Latoya White, President; Synctivate: Madeline McMahon, Marketing and",
-        "Business Development; Hyperbole: John Simms; Fredericksburg Main Street: Kristen Reed, Assistant Director;",
-        "EDA Counsel: Jackson Key; EDA Assistant, Jordan Seurattan, Department of Economic Development and",
-        "Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager; Danelle Rose, Marketing and",
-        "Communications Manager.",
-        "DETERMINATION OF QUORUM. Mitzi Brown.",
-        "APPROVAL OF AGENDA.",
-        "MOTION by Mitzi Brown, seconded by Anita Crossfield, to approve the agenda: Ayes (6); Nays (0); Absent",
-        "from Meeting (1 - Sullivan).",
-        "PUBLIC COMMENTS. None.",
-        "APPROVAL OF MINUTES.",
-        "MOTION by Mitzi Brown seconded by Tom Wack for the regular meeting minutes from April 13, 2026 were",
-        "approved: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan).",
-        "TREASURER'S REPORT.",
-        "Mr. Hughes reported that year-to-date finances are strong, with expenses under budget and income exceeding",
-        "projections.",
-        "a.   Draft FY2027 Budget Discussion",
-        "The FY2027 draft budget was presented for discussion which focused primarily on baseline operating costs",
-        "and income. Specific areas like professional services and the Sports Tourism Fund were identified as",
-        "needing further consideration. A few members expressed concern that the Loan Program's $25,000 budget",
-        "is too low. Mr. Hughes and others suggested increasing the Loan Program\u2019s budget to around $100,000 to",
-        "support revenue-generating opportunities. The final budget is expected to be approved in June, following",
-        "further refinement of year-end figures.",
-        "OLD BUSINESS.",
-        "b.   InvestFXBG Loan Program \u2013 Josh Summits",
-        "Mr. Summits presented the proposed amendments and changes to the InvestFXBG credit program policy",
-        "manual, noting that the document had been reviewed and approved by legal counsel and the loan",
-        "underwriting team. Key changes include: an increase in borrowing limits to between $5,000 and $250,000,",
-        "with larger amounts considered under special circumstances, and loan terms typically priced around the",
-        "Wall Street general prime rate for three to five years, with potential for longer terms on larger cap",
-        "financing. The policy now establishes one-time and/or monthly servicing fees for closed loans. Regarding",
-        "collateral, the updated policy aims for the EDA to hold first position but allows flexibility to slide to second",
-        "position, particularly for real estate. The Loan Review Committee (LRC) composition has been formalized",
-        "to include two EDA board members and up to three non-EDA members from commercial lending",
-        "institutions within zip code 22401, with details on the appointment process and potential conflicts",
-        "addressed. Notably, the LRC's authority has shifted from full loan approval to making recommendations to",
-        "the full EDA board. Banks that have expressed interest in participating with the LRC include Shore United,",
-        "Citizens and Farmers (C&F) Bank, and First Citizens. Mr. Summits also confirmed that the Small Business",
-        "Catalyst Fund, Microloan Program, and Business Capital Growth Fund terms remain unchanged from the",
-        "previous meeting.",
-        "MOTION by Mitzi Brown seconded by Tom Wack to adopt the proposed policies to the InvestFXBG Loan",
-        "Program: Ayes (6); Nays (0); Absent from Meeting (1 - Sullivan).",
-        "c.   Establishment of the Serve & Stay Fredericksburg Fund \u2013 Chair Schatz",
-        "Chair Schatz introduced the \"Serve and Stay Program,\" designed to support key public service workers in",
-        "Fredericksburg. The program aims to assist first responders, teachers, and other city and school employees",
-        "with housing costs. Following a conversation with a banker specializing in workforce housing, the",
-        "proposed guidelines include mortgage rate buy-downs of up to $6,500 for home purchases and up to $4,500",
-        "for security deposits and initial rent for renters. Initially conceived for first responders and teachers, the",
-        "program has been broadened to include all City of Fredericksburg and public-school employees, while",
-        "retaining preferred qualifications for those in essential service roles.",
-        "Chair Schatz proposed an initial allocation of $30,000 to the Community Foundation to establish the fund,",
-        "emphasizing that this demonstrates public sector leadership and provides a platform for private sector",
-        "investment. The program anticipates the need for a committee, potentially composed of two EDA members,",
-        "to review and approve applications within a two-week timeframe to ensure quick turnaround for applicants",
-        "who often make employment decisions concurrently. The creation of this committee and the allocation of",
-        "funds were presented for approval, with the understanding that specific language and implementation",
-        "details would be refined.",
-        "During the discussion, Mr. Mikityuk sought clarity around the \"high need\" criteria and the potential for",
-        "perceived inequity, especially when considering household incomes that could exceed typical public",
-        "servant salaries. Chair Schatz and other members explained that the intent is to support individuals offered",
-        "employment in critical roles, with the city and schools determining which roles qualify as \u201chigh need\u201d, and",
-        "the Board making final allocation decisions based on these inputs and financial qualifications. The",
-        "discussion also touched upon the role of the Community Foundation as an intermediary for managing funds",
-        "and applications.",
-        "MOTION by Mitzi Brown seconded by Anita Crossfield to allocate $30,000 from the FY2026 operating",
-        "budget to the Serve and Stay Program through the Community Foundation: Ayes (6); Nays (0); Absent from",
-        "Meeting (1 - Sullivan).",
-        "NEW BUSINESS.",
-        "a.   Regional Entrepreneurial Initiative Strategic Plan and Upcoming Implementation \u2013 Mike Purello",
-        "Michael Purello, head of the Rivers Region Entrepreneurial Ecosystem (RREC), provided a detailed update",
-        "on the Regional Entrepreneurial Initiative (REI) Strategic Plan and its upcoming implementation,",
-        "specifically requesting a matching fund commitment of $10,000 per year for two years from the",
-        "Fredericksburg EDA. This funding is crucial for supporting the GoVirginia implementation grant, building",
-        "upon prior support received for the planning grant.",
-        "Mr. Purello contextualized the initiative within GoVirginia Region 6, which comprises the Fredericksburg",
-        "subregion, Middle Peninsula, and Northern Neck. He highlighted that despite considerable entrepreneurial",
-        "activity and innovation ingredients; this region has not yet achieved the same level of entrepreneurial",
-        "ecosystem development as other areas. The REI Action Plan was developed through extensive research,",
-        "gap analysis, and consultations with hundreds of stakeholders across the region. The implementation grant",
-        "will focus on a subset of this comprehensive plan. The RREC aims to increase the number of",
-        "entrepreneurial startups in Region 6 and cultivate a sustainable, long-term entrepreneurial ecosystem.",
-        "Mr. Purello identified several key regional strengths, including military bases, educational institutions, and",
-        "its extensive waterways, which have inspired the \"Thrive by Water\" thematic approach. He also outlined",
-        "significant identified gaps, such as the underutilization of military bases, a higher-than-average veteran",
-        "population with a lower rate of veteran entrepreneurship, and limited access to venture capital and angel",
-        "investors compared to demographic and size-similar regions like Colorado Springs and Huntsville,",
-        "Alabama.",
-        "The implementation plan is structured around three core regional priorities: first, strengthening",
-        "entrepreneurial support by making it easier for entrepreneurs to discover the region, connect with peers, and",
-        "access expert advice; second, expanding capital access and regional networks, exploring avenues like",
-        "crowdfunding and community-based funding models; and third, leveraging regional assets such as patents",
-        "from Dahlgren, working with research institutions like VIMS, and commercializing technologies to foster",
-        "high-growth businesses. Mr. Purello emphasized that this initiative is designed to be complementary ,",
-        "rather to duplicate existing efforts, particularly those of the Fredericksburg Regional Alliance, which",
-        "focuses on attracting existing businesses and site development, while the RREC targets the attraction and",
-        "support of new entrepreneurs and startups.",
-        "Mr. Purello further elaborated on the distinction between high-growth businesses, which have the potential",
-        "for rapid scaling and global reach, and Main Street businesses. While the initiative will benefit both, the",
-        "focus on high-growth businesses is driven by GoVirginia's emphasis on economic impact and tax revenue",
-        "generation. The two-year implementation plan aims to establish a robust online presence, launch key",
-        "activities, and importantly, develop a sustainable model for the ecosystem beyond the GoVirginia funding,",
-        "likely through corporate sponsorships. The primary implementation focus will be on the Fredericksburg",
-        "subregion, with efforts to develop high-growth businesses there, while still supporting the broader region.",
-        "Regarding funding, Mr. Purello detailed existing match commitments from entities like FRA, Stafford,",
-        "Spotsylvania, King George, and Germanna, and is requesting $20,000 from the Fredericksburg EDA over",
-        "two years. The total matching funds secured will determine the amount requested from Go Virginia, with a",
-        "target of under $500,000 for GoVirginia, requiring approximately $225,000 in matching funds. The",
-        "Fredericksburg EDA will need to provide a commitment by July 10th to be included in the final",
-        "application, with a potential discussion to occur at a future meeting.",
-        "b.   EDA Grant Program Application \u2013 Amy Peregoy",
-        "An application was presented from Fredericksburg Fashion Week International requesting $2,500 in",
-        "sponsorship for the Fredericksburg Fashion Block Party, scheduled for June 6, 2026, at the Fredericksburg",
-        "Area Museum (FAM). The event is projected to attract 400 attendees and aims to enhance event",
-        "production, support local designers and artists, expand community engagement, and strengthen educational",
-        "programs, with the goal of generating measurable economic and workforce development benefits for",
-        "Fredericksburg. The applicant, Ms. Latoya White, owner of Fredericksburg Fashion Week International,",
-        "clarified that while this is a new event for Fredericksburg, her organization has a history of successful",
-        "fashion events in the area, attracting significant crowds and media attention, and has a strong track record",
-        "of placing students into higher education and reducing bullying rates in schools through fashion-focused",
-        "programs.",
-        "Ms. White explained that the requested EDA funds would primarily support production enhancements for",
-        "the block party, including lighting, backdrops, and overall visual appeal, to ensure a high-quality",
-        "representation of Fredericksburg. She noted that this event is a \"block party\" designed to be free and open",
-        "to the community, encouraging exploration of local businesses and shopping opportunities. While the initial",
-        "projection was for 400 attendees, organizers now anticipate 2,000-2,500 people. The event has secured",
-        "proclamations from the Mayor and participation from notable speakers like Chuck Frye. International",
-        "designers and models with substantial social media following are expected to participate, bringing their",
-        "own audiences.",
-        "Members raised concerns regarding the short timeline for securing sponsorships, the event's promotion, and",
-        "the clarity of vendor numbers and their confirmation. Ms. White addressed these by explaining that while",
-        "this is her first time actively seeking sponsorships from organizations like the EDA, Fredericksburg",
-        "Fashion Week International has a history of sponsorships coming to them, and that this block party event",
-        "has been promoted for nearly a year through social media, local partnerships, and media appearances,",
-        "including Channel 9 and \"Great Day Washington.\"",
-        "MOTION by Kevin Hughes seconded by Chair Schatz to approve a grant in the amount of $2,500, structured",
-        "as vendor invoices, to support the Fredericksburg Fashion Week Block Party: Ayes (6); Nays (0); Absent",
-        "from Meeting (1 - Sullivan)."
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06162026-2177?html=true",
-      "date": "2026-06-16",
-      "agenda_id": "2177"
     },
     {
       "date": "2026-02-24",
