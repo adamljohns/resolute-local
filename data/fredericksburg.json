@@ -357,11 +357,67 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07142026-2185?html=true",
       "date": "2026-07-14",
       "agenda_id": "2185",
-      "vimeo_id": "1204016112",
+      "vimeo_id": "1210021632",
       "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [],
-      "video_duration_sec": 4825,
-      "video_lobby_only": true
+      "video_clips": [
+        {
+          "section_title": "DSS Lease for Social Services Expansion",
+          "start_sec": 353,
+          "end_sec": 392,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=351s",
+          "summary": "Council unanimously approves a lease for Department of Social Services to expand into 608 Jackson Street, addressing the growing need for space to serve vulnerable residents, with the city contributing approximately $50,000 annually.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Public Hearing on Data Centers",
+          "start_sec": 433,
+          "end_sec": 563,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=433s",
+          "summary": "A long-time resident and retired teacher speaks passionately against the proposed 1500 Gateway data center, citing noise, traffic, and environmental concerns, and urging the council to prioritize citizens over corporate interests.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Affordable Housing Parking Reform",
+          "start_sec": 1170,
+          "end_sec": 1280,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1170s",
+          "summary": "Fred 15 advocates for reducing parking minimums for new affordable housing construction, arguing that current requirements add $10,000-$50,000 to costs and burden small infill lots, while supporting the planning department's proposal to streamline development.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "FXB Go Transit Funding Support",
+          "start_sec": 1694,
+          "end_sec": 1844,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1694s",
+          "summary": "Council unanimously supports FXB Go's application for state and federal transit funding to maintain safe operations and extend the life of service vehicles, ensuring continued public transit access for residents.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Police Body Camera AI & License Plate Reader Policy",
+          "start_sec": 4169,
+          "end_sec": 4319,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=4169s",
+          "summary": "Police Chief Mason details the 'AI era bundle' for body cameras, highlighting real-time translation for 57 languages to aid crisis interactions and automated report drafting to get officers back on patrol. She also defends the use of license plate readers for recovering stolen vehicles.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        }
+      ],
+      "video_duration_sec": 6056,
+      "video_lobby_only": false
     },
     {
       "format": "html",
@@ -453,11 +509,67 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07142026-2188?html=true",
       "date": "2026-07-14",
       "agenda_id": "2188",
-      "vimeo_id": "1204016112",
+      "vimeo_id": "1210021632",
       "vimeo_event_url": "https://vimeo.com/event/898581",
-      "video_clips": [],
-      "video_duration_sec": 4825,
-      "video_lobby_only": true
+      "video_clips": [
+        {
+          "section_title": "DSS Lease for Social Services Expansion",
+          "start_sec": 353,
+          "end_sec": 392,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=351s",
+          "summary": "Council unanimously approves a lease for Department of Social Services to expand into 608 Jackson Street, addressing the growing need for space to serve vulnerable residents, with the city contributing approximately $50,000 annually.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Public Hearing on Data Centers",
+          "start_sec": 433,
+          "end_sec": 563,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=433s",
+          "summary": "A long-time resident and retired teacher speaks passionately against the proposed 1500 Gateway data center, citing noise, traffic, and environmental concerns, and urging the council to prioritize citizens over corporate interests.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Affordable Housing Parking Reform",
+          "start_sec": 1170,
+          "end_sec": 1280,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1170s",
+          "summary": "Fred 15 advocates for reducing parking minimums for new affordable housing construction, arguing that current requirements add $10,000-$50,000 to costs and burden small infill lots, while supporting the planning department's proposal to streamline development.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "FXB Go Transit Funding Support",
+          "start_sec": 1694,
+          "end_sec": 1844,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1694s",
+          "summary": "Council unanimously supports FXB Go's application for state and federal transit funding to maintain safe operations and extend the life of service vehicles, ensuring continued public transit access for residents.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Police Body Camera AI & License Plate Reader Policy",
+          "start_sec": 4169,
+          "end_sec": 4319,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=4169s",
+          "summary": "Police Chief Mason details the 'AI era bundle' for body cameras, highlighting real-time translation for 57 languages to aid crisis interactions and automated report drafting to get officers back on patrol. She also defends the use of license plate readers for recovering stolen vehicles.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        }
+      ],
+      "video_duration_sec": 6056,
+      "video_lobby_only": false
     },
     {
       "format": "html",
