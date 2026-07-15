@@ -41,5 +41,26 @@
     "how": "Residents can attend the session on June 23, 2026, at 5:30 PM in the Second Floor Conference Room at 715 Princess Anne Street. Public comment periods are typically available during the meeting; check the agenda for specific time limits and registration procedures. You may also email council members prior to the meeting to express your views on the zoning amendments or anniversary plans.",
     "source": "auto-llm",
     "model": "qwen3.6-35b-a3b"
+  },
+  "2026-06-25": {
+    "summary": "The listed agenda items indicate a biannual planning off-site for the Fredericksburg City Council, not a regular public session. This internal retreat is scheduled for June 25-26, 2026, and is not open to the public for comment or observation. Regular council meetings where binding decisions are made typically occur on separate dates and are held in the Council Chambers.",
+    "why": "While this specific off-site does not allow public input, the strategic plans developed during such retreats directly influence future zoning changes, tax base growth, and infrastructure investments. These long-term decisions shape the quality of local schools, public safety resource allocation, and the mix of businesses in the community. Residents should monitor subsequent regular council meetings to see how these strategic plans are translated into actionable ordinances.",
+    "how": "You cannot attend or speak at this off-site session as it is an internal working retreat. To engage with the council, you must attend the next regular City Council session, which is typically held in the Council Chambers at 601 Caroline Street. Check the official City of Fredericksburg website for the specific date and time of the next public meeting, where you can sign up for public comment or email council members regarding agenda items.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-06-26": {
+    "summary": "The City Council is conducting a biannual planning session off-site, not a public legislative meeting. This session is dedicated to internal strategy and long-term goal setting rather than voting on specific ordinances or budgets. No public votes or formal public comment periods are scheduled for this event.",
+    "why": "While this specific session does not result in immediate policy changes, the strategic plans developed here influence future zoning decisions, tax base growth, and public safety resource allocation. The outcomes will shape the city's development trajectory and service levels for local families and businesses over the coming years.",
+    "how": "Residents cannot attend this off-site planning session as it is closed to the public. To influence the topics discussed, contact your City Council members via email or phone before the meeting to share your priorities. Public input on specific issues will be available during regular City Council meetings held in the Council Chambers.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-07-14": {
+    "summary": "The City Council will consider a budget amendment to fund the city's 300th Anniversary celebration and review updates to the Capital Improvement Plan for fiscal years 2027 through 2031. Additionally, the council will address zoning code changes related to technology overlay districts and approve a lease for Department of Social Services office space at 608 Jackson Street.",
+    "why": "These decisions directly impact the city's financial planning, long-term infrastructure projects, and the regulatory environment for local businesses and developers. The anniversary funding affects how public resources are allocated for civic events, while zoning updates may influence future development patterns and property use standards in Fredericksburg.",
+    "how": "Residents can attend the meeting on July 14, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. For public hearings, written comments must be submitted via mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to be read aloud.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
   }
 }

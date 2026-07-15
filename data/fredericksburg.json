@@ -470,7 +470,12 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07142026-2185?html=true",
       "date": "2026-07-14",
-      "agenda_id": "2185"
+      "agenda_id": "2185",
+      "vimeo_id": "1204016112",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 4825,
+      "video_lobby_only": true
     },
     {
       "format": "html",
@@ -561,7 +566,12 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_07142026-2188?html=true",
       "date": "2026-07-14",
-      "agenda_id": "2188"
+      "agenda_id": "2188",
+      "vimeo_id": "1204016112",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [],
+      "video_duration_sec": 4825,
+      "video_lobby_only": true
     },
     {
       "format": "html",
