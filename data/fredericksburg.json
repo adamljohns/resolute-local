@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-07-17T10:00:01Z",
-  "updated_local": "2026-07-17 06:00 EDT",
+  "updated": "2026-07-17T22:00:00Z",
+  "updated_local": "2026-07-17 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -38,10 +38,10 @@
   ],
   "next_meeting": {
     "title": "City Council Session",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "time": "5:00pm",
     "location": "",
-    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06252026-2181?html=true",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06262026-2182?html=true",
     "items": [
       "601 Caroline Street, Third Floor Training Room",
       "Council Biannual Planning Off-Site",
@@ -49,7 +49,7 @@
       "Friday, June 26 from 8:15 \u2013 4:30pm"
     ],
     "raw_lines": [
-      "Agenda - 06/25/2026",
+      "Agenda - 06/26/2026",
       "City of Fredericksburg, Virginia",
       "Hon. Kerry P. Devine, Mayor",
       "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
@@ -63,8 +63,8 @@
       "FXBG City Center",
       "601 Caroline Street, Third Floor Training Room",
       "Fredericksburg, Virginia \u00a022401",
-      "Notice of Meeting",
       "June 25 and 26, 2026",
+      "Agenda",
       "1.",
       "Council Biannual Planning Off-Site",
       "Thursday, June 25 from 8:15 \u2013 5:00pm",
@@ -72,6 +72,47 @@
     ]
   },
   "meetings": [
+    {
+      "format": "pdf",
+      "sections": [],
+      "raw_text": "NOTICE City of Fredericksburg Electoral Board will meet to administer their duties regarding the August 4, 2026 Republican Primary Election August 4, 2026, 4:30am-10:00 pm: For the administration of their Election Day duties. August 5, 2026, 12:00 pm: In the Office of the General Registrar and Director of Elections at 601 Caroline Street, Suite 500, for the purpose of canvassing the votes from election day for all precincts, results from absentee by mail and absentee by person. August 10, 2026, 10:00 am: In the Office of the General Registrar and Director of Elections at 601 Caroline Street, Suite 500, for the purpose of the Provisional Canvass of Votes in a limited open session meeting. Immediately following the Provisional Canvass, the Canvass of the post-election vote will occur. Once convened, the Electoral Board will remain in session, and will recess from time-to-time, for a date and time certain, to complete the requirements of the election and to properly conduct and conclude other business required by the Code of the Commonwealth or the State Department of Elections, in finalizing the election, the fiscal year, and any old or unfinished business from this and prior meetings. Portions of this meeting \u2013 beginning Tuesday, August 4, 2026, until their final adjournment \u2013 may include Closed Sessions as allowed by VFOIA \u00a72.2-3711(A)(1, 7 & 8) and/or \u00a724.2- 653. DIRECTOR OF ELECTIONS ELECTORAL BOARD & GENERAL REGISTRAR , Chair Jessica B. Atkinson G. Scott Walker, Vice Chair Marianna Bedway, Secretary 601 Caroline Street Suite 500 Fredericksburg, VA 22401 Email: vote@vote.fredericksburgva.gov Web: www.fredericksburgVA.gov/Vote Telephone: 540-372-1030 Fax: 540-373-8381",
+      "body": "Electoral Board",
+      "time": "4:30am",
+      "lines": [
+        "NOTICE",
+        "City of Fredericksburg Electoral Board will meet to",
+        "administer their duties regarding the",
+        "August 4, 2026 Republican Primary Election",
+        "August 4, 2026, 4:30am-10:00 pm: For the administration of their Election Day",
+        "duties.",
+        "August 5, 2026, 12:00 pm: In the Office of the General Registrar and Director of",
+        "Elections at 601 Caroline Street, Suite 500, for the purpose of canvassing the votes",
+        "from election day for all precincts, results from absentee by mail and absentee by",
+        "person.",
+        "August 10, 2026, 10:00 am: In the Office of the General Registrar and Director of",
+        "Elections at 601 Caroline Street, Suite 500, for the purpose of the Provisional",
+        "Canvass of Votes in a limited open session meeting. Immediately following the",
+        "Provisional Canvass, the Canvass of the post-election vote will occur.",
+        "Once convened, the Electoral Board will remain in session, and will recess from time-to-time,",
+        "for a date and time certain, to complete the requirements of the election and to properly conduct",
+        "and conclude other business required by the Code of the Commonwealth or the State Department",
+        "of Elections, in finalizing the election, the fiscal year, and any old or unfinished business from",
+        "this and prior meetings. Portions of this meeting \u2013 beginning Tuesday, August 4, 2026, until their",
+        "final adjournment \u2013 may include Closed Sessions as allowed by VFOIA \u00a72.2-3711(A)(1, 7 & 8)",
+        "and/or \u00a724.2- 653.",
+        "DIRECTOR OF ELECTIONS                                               ELECTORAL BOARD",
+        "& GENERAL REGISTRAR                                                                     , Chair",
+        "Jessica B. Atkinson                                                 G. Scott Walker, Vice Chair",
+        "Marianna Bedway, Secretary",
+        "601 Caroline Street Suite 500 Fredericksburg, VA 22401",
+        "Email: vote@vote.fredericksburgva.gov",
+        "Web: www.fredericksburgVA.gov/Vote",
+        "Telephone: 540-372-1030       Fax: 540-373-8381"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08042026-2191?html=true",
+      "date": "2026-08-04",
+      "agenda_id": "2191"
+    },
     {
       "format": "html",
       "date_label": "July 14, 2026",
@@ -1563,65 +1604,6 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06262026-2182?html=true",
       "date": "2026-06-26",
       "agenda_id": "2182"
-    },
-    {
-      "format": "html",
-      "session_type": "Regular Session",
-      "body": "City Council",
-      "sections": [
-        {
-          "level": 1,
-          "title": "(unattached)",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Biannual Planning Off-Site",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Notice of Meeting",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "June 25 and 26, 2026",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Council Biannual Planning Off-Site",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 06/25/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council Biannual Planning Off-Site FXBG City Center 601 Caroline Street, Third Floor Training Room Fredericksburg, Virginia 22401 Notice of Meeting June 25 and 26, 2026 1. Council Biannual Planning Off-Site Thursday, June 25 from 8:15 \u2013 5:00pm Friday, June 26 from 8:15 \u2013 4:30pm",
-      "lines": [
-        "Agenda - 06/25/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "Biannual Planning Off-Site",
-        "FXBG City Center",
-        "601 Caroline Street, Third Floor Training Room",
-        "Fredericksburg, Virginia \u00a022401",
-        "Notice of Meeting",
-        "June 25 and 26, 2026",
-        "1.",
-        "Council Biannual Planning Off-Site",
-        "Thursday, June 25 from 8:15 \u2013 5:00pm",
-        "Friday, June 26 from 8:15 \u2013 4:30pm"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_06252026-2181?html=true",
-      "date": "2026-06-25",
-      "agenda_id": "2181"
     },
     {
       "date": "2026-02-24",
