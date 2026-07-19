@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-07-19T10:00:03Z",
-  "updated_local": "2026-07-19 06:00 EDT",
+  "updated": "2026-07-19T22:00:05Z",
+  "updated_local": "2026-07-19 18:00 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -2941,8 +2941,8 @@
       "pct_of_max": 0,
       "letter_grade": "F",
       "total_score": 0,
-      "max_possible": 2,
-      "answered": 1,
+      "max_possible": 4,
+      "answered": 2,
       "na_count": 20,
       "god_first": 0,
       "america_first": 0
@@ -2958,8 +2958,8 @@
       "pct_of_max": 0,
       "letter_grade": "F",
       "total_score": 0,
-      "max_possible": 2,
-      "answered": 1,
+      "max_possible": 4,
+      "answered": 2,
       "na_count": 20,
       "god_first": 0,
       "america_first": 0
@@ -3436,8 +3436,8 @@
       "pct_of_max": 0,
       "letter_grade": "F",
       "total_score": 0,
-      "max_possible": 2,
-      "answered": 1,
+      "max_possible": 4,
+      "answered": 2,
       "na_count": 20,
       "god_first": 0,
       "america_first": 0
