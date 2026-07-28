@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-07-28T13:54:16Z",
-  "updated_local": "2026-07-28 09:54 EDT",
+  "updated": "2026-07-28T13:57:48Z",
+  "updated_local": "2026-07-28 09:57 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -3164,6 +3164,13 @@
       "summary": "The City Council will consider a budget amendment to fund the city's 300th Anniversary celebration and review updates to the Capital Improvement Plan for fiscal years 2027 through 2031. Additionally, the council will address zoning code changes related to technology overlay districts and approve a lease for Department of Social Services office space at 608 Jackson Street.",
       "why": "These decisions directly impact the city's financial planning, long-term infrastructure projects, and the regulatory environment for local businesses and developers. The anniversary funding affects how public resources are allocated for civic events, while zoning updates may influence future development patterns and property use standards in Fredericksburg.",
       "how": "Residents can attend the meeting on July 14, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. For public hearings, written comments must be submitted via mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to be read aloud.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-08-14": {
+      "summary": "The Fredericksburg City Council will review budget amendments to fund the city's 300th Anniversary celebration and approve a lease for Department of Social Services office space at 608 Jackson Street. The council will also initiate zoning updates to align local development codes with state law and consider a resolution to apply for regional vanpool funding.",
+      "why": "These decisions directly impact the city's financial health by allocating funds for a major civic event and adjusting property use regulations that affect neighborhood character and development. The social services lease and transit funding applications influence local resource distribution and transportation options for residents.",
+      "how": "Residents may submit written comments via mail or email to the Clerk of Council by 1:30 p.m. on August 14, 2026, to have them read during the public hearing. In-person public comment is available before the meeting starts at 7:30 p.m. at 715 Princess Anne Street, subject to a five-minute time limit.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
