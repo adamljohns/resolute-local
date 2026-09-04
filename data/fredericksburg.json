@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-09-04T01:30:02Z",
-  "updated_local": "2026-09-03 21:30 EDT",
+  "updated": "2026-09-04T10:12:02Z",
+  "updated_local": "2026-09-04 06:12 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -3659,6 +3659,13 @@
       "summary": "This session will vote on two personnel appointments: John N. Siegler as Deputy Clerk of Council and Alexandra B. Rhodes as Senior Assistant City Attorney. The council will also review administrative reports, including nominations for the 2026 Wall of Honor and minutes from various advisory boards and commissions.",
       "why": "These appointments shape the administrative and legal support for city government operations, affecting how efficiently council business is managed and how city laws are interpreted. Reviewing the Wall of Honor nominations allows residents to see who is being recognized for community service, reflecting local values and history.",
       "how": "Residents may attend the meeting at 715 Princess Anne Street on August 25, 2026, at 7:30 p.m. to observe proceedings or speak during the public comment period. You can also email your council members regarding these appointments or review the attached memos and resolutions online prior to the session.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-09-08": {
+      "summary": "The city council will review progress on the third phase of the shopping center redevelopment project, which impacts local land use and infrastructure. Additionally, the council will hold a closed session with legal counsel to discuss enforcement strategies for defacing public property, a matter exempt from public scrutiny under state law.",
+      "why": "The redevelopment update affects the local tax base, neighborhood aesthetics, and the mix of commercial businesses available to residents. The closed legal discussion concerns public safety and the maintenance of community assets, which can influence how city resources are allocated for enforcement and repairs.",
+      "how": "Attend the work session on September 8, 2026, at 5:30 pm at 715 Princess Anne Street to observe the public portion of the meeting. Submit public comment during the designated time or email council members regarding the redevelopment update before the session. Note that the closed session on legal enforcement is not open to the public.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
