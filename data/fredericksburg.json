@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-09-09T10:12:04Z",
-  "updated_local": "2026-09-09 06:12 EDT",
+  "updated": "2026-09-10T01:30:05Z",
+  "updated_local": "2026-09-09 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -235,6 +235,709 @@
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Work Session",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of a quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination that public notice requirements have been met",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "September 14, 2026 Public Notice",
+              "documents": [
+                "3 2026-09-14_2ndprint_public notice_ARBhearing.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Approval of Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "September 14, 2026 Agenda",
+              "documents": [
+                "1 09-14-2026_ARB Agenda.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Announcements and Reports",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "St. George\u2019s Episcopal Church Archaeology \u2013 Kerri Barile Tambs",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Review of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "August 10, 2026 \u2013 Public Hearing",
+              "documents": [
+                "6A 2026-08-10 ARB Minutes DRAFT.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "August 10, 2026 \u2013 Advisory Review Guidelines Committee Meeting",
+              "documents": [
+                "6B 2026-08-10 - Committee Meeting - ARB Minutes DRAFT.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "August 24, 2026 \u2013 Work Session",
+              "documents": [
+                "6C 2026-08-24 - Supplemental Meeting - ARB Minutes DRAFT.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Ex Parte Communication",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Conflicts of Interest",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Consent Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "COA 2607-0219 \u2013 417 William Street \u2013 Sign Installation",
+              "documents": [
+                "9A COA2608-0234_Administrative Review Form_417 William Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2608-0232 \u2013 304-308 Hanover Street \u2013 Window Repairs",
+              "documents": [
+                "9B COA2608-0232_Administrative Review Form_304 Hanover Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2608-0233 \u2013 1011 Caroline Street \u2013 Sign Installation",
+              "documents": [
+                "9C COA2608-0233_Administrative Review Form_1011 Caroline Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2608-0235 \u2013 529 Caroline Street \u2013 Sign Installation",
+              "documents": [
+                "9D COA2607-0235_Administrative Review Form_529 Caroline Street_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2608-0236 \u2013 301 Lafayette Boulevard \u2013 Sign Installation",
+              "documents": [
+                "9E COA2608-0236_Administrative Review Form_301 Lafayette Boulevard_signed.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA 2608-0237 \u2013 826 Caroline Street \u2013 Sign, Lighting, & Awning Installation",
+              "documents": [
+                "9F COA 2608-0237_ARBmemo_826 Caroline Street_signed.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Public Hearing",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Continued Applications",
+              "documents": [
+                "10A Revised COA 2510-0157_ARBmemo_1318 Caroline Street_09-09-2026_signed.pdf",
+                "10B COA 2607-0216_ARBmemo_138 Caroline Street_signed.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "General Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Other Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Update",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 09/14/2026 ARCHITECTURAL REVIEW BOARD AGENDA September 14, 2026 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. September 14, 2026 Public Notice Documents: 3 2026-09-14_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. September 14, 2026 Agenda Documents: 1 09-14-2026_ARB Agenda.pdf 5. Announcements and Reports 5.A. St. George\u2019s Episcopal Church Archaeology \u2013 Kerri Barile Tambs 6. Review of Minutes 6.A. August 10, 2026 \u2013 Public Hearing Documents: 6A 2026-08-10 ARB Minutes DRAFT.pdf 6.B. August 10, 2026 \u2013 Advisory Review Guidelines Committee Meeting Documents: 6B 2026-08-10 - Committee Meeting - ARB Minutes DRAFT.pdf 6.C. August 24, 2026 \u2013 Work Session Documents: 6C 2026-08-24 - Supplemental Meeting - ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2607-0219 \u2013 417 William Street \u2013 Sign Installation Documents: 9A COA2608-0234_Administrative Review Form_417 William Street_signed.pdf 9.B. COA 2608-0232 \u2013 304-308 Hanover Street \u2013 Window Repairs Documents: 9B COA2608-0232_Administrative Review Form_304 Hanover Street_signed.pdf 9.C. COA 2608-0233 \u2013 1011 Caroline Street \u2013 Sign Installation Documents: 9C COA2608-0233_Administrative Review Form_1011 Caroline Street_signed.pdf 9.D. COA 2608-0235 \u2013 529 Caroline Street \u2013 Sign Installation Documents: 9D COA2607-0235_Administrative Review Form_529 Caroline Street_signed.pdf 9.E. COA 2608-0236 \u2013 301 Lafayette Boulevard \u2013 Sign Installation Documents: 9E COA2608-0236_Administrative Review Form_301 Lafayette Boulevard_signed.pdf 9.F. COA 2608-0237 \u2013 826 Caroline Street \u2013 Sign, Lighting, & Awning Installation Documents: 9F COA 2608-0237_ARBmemo_826 Caroline Street_signed.pdf 10. Public Hearing 10.A. Continued Applications 10.A.i. COA 2510-0157 \u2013 1318 Caroline Street COA 2510-0157 \u2013 1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence. Documents: 10A Revised COA 2510-0157_ARBmemo_1318 Caroline Street_09-09-2026_signed.pdf 10.A.ii. COA 2607-0216 \u2013 138 Caroline Street COA 2607-0216 \u2013 138 Caroline Street \u2013 Channing Morris requests to remove a wall at this residence. Documents: 10B COA 2607-0216_ARBmemo_138 Caroline Street_signed.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 13. Staff Update 14. Adjournment",
+      "lines": [
+        "Agenda - 09/14/2026",
+        "ARCHITECTURAL REVIEW BOARD",
+        "AGENDA",
+        "September 14, 2026",
+        "7:00 P.M.",
+        "Live streaming available during meetings and archived meeting videos are also available.",
+        "View Meeting Stream",
+        "Agenda",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Determination of a quorum",
+        "3.",
+        "Determination that public notice requirements have been met",
+        "3.A.",
+        "September 14, 2026 Public Notice",
+        "Documents:",
+        "3     2026-09-14_2ndprint_public notice_ARBhearing.pdf",
+        "4.",
+        "Approval of Agenda",
+        "4.A.",
+        "September 14, 2026 Agenda",
+        "Documents:",
+        "1     09-14-2026_ARB Agenda.pdf",
+        "5.",
+        "Announcements and Reports",
+        "5.A.",
+        "St. George\u2019s Episcopal Church Archaeology \u2013 Kerri Barile Tambs",
+        "6.",
+        "Review of Minutes",
+        "6.A.",
+        "August 10, 2026 \u2013 Public Hearing",
+        "Documents:",
+        "6A     2026-08-10 ARB Minutes DRAFT.pdf",
+        "6.B.",
+        "August 10, 2026 \u2013 Advisory Review Guidelines Committee Meeting",
+        "Documents:",
+        "6B     2026-08-10 - Committee Meeting - ARB Minutes DRAFT.pdf",
+        "6.C.",
+        "August 24, 2026 \u2013 Work Session",
+        "Documents:",
+        "6C     2026-08-24 - Supplemental Meeting - ARB Minutes DRAFT.pdf",
+        "7.",
+        "Disclosure of Ex Parte Communication",
+        "8.",
+        "Disclosure of Conflicts of Interest",
+        "9.",
+        "Consent Agenda",
+        "9.A.",
+        "COA 2607-0219 \u2013 417 William Street \u2013 Sign Installation",
+        "Documents:",
+        "9A     COA2608-0234_Administrative Review Form_417 William Street_signed.pdf",
+        "9.B.",
+        "COA 2608-0232 \u2013 304-308 Hanover Street \u2013 Window Repairs",
+        "Documents:",
+        "9B     COA2608-0232_Administrative Review Form_304 Hanover Street_signed.pdf",
+        "9.C.",
+        "COA 2608-0233 \u2013 1011 Caroline Street \u2013 Sign Installation",
+        "Documents:",
+        "9C     COA2608-0233_Administrative Review Form_1011 Caroline Street_signed.pdf",
+        "9.D.",
+        "COA 2608-0235 \u2013 529 Caroline Street \u2013 Sign Installation",
+        "Documents:",
+        "9D     COA2607-0235_Administrative Review Form_529 Caroline Street_signed.pdf",
+        "9.E.",
+        "COA 2608-0236 \u2013 301 Lafayette Boulevard \u2013 Sign Installation",
+        "Documents:",
+        "9E     COA2608-0236_Administrative Review Form_301 Lafayette Boulevard_signed.pdf",
+        "9.F.",
+        "COA 2608-0237 \u2013 826 Caroline Street \u2013 Sign, Lighting, & Awning Installation",
+        "Documents:",
+        "9F     COA 2608-0237_ARBmemo_826 Caroline Street_signed.pdf",
+        "10.",
+        "Public Hearing",
+        "10.A.",
+        "Continued Applications",
+        "10.A.i.",
+        "COA 2510-0157 \u2013 1318 Caroline Street",
+        "COA 2510-0157 \u2013 1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence.",
+        "Documents:",
+        "10A     Revised COA 2510-0157_ARBmemo_1318 Caroline Street_09-09-2026_signed.pdf",
+        "10.A.ii.",
+        "COA 2607-0216 \u2013 138 Caroline Street",
+        "COA 2607-0216 \u2013 138 Caroline Street \u2013 Channing Morris requests to remove a wall at this residence.",
+        "Documents:",
+        "10B     COA 2607-0216_ARBmemo_138 Caroline Street_signed.pdf",
+        "11.",
+        "General Public Comment",
+        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
+        "[email\u00a0protected]",
+        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
+        "12.",
+        "Other Business",
+        "13.",
+        "Staff Update",
+        "14.",
+        "Adjournment"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09142026-2203?html=true",
+      "date": "2026-09-14",
+      "agenda_id": "2203"
+    },
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order \u2013 Chair Schatz",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of Quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of the Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Public Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "RIVERE Virginia Brownfields Restoration and Economic Redevelopment Assistance Fund: Final",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Minutes",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Treasurer\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Old Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "New Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Committee & Liaison Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Chair\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Board Member Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment \u2013 Next Meeting, October 5, 2026",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "REDCO desires to provide to EDA, as may be requested from time to time, certain contract services",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Acceptance. EDA hereby engages REDCO, and REDCO hereby accepts such engagement, to",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Description of Services. REDCO shall provide EDA, as requested, with the following services,",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Payment for Services and Rate of Compensation. This Agreement is for services to be performed by",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Sources of Compensation. The EDA shall be the only source of any payment for services rendered by",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Term. The term of this Agreement shall expire two (2) years from the date of this Agreement, or upon",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "EDA Responsibilities. Prior to executing this Agreement between REDCO and the EDA, the",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Confidentiality. REDCO agrees, represents and warrants that the only purpose for which it will use",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Attorneys' Fees. In the event of a dispute or litigation as to any terms or conditions of this Agreement,",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Partial Invalidity. In the event that any provisions of this Agreement shall be held to be",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Waiver and Remedies. No waiver by any party of any term, provision or condition of this Agreement,",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Entire Agreement. This Agreement contains the entire agreement among the parties and supersedes",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Amendments. No amendments to or change or modification of this Agreement maybe made except",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Notices. All notices, requests, demands and other communications hereunder shall be in writing and",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Governing Law. All questions with respect to the construction of this Agreement and the rights and",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Relationship of the Parties. The parties to this agreement agree and acknowledge there is an",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Complete credit memo, to include:",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Business credit report, if available",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Personal credit reports on all guarantors",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Any other information or documents as requested by EDA",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Standard EDA Application Form",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Business Plan (as required by EDA)",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Business tax returns for previous 2 years, if filed;",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Most recent interim business financial statements (P&L and Balance Sheet), no older than 90",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Personal Financial statement from each owner providing guaranty",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Personal tax returns for previous 2 years from each owner providing guaranty",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Any other information deemed necessary to fully underwrite the loan/grant request",
+          "subitems": []
+        }
+      ],
+      "raw_text": "601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax Monday, September 14, 2026 8:30 a.m. \u25cf EDA Regular Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 1. Call to Order \u2013 Chair Schatz 2. Determination of Quorum 3. Approval of the Agenda 4. Public Comments 5. RIVERE Virginia Brownfields Restoration and Economic Redevelopment Assistance Fund: Final Report, Lori Blanc, RIVERE Ecological Center 6. Approval of Minutes Regular Meeting Minutes of August 10, 2026 7. Treasurer\u2019s Report EDA Budget Update August 2026 8. Old Business 9. New Business a. Tourism Public Relations Contract Renewal \u2013 Danelle Rose b. REDCO Agreement Renewal \u2013 Amy Peregoy 10. Committee & Liaison Reports a. City Relations Committee \u2013 Meredith Schatz & Curry Roberts b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk d. Strategic Investments \u2013 Evan Sullivan & Curry Roberts e. Workforce Development \u2013 Meredith Schatz & Curry Roberts f. Tourism \u2013 Eugeniy Mikityuk & David Fraser g. Main Street \u2013 David Fraser & Evan Sullivan h. Marketing & Promotions \u2013 Eugeniy Mikityuk & David Fraser i. Business Relations \u2013 Meredith Schatz & Anita Crossfield 11. Staff Report 12. Chair\u2019s Report 13. Board Member Comments NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO SEPTEMBER 14, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. Page 2 of 2 EDA Agenda \u2013 September 14, 2026 14. Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(8) for the purpose of consultation with legal counsel employed or retained by a public body regarding specific legal matters requiring the provision of legal advice by such counsel, specifically to discuss legal advice concerning the proposed restructuring of an existing loan made by the public body, including the borrower's request to subordinate the public body's security interest in the collateral securing said loan. 15. Adjournment \u2013 Next Meeting, October 5, 2026 NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO SEPTEMBER 14, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. 601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES Monday, August 10, 2026 8:30 a.m. \u25cf Regular Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday, August 10, 2026, at 8:30 a.m. at the FXBG City Center, Visitor Center Conference Room, 601 Caroline St., Fredericksburg, VA 22401. EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Eugeniy Mikityuk, Evan Sullivan, Curry Roberts, and David Fraser. ABSENT. None. ALSO PRESENT. Hyperbole: John Sims; Fredericksburg 300th Blue Ribbon Steering Committee: Beth Black, Committee Chair; Virginia\u2019s Innovation Crossroads: Tom Scott, President; EDA Assistant, Jordan Seurattan; Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager. DETERMINATION OF QUORUM. Eugeniy Mikityuk. APPROVAL OF AGENDA. MOTION by Anita Crossfield, seconded by Eugeniy Mikityuk, to approve the amended agenda: Ayes (7); Nays (0). PUBLIC COMMENTS. Ms. Black provided an update regarding the planning efforts for the upcoming 2028 tricentennial celebration. She noted that the committee is organizing an attempt to break a Guinness World Record and is currently scheduling a river-based test run to evaluate feasibility. This test run event is scheduled for Monday, August 24, from 5:00 p.m. to 7:00 p.m., with participants expected to check in at 5:00 p.m. Ms. Black specified that the activity is limited to adults, and that while the target of 40 participants is nearly met, additional volunteers are encouraged to join. To ensure attendee safety, Ms. Black confirmed that appropriate safety equipment will be provided and first responders will be on-site throughout the duration of the event. Interested volunteers are requested to contact Ms. Black directly for further coordination. PRESENTATION a. Virginia\u2019s Innovation Crossroads Regional Rebranding & Marketing \u2013 Tom Scott Mr. Scott, representing the organization formerly known as the Fredericksburg Regional Alliance, presented an update regarding their official rebranding to \"Virginia's Innovation Crossroads\". Mr. Scott explained that the transition was driven by research from site selection consultants who noted the region is often overshadowed by Northern Virginia and requires a more distinc...[truncated]",
+      "session_type": "Regular Session",
+      "lines": [
+        "601 Caroline Street, Suite 303                                                         (540) 372-1216",
+        "Fredericksburg, VA 22401                                                               (540) 372-6587 Fax",
+        "Monday, September 14, 2026",
+        "8:30 a.m. \u25cf EDA Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "1. Call to Order \u2013 Chair Schatz",
+        "2. Determination of Quorum",
+        "3. Approval of the Agenda",
+        "4. Public Comments",
+        "5. RIVERE Virginia Brownfields Restoration and Economic Redevelopment Assistance Fund: Final",
+        "Report, Lori Blanc, RIVERE Ecological Center",
+        "6. Approval of Minutes",
+        "Regular Meeting Minutes of August 10, 2026",
+        "7. Treasurer\u2019s Report",
+        "EDA Budget Update August 2026",
+        "8. Old Business",
+        "9. New Business",
+        "a. Tourism Public Relations Contract Renewal \u2013 Danelle Rose",
+        "b. REDCO Agreement Renewal \u2013 Amy Peregoy",
+        "10. Committee & Liaison Reports",
+        "a. City Relations Committee \u2013 Meredith Schatz & Curry Roberts",
+        "b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan",
+        "c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk",
+        "d. Strategic Investments \u2013 Evan Sullivan & Curry Roberts",
+        "e. Workforce Development \u2013 Meredith Schatz & Curry Roberts",
+        "f. Tourism \u2013 Eugeniy Mikityuk & David Fraser",
+        "g. Main Street \u2013 David Fraser & Evan Sullivan",
+        "h. Marketing & Promotions \u2013 Eugeniy Mikityuk & David Fraser",
+        "i. Business Relations \u2013 Meredith Schatz & Anita Crossfield",
+        "11. Staff Report",
+        "12. Chair\u2019s Report",
+        "13. Board Member Comments",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO SEPTEMBER 14, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "Page 2 of 2",
+        "EDA Agenda \u2013 September 14, 2026",
+        "14. Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia",
+        "convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(8) for the purpose of consultation",
+        "with legal counsel employed or retained by a public body regarding specific legal matters requiring",
+        "the provision of legal advice by such counsel, specifically to discuss legal advice concerning the",
+        "proposed restructuring of an existing loan made by the public body, including the borrower's",
+        "request to subordinate the public body's security interest in the collateral securing said loan.",
+        "15. Adjournment \u2013 Next Meeting, October 5, 2026",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO SEPTEMBER 14, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "601 Caroline Street, Suite 303                                                              (540) 372-1216",
+        "Fredericksburg, VA 22401                                                                    (540) 372-6587 Fax",
+        "ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES",
+        "Monday, August 10, 2026",
+        "8:30 a.m. \u25cf Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session on Monday,",
+        "August 10, 2026, at 8:30 a.m. at the FXBG City Center, Visitor Center Conference Room, 601 Caroline St.,",
+        "Fredericksburg, VA 22401.",
+        "EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes, Eugeniy",
+        "Mikityuk, Evan Sullivan, Curry Roberts, and David Fraser.",
+        "ABSENT. None.",
+        "ALSO PRESENT. Hyperbole: John Sims; Fredericksburg 300th Blue Ribbon Steering Committee: Beth",
+        "Black, Committee Chair; Virginia\u2019s Innovation Crossroads: Tom Scott, President; EDA Assistant, Jordan",
+        "Seurattan; Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy,",
+        "Economic Development Manager.",
+        "DETERMINATION OF QUORUM. Eugeniy Mikityuk.",
+        "APPROVAL OF AGENDA.",
+        "MOTION by Anita Crossfield, seconded by Eugeniy Mikityuk, to approve the amended agenda: Ayes (7);",
+        "Nays (0).",
+        "PUBLIC COMMENTS. Ms. Black provided an update regarding the planning efforts for the upcoming 2028",
+        "tricentennial celebration. She noted that the committee is organizing an attempt to break a Guinness World Record",
+        "and is currently scheduling a river-based test run to evaluate feasibility. This test run event is scheduled for Monday,",
+        "August 24, from 5:00 p.m. to 7:00 p.m., with participants expected to check in at 5:00 p.m. Ms. Black specified that",
+        "the activity is limited to adults, and that while the target of 40 participants is nearly met, additional volunteers are",
+        "encouraged to join. To ensure attendee safety, Ms. Black confirmed that appropriate safety equipment will be",
+        "provided and first responders will be on-site throughout the duration of the event. Interested volunteers are requested",
+        "to contact Ms. Black directly for further coordination.",
+        "PRESENTATION",
+        "a.   Virginia\u2019s Innovation Crossroads Regional Rebranding & Marketing \u2013 Tom Scott",
+        "Mr. Scott, representing the organization formerly known as the Fredericksburg Regional Alliance,",
+        "presented an update regarding their official rebranding to \"Virginia's Innovation Crossroads\". Mr. Scott",
+        "explained that the transition was driven by research from site selection consultants who noted the region is",
+        "often overshadowed by Northern Virginia and requires a more distinct identity to compete for industrial",
+        "and economic projects. Following extensive stakeholder surveys and research, the new brand aims to frame",
+        "the region, encompassing the City of Fredericksburg and the counties of Stafford, Spotsylvania, and",
+        "Caroline, as a single, market-ready ecosystem.",
+        "Mr. Scott highlighted the region's focus on four priority industries: aerospace and defense, software",
+        "development, engineering firms, and life science technologies. He emphasized that the region\u2019s growth",
+        "trajectory, projected to reach 500,000 residents by 2040, provides the necessary density and diversity to",
+        "attract major investment. Additionally, he identified the region's unique location directly between",
+        "Washington D.C. and Richmond, combined with significant infrastructure and a strong \"sense of place,\" as",
+        "key competitive advantages for the area. Mr. Scott concluded by inviting EDA members to engage with the",
+        "new brand on LinkedIn and emphasized the importance of a unified regional narrative. Following the",
+        "presentation, Mr. Scott addressed questions from the Board regarding the strategic role of engineering and",
+        "healthcare partnerships, confirming that his team is actively aligning with regional stakeholders, including",
+        "the University of Mary Washington, to ensure a collaborative approach to economic growth.",
+        "APPROVAL OF MINUTES.",
+        "MOTION by Anita Crossfield seconded by Eugeniy Mikityuk for the regular meeting minutes from July 13,",
+        "2026 were approved: Ayes (7); Nays (0).",
+        "TREASURER'S REPORT.",
+        "a.   Mr. Hughes reported that income collection is currently performing in line with expectations, following the",
+        "recent finalization of a minor budget amendment approved during the previous meeting. Mr. Hughes",
+        "indicated that the organization\u2019s fiscal position remains stable and noted that there were no significant",
+        "deviations or items of concern to report.",
+        "OLD BUSINESS. None.",
+        "NEW BUSINESS.",
+        "Chair Schatz led a discussion regarding proposed adjustments to committee assignments to integrate new",
+        "members, Mr. Roberts and Mr. Fraser. The Committee agreed to the following updates: Mr. Roberts will",
+        "join the City Relations, Strategic Investments, and Workforce Development committees. Mr. Fraser will",
+        "join the Tourism, Main Street, and Marketing and Promotions committees, serving alongside Mr. Sullivan",
+        "on Main Street and Mr. Mikityuk on Marketing and Promotions. Assignments for the FXBG Loan",
+        "Committee, Parking Improvement, and Business Relations remain largely unchanged.",
+        "Regarding the Parking Improvement Committee, members held a brief discussion on whether the",
+        "committee remains a vital component of the organization, noting that meetings are often canceled due to a",
+        "lack of active content. While the Committee will maintain its current status for now, members",
+        "acknowledged the value of providing a business-focused perspective to the city-convened group. It was",
+        "suggested that the Committee may only require a single representative to maintain this presence. Chair",
+        "Schatz proposed they conduct a formal review of the necessity and composition of all committees during",
+        "the upcoming organizational retreat.",
+        "COMMITTEE & LIAISON REPORTS.",
+        "a. City Relations Committee \u2013 None.",
+        "b. InvestFXBG Loan Committee \u2013 Mr. Sullivan reported two new applications are being considered and all",
+        "but one grantee is up to date on regular payments.",
+        "c. Parking Improvements \u2013 None.",
+        "d. Strategic Investments \u2013 None.",
+        "e. Workforce Development \u2013 Chair Schatz noted that the Serve and Stay Fund secured an additional $10,000,",
+        "bringing the fund total investment to $40,000.",
+        "f. Tourism \u2013 Mr. Mikityuk provided an update regarding his ongoing coordination with the City\u2019s tourism",
+        "and marketing departments, as well as the City of Fredericksburg 300 Blue Ribbon Steering Committee. He",
+        "emphasized that the EDA intends to support rather than replicate existing city initiatives, specifically",
+        "aiming to enhance the \"Visit Fredericksburg\" mobile app and align regional tourism efforts. Mr. Mikityuk",
+        "noted that he has established a liaison relationship with Ms. Black, Chair of the 300 Committee, to identify",
+        "specific 2028 tricentennial projects where the EDA can provide meaningful support. Additionally, Mr.",
+        "Mikityuk has reconnected with faculty at the University of Mary Washington\u2019s marketing program to",
+        "facilitate ongoing collaborative promotional research.",
+        "Regarding digital strategy, Mr. Mikityuk proposed utilizing targeted digital media and \"micro-influencers\"",
+        "to achieve specific, measurable objectives, such as highlighting historical assets or driving visitation via",
+        "Amtrak partnerships. Mr. Mikityuk committed to presenting a list of potential marketing firm partners and",
+        "a selection of recommended 300th-anniversary events for EDA involvement at the next meeting.",
+        "g. Main Street \u2013 None.",
+        "h. Marketing and Promotions \u2013 None.",
+        "i. Business Relations \u2013 None.",
+        "STAFF REPORT.",
+        "Mr. Summits provided an update regarding the Embrey Power Station site, noting that the staff is currently closing",
+        "out the state-funded Brownfields assessment grant. He confirmed that paperwork will be submitted by the end of the",
+        "month, and representatives from RIVERE will be invited to the September meeting to present their findings and",
+        "discuss the project\u2019s next steps. Additionally, Mr. Summits announced an upcoming Chamber of Commerce",
+        "\"Regionalism Matters\" trip to Lynchburg, Virginia, scheduled for October 14\u201316, 2026. While Mr. Summits is unable",
+        "to attend, he recommended that the Board send a representative to gain insights into regional development practices.",
+        "Mr. Mikityuk expressed a strong interest in attending, and members discussed the value of the trip for strategic growth",
+        "and educational development. Mr. Summits agreed to coordinate with the Chamber to hold spots while the board",
+        "confirms the final attendance logistics.",
+        "Lastly, Mr. Summits reported that he is finalizing the draft Request for Proposal for the department's updated economic",
+        "development strategic plan, which is supported by City Council funding. He confirmed that the draft will be presented",
+        "to the Board for review and feedback before it is officially released for public proposal.",
+        "CHAIR\u2019S REPORT. Chair Schatz provided an update regarding the upcoming annual EDA retreat, confirming",
+        "that the event will be held on September 14. The session will focus on strategic priorities for the coming year, with",
+        "further details on the schedule and venue to be coordinated by staff. Regarding the use of the City\u2019s suite at the",
+        "Fredericksburg Nationals stadium, Chair Schatz noted scheduling conflicts among board members for early",
+        "September dates and requested that staff create a digital poll to determine member availability; if a quorum cannot",
+        "be reached, the suite will be made available to other partner organizations.",
+        "Chair Schatz introduced a potential new tourism initiative, the installation of a large-scale wooden troll sculpture by",
+        "artist Thomas Dambo. As part of a global project, the initiative seeks to place one sculpture in every U.S. state, and",
+        "Chair Shatz proposed that the Committee pursue an application for Fredericksburg. Mr. Fraser was identified to assist",
+        "in evaluating the application requirements.",
+        "Finally, Chair Schatz transitioned the discussion to regional sports tourism, proposing a strategic focus on developing",
+        "a \"sports anchor\" asset for the region. Mr. Summits clarified that this effort aligns with the Comprehensive Economic",
+        "Development Study recently completed by the George Washington Regional Commission. He noted that the region\u2019s",
+        "sports tourism strategy, which seeks to create a symbiotic relationship between tournament facilities and local",
+        "hospitality assets like Kalahari Resort, remains a priority. Mr. Summits indicated that additional materials and updates",
+        "on these regional collaborations will be prepared for presentation at the September retreat.",
+        "MEMBER COMMENTS.",
+        "Vice Chair, Ms. Crossfield \u2013 Ms. Crossfield shared welcoming remarks to the Board\u2019s new members.",
+        "Treasurer, Mr. Hughes \u2013 None.",
+        "Secretary, Mr. Mikityuk \u2013 Mr. Mikityuk echoed the welcoming sentiments to new members.",
+        "Mr. Sullivan \u2013 Mr. Sullivan also echoed a warm welcome to new members.",
+        "Mr. Fraser \u2013 Mr. Fraser introduced himself to fellow members as a local business owner with 12 years of experience",
+        "operating on Main Street. He expressed enthusiasm for the opportunity to contribute to the organization\u2019s mission and",
+        "provided insight into his professional background and vision for the region. Drawing upon his experience with urban",
+        "development in Greenville, South Carolina, Mr. Fraser underscored the long-term benefits of strategic planning and",
+        "noted his appreciation for Fredericksburg's current trajectory. He expressed a particular interest in enhancing local",
+        "riverfront connectivity and emphasized the importance of fostering a culture of regionalism and positivity to further",
+        "elevate the area\u2019s appeal.",
+        "Mr. Roberts \u2013 In his introduction, Mr. Roberts shared that he recently retired from his position at the organization",
+        "formerly known as the Fredericksburg Regional Alliance, now the rebranded Virginia\u2019s Innovation Crossroads. Mr.",
+        "Roberts noted that throughout his professional career, he has held various roles in economic development at both the",
+        "state and regional levels but has not previously had the opportunity to serve at the local level \u2013 stating that this was",
+        "among the motivating factors to join the EDA. He expressed that as a resident of the City of Fredericksburg; he is",
+        "eager to apply his expertise toward the community\u2019s continued progress and is honored to contribute to the work of",
+        "the Economic Development Authority.",
+        "ADJOURNMENT. There being no further business to come before the Economic Development Authority at this",
+        "time, Chair Schatz declared the meeting officially adjourned at 9:27 a.m.",
+        "________________________________",
+        "Eugeniy Mikityuk, Secretary",
+        "FY2027 (7.1.2026-6.30.2027) EDA Budget",
+        "Year-to-Date as of August 31, 2026"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09142026-2204?html=true",
+      "date": "2026-09-14",
+      "agenda_id": "2204"
+    },
     {
       "format": "html",
       "session_type": "Regular Session",
@@ -1337,325 +2040,6 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08252026-2195?html=true",
       "date": "2026-08-25",
       "agenda_id": "2195"
-    },
-    {
-      "format": "html",
-      "session_type": "Regular Session",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination of a quorum",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination that public notice requirements have been met",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "August 24, 2026 ARB Site Visit Public Notice",
-              "documents": [
-                "2026-08-24 ARB meeting notice.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Approval of Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "August 24, 2026 ARB Agenda",
-              "documents": [
-                "08-24-2026_ARB Agenda.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Ex Parte Communication",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Conflicts of Interest",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Discussion",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Site Visit 1318 Caroline Street, COA 2510-0157",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "General Public Comment",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Other Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 08/24/2026 ARCHITECTURAL REVIEW BOARD AGENDA August 24, 2026 5:30 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. August 24, 2026 ARB Site Visit Public Notice Documents: 2026-08-24 ARB meeting notice.pdf 4. Approval of Agenda 4.A. August 24, 2026 ARB Agenda Documents: 08-24-2026_ARB Agenda.pdf 5. Disclosure of Ex Parte Communication 6. Disclosure of Conflicts of Interest 7. Discussion 7.A. Site Visit 1318 Caroline Street, COA 2510-0157 1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence. (COA 2510-0157) 8. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 9. Other Business 10. Adjournment",
-      "lines": [
-        "Agenda - 08/24/2026",
-        "ARCHITECTURAL REVIEW BOARD",
-        "AGENDA",
-        "August 24, 2026",
-        "5:30 P.M.",
-        "Live streaming available during meetings and archived meeting videos are also available.",
-        "View Meeting Stream",
-        "Agenda",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Determination of a quorum",
-        "3.",
-        "Determination that public notice requirements have been met",
-        "3.A.",
-        "August 24, 2026 ARB Site Visit Public Notice",
-        "Documents:",
-        "2026-08-24 ARB meeting notice.pdf",
-        "4.",
-        "Approval of Agenda",
-        "4.A.",
-        "August 24, 2026 ARB Agenda",
-        "Documents:",
-        "08-24-2026_ARB Agenda.pdf",
-        "5.",
-        "Disclosure of Ex Parte Communication",
-        "6.",
-        "Disclosure of Conflicts of Interest",
-        "7.",
-        "Discussion",
-        "7.A.",
-        "Site Visit 1318 Caroline Street, COA 2510-0157",
-        "1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence. (COA 2510-0157)",
-        "8.",
-        "General Public Comment",
-        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
-        "[email\u00a0protected]",
-        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
-        "9.",
-        "Other Business",
-        "10.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08242026-2198?html=true",
-      "date": "2026-08-24",
-      "agenda_id": "2198"
-    },
-    {
-      "format": "html",
-      "session_type": "Regular Session",
-      "body": "Planning Commission",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge Of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination of a Quorum",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Agenda",
-              "documents": [
-                "2026-08-12 Agenda.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Discussion of Potential Policies, Ordinances or Applications",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Declaration of Conflict of Interest and Disclosures of Contact",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Old Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-01.",
-              "documents": [
-                "1 PC Staff Memo.pdf",
-                "2 Draft Ordinance.pdf",
-                "3 Adopted Bills.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Other Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "General Public Comment",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval Of Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "July 8, 2026, Regular Meeting Minutes",
-              "documents": [
-                "2026-07-08 Draft Minutes Regular Meeting.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Commissioner Comments",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Chairman Comments",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Planning Commissioner Comments",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Planning Director Comments",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 08/12/2026 PLANNING COMMISSION AGENDA August 12, 2026 6:30 P.M. PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc . 1. Call to Order 2. Pledge Of Allegiance 3. Determination of a Quorum 4. Approval of Agenda 4.A. Agenda Documents: 2026-08-12 Agenda.pdf 5. Discussion of Potential Policies, Ordinances or Applications 6. Declaration of Conflict of Interest and Disclosures of Contact 7. Old Business 8. Public Hearing Any person may speak at a public hearing for up to five minutes. An applicant in a land use case may give an opening presentation of the case for up to 15 minutes, regardless of the number of speakers the applicant chooses to give the presentation, and may give a response after all citizens have spoken, for up to five minutes, regardless of the number of speakers the applicant chooses to give the response. The Chairman may suspend these rules in order to adapt them to any special situation. Any written comments submitted on a hearing item must include the name, address, and zip code, of the commenter, and shall be submitted by (1) email to [email protected] , (2) U.S. Mail addressed to: 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) delivered to the Community Planning and Building office located at 601 Caroline Street - 4th Floor by 2:30 PM the day of the meeting. Any written comments received will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video will not be considered part of the official public comments of the meeting. Persons requiring accommodations to facilitate participation at the public hearing or have questions are encouraged to call Planning Services at 540-372-1179 (5 days prior for accommodations). 8.A. Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-01. The City proposes to amend the Unified Development Ordinance Chapter 72 at \u00a7 72-34.9 (Technology Overlay District); \u00a7 72-43.3 (Temporary Use Standards); \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to be consistent with Amendments of the Code of Virginia regarding manufactured homes, temporary support structures, solar energy generation facilities, battery storage projects, data center site assessments, and off-street parking requirements. Documents: 1 PC Staff Memo.pdf 2 Draft Ordinance.pdf 3 Adopted Bills.pdf 9. Other Business 10. General Public Comment A general public comment period is provided at each regular meeting for comments by citizens regarding any matter related to Commission business that is not listed on the agenda for Public Hearing. The Chair will request that speakers state their name, address and zip code; observe the five-minute time limit; and yield the floor when the Clerk indicates that their time has expired. No dialogue between speakers will be permitted. Citizens who wish to make general public comments without attending the meeting will be able to send their comments in writing by (1) delivering to the Community Planning and Building office located at 601 Caroline Street - 4th Floor, (2) U.S. Mail at 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) email to [email protected] . Comments must be received by 2:30 p.m. the day of the meeting. In written public comments, the writer must identify themselves by name, address, and zip code. Such comments will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video, will not be considered part of the official public comments of the meeting. 11. Approval Of Minutes 11.A. July 8, 2026, Regular Meeting Minutes Documents: 2026-07-08 Draft Minutes Regular Meeting.pdf 12. Commissioner Comments 12.A. Chairman Comments 12.B. Planning Commissioner Comments 13. Planning Director Comments 14. Adjournment The next Planning Commission Regular Meeting is scheduled for Wednesday, September 9, 2026, at 6:30 p.m. PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc .",
-      "lines": [
-        "Agenda - 08/12/2026",
-        "PLANNING COMMISSION",
-        "AGENDA",
-        "August 12, 2026",
-        "6:30 P.M.",
-        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
-        "www.regionalwebtv.com/fredpc",
-        ".",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Pledge Of Allegiance",
-        "3.",
-        "Determination of a Quorum",
-        "4.",
-        "Approval of Agenda",
-        "4.A.",
-        "Agenda",
-        "Documents:",
-        "2026-08-12 Agenda.pdf",
-        "5.",
-        "Discussion of Potential Policies, Ordinances or Applications",
-        "6.",
-        "Declaration of Conflict of Interest and Disclosures of Contact",
-        "7.",
-        "Old Business",
-        "8.",
-        "Public Hearing",
-        "Any person may speak at a public hearing for up to five minutes. \u00a0An applicant in a land use case may give an opening presentation of the case for up to 15 minutes, regardless of the number of speakers the applicant chooses to give the presentation, and may give a response after all citizens have spoken, for up to five minutes, regardless of the number of speakers the applicant chooses to give the response. The Chairman may suspend these rules in order to adapt them to any special situation.",
-        "Any written comments submitted on a hearing item must include the name, address, and zip code, of the commenter, and shall be submitted by (1) email to",
-        "[email\u00a0protected]",
-        ", (2) U.S. Mail addressed to: 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) delivered to the Community Planning and Building office located at 601 Caroline Street - 4th Floor by 2:30 PM the day of the meeting. Any written comments received will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video will not be considered part of the official public comments of the meeting.",
-        "Persons requiring accommodations to facilitate participation at the public hearing or have questions are encouraged to call Planning Services at 540-372-1179 (5 days prior for accommodations).",
-        "8.A.",
-        "Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-01.",
-        "The City proposes to amend the Unified Development Ordinance Chapter 72 at \u00a7 72-34.9 (Technology Overlay District); \u00a7 72-43.3 (Temporary Use Standards); \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to be consistent with Amendments of the Code of Virginia regarding manufactured homes, temporary support structures, solar energy generation facilities, battery storage projects, data center site assessments, and off-street parking requirements.",
-        "Documents:",
-        "1 PC Staff Memo.pdf",
-        "2 Draft Ordinance.pdf",
-        "3 Adopted Bills.pdf",
-        "9.",
-        "Other Business",
-        "10.",
-        "General Public Comment",
-        "A general public comment period is provided at each regular meeting for comments by citizens regarding any matter related to Commission business that is not listed on the agenda for Public Hearing. \u00a0The Chair will request that speakers state their name, address and zip code; observe the five-minute time limit; and yield the floor when the Clerk indicates that their time has expired. \u00a0No dialogue between speakers will be permitted.",
-        "Citizens who wish to make general public comments without attending the meeting will be able to send their comments in writing by (1) delivering to the Community Planning and Building office located at 601 Caroline Street - 4th Floor, (2) U.S. Mail at 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) email to",
-        "[email\u00a0protected]",
-        ". Comments must be received by 2:30 p.m. the day of the meeting. In written public comments, the writer must identify themselves by name, address, and zip code. Such comments will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video, will not be considered part of the official public comments of the meeting.",
-        "11.",
-        "Approval Of Minutes",
-        "11.A.",
-        "July 8, 2026, Regular Meeting Minutes",
-        "Documents:",
-        "2026-07-08 Draft Minutes Regular Meeting.pdf",
-        "12.",
-        "Commissioner Comments",
-        "12.A.",
-        "Chairman Comments",
-        "12.B.",
-        "Planning Commissioner Comments",
-        "13.",
-        "Planning Director Comments",
-        "14.",
-        "Adjournment",
-        "The next Planning Commission Regular Meeting is scheduled for Wednesday, September 9, 2026, at 6:30 p.m.",
-        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
-        "www.regionalwebtv.com/fredpc",
-        "."
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08122026-2194?html=true",
-      "date": "2026-08-12",
-      "agenda_id": "2194"
     },
     {
       "date": "2026-04-28",
