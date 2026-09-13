@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-09-12T10:12:05Z",
-  "updated_local": "2026-09-12 06:12 EDT",
+  "updated": "2026-09-13T01:30:05Z",
+  "updated_local": "2026-09-12 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -2045,6 +2045,1155 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08252026-2195?html=true",
       "date": "2026-08-25",
       "agenda_id": "2195"
+    },
+    {
+      "date": "2026-07-14",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_07142026-2185",
+      "minutes_pages": 169,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Frye",
+        "Holmes",
+        "Rowe"
+      ],
+      "council_absent": [
+        "R"
+      ],
+      "resolutions_voted": [
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Rowe",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 4,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve entering into a lease with the Fredericksburg Department of Social Services for office space and parking at 608 Jackson Street",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to accept the appointment of Kenneth Lappin to the RACSB",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for Smart Scale Round 7 application - Fall Hill Avenue corridor improvements",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for authorizing the City Manager to award a contract for police camera and related technology to Axon, Inc",
+          "motion_by": "Frye",
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve items 5A-E on the consent agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-__, adopting the list of streets to be improved during the fiscal year 2026 asphalt and concrete rehabilitation program",
+          "motion_by": "Finn",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve Resolution 26__, on first read budgeting and appropriating funds for Fiscal Year 2027 beginning July 1, 2026, through June 30, 10 Regular Session 04/28/26 2027",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve Ordinance 26-07, first read setting the real estate tax rate at $0",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve Ordinance 26-__, first read amending the water and sewer rates and charges",
+          "motion_by": "Holmes",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 1,
+          "nays": [
+            "Rowe"
+          ],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve Ordinance 26-__, first read amending the water and sewer availability fees",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve Ordinance 26-__, first read emergency medical services transport fees",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-__, first read amending the FY 2026 capital budget for replacement security equipment in the Fredericksburg courthouse",
+          "motion_by": "Crump",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true,
+      "vimeo_id": "1210021632",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "DSS Lease for Social Services Expansion",
+          "start_sec": 353,
+          "end_sec": 392,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=351s",
+          "summary": "Council unanimously approves a lease for Department of Social Services to expand into 608 Jackson Street, addressing the growing need for space to serve vulnerable residents, with the city contributing approximately $50,000 annually.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Public Hearing on Data Centers",
+          "start_sec": 433,
+          "end_sec": 563,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=433s",
+          "summary": "A long-time resident and retired teacher speaks passionately against the proposed 1500 Gateway data center, citing noise, traffic, and environmental concerns, and urging the council to prioritize citizens over corporate interests.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Affordable Housing Parking Reform",
+          "start_sec": 1170,
+          "end_sec": 1280,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1170s",
+          "summary": "Fred 15 advocates for reducing parking minimums for new affordable housing construction, arguing that current requirements add $10,000-$50,000 to costs and burden small infill lots, while supporting the planning department's proposal to streamline development.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "FXB Go Transit Funding Support",
+          "start_sec": 1694,
+          "end_sec": 1844,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=1694s",
+          "summary": "Council unanimously supports FXB Go's application for state and federal transit funding to maintain safe operations and extend the life of service vehicles, ensuring continued public transit access for residents.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        },
+        {
+          "section_title": "Police Body Camera AI & License Plate Reader Policy",
+          "start_sec": 4169,
+          "end_sec": 4319,
+          "vimeo_id": "1210021632",
+          "vimeo_url": "https://vimeo.com/1210021632#t=4169s",
+          "summary": "Police Chief Mason details the 'AI era bundle' for body cameras, highlighting real-time translation for 57 languages to aid crisis interactions and automated report drafting to get officers back on patrol. She also defends the use of license plate readers for recovering stolen vehicles.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM"
+        }
+      ],
+      "video_duration_sec": 6056,
+      "video_lobby_only": false
+    },
+    {
+      "date": "2026-06-23",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_06232026-2180",
+      "minutes_pages": 233,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve on second read authorizing an economic development agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the redevelopment of the property commonly known as the former Mary Washington ",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for fiscal year (FY) 2026 budget amendment to support the Fredericksburg 300th celebration",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution on first read, fiscal year (FY) 2027 budget amendment to support 22477 Regular Session 06/23/26 the 300th anniversary celebration of the City",
+          "motion_by": "Mackintosh",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true,
+      "vimeo_id": "1199943879",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Main Street District Pilot Program: Street Closures and Safety",
+          "start_sec": 1174,
+          "end_sec": 1300,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=1174s",
+          "summary": "City proposes a two-year pilot program in the Main Street district to streamline event planning. Key decision: No new street closures will be approved during the pilot except for two annual events organized by Main Street, aiming to reduce bureaucratic friction for community gatherings while ensuring safety.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Renwick Courthouse PPEA Solicitation and Public Access",
+          "start_sec": 2381,
+          "end_sec": 2531,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2381s",
+          "summary": "Planning Director presents the Request for Proposals (RFP) for the historic Renwick Courthouse. The city seeks to transform the building into a public asset, emphasizing that 'public use or public access' is a core priority. Council reviews the scope to ensure the project serves the community rather than becoming a private luxury development.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "Zoning Updates for 'Two-Over-Two' Housing",
+          "start_sec": 2812,
+          "end_sec": 2930,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=2812s",
+          "summary": "Council reviews technical amendments to allow 'stacked' townhomes (two-over-two) in form-based codes. This change permits up to 16 units per lot, directly addressing the need for affordable, family-sized housing options in established neighborhoods without requiring large-scale redevelopment.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        },
+        {
+          "section_title": "300th Anniversary Celebration: Community Engagement and Art",
+          "start_sec": 3598,
+          "end_sec": 3748,
+          "vimeo_id": "1199943879",
+          "vimeo_url": "https://vimeo.com/1199943879#t=3598s",
+          "summary": "The 300th Anniversary Committee outlines plans for community conversations and a culminating art installation. They highlight partnerships with local organizations and the goal of using the celebration to beautify public spaces, inviting residents to engage in shaping the city's future identity.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg"
+        }
+      ],
+      "video_duration_sec": 4198,
+      "video_lobby_only": false
+    },
+    {
+      "date": "2026-06-09",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_06092026-2175",
+      "minutes_pages": 124,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Motion to approve the Consent Agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Vice-",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-33 First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds (D26- 200)",
+          "motion_by": null,
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-___, Granting a Special Use Permit to the City of Fredericksburg Fire Department for Fire Station 3 at 3340 Fall Hill Avenue",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-05-26",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_05262026-2168",
+      "minutes_pages": 91,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-29 Adopting the Fiscal Year 2027\u2013 Fiscal Year 2031 Capital Improvements Plan (D26-185)",
+          "motion_by": null,
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-30 Authorizing Use of $1,100,597 in Motor Fuels Tax Funds for Various Transportation Projects (D26-186)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda minus item 5D",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-__, Approving the 2026-2027 Community Development Block Grant Annual Action Plan (D26-__)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the following minutes as submitted: Public Hearing - March 10, 2026 and Regular Session \u2013 March 10, 2026",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-__, Initiating amendments to the Official Zoning Map to rezone 32",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve, on first read, Amending the Fiscal Year 2026 Budget to Appropriate Funds in the City Grants & Special Programs Fund",
+          "motion_by": "Rowe",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution",
+          "motion_by": "Holmes",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true,
+      "vimeo_id": "1191743329",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "EDA Candidate Interviews: Economic Vision",
+          "start_sec": 1370,
+          "end_sec": 1520,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=1370s",
+          "summary": "Candidates for the Economic Development Authority discuss revitalization strategies, with one member suggesting bold concepts like Top Golf to drive tourism and economic growth.",
+          "significance": "neutral",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
+        },
+        {
+          "section_title": "Trail Safety & Crime Response",
+          "start_sec": 3560,
+          "end_sec": 3710,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=3560s",
+          "summary": "Police Chief details recent assaults on local trails and outlines a new strategy involving 135 hours of dedicated patrols and increased bike officer presence to address public safety concerns.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
+        },
+        {
+          "section_title": "Red Key Development & Tax Incentives",
+          "start_sec": 5030,
+          "end_sec": 5180,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5030s",
+          "summary": "Council members scrutinize the financial structure of the Red Key affordable housing deal, specifically questioning the $2 million in incentives provided to the developer and the enforceability of the 10-year rent cap.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
+        },
+        {
+          "section_title": "Historic Tax Credit Revenue Analysis",
+          "start_sec": 5650,
+          "end_sec": 5800,
+          "vimeo_id": "1191743329",
+          "vimeo_url": "https://vimeo.com/1191743329#t=5650s",
+          "summary": "A critical exchange regarding the financial impact of historic tax credits, where officials clarify that the previous owner paid negligible taxes due to nonprofit status, challenging the narrative of lost revenue.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM"
+        }
+      ],
+      "video_duration_sec": 6118,
+      "video_lobby_only": false
+    },
+    {
+      "date": "2026-05-12",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_05122026-2160",
+      "minutes_pages": 192,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true,
+      "vimeo_id": "1191716331",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "FY27 Real Estate Tax Rate Approval",
+          "start_sec": 4627,
+          "end_sec": 4659,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=4627s",
+          "summary": "Council votes 7-0 to finalize the FY27 real estate tax rate at $0.84 per $100 of assessed value, setting the baseline for resident property taxes.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
+        },
+        {
+          "section_title": "FY27 Budget and Water/Sewer Rate Adjustments",
+          "start_sec": 5751,
+          "end_sec": 5847,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=5751s",
+          "summary": "Council approves the FY27 budget with a 6-1 vote. The dissenting vote highlights ongoing tension regarding the equity of water/sewer rate increases and the city's financial reliance on data center revenue.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
+        },
+        {
+          "section_title": "Children's Services Act Funding Amendment",
+          "start_sec": 6039,
+          "end_sec": 6130,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=6039s",
+          "summary": "Council unanimously approves an amendment to fund the Children's Services Act, addressing state-mandated requirements for vulnerable youth services.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
+        },
+        {
+          "section_title": "VRE Motor Fuels Tax Authorization",
+          "start_sec": 6142,
+          "end_sec": 6220,
+          "vimeo_id": "1191716331",
+          "vimeo_url": "https://vimeo.com/1191716331#t=6142s",
+          "summary": "Council votes 7-0 to authorize the use of gasoline tax revenue for the Virginia Railway Express (VRE), supporting regional transit funding.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I"
+        }
+      ],
+      "video_duration_sec": 6295,
+      "video_lobby_only": false
     },
     {
       "date": "2026-04-28",
