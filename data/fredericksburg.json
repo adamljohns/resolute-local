@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-09-14T10:12:00Z",
-  "updated_local": "2026-09-14 06:12 EDT",
+  "updated": "2026-09-15T01:30:03Z",
+  "updated_local": "2026-09-14 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -398,7 +398,13 @@
         {
           "level": 1,
           "title": "Other Business",
-          "subitems": []
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Pre-Application Discussion: 706 Caroline Street",
+              "documents": []
+            }
+          ]
         },
         {
           "level": 1,
@@ -411,7 +417,7 @@
           "subitems": []
         }
       ],
-      "raw_text": "Agenda - 09/14/2026 ARCHITECTURAL REVIEW BOARD AGENDA September 14, 2026 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. September 14, 2026 Public Notice Documents: 3 2026-09-14_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. September 14, 2026 Agenda Documents: 1 09-14-2026_ARB Agenda.pdf 5. Announcements and Reports 5.A. St. George\u2019s Episcopal Church Archaeology \u2013 Kerri Barile Tambs 6. Review of Minutes 6.A. August 10, 2026 \u2013 Public Hearing Documents: 6A 2026-08-10 ARB Minutes DRAFT.pdf 6.B. August 10, 2026 \u2013 Advisory Review Guidelines Committee Meeting Documents: 6B 2026-08-10 - Committee Meeting - ARB Minutes DRAFT.pdf 6.C. August 24, 2026 \u2013 Work Session Documents: 6C 2026-08-24 - Supplemental Meeting - ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2607-0219 \u2013 417 William Street \u2013 Sign Installation Documents: 9A COA2608-0234_Administrative Review Form_417 William Street_signed.pdf 9.B. COA 2608-0232 \u2013 304-308 Hanover Street \u2013 Window Repairs Documents: 9B COA2608-0232_Administrative Review Form_304 Hanover Street_signed.pdf 9.C. COA 2608-0233 \u2013 1011 Caroline Street \u2013 Sign Installation Documents: 9C COA2608-0233_Administrative Review Form_1011 Caroline Street_signed.pdf 9.D. COA 2608-0235 \u2013 529 Caroline Street \u2013 Sign Installation Documents: 9D COA2607-0235_Administrative Review Form_529 Caroline Street_signed.pdf 9.E. COA 2608-0236 \u2013 301 Lafayette Boulevard \u2013 Sign Installation Documents: 9E COA2608-0236_Administrative Review Form_301 Lafayette Boulevard_signed.pdf 9.F. COA 2608-0237 \u2013 826 Caroline Street \u2013 Sign, Lighting, & Awning Installation Documents: 9F COA 2608-0237_ARBmemo_826 Caroline Street_signed.pdf 10. Public Hearing 10.A. Continued Applications 10.A.i. COA 2510-0157 \u2013 1318 Caroline Street COA 2510-0157 \u2013 1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence. Documents: 10A Revised COA 2510-0157_ARBmemo_1318 Caroline Street_09-09-2026_signed.pdf 10.A.ii. COA 2607-0216 \u2013 138 Caroline Street COA 2607-0216 \u2013 138 Caroline Street \u2013 Channing Morris requests to remove a wall at this residence. Documents: 10B COA 2607-0216_ARBmemo_138 Caroline Street_signed.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 13. Staff Update 14. Adjournment",
+      "raw_text": "Agenda - 09/14/2026 ARCHITECTURAL REVIEW BOARD AGENDA September 14, 2026 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. September 14, 2026 Public Notice Documents: 3 2026-09-14_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. September 14, 2026 Agenda Documents: 1 09-14-2026_ARB Agenda.pdf 5. Announcements and Reports 5.A. St. George\u2019s Episcopal Church Archaeology \u2013 Kerri Barile Tambs 6. Review of Minutes 6.A. August 10, 2026 \u2013 Public Hearing Documents: 6A 2026-08-10 ARB Minutes DRAFT.pdf 6.B. August 10, 2026 \u2013 Advisory Review Guidelines Committee Meeting Documents: 6B 2026-08-10 - Committee Meeting - ARB Minutes DRAFT.pdf 6.C. August 24, 2026 \u2013 Work Session Documents: 6C 2026-08-24 - Supplemental Meeting - ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2607-0219 \u2013 417 William Street \u2013 Sign Installation Documents: 9A COA2608-0234_Administrative Review Form_417 William Street_signed.pdf 9.B. COA 2608-0232 \u2013 304-308 Hanover Street \u2013 Window Repairs Documents: 9B COA2608-0232_Administrative Review Form_304 Hanover Street_signed.pdf 9.C. COA 2608-0233 \u2013 1011 Caroline Street \u2013 Sign Installation Documents: 9C COA2608-0233_Administrative Review Form_1011 Caroline Street_signed.pdf 9.D. COA 2608-0235 \u2013 529 Caroline Street \u2013 Sign Installation Documents: 9D COA2607-0235_Administrative Review Form_529 Caroline Street_signed.pdf 9.E. COA 2608-0236 \u2013 301 Lafayette Boulevard \u2013 Sign Installation Documents: 9E COA2608-0236_Administrative Review Form_301 Lafayette Boulevard_signed.pdf 9.F. COA 2608-0237 \u2013 826 Caroline Street \u2013 Sign, Lighting, & Awning Installation Documents: 9F COA 2608-0237_ARBmemo_826 Caroline Street_signed.pdf 10. Public Hearing 10.A. Continued Applications 10.A.i. COA 2510-0157 \u2013 1318 Caroline Street COA 2510-0157 \u2013 1318 Caroline Street \u2013 Michael Waite requests to make alterations to the front porch of this single-family residence. Documents: 10A Revised COA 2510-0157_ARBmemo_1318 Caroline Street_09-09-2026_signed.pdf 10.A.ii. COA 2607-0216 \u2013 138 Caroline Street COA 2607-0216 \u2013 138 Caroline Street \u2013 Channing Morris requests to remove a wall at this residence. Documents: 10B COA 2607-0216_ARBmemo_138 Caroline Street_signed.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 12.A. Pre-Application Discussion: 706 Caroline Street 13. Staff Update 14. Adjournment",
       "lines": [
         "Agenda - 09/14/2026",
         "ARCHITECTURAL REVIEW BOARD",
@@ -506,6 +512,8 @@
         ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
         "12.",
         "Other Business",
+        "12.A.",
+        "Pre-Application Discussion: 706 Caroline Street",
         "13.",
         "Staff Update",
         "14.",
