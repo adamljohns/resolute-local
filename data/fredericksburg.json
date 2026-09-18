@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-09-17T10:12:00Z",
-  "updated_local": "2026-09-17 06:12 EDT",
+  "updated": "2026-09-18T01:30:00Z",
+  "updated_local": "2026-09-17 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -37,40 +37,40 @@
     }
   ],
   "next_meeting": {
-    "title": "City Council Session",
-    "date": "2026-08-25",
-    "time": "7:30p.m.",
+    "title": "Council Regular Session",
+    "date": "2026-09-22",
+    "time": "7:30PM",
     "location": "715 Princess Anne Street, Council Chambers, Fredericksburg, VA 22401",
-    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08252026-2193?html=true",
+    "agenda_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09222026-2207?html=true",
     "items": [
-      "Mayor Kerry P. Devine, Presiding",
+      "Council Regular Session Agenda",
+      "Mayor Kerry P. Devine Presiding",
       "Vice-Mayor Charlie L. Frye, Jr.",
       "Councilor Jannan W. Holmes",
-      "Resolution 26-___, Appointing John N. Siegler, Ph.D. as Deputy Clerk of Council",
-      "Memo and Resolution to Appoint of Deputy Clerk of Council.pdf",
-      "Resolution 26-___, Appointing Alexandra B. Rhodes as Senior Assistant City Attorney",
-      "Memo and Resolution to Appoint the Senior Asstisant City Attorney.pdf",
-      "Transmittal of the Memorials Commission 2026 Wall of Honor Nominations \u2013 Doris Buffett, Juanita Pitchford",
-      "2026 Wall of Honor Recommendations.pdf",
+      "Proclamation for Fire Prevention Week- Fire Chief Mike Jones",
+      "Fire Prevention Week 2026 Proclamation.pdf",
+      "Proclamation for Fred City Soccer Day",
+      "2  9.22.2026 Fred City Soccer Club Proclamation.pdf",
+      "Appointment of Assistant City Attorney Brianna Ivy",
+      "Appointment of Assistant City Attorney Brianna Ivy.pdf",
+      "Transmittal of Draft Legislative Agenda for the 2027 General Assembly Session",
+      "Transmittal of Draft Legislative Agenda.pdf",
+      "Resolution 26-__, Second Read, Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools",
+      "Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools.pdf",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 10, Article II, Division 20 Regarding the Name, Membership, Purpose and Duties, and Meetings of the Fredericksburg Towing and Recovery Advisory Board",
+      "Towing and Recovery Advisory Board.pdf",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 58, Sections 323 through 339 to Modernize and Update Provisions Related to Law Enforcement Initiated Towing Services, Including Adjusting Allowable Fees, Revising Procedures, and Other Revisions",
+      "Law Enforcement Initiated Towing Services.pdf",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 34, Sections 34-33 and 34-67, Relating to the Regulation of Private Alarm Systems, to Clarify the Required Procedure for Serving Notices of Violation and Notices of Revocation or Suspension of Alarm Permits",
+      "Regulation of Private Alarm Systems.pdf",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at \u00a7 72-34.9, Technology Overlay District; \u00a7 72-43.3 (Standards) [applicable to Temporary Use Standards]; \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to Update Local Zoning Provisions Consistent with Amendments of the Code of Virginia",
       "Transmittal of Board and Commission Minutes",
-      "Architectural Review Board Advisory Guidelines Committee June 8, 2026",
-      "2026-06-08 APVD Minutes - Advisory Review Guidelines Committee.pdf",
-      "Architectural Review Board June 8, 2026",
-      "2026-06-08 APVD Minutes - Regular Meeting.pdf",
-      "Architectural Review Board June 22, 2026",
-      "2026-06-22 APVD Minutes - Supplementary Meeting.pdf",
-      "Architectural Review Board July 13, 2026",
-      "2026-07-13 APVD Minutes - Regular Meeting.pdf",
-      "Board of Social Services June 4, 2026",
-      "BOSS Minutes June 04, 2026.pdf",
-      "Economic Development Authority July 13, 2026",
-      "07-13-2026 Economic Development Authority Minutes.pdf",
-      "Planning Commission Minutes for Joint Work Session with City Council and the Economic Development Authority May 27, 2026",
-      "Planning Commission Meeting Minutes 05-27-2026.pdf",
-      "Planning Commission Meeting June 10, 2026"
+      "300th Anniversary Blue Ribbon Steering Committee May 5, 2026",
+      "05 06 2026 Minutes May 2026 Meeting Approved 06032027 300th Meeeting 8.docx",
+      "300th Anniversary Blue Ribbon Steering Committee June 3, 2026"
     ],
     "raw_lines": [
-      "Agenda - 08/25/2026",
+      "Agenda - 09/22/2026",
       "City of Fredericksburg, Virginia",
       "Hon. Kerry P. Devine, Mayor",
       "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
@@ -83,10 +83,11 @@
       "AGENDA",
       "Council Chambers",
       "715 Princess Anne Street",
-      "Fredericksburg, Virginia \u00a022401",
-      "August 25, 2026",
-      "7:30 p.m.",
-      "Mayor Kerry P. Devine, Presiding",
+      "Fredericksburg, Virginia 22401",
+      "Council Regular Session Agenda",
+      "September 22, 2026,",
+      "7:30 PM",
+      "Mayor Kerry P. Devine Presiding",
       "1.",
       "Call to Order",
       "2.",
@@ -97,74 +98,87 @@
       "Councilor Jannan W. Holmes",
       "4.",
       "Presentations",
+      "A.",
+      "Proclamation for Fire Prevention Week- Fire Chief Mike Jones",
+      "Documents:",
+      "Fire Prevention Week 2026 Proclamation.pdf",
+      "B.",
+      "Proclamation for Fred City Soccer Day",
+      "Documents:",
+      "2  9.22.2026 Fred City Soccer Club Proclamation.pdf",
       "5.",
       "Consent Agenda",
       "A.",
-      "Resolution 26-___, Appointing John N. Siegler, Ph.D. as Deputy Clerk of Council",
+      "Appointment of Assistant City Attorney Brianna Ivy",
       "Documents:",
-      "Memo and Resolution to Appoint of Deputy Clerk of Council.pdf",
+      "Appointment of Assistant City Attorney Brianna Ivy.pdf",
       "B.",
-      "Resolution 26-___, Appointing Alexandra B. Rhodes as Senior Assistant City Attorney",
+      "Transmittal of Draft Legislative Agenda for the 2027 General Assembly Session",
       "Documents:",
-      "Memo and Resolution to Appoint the Senior Asstisant City Attorney.pdf",
+      "Transmittal of Draft Legislative Agenda.pdf",
       "C.",
-      "Transmittal of the Memorials Commission 2026 Wall of Honor Nominations \u2013 Doris Buffett, Juanita Pitchford",
+      "Resolution 26-__, Second Read, Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools",
       "Documents:",
-      "2026 Wall of Honor Recommendations.pdf",
+      "Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools.pdf",
       "D.",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 10, Article II, Division 20 Regarding the Name, Membership, Purpose and Duties, and Meetings of the Fredericksburg Towing and Recovery Advisory Board",
+      "Documents:",
+      "Towing and Recovery Advisory Board.pdf",
+      "E.",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 58, Sections 323 through 339 to Modernize and Update Provisions Related to Law Enforcement Initiated Towing Services, Including Adjusting Allowable Fees, Revising Procedures, and Other Revisions",
+      "Documents:",
+      "Law Enforcement Initiated Towing Services.pdf",
+      "F.",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 34, Sections 34-33 and 34-67, Relating to the Regulation of Private Alarm Systems, to Clarify the Required Procedure for Serving Notices of Violation and Notices of Revocation or Suspension of Alarm Permits",
+      "Documents:",
+      "Regulation of Private Alarm Systems.pdf",
+      "G.",
+      "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at \u00a7 72-34.9, Technology Overlay District; \u00a7 72-43.3 (Standards) [applicable to Temporary Use Standards]; \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to Update Local Zoning Provisions Consistent with Amendments of the Code of Virginia",
+      "Documents:",
+      "UDOTA.pdf",
+      "H.",
       "Transmittal of Board and Commission Minutes",
-      "D.i.",
-      "Architectural Review Board Advisory Guidelines Committee June 8, 2026",
+      "H.i.",
+      "300th Anniversary Blue Ribbon Steering Committee May 5, 2026",
       "Documents:",
-      "2026-06-08 APVD Minutes - Advisory Review Guidelines Committee.pdf",
-      "D.i.1.",
-      "Architectural Review Board June 8, 2026",
+      "05 06 2026 Minutes May 2026 Meeting Approved 06032027 300th Meeeting 8.docx",
+      "H.ii.",
+      "300th Anniversary Blue Ribbon Steering Committee June 3, 2026",
       "Documents:",
-      "2026-06-08 APVD Minutes - Regular Meeting.pdf",
-      "D.i.2.",
-      "Architectural Review Board June 22, 2026",
+      "06 03 2026 Approved Minutes 300TH Advisory Meeting 9.pdf",
+      "H.iii.",
+      "300th Anniversary Blue Ribbon Steering Committee July 1,, 2026",
       "Documents:",
-      "2026-06-22 APVD Minutes - Supplementary Meeting.pdf",
-      "D.i.3.",
-      "Architectural Review Board July 13, 2026",
+      "07 01 2026 Approved Minutes July 2026 300TH Advisory Meeting 10.pdf",
+      "H.iv.",
+      "300th Anniversary Blue Ribbon Steering Committee August 5, 2026",
       "Documents:",
-      "2026-07-13 APVD Minutes - Regular Meeting.pdf",
-      "D.i.4.",
+      "08 05 2026 Approved Minutes Aug 5 2026 300TH Advisory Meeting 11.pdf",
+      "H.v.",
       "Board of Social Services June 4, 2026",
       "Documents:",
-      "BOSS Minutes June 04, 2026.pdf",
-      "D.i.5.",
-      "Economic Development Authority July 13, 2026",
+      "BOSS Minutes June-2026.pdf",
+      "H.vi.",
+      "Planning Commission August 12, 2026",
       "Documents:",
-      "07-13-2026 Economic Development Authority Minutes.pdf",
-      "D.i.6.",
-      "Planning Commission Minutes for Joint Work Session with City Council and the Economic Development Authority May 27, 2026",
+      "2026-08-12 PC Regular Meeting Minutes - Approved.pdf",
+      "H.vii.",
+      "Architectural Review Board Advisory Review Guideline Committee August 10, 2026",
       "Documents:",
-      "Planning Commission Meeting Minutes 05-27-2026.pdf",
-      "D.i.7.",
-      "Planning Commission Meeting June 10, 2026",
+      "2026-08-10 APVD Minutes - Advisory Review Guidelines Committee.pdf",
+      "H.viii.",
+      "Architectural Review Board August 10, 2026",
       "Documents:",
-      "Planning Commission Minutes 06-10-2026.pdf",
-      "D.i.8.",
-      "Public Transit Advisory Board Meeting June 3, 2026",
+      "2026-08-10 APVD Minutes - Regular Meeting.pdf",
+      "H.ix.",
+      "Architectural Review Board Supplementary Meeting August 24, 2026",
       "Documents:",
-      "20260603 PTAB Minutes - adopted.pdf",
+      "2026-08-24 APVD Minutes - Supplementary Meeting.pdf",
       "6.",
       "Public Hearing",
       "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
       "Written comments must be received no later than 1:30 p.m. on the meeting date.",
       "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-      "A.",
-      "Soliciting Public Comments on the implementation of the 2025-2026 Consolidated Annual Performance and Evaluation Report (CAPER) for the Community Development Block Grant Program.",
-      "Documents:",
-      "2025 2026 Consolidated Annual Performance and Evaluation Report Implementation.pdf",
-      "B.",
-      "Resolution 26-__, To Consider a Site Lease Agreement for Purposes of Landfill Gas Recovery by Terreva Stafford RNG, LLC. with the R-Board",
-      "Postponed to the September 22, 2026, City Council Regular Session",
-      "C.",
-      "1500 Gateway Project, Zoning Map Amendment and Special Use Permit Associated with a Proposed Data Center",
-      "Documents:",
-      "1500 Gateway.pdf",
       "7.",
       "Comments from the Public",
       "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
@@ -174,67 +188,681 @@
       ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
       "8.",
       "Council Agenda",
+      "A.",
+      "Council Committee for Transportation/Trails",
       "9.",
       "Minutes",
       "A.",
-      "03-17-2026 Work Session Minutes Draft",
+      "July 14, 2026, Regular Session",
       "Documents:",
-      "03-17-26 Work Session Minutes Draft.pdf",
+      "07-14-26 Regular Session Minutes Draft.pdf",
       "B.",
-      "03-24-2026 Work Session Minutes",
+      "July 14, 2026, Work Session",
       "Documents:",
-      "03-24-26 Work Session Minutes Draft.pdf",
-      "C.",
-      "05-12-2026 Regular Session Minutes Draft",
-      "Documents:",
-      "05-12-26 Regular Session Minutes Draft.pdf",
-      "D.",
-      "05-26-2026 Regular Session Minutes Draft",
-      "Documents:",
-      "05-26-26 Regular Session Minutes Draft.pdf",
-      "E.",
-      "06-09-2026 Regular Session Minutes Draft",
-      "Documents:",
-      "06-09-26 Regular Session Minutes Draft.pdf",
-      "F.",
-      "06-23-2026 Regular Session Minutes Draft",
-      "Documents:",
-      "06-23-26 Regular Session Minutes Draft .pdf",
-      "G.",
-      "07-14-2026 Regular Session Minutes Draft",
-      "Documents:",
-      "07-14-26 Regular Session Minutes Draft .pdf",
+      "07-14-2026 Work Session Draft.pdf",
       "10.",
       "Boards and Commission Appointments",
       "A.",
-      "Fredericksburg Arts Commission Appointments (2) \u2013 Matthew Kelly Drake and Pete Morelewicz.",
+      "Fredericksburg Arts Commission Appointments",
       "Documents:",
       "Fredericksburg Arts Commission Appointments.pdf",
       "11.",
       "City Manager Agenda",
       "A.",
-      "Resolution 26-__, First Read, Initiating a Text Amendment to Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at; City Code \u00a7 72-31, Residential Zoning Districts; City Code \u00a7 72-41, Principal Use Standards; City Code \u00a7 72-84, \u201cDefinitions\u201d; and City Code \u00a7 72-A to Modify Single-Family Dwelling Regulations and Form-Based Code Standards",
+      "Resolution 26-__, Fiscal Year 2026 Final Budget Adjustments and Amendments",
       "Documents:",
-      "2026-08-18 Staff Memo and Draft Resolution to Modify Single Family Dwelling Regulations and Form Based Code Standards.pdf",
+      "FY26 Final Budget Adjustments and Amendments.pdf",
       "B.",
+      "Resolution 26-__, Adopting Council Priorities for 2026-2029 and Implementation Plan",
+      "Documents:",
+      "Council Priorities.pdf",
+      "C.",
       "Transmittal of Calendars",
       "Documents:",
-      "Council  and Boards and Commissions Meeting Calendar 20260825.pdf",
-      "12.",
-      "Closed Session",
-      "A.",
-      "Closed Meeting Under Code of Virginia Section 2.2-3711 A. (1) to consider the annual performance review of all full-time appointees of the City Council",
-      "Documents:",
-      "1  Closed Meeting_Certification.pdf",
-      "B.",
-      "Resolution 26-__, Certification of Closed Session",
-      "Documents:",
-      "2  2026_Closed Meeting Cert Resolution_Template.pdf",
-      "13.",
-      "Adjournment"
+      "Calendars.pdf",
+      "CITY COUNCIL MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 AND WWW>REGIONALWEBTV.COM/FREDCC"
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Regular Session",
+      "body": "Planning Commission",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Pledge Of Allegiance",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of a Quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "2026-09-23 Agenda",
+              "documents": [
+                "2026-09-23 Agenda.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Discussion of Potential Policies, Ordinances or Applications",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Discussion Of Draft Status of Land Use Annual Report",
+              "documents": [
+                "1 Staff Memo - Annual Report CIP.pdf",
+                "2 FY26 PC Annual Report - PDF.pdf",
+                "3 FY27 Capital Improvement Plan.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Declaration of Conflict of Interest and Disclosures of Contact",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "General Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Public Hearing",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-02",
+              "documents": [
+                "1 2026-09-23 PC Staff Memo 2 over 2s and FBC.pdf",
+                "2 2026-09-16 Draft Ordinance UDOTA Stacked Townhouses and FBC.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Other Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval Of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "September 4, 2026, CIP Committee Meeting Minutes Draft",
+              "documents": [
+                "2026-09-04 Draft Minutes - CIP Commitee.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Planning Commissioner Items",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Chairman Comments",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Commissioner Comments",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Planning Director Items",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 09/23/2026 PLANNING COMMISSION AGENDA September 23, 2026 6:30 P.M. PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc . 1. Call to Order 2. Pledge Of Allegiance 3. Determination of a Quorum 4. Approval of Agenda 4.A. 2026-09-23 Agenda Documents: 2026-09-23 Agenda.pdf 5. Discussion of Potential Policies, Ordinances or Applications 5.A. Discussion Of Draft Status of Land Use Annual Report Documents: 1 Staff Memo - Annual Report CIP.pdf 2 FY26 PC Annual Report - PDF.pdf 3 FY27 Capital Improvement Plan.pdf 6. Declaration of Conflict of Interest and Disclosures of Contact 7. General Public Comment A general public comment period is provided at each regular meeting for comments by citizens regarding any matter related to Commission business that is not listed on the agenda for Public Hearing. The Chair will request that speakers state their name, address and zip code; observe the five-minute time limit; and yield the floor when the Clerk indicates that their time has expired. No dialogue between speakers will be permitted. Citizens who wish to make general public comments without attending the meeting will be able to send their comments in writing by (1) delivering to the Community Planning and Building office located at 601 Caroline Street - 4th Floor, (2) U.S. Mail at 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) email to [email protected] . Comments must be received by 2:30 p.m. the day of the meeting. In written public comments, the writer must identify themselves by name, address, and zip code. Such comments will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video, will not be considered part of the official public comments of the meeting. 8. Public Hearing Any person may speak at a public hearing for up to five minutes. An applicant in a land use case may give an opening presentation of the case for up to 15 minutes, regardless of the number of speakers the applicant chooses to give the presentation, and may give a response after all citizens have spoken, for up to five minutes, regardless of the number of speakers the applicant chooses to give the response. The Chairman may suspend these rules in order to adapt them to any special situation. Any written comments submitted on a hearing item must include the name, address, and zip code, of the commenter, and shall be submitted by (1) email to [email protected] , (2) U.S. Mail addressed to: 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) delivered to the Community Planning and Building office located at 601 Caroline Street - 4th Floor by 2:30 PM the day of the meeting. Any written comments received will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video will not be considered part of the official public comments of the meeting. Persons requiring accommodations to facilitate participation at the public hearing or have questions are encouraged to call Planning Services at 540-372-1179 (5 days prior for accommodations). 8.A. Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-02 The City proposes to amend the Unified Development Ordinance Chapter 72 at City Code \u00a7 72-31, Residential Zoning Districts; City Code \u00a7 72-41, Principal Use Standards; City Code \u00a7 72-84, \u201cDefinitions\u201d; and City Code \u00a7 72-A to modify single-family dwelling regulations and Form-Based Code standards. Documents: 1 2026-09-23 PC Staff Memo 2 over 2s and FBC.pdf 2 2026-09-16 Draft Ordinance UDOTA Stacked Townhouses and FBC.pdf 9. Other Business 10. Approval Of Minutes 10.A. September 4, 2026, CIP Committee Meeting Minutes Draft Documents: 2026-09-04 Draft Minutes - CIP Commitee.pdf 11. Planning Commissioner Items 11.A. Chairman Comments 11.B. Commissioner Comments 12. Planning Director Items 13. Adjournment The next Planning Commission Regular Meeting is scheduled for Wednesday, October 14, 2026, at 6:30 p.m. PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and www.regionalwebtv.com/fredpc .",
+      "lines": [
+        "Agenda - 09/23/2026",
+        "PLANNING COMMISSION",
+        "AGENDA",
+        "September 23, 2026",
+        "6:30 P.M.",
+        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
+        "www.regionalwebtv.com/fredpc",
+        ".",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Pledge Of Allegiance",
+        "3.",
+        "Determination of a Quorum",
+        "4.",
+        "Approval of Agenda",
+        "4.A.",
+        "2026-09-23 Agenda",
+        "Documents:",
+        "2026-09-23 Agenda.pdf",
+        "5.",
+        "Discussion of Potential Policies, Ordinances or Applications",
+        "5.A.",
+        "Discussion Of Draft Status of Land Use Annual Report",
+        "Documents:",
+        "1 Staff Memo - Annual Report CIP.pdf",
+        "2 FY26 PC Annual Report - PDF.pdf",
+        "3 FY27 Capital Improvement Plan.pdf",
+        "6.",
+        "Declaration of Conflict of Interest and Disclosures of Contact",
+        "7.",
+        "General Public Comment",
+        "A general public comment period is provided at each regular meeting for comments by citizens regarding any matter related to Commission business that is not listed on the agenda for Public Hearing. \u00a0The Chair will request that speakers state their name, address and zip code; observe the five-minute time limit; and yield the floor when the Clerk indicates that their time has expired. \u00a0No dialogue between speakers will be permitted.",
+        "Citizens who wish to make general public comments without attending the meeting will be able to send their comments in writing by (1) delivering to the Community Planning and Building office located at 601 Caroline Street - 4th Floor, (2) U.S. Mail at 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) email to",
+        "[email\u00a0protected]",
+        ". Comments must be received by 2:30 p.m. the day of the meeting. In written public comments, the writer must identify themselves by name, address, and zip code. Such comments will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video, will not be considered part of the official public comments of the meeting.",
+        "8.",
+        "Public Hearing",
+        "Any person may speak at a public hearing for up to five minutes. \u00a0An applicant in a land use case may give an opening presentation of the case for up to 15 minutes, regardless of the number of speakers the applicant chooses to give the presentation, and may give a response after all citizens have spoken, for up to five minutes, regardless of the number of speakers the applicant chooses to give the response. The Chairman may suspend these rules in order to adapt them to any special situation.",
+        "Any written comments submitted on a hearing item must include the name, address, and zip code, of the commenter, and shall be submitted by (1) email to",
+        "[email\u00a0protected]",
+        ", (2) U.S. Mail addressed to: 601 Caroline Street, Suite 400, Fredericksburg, VA 22401, or (3) delivered to the Community Planning and Building office located at 601 Caroline Street - 4th Floor by 2:30 PM the day of the meeting. Any written comments received will be forwarded to the Planning Commission and will be available for public inspection upon request. Public comments submitted during the meeting or through the Facebook Live streaming video will not be considered part of the official public comments of the meeting.",
+        "Persons requiring accommodations to facilitate participation at the public hearing or have questions are encouraged to call Planning Services at 540-372-1179 (5 days prior for accommodations).",
+        "8.A.",
+        "Unified Development Ordinance Text Amendment \u2013 UDOTA FY27-02",
+        "The City proposes to amend the Unified Development Ordinance Chapter 72 at City Code \u00a7 72-31, Residential Zoning Districts; City Code \u00a7 72-41, Principal Use Standards; City Code \u00a7 72-84, \u201cDefinitions\u201d; and City Code \u00a7 72-A to modify single-family dwelling regulations and Form-Based Code standards.",
+        "Documents:",
+        "1     2026-09-23 PC Staff Memo 2 over 2s and FBC.pdf",
+        "2     2026-09-16 Draft Ordinance UDOTA Stacked Townhouses and FBC.pdf",
+        "9.",
+        "Other Business",
+        "10.",
+        "Approval Of Minutes",
+        "10.A.",
+        "September 4, 2026, CIP Committee Meeting Minutes Draft",
+        "Documents:",
+        "2026-09-04 Draft Minutes - CIP Commitee.pdf",
+        "11.",
+        "Planning Commissioner Items",
+        "11.A.",
+        "Chairman Comments",
+        "11.B.",
+        "Commissioner Comments",
+        "12.",
+        "Planning Director Items",
+        "13.",
+        "Adjournment",
+        "The next Planning Commission Regular Meeting is scheduled for Wednesday, October 14, 2026, at 6:30 p.m.",
+        "PLANNING COMMISSION MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 and",
+        "www.regionalwebtv.com/fredpc",
+        "."
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09232026-2205?html=true",
+      "date": "2026-09-23",
+      "agenda_id": "2205"
+    },
+    {
+      "format": "html",
+      "date_label": "September 22, 2026,",
+      "time": "7:30 PM",
+      "presiding": "Mayor Kerry P. Devine Presiding",
+      "session_type": "Work Session",
+      "body": "City Council",
+      "location": "Council Chambers",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Council Regular Session Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Invocation",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Pledge of Allegiance",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Presentations",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Proclamation for Fire Prevention Week- Fire Chief Mike Jones",
+              "documents": [
+                "Fire Prevention Week 2026 Proclamation.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Proclamation for Fred City Soccer Day",
+              "documents": [
+                "2 9.22.2026 Fred City Soccer Club Proclamation.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Consent Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Appointment of Assistant City Attorney Brianna Ivy",
+              "documents": [
+                "Appointment of Assistant City Attorney Brianna Ivy.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Transmittal of Draft Legislative Agenda for the 2027 General Assembly Session",
+              "documents": [
+                "Transmittal of Draft Legislative Agenda.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Resolution 26-__, Second Read, Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools",
+              "documents": [
+                "Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 10, Article II, Division 20 Regarding the Name, Membership, Purpose and Duties, and Meetings of the Fredericksburg Towing and Recovery Advisory Board",
+              "documents": [
+                "Towing and Recovery Advisory Board.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 58, Sections 323 through 339 to Modernize and Update Provisions Related to Law Enforcement Initiated Towing Services, Including Adjusting Allowable Fees, Revising Procedures, and Other Revisions",
+              "documents": [
+                "Law Enforcement Initiated Towing Services.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 34, Sections 34-33 and 34-67, Relating to the Regulation of Private Alarm Systems, to Clarify the Required Procedure for Serving Notices of Violation and Notices of Revocation or Suspension of Alarm Permits",
+              "documents": [
+                "Regulation of Private Alarm Systems.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at \u00a7 72-34.9, Technology Overlay District; \u00a7 72-43.3 (Standards) [applicable to Temporary Use Standards]; \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to Update Local Zoning Provisions Consistent with Amendments of the Code of Virginia",
+              "documents": [
+                "UDOTA.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Transmittal of Board and Commission Minutes",
+              "documents": [
+                "05 06 2026 Minutes May 2026 Meeting Approved 06032027 300th Meeeting 8.docx",
+                "06 03 2026 Approved Minutes 300TH Advisory Meeting 9.pdf",
+                "07 01 2026 Approved Minutes July 2026 300TH Advisory Meeting 10.pdf",
+                "08 05 2026 Approved Minutes Aug 5 2026 300TH Advisory Meeting 11.pdf",
+                "BOSS Minutes June-2026.pdf",
+                "2026-08-12 PC Regular Meeting Minutes - Approved.pdf",
+                "2026-08-10 APVD Minutes - Advisory Review Guidelines Committee.pdf",
+                "2026-08-10 APVD Minutes - Regular Meeting.pdf",
+                "2026-08-24 APVD Minutes - Supplementary Meeting.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Public Hearing",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Comments from the Public",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Council Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Council Committee for Transportation/Trails",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "July 14, 2026, Regular Session",
+              "documents": [
+                "07-14-26 Regular Session Minutes Draft.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "July 14, 2026, Work Session",
+              "documents": [
+                "07-14-2026 Work Session Draft.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Boards and Commission Appointments",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Fredericksburg Arts Commission Appointments",
+              "documents": [
+                "Fredericksburg Arts Commission Appointments.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "City Manager Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Resolution 26-__, Fiscal Year 2026 Final Budget Adjustments and Amendments",
+              "documents": [
+                "FY26 Final Budget Adjustments and Amendments.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Resolution 26-__, Adopting Council Priorities for 2026-2029 and Implementation Plan",
+              "documents": [
+                "Council Priorities.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "Transmittal of Calendars",
+              "documents": [
+                "Calendars.pdf"
+              ]
+            }
+          ]
+        }
+      ],
+      "raw_text": "Agenda - 09/22/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 Council Regular Session Agenda September 22, 2026, 7:30 PM Mayor Kerry P. Devine Presiding 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations A. Proclamation for Fire Prevention Week- Fire Chief Mike Jones Documents: Fire Prevention Week 2026 Proclamation.pdf B. Proclamation for Fred City Soccer Day Documents: 2 9.22.2026 Fred City Soccer Club Proclamation.pdf 5. Consent Agenda A. Appointment of Assistant City Attorney Brianna Ivy Documents: Appointment of Assistant City Attorney Brianna Ivy.pdf B. Transmittal of Draft Legislative Agenda for the 2027 General Assembly Session Documents: Transmittal of Draft Legislative Agenda.pdf C. Resolution 26-__, Second Read, Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools Documents: Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools.pdf D. Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 10, Article II, Division 20 Regarding the Name, Membership, Purpose and Duties, and Meetings of the Fredericksburg Towing and Recovery Advisory Board Documents: Towing and Recovery Advisory Board.pdf E. Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 58, Sections 323 through 339 to Modernize and Update Provisions Related to Law Enforcement Initiated Towing Services, Including Adjusting Allowable Fees, Revising Procedures, and Other Revisions Documents: Law Enforcement Initiated Towing Services.pdf F. Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 34, Sections 34-33 and 34-67, Relating to the Regulation of Private Alarm Systems, to Clarify the Required Procedure for Serving Notices of Violation and Notices of Revocation or Suspension of Alarm Permits Documents: Regulation of Private Alarm Systems.pdf G. Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at \u00a7 72-34.9, Technology Overlay District; \u00a7 72-43.3 (Standards) [applicable to Temporary Use Standards]; \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to Update Local Zoning Provisions Consistent with Amendments of the Code of Virginia Documents: UDOTA.pdf H. Transmittal of Board and Commission Minutes H.i. 300th Anniversary Blue Ribbon Steering Committee May 5, 2026 Documents: 05 06 2026 Minutes May 2026 Meeting Approved 06032027 300th Meeeting 8.docx H.ii. 300th Anniversary Blue Ribbon Steering Committee June 3, 2026 Documents: 06 03 2026 Approved Minutes 300TH Advisory Meeting 9.pdf H.iii. 300th Anniversary Blue Ribbon Steering Committee July 1,, 2026 Documents: 07 01 2026 Approved Minutes July 2026 300TH Advisory Meeting 10.pdf H.iv. 300th Anniversary Blue Ribbon Steering Committee August 5, 2026 Documents: 08 05 2026 Approved Minutes Aug 5 2026 300TH Advisory Meeting 11.pdf H.v. Board of Social Services June 4, 2026 Documents: BOSS Minutes June-2026.pdf H.vi. Planning Commission August 12, 2026 Documents: 2026-08-12 PC Regular Meeting Minutes - Approved.pdf H.vii. Architectural Review Board Advisory Review Guideline Committee August 10, 2026 Documents: 2026-08-10 APVD Minutes - Advisory Review Guidelines Committee.pdf H.viii. Architectural Review Board August 10, 2026 Documents: 2026-08-10 APVD Minutes - Regular Meeting.pdf H.ix. Architectural Review Board Supplementary Meeting August 24, 2026 Documents: 2026-08-24 APVD Minutes - Supplementary Meeting.pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before th...[truncated]",
+      "lines": [
+        "Agenda - 09/22/2026",
+        "City of Fredericksburg, Virginia",
+        "Hon. Kerry P. Devine, Mayor",
+        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
+        "Hon. Jannan W. Holmes, At-Large",
+        "Hon. Dr. Will B. Mackintosh, At-Large",
+        "Hon. Matt D. Rowe, Ward One",
+        "Hon. Joy Y. Crump, Ward Two",
+        "Hon. Susanna R. Finn, Ward Three",
+        "City Council",
+        "AGENDA",
+        "Council Chambers",
+        "715 Princess Anne Street",
+        "Fredericksburg, Virginia 22401",
+        "Council Regular Session Agenda",
+        "September 22, 2026,",
+        "7:30 PM",
+        "Mayor Kerry P. Devine Presiding",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Invocation",
+        "Vice-Mayor Charlie L. Frye, Jr.",
+        "3.",
+        "Pledge of Allegiance",
+        "Councilor Jannan W. Holmes",
+        "4.",
+        "Presentations",
+        "A.",
+        "Proclamation for Fire Prevention Week- Fire Chief Mike Jones",
+        "Documents:",
+        "Fire Prevention Week 2026 Proclamation.pdf",
+        "B.",
+        "Proclamation for Fred City Soccer Day",
+        "Documents:",
+        "2  9.22.2026 Fred City Soccer Club Proclamation.pdf",
+        "5.",
+        "Consent Agenda",
+        "A.",
+        "Appointment of Assistant City Attorney Brianna Ivy",
+        "Documents:",
+        "Appointment of Assistant City Attorney Brianna Ivy.pdf",
+        "B.",
+        "Transmittal of Draft Legislative Agenda for the 2027 General Assembly Session",
+        "Documents:",
+        "Transmittal of Draft Legislative Agenda.pdf",
+        "C.",
+        "Resolution 26-__, Second Read, Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools",
+        "Documents:",
+        "Amending the Fiscal Year 2027 Budget for Supplemental Appropriations for the Fredericksburg City Schools.pdf",
+        "D.",
+        "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 10, Article II, Division 20 Regarding the Name, Membership, Purpose and Duties, and Meetings of the Fredericksburg Towing and Recovery Advisory Board",
+        "Documents:",
+        "Towing and Recovery Advisory Board.pdf",
+        "E.",
+        "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 58, Sections 323 through 339 to Modernize and Update Provisions Related to Law Enforcement Initiated Towing Services, Including Adjusting Allowable Fees, Revising Procedures, and Other Revisions",
+        "Documents:",
+        "Law Enforcement Initiated Towing Services.pdf",
+        "F.",
+        "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 34, Sections 34-33 and 34-67, Relating to the Regulation of Private Alarm Systems, to Clarify the Required Procedure for Serving Notices of Violation and Notices of Revocation or Suspension of Alarm Permits",
+        "Documents:",
+        "Regulation of Private Alarm Systems.pdf",
+        "G.",
+        "Ordinance 26-__, Second Read, Amending Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at \u00a7 72-34.9, Technology Overlay District; \u00a7 72-43.3 (Standards) [applicable to Temporary Use Standards]; \u00a7 72-41 (Principal Use Standards); \u00a7 72-42 (Accessory Use Standards); \u00a7 72-53.3 (Parking); and \u00a7 72-84 (Definitions) to Update Local Zoning Provisions Consistent with Amendments of the Code of Virginia",
+        "Documents:",
+        "UDOTA.pdf",
+        "H.",
+        "Transmittal of Board and Commission Minutes",
+        "H.i.",
+        "300th Anniversary Blue Ribbon Steering Committee May 5, 2026",
+        "Documents:",
+        "05 06 2026 Minutes May 2026 Meeting Approved 06032027 300th Meeeting 8.docx",
+        "H.ii.",
+        "300th Anniversary Blue Ribbon Steering Committee June 3, 2026",
+        "Documents:",
+        "06 03 2026 Approved Minutes 300TH Advisory Meeting 9.pdf",
+        "H.iii.",
+        "300th Anniversary Blue Ribbon Steering Committee July 1,, 2026",
+        "Documents:",
+        "07 01 2026 Approved Minutes July 2026 300TH Advisory Meeting 10.pdf",
+        "H.iv.",
+        "300th Anniversary Blue Ribbon Steering Committee August 5, 2026",
+        "Documents:",
+        "08 05 2026 Approved Minutes Aug 5 2026 300TH Advisory Meeting 11.pdf",
+        "H.v.",
+        "Board of Social Services June 4, 2026",
+        "Documents:",
+        "BOSS Minutes June-2026.pdf",
+        "H.vi.",
+        "Planning Commission August 12, 2026",
+        "Documents:",
+        "2026-08-12 PC Regular Meeting Minutes - Approved.pdf",
+        "H.vii.",
+        "Architectural Review Board Advisory Review Guideline Committee August 10, 2026",
+        "Documents:",
+        "2026-08-10 APVD Minutes - Advisory Review Guidelines Committee.pdf",
+        "H.viii.",
+        "Architectural Review Board August 10, 2026",
+        "Documents:",
+        "2026-08-10 APVD Minutes - Regular Meeting.pdf",
+        "H.ix.",
+        "Architectural Review Board Supplementary Meeting August 24, 2026",
+        "Documents:",
+        "2026-08-24 APVD Minutes - Supplementary Meeting.pdf",
+        "6.",
+        "Public Hearing",
+        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
+        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
+        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
+        "7.",
+        "Comments from the Public",
+        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
+        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
+        "Written comments must be received no later than",
+        "1:30 p.m. on the meeting date",
+        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
+        "8.",
+        "Council Agenda",
+        "A.",
+        "Council Committee for Transportation/Trails",
+        "9.",
+        "Minutes",
+        "A.",
+        "July 14, 2026, Regular Session",
+        "Documents:",
+        "07-14-26 Regular Session Minutes Draft.pdf",
+        "B.",
+        "July 14, 2026, Work Session",
+        "Documents:",
+        "07-14-2026 Work Session Draft.pdf",
+        "10.",
+        "Boards and Commission Appointments",
+        "A.",
+        "Fredericksburg Arts Commission Appointments",
+        "Documents:",
+        "Fredericksburg Arts Commission Appointments.pdf",
+        "11.",
+        "City Manager Agenda",
+        "A.",
+        "Resolution 26-__, Fiscal Year 2026 Final Budget Adjustments and Amendments",
+        "Documents:",
+        "FY26 Final Budget Adjustments and Amendments.pdf",
+        "B.",
+        "Resolution 26-__, Adopting Council Priorities for 2026-2029 and Implementation Plan",
+        "Documents:",
+        "Council Priorities.pdf",
+        "C.",
+        "Transmittal of Calendars",
+        "Documents:",
+        "Calendars.pdf",
+        "CITY COUNCIL MEETINGS CAN BE VIEWED ON THE FREDERICKSBURG GOVERNMENT ACCESS CHANNEL ON COX CHANNEL 84 AND VERIZON CHANNEL 42 AND WWW>REGIONALWEBTV.COM/FREDCC"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09222026-2207?html=true",
+      "date": "2026-09-22",
+      "agenda_id": "2207"
+    },
+    {
+      "format": "html",
+      "date_label": "September 22, 2026, 5:30 PM",
+      "session_type": "Work Session",
+      "body": "City Council",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Work Session Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Topics",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Monthly Utility Billing Transition Discussion",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "FY 2026 Preliminary Budget End of Year Review",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Economic Development and Tourism Strategic Plan RFP Update",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Initial Draft of Legislative Agenda Discussion",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 09/22/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Second Floor 715 Princess Anne Street Fredericksburg, Virginia 22401 Work Session Agenda September 22, 2026, 5:30 PM 1. Call to Order 2. Topics A. Monthly Utility Billing Transition Discussion B. FY 2026 Preliminary Budget End of Year Review C. Economic Development and Tourism Strategic Plan RFP Update D. Initial Draft of Legislative Agenda Discussion 3. Adjournment",
+      "lines": [
+        "Agenda - 09/22/2026",
+        "City of Fredericksburg, Virginia",
+        "Hon. Kerry P. Devine, Mayor",
+        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
+        "Hon. Jannan W. Holmes, At-Large",
+        "Hon. Dr. Will B. Mackintosh, At-Large",
+        "Hon. Matt D. Rowe, Ward One",
+        "Hon. Joy Y. Crump, Ward Two",
+        "Hon. Susanna R. Finn, Ward Three",
+        "City Council",
+        "AGENDA",
+        "Second Floor",
+        "715 Princess Anne Street",
+        "Fredericksburg, Virginia \u00a022401",
+        "Work Session Agenda",
+        "September 22, 2026, 5:30 PM",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Topics",
+        "A.",
+        "Monthly Utility Billing Transition Discussion",
+        "B.",
+        "FY 2026 Preliminary Budget End of Year Review",
+        "C.",
+        "Economic Development and Tourism Strategic Plan RFP Update",
+        "D.",
+        "Initial Draft of Legislative Agenda Discussion",
+        "3.",
+        "Adjournment"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09222026-2208?html=true",
+      "date": "2026-09-22",
+      "agenda_id": "2208"
+    },
     {
       "format": "html",
       "session_type": "Work Session",
@@ -1454,605 +2082,6 @@
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09082026-2202?html=true",
       "date": "2026-09-08",
       "agenda_id": "2202"
-    },
-    {
-      "format": "pdf",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Public Comment",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Introduction of New Electoral Board Member and Board Reorganization",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of the Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Electoral Board Meeting July 7, 2026",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "August 4, 2026 Canvass",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Appeal on Petition Signature Deficiency",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "General Registrar Report",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Old Business",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "New Business",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Review of August 4, 2026 Republican Primary",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Dates for November 3rd, 2026 General and Special Election",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Closed Session",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Certification of Closed Session",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Approval of New Officers of Election",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Remaining Meeting Dates for 2026",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "AGENDA Electoral Board Meeting Tuesday, September 1, 2026, 5:00 pm Office of Voter Registration and Elections Fredericksburg City Center Public Speakers The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired. Observers At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business. A. Public Comment B. Introduction of New Electoral Board Member and Board Reorganization C. Approval of the Agenda D. Approval of Minutes a. Electoral Board Meeting July 7, 2026 b. August 4, 2026 Canvass E. Appeal on Petition Signature Deficiency F. General Registrar Report G. Old Business H. New Business a. Review of August 4, 2026 Republican Primary b. Dates for November 3rd, 2026 General and Special Election 1. Logic and Accuracy Testing 2. Canvass Dates 3. Possible RLA 4. Evening Election Hours 601 Caroline Street Suite 500 Fredericksburg, VA 22401 Email: vote@vote.fredericksburgva.gov Web: www.fredericksburgVA.gov/Vote Telephone: 540-372-1030 Fax: 540-373-8381 I. Closed Session J. Certification of Closed Session K. Approval of New Officers of Election L. Remaining Meeting Dates for 2026 M. Adjournment 601 Caroline Street Suite 500 Fredericksburg, VA 22401 Email: vote@vote.fredericksburgva.gov Web: www.fredericksburgVA.gov/Vote Telephone: 540-372-1030 Fax: 540-373-8381",
-      "session_type": "Regular Session",
-      "body": "Electoral Board",
-      "time": "5:00 pm",
-      "lines": [
-        "AGENDA",
-        "Electoral Board Meeting",
-        "Tuesday, September 1, 2026, 5:00 pm",
-        "Office of Voter Registration and Elections",
-        "Fredericksburg City Center",
-        "Public Speakers",
-        "The Electoral Board provides this opportunity for comments from voters before the start",
-        "of the meeting. Comments relevant to the registration of voters, the establishment of",
-        "voting precincts, and polling places, and the conduct of the elections are welcome. To",
-        "be fair to everyone, please observe the five-minute time limit and yield the floor when",
-        "the Chair of the Electoral Board indicates that your time has expired.",
-        "Observers",
-        "At this point the Board will Open the Meeting. All speakers and those observers who",
-        "have waived their right to speak are reminded that at this point you are clearly and",
-        "only observers. You are not invited to interrupt nor attempt to engage Board members",
-        "in discussion of Board Agenda items or other business.",
-        "A. Public Comment",
-        "B. Introduction of New Electoral Board Member and Board Reorganization",
-        "C. Approval of the Agenda",
-        "D. Approval of Minutes",
-        "a. Electoral Board Meeting July 7, 2026",
-        "b. August 4, 2026 Canvass",
-        "E. Appeal on Petition Signature Deficiency",
-        "F. General Registrar Report",
-        "G. Old Business",
-        "H. New Business",
-        "a. Review of August 4, 2026 Republican Primary",
-        "b. Dates for November 3rd, 2026 General and Special Election",
-        "1. Logic and Accuracy Testing",
-        "2. Canvass Dates",
-        "3. Possible RLA",
-        "4. Evening Election Hours",
-        "601 Caroline Street Suite 500 Fredericksburg, VA 22401",
-        "Email: vote@vote.fredericksburgva.gov",
-        "Web: www.fredericksburgVA.gov/Vote",
-        "Telephone: 540-372-1030       Fax: 540-373-8381",
-        "I.   Closed Session",
-        "J.   Certification of Closed Session",
-        "K. Approval of New Officers of Election",
-        "L. Remaining Meeting Dates for 2026",
-        "M. Adjournment",
-        "601 Caroline Street Suite 500 Fredericksburg, VA 22401",
-        "Email: vote@vote.fredericksburgva.gov",
-        "Web: www.fredericksburgVA.gov/Vote",
-        "Telephone: 540-372-1030       Fax: 540-373-8381"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_09012026-2199?html=true",
-      "date": "2026-09-01",
-      "agenda_id": "2199"
-    },
-    {
-      "format": "html",
-      "date_label": "August 25, 2026",
-      "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "7:30 p.m.",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Invocation",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Pledge of Allegiance",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Presentations",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-___, Appointing John N. Siegler, Ph.D. as Deputy Clerk of Council",
-              "documents": [
-                "Memo and Resolution to Appoint of Deputy Clerk of Council.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-___, Appointing Alexandra B. Rhodes as Senior Assistant City Attorney",
-              "documents": [
-                "Memo and Resolution to Appoint the Senior Asstisant City Attorney.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of the Memorials Commission 2026 Wall of Honor Nominations \u2013 Doris Buffett, Juanita Pitchford",
-              "documents": [
-                "2026 Wall of Honor Recommendations.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Board and Commission Minutes",
-              "documents": [
-                "2026-06-08 APVD Minutes - Advisory Review Guidelines Committee.pdf",
-                "2026-06-08 APVD Minutes - Regular Meeting.pdf",
-                "2026-06-22 APVD Minutes - Supplementary Meeting.pdf",
-                "2026-07-13 APVD Minutes - Regular Meeting.pdf",
-                "BOSS Minutes June 04, 2026.pdf",
-                "07-13-2026 Economic Development Authority Minutes.pdf",
-                "Planning Commission Meeting Minutes 05-27-2026.pdf",
-                "Planning Commission Minutes 06-10-2026.pdf",
-                "20260603 PTAB Minutes - adopted.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Soliciting Public Comments on the implementation of the 2025-2026 Consolidated Annual Performance and Evaluation Report (CAPER) for the Community Development Block Grant Program.",
-              "documents": [
-                "2025 2026 Consolidated Annual Performance and Evaluation Report Implementation.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, To Consider a Site Lease Agreement for Purposes of Landfill Gas Recovery by Terreva Stafford RNG, LLC. with the R-Board",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "1500 Gateway Project, Zoning Map Amendment and Special Use Permit Associated with a Proposed Data Center",
-              "documents": [
-                "1500 Gateway.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Comments from the Public",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Council Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "03-17-2026 Work Session Minutes Draft",
-              "documents": [
-                "03-17-26 Work Session Minutes Draft.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "03-24-2026 Work Session Minutes",
-              "documents": [
-                "03-24-26 Work Session Minutes Draft.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "05-12-2026 Regular Session Minutes Draft",
-              "documents": [
-                "05-12-26 Regular Session Minutes Draft.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "05-26-2026 Regular Session Minutes Draft",
-              "documents": [
-                "05-26-26 Regular Session Minutes Draft.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "06-09-2026 Regular Session Minutes Draft",
-              "documents": [
-                "06-09-26 Regular Session Minutes Draft.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "06-23-2026 Regular Session Minutes Draft",
-              "documents": [
-                "06-23-26 Regular Session Minutes Draft .pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "07-14-2026 Regular Session Minutes Draft",
-              "documents": [
-                "07-14-26 Regular Session Minutes Draft .pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Boards and Commission Appointments",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Fredericksburg Arts Commission Appointments (2) \u2013 Matthew Kelly Drake and Pete Morelewicz.",
-              "documents": [
-                "Fredericksburg Arts Commission Appointments.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "City Manager Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Resolution 26-__, First Read, Initiating a Text Amendment to Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at; City Code \u00a7 72-31, Residential Zoning Districts; City Code \u00a7 72-41, Principal Use Standards; City Code \u00a7 72-84, \u201cDefinitions\u201d; and City Code \u00a7 72-A to Modify Single-Family Dwelling Regulations and Form-Based Code Standards",
-              "documents": [
-                "2026-08-18 Staff Memo and Draft Resolution to Modify Single Family Dwelling Regulations and Form Based Code Standards.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Transmittal of Calendars",
-              "documents": [
-                "Council and Boards and Commissions Meeting Calendar 20260825.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Closed Session",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Closed Meeting Under Code of Virginia Section 2.2-3711 A. (1) to consider the annual performance review of all full-time appointees of the City Council",
-              "documents": [
-                "1 Closed Meeting_Certification.pdf"
-              ]
-            },
-            {
-              "level": 2,
-              "title": "Resolution 26-__, Certification of Closed Session",
-              "documents": [
-                "2 2026_Closed Meeting Cert Resolution_Template.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 08/25/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 August 25, 2026 7:30 p.m. Mayor Kerry P. Devine, Presiding 1. Call to Order 2. Invocation Vice-Mayor Charlie L. Frye, Jr. 3. Pledge of Allegiance Councilor Jannan W. Holmes 4. Presentations 5. Consent Agenda A. Resolution 26-___, Appointing John N. Siegler, Ph.D. as Deputy Clerk of Council Documents: Memo and Resolution to Appoint of Deputy Clerk of Council.pdf B. Resolution 26-___, Appointing Alexandra B. Rhodes as Senior Assistant City Attorney Documents: Memo and Resolution to Appoint the Senior Asstisant City Attorney.pdf C. Transmittal of the Memorials Commission 2026 Wall of Honor Nominations \u2013 Doris Buffett, Juanita Pitchford Documents: 2026 Wall of Honor Recommendations.pdf D. Transmittal of Board and Commission Minutes D.i. Architectural Review Board Advisory Guidelines Committee June 8, 2026 Documents: 2026-06-08 APVD Minutes - Advisory Review Guidelines Committee.pdf D.i.1. Architectural Review Board June 8, 2026 Documents: 2026-06-08 APVD Minutes - Regular Meeting.pdf D.i.2. Architectural Review Board June 22, 2026 Documents: 2026-06-22 APVD Minutes - Supplementary Meeting.pdf D.i.3. Architectural Review Board July 13, 2026 Documents: 2026-07-13 APVD Minutes - Regular Meeting.pdf D.i.4. Board of Social Services June 4, 2026 Documents: BOSS Minutes June 04, 2026.pdf D.i.5. Economic Development Authority July 13, 2026 Documents: 07-13-2026 Economic Development Authority Minutes.pdf D.i.6. Planning Commission Minutes for Joint Work Session with City Council and the Economic Development Authority May 27, 2026 Documents: Planning Commission Meeting Minutes 05-27-2026.pdf D.i.7. Planning Commission Meeting June 10, 2026 Documents: Planning Commission Minutes 06-10-2026.pdf D.i.8. Public Transit Advisory Board Meeting June 3, 2026 Documents: 20260603 PTAB Minutes - adopted.pdf 6. Public Hearing People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date. Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. A. Soliciting Public Comments on the implementation of the 2025-2026 Consolidated Annual Performance and Evaluation Report (CAPER) for the Community Development Block Grant Program. Documents: 2025 2026 Consolidated Annual Performance and Evaluation Report Implementation.pdf B. Resolution 26-__, To Consider a Site Lease Agreement for Purposes of Landfill Gas Recovery by Terreva Stafford RNG, LLC. with the R-Board Postponed to the September 22, 2026, City Council Regular Session C. 1500 Gateway Project, Zoning Map Amendment and Special Use Permit Associated with a Proposed Data Center Documents: 1500 Gateway.pdf 7. Comments from the Public City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order. People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council. Written comments must be received no later than 1:30 p.m. on the meeting date . Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters. 8. Council Agenda 9. Minutes A. 03-17-2026 Work Session Minutes Draft Documents: 03-17-26 Work Session Minutes Draft.pdf B. 03-24-2026 Work Session Minutes Documents: 03-24-26 Work Session Minutes Draft.pdf C. 05-12-2026 Re...[truncated]",
-      "lines": [
-        "Agenda - 08/25/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "August 25, 2026",
-        "7:30 p.m.",
-        "Mayor Kerry P. Devine, Presiding",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Invocation",
-        "Vice-Mayor Charlie L. Frye, Jr.",
-        "3.",
-        "Pledge of Allegiance",
-        "Councilor Jannan W. Holmes",
-        "4.",
-        "Presentations",
-        "5.",
-        "Consent Agenda",
-        "A.",
-        "Resolution 26-___, Appointing John N. Siegler, Ph.D. as Deputy Clerk of Council",
-        "Documents:",
-        "Memo and Resolution to Appoint of Deputy Clerk of Council.pdf",
-        "B.",
-        "Resolution 26-___, Appointing Alexandra B. Rhodes as Senior Assistant City Attorney",
-        "Documents:",
-        "Memo and Resolution to Appoint the Senior Asstisant City Attorney.pdf",
-        "C.",
-        "Transmittal of the Memorials Commission 2026 Wall of Honor Nominations \u2013 Doris Buffett, Juanita Pitchford",
-        "Documents:",
-        "2026 Wall of Honor Recommendations.pdf",
-        "D.",
-        "Transmittal of Board and Commission Minutes",
-        "D.i.",
-        "Architectural Review Board Advisory Guidelines Committee June 8, 2026",
-        "Documents:",
-        "2026-06-08 APVD Minutes - Advisory Review Guidelines Committee.pdf",
-        "D.i.1.",
-        "Architectural Review Board June 8, 2026",
-        "Documents:",
-        "2026-06-08 APVD Minutes - Regular Meeting.pdf",
-        "D.i.2.",
-        "Architectural Review Board June 22, 2026",
-        "Documents:",
-        "2026-06-22 APVD Minutes - Supplementary Meeting.pdf",
-        "D.i.3.",
-        "Architectural Review Board July 13, 2026",
-        "Documents:",
-        "2026-07-13 APVD Minutes - Regular Meeting.pdf",
-        "D.i.4.",
-        "Board of Social Services June 4, 2026",
-        "Documents:",
-        "BOSS Minutes June 04, 2026.pdf",
-        "D.i.5.",
-        "Economic Development Authority July 13, 2026",
-        "Documents:",
-        "07-13-2026 Economic Development Authority Minutes.pdf",
-        "D.i.6.",
-        "Planning Commission Minutes for Joint Work Session with City Council and the Economic Development Authority May 27, 2026",
-        "Documents:",
-        "Planning Commission Meeting Minutes 05-27-2026.pdf",
-        "D.i.7.",
-        "Planning Commission Meeting June 10, 2026",
-        "Documents:",
-        "Planning Commission Minutes 06-10-2026.pdf",
-        "D.i.8.",
-        "Public Transit Advisory Board Meeting June 3, 2026",
-        "Documents:",
-        "20260603 PTAB Minutes - adopted.pdf",
-        "6.",
-        "Public Hearing",
-        "People who wish to participate remotely in the public hearing may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than 1:30 p.m. on the meeting date.",
-        "Written comments intended for a public hearing must be clearly identified. Written comments received on time will be read aloud during the public hearing. These rules apply to public comments: the person must identify themself by name and address, including zip code, limit remarks to five (5) minutes for speakers attending in person and three (3) minutes for submitted letters (read aloud), and comments must address a topic of City business. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "A.",
-        "Soliciting Public Comments on the implementation of the 2025-2026 Consolidated Annual Performance and Evaluation Report (CAPER) for the Community Development Block Grant Program.",
-        "Documents:",
-        "2025 2026 Consolidated Annual Performance and Evaluation Report Implementation.pdf",
-        "B.",
-        "Resolution 26-__, To Consider a Site Lease Agreement for Purposes of Landfill Gas Recovery by Terreva Stafford RNG, LLC. with the R-Board",
-        "Postponed to the September 22, 2026, City Council Regular Session",
-        "C.",
-        "1500 Gateway Project, Zoning Map Amendment and Special Use Permit Associated with a Proposed Data Center",
-        "Documents:",
-        "1500 Gateway.pdf",
-        "7.",
-        "Comments from the Public",
-        "City Council provides this opportunity each regular meeting for comments from people who have signed up with the Clerk of Council to speak before the start of the meeting. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Clerk of Council indicates that your time has expired. Decorum in the Council Chambers will be maintained. Comments that are not relevant to City business and behavior that is disruptive are inappropriate and out of order.",
-        "People who wish to participate remotely in the public comment period may send their comments in writing by 1) U.S. Mail or 2) email to the Clerk of Council.",
-        "Written comments must be received no later than",
-        "1:30 p.m. on the meeting date",
-        ". Written comments received on time will be read aloud during the public comment portion of the City Council meeting. These rules apply to remote public comments: the person must identify themself by name and address, including zip code, and limit remarks to three (3) minutes for submitted letters (read aloud) with a 40-minute cap on read letters.",
-        "8.",
-        "Council Agenda",
-        "9.",
-        "Minutes",
-        "A.",
-        "03-17-2026 Work Session Minutes Draft",
-        "Documents:",
-        "03-17-26 Work Session Minutes Draft.pdf",
-        "B.",
-        "03-24-2026 Work Session Minutes",
-        "Documents:",
-        "03-24-26 Work Session Minutes Draft.pdf",
-        "C.",
-        "05-12-2026 Regular Session Minutes Draft",
-        "Documents:",
-        "05-12-26 Regular Session Minutes Draft.pdf",
-        "D.",
-        "05-26-2026 Regular Session Minutes Draft",
-        "Documents:",
-        "05-26-26 Regular Session Minutes Draft.pdf",
-        "E.",
-        "06-09-2026 Regular Session Minutes Draft",
-        "Documents:",
-        "06-09-26 Regular Session Minutes Draft.pdf",
-        "F.",
-        "06-23-2026 Regular Session Minutes Draft",
-        "Documents:",
-        "06-23-26 Regular Session Minutes Draft .pdf",
-        "G.",
-        "07-14-2026 Regular Session Minutes Draft",
-        "Documents:",
-        "07-14-26 Regular Session Minutes Draft .pdf",
-        "10.",
-        "Boards and Commission Appointments",
-        "A.",
-        "Fredericksburg Arts Commission Appointments (2) \u2013 Matthew Kelly Drake and Pete Morelewicz.",
-        "Documents:",
-        "Fredericksburg Arts Commission Appointments.pdf",
-        "11.",
-        "City Manager Agenda",
-        "A.",
-        "Resolution 26-__, First Read, Initiating a Text Amendment to Fredericksburg City Code, Chapter 72 (Unified Development Ordinance) at; City Code \u00a7 72-31, Residential Zoning Districts; City Code \u00a7 72-41, Principal Use Standards; City Code \u00a7 72-84, \u201cDefinitions\u201d; and City Code \u00a7 72-A to Modify Single-Family Dwelling Regulations and Form-Based Code Standards",
-        "Documents:",
-        "2026-08-18 Staff Memo and Draft Resolution to Modify Single Family Dwelling Regulations and Form Based Code Standards.pdf",
-        "B.",
-        "Transmittal of Calendars",
-        "Documents:",
-        "Council  and Boards and Commissions Meeting Calendar 20260825.pdf",
-        "12.",
-        "Closed Session",
-        "A.",
-        "Closed Meeting Under Code of Virginia Section 2.2-3711 A. (1) to consider the annual performance review of all full-time appointees of the City Council",
-        "Documents:",
-        "1  Closed Meeting_Certification.pdf",
-        "B.",
-        "Resolution 26-__, Certification of Closed Session",
-        "Documents:",
-        "2  2026_Closed Meeting Cert Resolution_Template.pdf",
-        "13.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08252026-2193?html=true",
-      "date": "2026-08-25",
-      "agenda_id": "2193"
-    },
-    {
-      "format": "html",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Topics",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Updated 2027 City Council Priorities",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 08/25/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 August 25, 2026 Council Work Session 5:30pm 1. Call to Order 2. Topics A. Updated 2027 City Council Priorities 3. Adjournment",
-      "lines": [
-        "Agenda - 08/25/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia \u00a022401",
-        "August 25, 2026",
-        "Council Work Session",
-        "5:30pm",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Topics",
-        "A.",
-        "Updated 2027 City Council Priorities",
-        "3.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_08252026-2195?html=true",
-      "date": "2026-08-25",
-      "agenda_id": "2195"
     },
     {
       "date": "2026-07-14",
