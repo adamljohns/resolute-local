@@ -3826,6 +3826,50 @@
       "historical_injection": true
     },
     {
+      "date": "2026-03-24",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_03242026-2140",
+      "minutes_pages": 42,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-03-17",
+      "body": "City Council",
+      "session_type": "Council Meeting",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_03172026-2137",
+      "minutes_pages": 29,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [],
+      "historical_injection": true
+    },
+    {
       "date": "2026-03-10",
       "body": "City Council",
       "session_type": "Council Meeting",
@@ -5327,6 +5371,13 @@
       "summary": "The city council will review progress on the third phase of the shopping center redevelopment project, which impacts local land use and infrastructure. Additionally, the council will hold a closed session with legal counsel to discuss enforcement strategies for defacing public property, a matter exempt from public scrutiny under state law.",
       "why": "The redevelopment update affects the local tax base, neighborhood aesthetics, and the mix of commercial businesses available to residents. The closed legal discussion concerns public safety and the maintenance of community assets, which can influence how city resources are allocated for enforcement and repairs.",
       "how": "Attend the work session on September 8, 2026, at 5:30 pm at 715 Princess Anne Street to observe the public portion of the meeting. Submit public comment during the designated time or email council members regarding the redevelopment update before the session. Note that the closed session on legal enforcement is not open to the public.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-09-22": {
+      "summary": "This session will finalize supplemental funding for Fredericksburg City Schools and update regulations governing towing services, private alarm systems, and zoning for technology districts. The council will also appoint an Assistant City Attorney and consider a draft legislative agenda for the 2027 General Assembly session. These actions adjust local codes and budget allocations to align with state law and community needs.",
+      "why": "Changes to towing fees and alarm permit procedures directly impact household costs and home security compliance. Zoning updates for technology districts influence local business development and property use standards. Supplemental school appropriations ensure adequate resources for education, while the legislative agenda shapes future state-level policies affecting local governance.",
+      "how": "Residents may attend the regular session on September 22, 2026, at 7:30 PM in the Council Chambers at 715 Princess Anne Street. Public comment periods are typically available during the meeting; check the agenda for specific time limits. You may also submit written comments via email to the City Clerk prior to the session to ensure your input is recorded in the official minutes.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
