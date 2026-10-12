@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-10-12T01:30:05Z",
-  "updated_local": "2026-10-11 21:30 EDT",
+  "updated": "2026-10-12T02:07:06Z",
+  "updated_local": "2026-10-11 22:07 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [],
@@ -3746,6 +3746,13 @@
       "summary": "The City Council will finalize the Fiscal Year 2026 budget adjustments and approve capital budget carryovers, which determine how remaining funds are allocated for city services and infrastructure. The session also includes the adoption of minutes from various advisory boards and a ceremonial proclamation for Dysautonomia Awareness Month. These actions formalize financial decisions that have already been reviewed by staff and commissions.",
       "why": "Finalizing the budget directly impacts the quality of public services, including road maintenance, park upkeep, and emergency response capabilities, which affect every resident's daily life. Approving capital budget carryovers ensures that ongoing construction and improvement projects continue without unnecessary delays or funding gaps. Understanding these financial adjustments helps citizens know how their tax dollars are being managed and prioritized for community needs.",
       "how": "Residents can attend the meeting on October 13, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to listen to discussions. To provide public comment, you must identify yourself by name and address, keeping in-person remarks to five minutes or submitted letters to three minutes. Written comments for any public hearing must be emailed or mailed to the Clerk of Council by 1:30 p.m. on the meeting date.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-10-12": {
+      "summary": "The detailed agenda for the Fredericksburg City Council session on October 12, 2026, is not yet available, so specific legislative actions cannot be identified at this time. Once published, the agenda will list the exact ordinances, contracts, or budget items scheduled for discussion and vote. Residents should check the city's official website closer to the date for the finalized list of business items.",
+      "why": "City council decisions directly impact local property values, zoning regulations, and the allocation of funds for public schools and infrastructure. Understanding the agenda helps residents see how tax dollars are spent on public safety, road maintenance, and community services. Engaging with these decisions ensures that local family needs and neighborhood character are considered in municipal planning.",
+      "how": "Monitor the City of Fredericksburg's official agenda page for updates on the October 12, 2026, meeting details. Attend the session at the Council Chambers to listen to presentations and submit public comments during the designated time slot. You may also contact council members via email or phone to express your views on specific agenda items before the meeting concludes.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
