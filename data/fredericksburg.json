@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-10-12T23:48:44Z",
-  "updated_local": "2026-10-12 19:48 EDT",
+  "updated": "2026-10-13T01:30:04Z",
+  "updated_local": "2026-10-12 21:30 EDT",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -1061,13 +1061,45 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10122026-2214?html=true",
       "date": "2026-10-12",
-      "agenda_id": "2214"
+      "agenda_id": "2214",
+      "body": "Architectural Review Board"
     },
     {
+      "format": "docx",
+      "body": "Electoral Board",
+      "lines": [
+        "AGENDA",
+        "Electoral Board Meeting",
+        "Tuesday, October 6, 2026, 5:00 pm",
+        "Office of Voter Registration and Elections",
+        "Fredericksburg City Center",
+        "Public Speakers",
+        "The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired.",
+        "Observers",
+        "At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business.",
+        "Public Comment",
+        "Introduction of New Electoral Board Member and Board Reorganization",
+        "Approval of the Agenda",
+        "Approval of Minutes",
+        "September 1, 2026 Canvass",
+        "General Registrar Report",
+        "Old Business",
+        "November 3rd, 2026 General and Special Election",
+        "New Business",
+        "Closed Session",
+        "Certification of Closed Session",
+        "Approval of Election Day Officers of Election",
+        "Approval of New Officers of Election",
+        "Remaining Meeting Dates for 2026",
+        "November 4 Canvass",
+        "December 1st at 5pm (GR not available)",
+        "Adjournment"
+      ],
+      "raw_text": "AGENDA Electoral Board Meeting Tuesday, October 6, 2026, 5:00 pm Office of Voter Registration and Elections Fredericksburg City Center Public Speakers The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired. Observers At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business. Public Comment Introduction of New Electoral Board Member and Board Reorganization Approval of the Agenda Approval of Minutes September 1, 2026 Canvass General Registrar Report Old Business November 3rd, 2026 General and Special Election New Business Closed Session Certification of Closed Session Approval of Election Day Officers of Election Approval of New Officers of Election Remaining Meeting Dates for 2026 November 4 Canvass December 1st at 5pm (GR not available) Adjournment",
+      "sections": [],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10062026-2211?html=true",
       "date": "2026-10-06",
-      "agenda_id": "2211",
-      "error": "unknown content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      "agenda_id": "2211"
     },
     {
       "format": "pdf",
@@ -1359,7 +1391,8 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10052026-2210?html=true",
       "date": "2026-10-05",
-      "agenda_id": "2210"
+      "agenda_id": "2210",
+      "body": "Economic Development Authority"
     },
     {
       "format": "html",
