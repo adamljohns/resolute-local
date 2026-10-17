@@ -1960,6 +1960,69 @@
       "agenda_id": "2207"
     },
     {
+      "date": "2026-08-25",
+      "body": "City Council",
+      "session_type": "Work Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_08252026-2195",
+      "minutes_pages": 27,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Ph.D",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "Resolution 26-47, certification of Closed meeting, which was seconded by Councilor Crump",
+          "motion_by": null,
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-47, certification of Closed meeting, which was seconded by Councilor Crump",
+          "motion_by": null,
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
       "date": "2026-07-14",
       "body": "City Council",
       "session_type": "Regular Session",
