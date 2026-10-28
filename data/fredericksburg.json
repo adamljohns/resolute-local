@@ -608,7 +608,59 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10272026-2217?html=true",
       "date": "2026-10-27",
-      "agenda_id": "2217"
+      "agenda_id": "2217",
+      "youtube_url": "https://www.youtube.com/watch?v=TBLxU7_-HNo",
+      "short_url": "https://www.youtube.com/watch?v=HdMxHRO0DjQ",
+      "vimeo_id": "1240030838",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Wall of Honor: Juanita Pitchford",
+          "start_sec": 1825,
+          "end_sec": 1920,
+          "vimeo_id": "1240030838",
+          "vimeo_url": "https://vimeo.com/1240030838#t=1825s",
+          "summary": "Her daughter, Aaliyah Robinson, recalls Juanita Pitchford's work as voter registrar, including helping college students vote where they studied and helping people regain their voting rights after serving their sentences.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=TBLxU7_-HNo"
+        },
+        {
+          "section_title": "Wall of Honor: Doris Buffett",
+          "start_sec": 2230,
+          "end_sec": 2365,
+          "vimeo_id": "1240030838",
+          "vimeo_url": "https://vimeo.com/1240030838#t=2230s",
+          "summary": "Mike Zitz, formerly of The Free Lance-Star, and Vice Mayor Chuck Frye recall Doris Buffett's giving: about $1 million so children could swim free at the pool now named for her, and $100 per gun at the first Fredericksburg Gun Give Back (67 guns), money that went to local nonprofits for kids.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=TBLxU7_-HNo"
+        },
+        {
+          "section_title": "New FAME President & CEO Introduced",
+          "start_sec": 3310,
+          "end_sec": 3450,
+          "vimeo_id": "1240030838",
+          "vimeo_url": "https://vimeo.com/1240030838#t=3310s",
+          "summary": "Svetlana Legetic, the Fredericksburg Area Museum's new president and CEO, introduces herself to council and says she wants the museum to be \"a place to belong\" as the city heads toward its 300th anniversary in 2028.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=TBLxU7_-HNo"
+        },
+        {
+          "section_title": "Public Comment: Youth Violence Prevention",
+          "start_sec": 3795,
+          "end_sec": 3945,
+          "vimeo_id": "1240030838",
+          "vimeo_url": "https://vimeo.com/1240030838#t=3795s",
+          "summary": "The Clerk reads a letter from the NAACP Fredericksburg branch on the city's youth violence prevention report, which found Black and Hispanic students over-represented in absenteeism, discipline and court-referral data. The branch urges better data collection, wider use of restorative justice, earlier intervention, and more mental health and family support.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=TBLxU7_-HNo"
+        }
+      ],
+      "video_duration_sec": 5898,
+      "video_lobby_only": false
     },
     {
       "format": "html",
@@ -938,7 +990,7 @@
       "format": "html",
       "date_label": "October 13, 2026",
       "presiding": "Mayor Kerry P. Devine",
-      "session_type": "Work Session",
+      "session_type": "Regular Session",
       "body": "City Council",
       "location": "Council Chambers",
       "sections": [
@@ -1245,7 +1297,59 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10132026-2212?html=true",
       "date": "2026-10-13",
-      "agenda_id": "2212"
+      "agenda_id": "2212",
+      "youtube_url": "https://www.youtube.com/watch?v=3LZVwJhzZwQ",
+      "short_url": "https://www.youtube.com/watch?v=L_7rYvEz2Yw",
+      "vimeo_id": "1235620451",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Landfill Gas Recovery Lease Approval",
+          "start_sec": 913,
+          "end_sec": 1063,
+          "vimeo_id": "1235620451",
+          "vimeo_url": "https://vimeo.com/1235620451#t=913s",
+          "summary": "Landfill director Phil Hathcock presents a 30-year lease of about one acre of the landfill, which the city and Stafford County own, so Terrava Stafford RNG can build a plant that turns landfill methane into renewable natural gas for Columbia's pipeline. He estimates the gas could bring about $75,000 a month, depending on markets. No one spoke at the public hearing, and council approved the lease 7-0.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=3LZVwJhzZwQ"
+        },
+        {
+          "section_title": "Gun Give Back Announcement",
+          "start_sec": 1605,
+          "end_sec": 1745,
+          "vimeo_id": "1235620451",
+          "vimeo_url": "https://vimeo.com/1235620451#t=1605s",
+          "summary": "Vice Mayor Chuck Frye announces the annual Gun Give Back on Saturday, Oct. 17, 10 a.m. to 2 p.m. at the Fredericksburg Police Department: unloaded, unwanted firearms, no questions asked. He says the program is why he ran for council, and that the state has approved it as a program for every Virginia locality starting January 1, 2028.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=3LZVwJhzZwQ"
+        },
+        {
+          "section_title": "DEQ Wastewater Consent Order",
+          "start_sec": 3573,
+          "end_sec": 3723,
+          "vimeo_id": "1235620451",
+          "vimeo_url": "https://vimeo.com/1235620451#t=3573s",
+          "summary": "Assistant City Manager Todd Flippen explains a DEQ consent order after five state inspections of the wastewater treatment plant found problems with UV disinfection, grease and scum, and the sludge belt presses. The order carries a civil charge of about $23,500, most of it funding a Friends of the Rappahannock project to plant 500 freshwater mussels. He also reports 13 sewer overflows from February to July, six reaching state waters. Council approved the order 7-0.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=3LZVwJhzZwQ"
+        },
+        {
+          "section_title": "Cancellation of Idlewild VRE Bus Route",
+          "start_sec": 4606,
+          "end_sec": 4756,
+          "vimeo_id": "1235620451",
+          "vimeo_url": "https://vimeo.com/1235620451#t=4606s",
+          "summary": "FXBGO Transit director Melody Fowler asks council to cancel the Idlewild-to-VRE commuter bus because ridership is very low and both the Fredericksburg and new Spotsylvania stations now have more parking. Councilmember Rowe notes the Idlewild community paid about $10,000 a year for roughly 570 trips. Dr. McIntosh supports canceling but hopes such links return as VRE service grows. Council approved 7-0.",
+          "significance": "lowlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=3LZVwJhzZwQ"
+        }
+      ],
+      "video_duration_sec": 4952,
+      "video_lobby_only": false
     },
     {
       "format": "html",
@@ -2025,6 +2129,8 @@
         }
       ],
       "historical_injection": true,
+      "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM",
+      "short_url": "https://www.youtube.com/watch?v=_3oHGAb1TP0",
       "vimeo_id": "1210021632",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
@@ -2106,6 +2212,8 @@
       "council_absent": [],
       "resolutions_voted": [],
       "historical_injection": true,
+      "youtube_url": "https://www.youtube.com/watch?v=wizhFLyzihM",
+      "short_url": "https://www.youtube.com/watch?v=_3oHGAb1TP0",
       "vimeo_id": "1210021632",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
@@ -2328,6 +2436,8 @@
         }
       ],
       "historical_injection": true,
+      "youtube_url": "https://www.youtube.com/watch?v=XvLvtbAeNSg",
+      "short_url": "https://www.youtube.com/watch?v=iSsEUN_JN18",
       "vimeo_id": "1199943879",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
@@ -2784,6 +2894,8 @@
         }
       ],
       "historical_injection": true,
+      "youtube_url": "https://www.youtube.com/watch?v=E6zNQPqWUpM",
+      "short_url": "https://www.youtube.com/watch?v=eWkYi_6oCAA",
       "vimeo_id": "1191743329",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
@@ -2877,6 +2989,8 @@
         }
       ],
       "historical_injection": true,
+      "youtube_url": "https://www.youtube.com/watch?v=9Dzz5L_xh1I",
+      "short_url": "https://www.youtube.com/watch?v=AvuNUuuuJB0",
       "vimeo_id": "1191716331",
       "vimeo_event_url": "https://vimeo.com/event/898581",
       "video_clips": [
