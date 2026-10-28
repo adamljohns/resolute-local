@@ -665,7 +665,7 @@
     {
       "format": "html",
       "date_label": "October 27, 2026",
-      "session_type": "Work Session",
+      "session_type": "Joint Work Session",
       "body": "City Council",
       "location": "Council Chambers",
       "sections": [
@@ -786,7 +786,59 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10272026-2218?html=true",
       "date": "2026-10-27",
-      "agenda_id": "2218"
+      "agenda_id": "2218",
+      "youtube_url": "https://www.youtube.com/watch?v=x23x_6lReBc",
+      "short_url": "https://www.youtube.com/watch?v=Em9Z719Jmf0",
+      "vimeo_id": "1235645868",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Safe Routes to School Infrastructure",
+          "start_sec": 1643,
+          "end_sec": 1751,
+          "vimeo_id": "1235645868",
+          "vimeo_url": "https://vimeo.com/1235645868#t=1643s",
+          "summary": "Coming from a joint session with the School Board, council and Planning Commission members discuss the Area 10 small area plan's focus on walkability along Lafayette Boulevard and access to the two elementary schools there. Staff describe the planned Cortland Drive Connector, now in engineering procurement, with construction expected around 2028 through Safe Routes to School.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=x23x_6lReBc"
+        },
+        {
+          "section_title": "Pre-Approved Housing Plans and Infill",
+          "start_sec": 2152,
+          "end_sec": 2302,
+          "vimeo_id": "1235645868",
+          "vimeo_url": "https://vimeo.com/1235645868#t=2152s",
+          "summary": "Asked about pre-approved housing plans, planning staff say infill homes typically go in at about 150% the size of their neighbors and keep getting more expensive. They describe pre-approved plans, designs the city approves in advance for homes from single-family to small multiplexes, as a 'carrot' that makes permitting faster and cheaper.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=x23x_6lReBc"
+        },
+        {
+          "section_title": "Cannabis Retail Security and Storefronts",
+          "start_sec": 4587,
+          "end_sec": 4737,
+          "vimeo_id": "1235645868",
+          "vimeo_url": "https://vimeo.com/1235645868#t=4587s",
+          "summary": "Councilor McIntosh, joining by phone, says state security rules have given cannabis shops elsewhere a 'highly fortified look' with thick plexiglass and bars, and asks what the city can do locally, especially downtown. Staff say the state is still writing those regulations and outline camera, alarm and back-room storage requirements.",
+          "significance": "lowlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=x23x_6lReBc"
+        },
+        {
+          "section_title": "Repeat Nuisance Violation Penalty",
+          "start_sec": 5316,
+          "end_sec": 5466,
+          "vimeo_id": "1235645868",
+          "vimeo_url": "https://vimeo.com/1235645868#t=5316s",
+          "summary": "Staff recommend raising the penalty for a third or later nuisance violation, such as tall grass, trash and exterior clutter, to $500, aimed at repeat offenders they say are mostly out-of-state owners. Members weigh neighbors' frustration against hardship cases, and Vice Mayor Frye calls $500 steep.",
+          "significance": "neutral",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=x23x_6lReBc"
+        }
+      ],
+      "video_duration_sec": 6191,
+      "video_lobby_only": false
     },
     {
       "format": "html",
