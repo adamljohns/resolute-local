@@ -1855,6 +1855,511 @@
       "historical_injection": true
     },
     {
+      "date": "2026-08-25",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_08252026-2193",
+      "minutes_pages": 1086,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-29 Adopting the Fiscal Year 2027\u2013 Fiscal Year 2031 Capital Improvements Plan (D26-185)",
+          "motion_by": null,
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-30 Authorizing Use of $1,100,597 in Motor Fuels Tax Funds for Various Transportation Projects (D26-186)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the Consent Agenda",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Vice-",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Resolution 26-33 First Read, Amending the FY 2026 Budget Supplemental Activity in the School Grants and School Capital Funds (D26- 200)",
+          "motion_by": null,
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Finn",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Finn",
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Mackintosh",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve on second read authorizing an economic development agreement with 2300 Fall Hill Partners, LLC and the Fredericksburg Economic Development Authority for the redevelopment of the property commonly known as the former Mary Washington ",
+          "motion_by": "Mackintosh",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for fiscal year (FY) 2026 budget amendment to support the Fredericksburg 300th celebration",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution on first read, fiscal year (FY) 2027 budget amendment to support 9 Regular Session 06/23/26 the 300th anniversary celebration of the City",
+          "motion_by": "Mackintosh",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Finn",
+            "Holmes",
+            "Mackintosh",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Rowe",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 4,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve entering into a lease with the Fredericksburg Department of Social Services for office space and parking at 608 Jackson Street",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to accept the appointment of Kenneth Lappin to the RACSB",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for Smart Scale Round 7 application - Fall Hill Avenue corridor improvements",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for authorizing the City Manager to award a contract for police camera and related technology to Axon, Inc",
+          "motion_by": "Frye",
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
       "date": "2026-07-14",
       "body": "City Council",
       "session_type": "Regular Session",
