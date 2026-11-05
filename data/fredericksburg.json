@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-11-04T11:12:04Z",
-  "updated_local": "2026-11-04 06:12 EST",
+  "updated": "2026-11-05T02:30:04Z",
+  "updated_local": "2026-11-04 21:30 EST",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -164,6 +164,586 @@
     ]
   },
   "meetings": [
+    {
+      "format": "html",
+      "session_type": "Regular Session",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of a quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination that public notice requirements have been met",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "November 9, 2026 ARB Public Notice",
+              "documents": [
+                "3 2026-11-09_2ndprint_public notice_ARBhearing.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Approval of Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "November 9, 2026 ARB Agenda",
+              "documents": [
+                "1 11-09-2026_ARB Agenda.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Announcements and Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Review of Minutes",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "October 12, 2026 \u2013 Public Hearing ARB Draft Minutes",
+              "documents": [
+                "6A 2026-10-12 ARB Minutes DRAFT.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Ex Parte Communication",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Disclosure of Conflicts of Interest",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Consent Agenda",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "COA2610-0250 \u2013 1407 Caroline Street \u2013 Fence/Wall Installation",
+              "documents": [
+                "9A COA2610-0250_Administrative Review Form_1407 Caroline Street_signedED.pdf"
+              ]
+            },
+            {
+              "level": 2,
+              "title": "COA2610-0251 \u2013 2800 Princess Anne Street \u2013 Sign Installation",
+              "documents": [
+                "9B COA2610-0251_Administrative Review Form_2800 Princess Anne Street_signedED.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Public Hearing",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Continued Applications",
+              "documents": [
+                "10A REVISED COA 2609-0248_ARBmemo_1320 Caroline Street.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "General Public Comment",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Other Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Update",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "Agenda - 11/09/2026 ARCHITECTURAL REVIEW BOARD AGENDA November 9, 2026 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. November 9, 2026 ARB Public Notice Documents: 3 2026-11-09_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. November 9, 2026 ARB Agenda Documents: 1 11-09-2026_ARB Agenda.pdf 5. Announcements and Reports 6. Review of Minutes 6.A. October 12, 2026 \u2013 Public Hearing ARB Draft Minutes Documents: 6A 2026-10-12 ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA2610-0250 \u2013 1407 Caroline Street \u2013 Fence/Wall Installation Documents: 9A COA2610-0250_Administrative Review Form_1407 Caroline Street_signedED.pdf 9.B. COA2610-0251 \u2013 2800 Princess Anne Street \u2013 Sign Installation Documents: 9B COA2610-0251_Administrative Review Form_2800 Princess Anne Street_signedED.pdf 10. Public Hearing 10.A. Continued Applications 10.A.i. COA2609-0248 \u2013 1320 Caroline Street Maggie Burke-Miller requests to modify the previously approved COA FY22-0069 and requests after-the-fact approval of the wood-grained surface appearance of the LP SmartSide siding installed on the new addition and window replacement on the rear second-story of this single-family residence. Documents: 10A REVISED COA 2609-0248_ARBmemo_1320 Caroline Street.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 13. Staff Update 14. Adjournment",
+      "lines": [
+        "Agenda - 11/09/2026",
+        "ARCHITECTURAL REVIEW BOARD",
+        "AGENDA",
+        "November 9, 2026",
+        "7:00 P.M.",
+        "Live streaming available during meetings and archived meeting videos are also available.",
+        "View Meeting Stream",
+        "Agenda",
+        "1.",
+        "Call to Order",
+        "2.",
+        "Determination of a quorum",
+        "3.",
+        "Determination that public notice requirements have been met",
+        "3.A.",
+        "November 9, 2026 ARB Public Notice",
+        "Documents:",
+        "3     2026-11-09_2ndprint_public notice_ARBhearing.pdf",
+        "4.",
+        "Approval of Agenda",
+        "4.A.",
+        "November 9, 2026 ARB Agenda",
+        "Documents:",
+        "1     11-09-2026_ARB Agenda.pdf",
+        "5.",
+        "Announcements and Reports",
+        "6.",
+        "Review of Minutes",
+        "6.A.",
+        "October 12, 2026 \u2013 Public Hearing ARB Draft Minutes",
+        "Documents:",
+        "6A     2026-10-12 ARB Minutes DRAFT.pdf",
+        "7.",
+        "Disclosure of Ex Parte Communication",
+        "8.",
+        "Disclosure of Conflicts of Interest",
+        "9.",
+        "Consent Agenda",
+        "9.A.",
+        "COA2610-0250 \u2013 1407 Caroline Street \u2013 Fence/Wall Installation",
+        "Documents:",
+        "9A     COA2610-0250_Administrative Review Form_1407 Caroline Street_signedED.pdf",
+        "9.B.",
+        "COA2610-0251 \u2013 2800 Princess Anne Street \u2013 Sign Installation",
+        "Documents:",
+        "9B     COA2610-0251_Administrative Review Form_2800 Princess Anne Street_signedED.pdf",
+        "10.",
+        "Public Hearing",
+        "10.A.",
+        "Continued Applications",
+        "10.A.i.",
+        "COA2609-0248 \u2013 1320 Caroline Street",
+        "Maggie Burke-Miller requests to modify the previously approved COA FY22-0069 and requests after-the-fact approval of the wood-grained surface appearance of the LP SmartSide siding installed on the new addition and window replacement on the rear second-story of this single-family residence.",
+        "Documents:",
+        "10A   REVISED COA 2609-0248_ARBmemo_1320 Caroline Street.pdf",
+        "11.",
+        "General Public Comment",
+        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
+        "[email\u00a0protected]",
+        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
+        "12.",
+        "Other Business",
+        "13.",
+        "Staff Update",
+        "14.",
+        "Adjournment"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_11092026-2222?html=true",
+      "date": "2026-11-09",
+      "agenda_id": "2222",
+      "body": "Architectural Review Board"
+    },
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order \u2013 Chair Schatz",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Determination of Quorum",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of the Agenda",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Public Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "The Rappahannock Valley Garden Club Grant Presentation - Karli Murray, Tour Chair",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Approval of Minutes",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Treasurer\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Old Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "New Business",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Committee & Liaison Reports",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Staff Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Chair\u2019s Report",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Board Member Comments",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment \u2013 Next Meeting, December 14, 2026",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "The Fredericksburg Free Press: Audience and Reach",
+              "documents": []
+            }
+          ]
+        }
+      ],
+      "raw_text": "601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax Monday, November 9, 2026 8:30 a.m. \u25cf EDA Regular Meeting FXBG City Center, First Floor Visitor Center Conference Room 601 Caroline St. Fredericksburg, VA 22401 1. Call to Order \u2013 Chair Schatz 2. Determination of Quorum 3. Approval of the Agenda 4. Public Comments 5. The Rappahannock Valley Garden Club Grant Presentation - Karli Murray, Tour Chair 6. Approval of Minutes Regular Meeting Minutes of October 5, 2026 7. Treasurer\u2019s Report a. EDA Budget Update September 2026 b. Authorization of Additional Signatories for the EDA Operating Account \u2013 David Fraser & Eugeniy Mikityuk c. Consideration of Approval of an EDA Debit Card for Josh Summits, Director of Economic Development & Tourism 8. Old Business 9. New Business a. Grant Funding Requests \u2013 Review and Consideration \u2013 Amy Peregoy b. Sports Tourism Sponsorship Opportunity \u2013 Fred City Soccer Club \u2013 Josh Summits c. Fredericksburg Free Press Marketing and Promotion Proposal \u2013 Josh Summits d. Discussion of Part-Time Contract Employee \u2013 Amy Peregoy 10. Committee & Liaison Reports a. City Relations Committee \u2013 Meredith Schatz & Curry Roberts b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk d. Strategic Investments \u2013 Evan Sullivan & Curry Roberts e. Workforce Development \u2013 Meredith Schatz & Curry Roberts f. Tourism \u2013 Eugeniy Mikityuk & David Fraser g. Main Street \u2013 David Fraser & Evan Sullivan h. Marketing & Promotions \u2013 Eugeniy Mikityuk & David Fraser i. Business Relations \u2013 Meredith Schatz & Anita Crossfield NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO NOVEMBER 9, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. Page 2 of 2 EDA Agenda \u2013 November 9, 2026 11. Staff Report 12. Chair\u2019s Report 13. Board Member Comments 14. Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(8) for the purpose of consultation with legal counsel employed or retained by a public body regarding specific legal matters requiring the provision of legal advice by such counsel, specifically to discuss legal advice concerning the proposed restructuring of an existing loan made by the public body, including the borrower's request to subordinate the public body's security interest in the collateral securing said loan. 15. Adjournment \u2013 Next Meeting, December 14, 2026 NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO NOVEMBER 9, 2026. ANY CITIZEN THAT WANTS TO RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY AGENDAS FORM. 601 Caroline Street, Suite 303 (540) 372-1216 Fredericksburg, VA 22401 (540) 372-6587 Fax ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES Monday, October 5 , 2026 8:31 a.m. \u25cf Regular Meeting & Retreat FXBG City Center, First Floor Visitor Center Exhibit Room 601 Caroline St. Fredericksburg, VA 22401 The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session and retreat on Monday, October 5, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Exhibit Room, 601 Caroline St., Fredericksburg, VA 22401. EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes (left at 9:46 a.m.), Eugeniy Mikityuk (left at 12:18 p.m.), Evan Sullivan, Curry Roberts, and David Fraser. ABSENT. None. ALSO PRESENT. Fredericksburg City Football Club, Brett Pierce; EDA Assistant, Jordan Seurattan; EDA Counsel, Jackson Key; Department of Economic Development and Tourism: Josh Summits, Director; Amy Peregoy, Economic Development Manager. DETERMINATION OF QUORUM. Eugeniy Mikityuk. APPROVAL OF AGENDA. MOTION by Kevin Hughes seconded by Curry Roberts, to approve the agenda: Ayes (7); Nays (0). PUBLIC COMMENTS. APPROVAL OF MINUTES. MOTION by Anita Crossfield seconded by Evan Sullivan for the regular meeting minutes from September 14, 2026 were approved: Ayes (7); Nays (0). TREASURER'S REPORT. Mr. Hughes reported that all financials are up to date and loan payments have been paid on time. OLD BUSINESS. None. NEW BUSINESS. None. COMMITTEE & LIAISON REPORTS. a. City Relations Committee \u2013 None. b. InvestFXBG Loan Committee \u2013 Mr. Sullivan reported that all loan payments are up to date and there are no loans in underwriting. c. Parking Improvements \u2013 None. d. Strategic Investments \u2013 None. e. Workforce Development \u2013 None. f. Tourism \u2013 None. g. Main Street \u2013 None. h. Marketing and Promotions \u2013 None. i. Business Relations \u2013 None. STAFF REPORT. Mr. Summits \u2013 The Department of Economic Development and Tourism (EDT) had a successful Fall Breakfast on Friday, October 2, 2026, with about 60 people in attendance. Ms. Peregoy - FXBG Local Loop event this past month with 16 local businesses in attendance. Lastly, M...[truncated]",
+      "session_type": "Regular Session",
+      "lines": [
+        "601 Caroline Street, Suite 303                                                         (540) 372-1216",
+        "Fredericksburg, VA 22401                                                               (540) 372-6587 Fax",
+        "Monday, November 9, 2026",
+        "8:30 a.m. \u25cf EDA Regular Meeting",
+        "FXBG City Center, First Floor",
+        "Visitor Center Conference Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "1. Call to Order \u2013 Chair Schatz",
+        "2. Determination of Quorum",
+        "3. Approval of the Agenda",
+        "4. Public Comments",
+        "5. The Rappahannock Valley Garden Club Grant Presentation - Karli Murray, Tour Chair",
+        "6. Approval of Minutes",
+        "Regular Meeting Minutes of October 5, 2026",
+        "7. Treasurer\u2019s Report",
+        "a. EDA Budget Update September 2026",
+        "b. Authorization of Additional Signatories for the EDA Operating Account \u2013 David Fraser",
+        "& Eugeniy Mikityuk",
+        "c. Consideration of Approval of an EDA Debit Card for Josh Summits, Director of",
+        "Economic Development & Tourism",
+        "8. Old Business",
+        "9. New Business",
+        "a. Grant Funding Requests \u2013 Review and Consideration \u2013 Amy Peregoy",
+        "b. Sports Tourism Sponsorship Opportunity \u2013 Fred City Soccer Club \u2013 Josh Summits",
+        "c. Fredericksburg Free Press Marketing and Promotion Proposal \u2013 Josh Summits",
+        "d. Discussion of Part-Time Contract Employee \u2013 Amy Peregoy",
+        "10. Committee & Liaison Reports",
+        "a. City Relations Committee \u2013 Meredith Schatz & Curry Roberts",
+        "b. InvestFXBG Loan Committee \u2013 Anita Crossfield & Evan Sullivan",
+        "c. Parking Improvement \u2013 Kevin Hughes & Eugeniy Mikityuk",
+        "d. Strategic Investments \u2013 Evan Sullivan & Curry Roberts",
+        "e. Workforce Development \u2013 Meredith Schatz & Curry Roberts",
+        "f. Tourism \u2013 Eugeniy Mikityuk & David Fraser",
+        "g. Main Street \u2013 David Fraser & Evan Sullivan",
+        "h. Marketing & Promotions \u2013 Eugeniy Mikityuk & David Fraser",
+        "i. Business Relations \u2013 Meredith Schatz & Anita Crossfield",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO NOVEMBER 9, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "Page 2 of 2",
+        "EDA Agenda \u2013 November 9, 2026",
+        "11. Staff Report",
+        "12. Chair\u2019s Report",
+        "13. Board Member Comments",
+        "14. Closed Session \u2013 the Economic Development Authority of the City of Fredericksburg, Virginia",
+        "convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(8) for the purpose of consultation",
+        "with legal counsel employed or retained by a public body regarding specific legal matters requiring",
+        "the provision of legal advice by such counsel, specifically to discuss legal advice concerning the",
+        "proposed restructuring of an existing loan made by the public body, including the borrower's",
+        "request to subordinate the public body's security interest in the collateral securing said loan.",
+        "15. Adjournment \u2013 Next Meeting, December 14, 2026",
+        "NOTE: THIS IS A TENTATIVE AGENDA AND SUBJECT TO ADJUSTMENTS PRIOR TO NOVEMBER 9, 2026. ANY CITIZEN THAT WANTS TO",
+        "RECEIVE AN ELECTRONIC AGENDA MAY SIGN UP WITH THE REQUEST TO RECEIVE ECONOMIC DEVELOPMENT AUTHORITY",
+        "AGENDAS FORM.",
+        "601 Caroline Street, Suite 303                                                           (540) 372-1216",
+        "Fredericksburg, VA 22401                                                                 (540) 372-6587 Fax",
+        "ECONOMIC DEVELOPMENT AUTHORITY (EDA) MINUTES",
+        "Monday, October 5 , 2026",
+        "8:31 a.m. \u25cf Regular Meeting & Retreat",
+        "FXBG City Center, First Floor",
+        "Visitor Center Exhibit Room",
+        "601 Caroline St.",
+        "Fredericksburg, VA 22401",
+        "The Economic Development Authority of the City of Fredericksburg, Virginia met in regular session and retreat on",
+        "Monday, October 5, 2026, at 8:31 a.m. at the FXBG City Center, Visitor Center Exhibit Room, 601 Caroline St.,",
+        "Fredericksburg, VA 22401.",
+        "EDA MEMBERS PRESENT. Meredith Schatz, Chair presiding. Anita Crossfield, Kevin Hughes (left at 9:46",
+        "a.m.), Eugeniy Mikityuk (left at 12:18 p.m.), Evan Sullivan, Curry Roberts, and David Fraser.",
+        "ABSENT. None.",
+        "ALSO PRESENT. Fredericksburg City Football Club, Brett Pierce; EDA Assistant, Jordan Seurattan; EDA",
+        "Counsel, Jackson Key; Department of Economic Development and Tourism: Josh Summits, Director; Amy",
+        "Peregoy, Economic Development Manager.",
+        "DETERMINATION OF QUORUM. Eugeniy Mikityuk.",
+        "APPROVAL OF AGENDA.",
+        "MOTION by Kevin Hughes seconded by Curry Roberts, to approve the agenda: Ayes (7); Nays (0).",
+        "PUBLIC COMMENTS.",
+        "APPROVAL OF MINUTES.",
+        "MOTION by Anita Crossfield seconded by Evan Sullivan for the regular meeting minutes from September",
+        "14, 2026 were approved: Ayes (7); Nays (0).",
+        "TREASURER'S REPORT. Mr. Hughes reported that all financials are up to date and loan payments have been",
+        "paid on time.",
+        "OLD BUSINESS. None.",
+        "NEW BUSINESS. None.",
+        "COMMITTEE & LIAISON REPORTS.",
+        "a. City Relations Committee \u2013 None.",
+        "b. InvestFXBG Loan Committee \u2013 Mr. Sullivan reported that all loan payments are up to date and there are",
+        "no loans in underwriting.",
+        "c. Parking Improvements \u2013 None.",
+        "d. Strategic Investments \u2013 None.",
+        "e. Workforce Development \u2013 None.",
+        "f. Tourism \u2013 None.",
+        "g. Main Street \u2013 None.",
+        "h. Marketing and Promotions \u2013 None.",
+        "i. Business Relations \u2013 None.",
+        "STAFF REPORT.",
+        "Mr. Summits \u2013 The Department of Economic Development and Tourism (EDT) had a successful Fall Breakfast on",
+        "Friday, October 2, 2026, with about 60 people in attendance.",
+        "Ms. Peregoy - FXBG Local Loop event this past month with 16 local businesses in attendance. Lastly, Ms. Peregoy",
+        "reminded members that EDT will be hosting the next installment of The Business Pour on October 19th, which will",
+        "be a Mocktail Networking Social aimed at connecting UMW students with local businesses looking to hire.",
+        "CHAIR\u2019S REPORT. None.",
+        "MEMBER COMMENTS.",
+        "Vice Chair, Ms. Crossfield \u2013 None.",
+        "Treasurer, Mr. Hughes \u2013 None.",
+        "Secretary, Mr. Mikityuk \u2013 None",
+        "Mr. Sullivan \u2013 None.",
+        "Mr. Fraser \u2013 None.",
+        "Mr. Roberts \u2013 None.",
+        "CLOSED SESSION.",
+        "Mr. Mikityuk moved for adoption of Resolution 26-10, the Economic Development Authority of the City of",
+        "Fredericksburg, Virginia convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(3) for the discussion or",
+        "consideration of the investment of public funds where competition or bargaining is involved, where, if made public",
+        "initially, the financial interest of the governmental unit would be adversely affected, specifically to negotiate a",
+        "sponsorship proposal with a local amateur sports franchise for an upcoming season.",
+        "MOTION by Eugeniy Mikityuk, seconded by Kevin Hughes to enter into Closed Session: Ayes (7); Nays (0).",
+        "Where upon the members went into closed session.",
+        "Upon coming out of closed session.",
+        "MOTION by Eugeniy Mikityuk, seconded by Curry Roberts to exit Closed Session: Ayes (7); Nays (0).",
+        "CLOSED SESSION.",
+        "Mr. Mikityuk moved for adoption of Resolution 26-12, the Economic Development Authority of the City of",
+        "Fredericksburg, Virginia convene a closed meeting pursuant to Virginia Code 2.2-3711(A)(3) for the purpose of",
+        "consultation with legal counsel employed or retained by a public body regarding specific legal matters requiring",
+        "the provision of legal advice by such counsel, specifically to discuss legal advice concerning the proposed",
+        "restructuring of an existing loan made by the public body, including the borrower's request to subordinate the public",
+        "body's security interest in the collateral securing said loan.",
+        "MOTION by Eugeniy Mikityuk, seconded by Curry Roberts to enter into Closed Session: Ayes (7); Nays (0).",
+        "Where upon the members went into closed session.",
+        "Upon coming out of closed session.",
+        "MOTION by Eugeniy Mikityuk, seconded by Anita Crossfield to exit Closed Session: Ayes (7); Nays (0).",
+        "ANNUAL RETREAT DISCUSSION.",
+        "During the annual retreat portion of the meeting, EDA members centered their discussion around five strategic",
+        "themes: business climate, marketing/tourism, public perception, retail/workforce support, and future redevelopment.",
+        "A central goal of the retreat was to move away from purely ideation-based discussions toward a methodical, project-",
+        "oriented planning process. To ensure accountability, the chair assigned specific board members as \"sponsors\" to lead",
+        "each initiative, with all action items categorized by 30, 60, and 90 day execution windows to ensure measurable",
+        "progress over the next year.",
+        "In the area of business climate, the board identified the need to analyze the current Business, Professional, and",
+        "Occupational License (BPOL) tax structure. Members requested a revenue breakdown by tier to evaluate how these",
+        "taxes affect the attraction of professional services and defense contractors, with an intent to approach City Council",
+        "with evidence-based solutions rather than just feedback during future City Relations meetings. Regarding Marketing",
+        "and Tourism, the members proposed a new, EDA-specific social media presence focused on \"living and working\" in",
+        "Fredericksburg, distinguishing it from existing tourism-focused outlets, and discussed potential influencer-led",
+        "campaigns. EDA members expressed a strong interest in ensuring these efforts are tied to clear return-on-investment",
+        "metrics and requested legal diligence to confirm the EDA's authority to contract with third-party media entities.",
+        "The discussions on Retail and Workforce highlighted a desire to provide better educational resources for local",
+        "business owners, including training on point-of-sale systems and expanding access to small business development",
+        "programs. The board also addressed the local talent pipeline, specifically exploring how to better connect city",
+        "students with regional Career and Technical Education opportunities, such as the trade skills required by the data",
+        "center sector. Lastly, regarding site redevelopment, the board discussed strategies for underutilized properties and",
+        "corridors, focusing on \"corridor-based\" site classification and evaluating how to better navigate the Architectural",
+        "Review Board process to support property improvements. Chair Schatz concluded the retreat by committing to re-",
+        "envision the board\u2019s committee structure to better align with these specific initiatives, moving toward an outcome-",
+        "focused model for future meetings.",
+        "ADJOURNMENT. There being no further business to come before the Economic Development Authority at this",
+        "time, Chair Schatz declared the meeting officially adjourned at 1:14 p.m.",
+        "________________________________",
+        "Eugeniy Mikityuk, Secretary",
+        "601 Caroline Street, Suite 303                                              (540) 372-1216",
+        "Fredericksburg, VA 22401                                                    (540) 372-6587 Fax",
+        "RESOLUTION 26-10",
+        "ECONOMIC DEVELOPMENT AUTHORITY",
+        "OF THE CITY OF FREDERICKSBURG, VIRGINIA",
+        "Proposed by: Mikityuk",
+        "Seconded by: Hughes",
+        "RE:    RESOLUTION FOR ECONOMIC DEVELOPMENT AUTHORITY TO HOLD",
+        "CLOSED MEETING UNDER THE VIRGINIA FREEDOM OF INFORMATION",
+        "ACT FOR THE DISCUSSION OR CONSIDERATION OF THE INVESTMENT",
+        "OF PUBLIC FUNDS.",
+        "WHEREAS, the Virginia Freedom of Information Act authorizes public bodies",
+        "to hold closed meetings for certain limited purposes.",
+        "NOW THEREFORE, BE IT RESOLVED that the Economic Development",
+        "Authority of the City of Fredericksburg, Virginia convene a closed meeting pursuant to Virginia",
+        "Code 2.2-3711(A)(6) for the discussion or consideration of the investment of public funds where",
+        "competition or bargaining is involved, where, if made public initially, the financial interest of",
+        "the governmental unit would be adversely affected, specifically to negotiate a sponsorship",
+        "proposal with a local amateur sports franchise for an upcoming season.",
+        "DATE OF ADOPTION: OCTOBER 5, 2026                        VOTE: AYES: 7 NAYS: 0",
+        "CERTIFICATION:",
+        "***************",
+        "Secretary\u2019s Certificate",
+        "I, the undersigned, certify that I am the Secretary of the Economic Development Authority of the",
+        "City of Fredericksburg, Virginia, and that the foregoing is a true copy of Resolution No. 26-",
+        "10 duly adopted at a meeting of the Economic Development Authority meeting held October 5,",
+        "2026, at which a quorum was present and voted.",
+        "Given under my hand and the official seal of the Economic Development Authority of the",
+        "City of Fredericksburg, Virginia.",
+        "Date: _______________          ___________________________________",
+        "Secretary, Economic Development Authority",
+        "of the City of Fredericksburg, Virginia",
+        "601 Caroline Street, Suite 303                                            (540) 372-1216",
+        "Fredericksburg, VA 22401                                                  (540) 372-6587 Fax",
+        "RESOLUTION 26-11",
+        "CERTIFICATION OF CLOSED ECONOMIC DEVELOPMENT AUTHORITY OF THE",
+        "CITY OF FREDERICKSBURG, VIRGINIA MEETING",
+        "Proposed by: Mikityuk",
+        "Seconded by: Roberts",
+        "IT IS HEREBY RESOLVED by the Economic Development Authority of the City of",
+        "Fredericksburg, Virginia, as follows:",
+        "WHEREAS, the Authority has this date convened a closed meeting under Virginia Code"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_11092026-2223?html=true",
+      "date": "2026-11-09",
+      "agenda_id": "2223",
+      "body": "Economic Development Authority"
+    },
+    {
+      "format": "pdf",
+      "sections": [
+        {
+          "level": 1,
+          "title": "Call to Order",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Electoral Board Completion of Duties",
+          "subitems": [
+            {
+              "level": 2,
+              "title": "Canvass of Election Results from all precincts reported Election",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Provisional Canvass",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Electoral Board will vote to accept or deny provisionals",
+              "documents": []
+            },
+            {
+              "level": 2,
+              "title": "Canvass of Post Election Results",
+              "documents": []
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "title": "Signing of Abstract",
+          "subitems": []
+        },
+        {
+          "level": 1,
+          "title": "Adjournment",
+          "subitems": []
+        }
+      ],
+      "raw_text": "AGENDA Electoral Board Meeting November 4th, 2026, 10 AM Office of Voter Registration and Elections Fredericksburg City Center Purpose: to administer duties related to the November 3rd General and Special Election A. Call to Order B. Electoral Board Completion of Duties a. Canvass of Election Results from all precincts reported Election Night b. Provisional Canvass i. Electoral Board will vote to accept or deny provisionals c. Canvass of Post Election Results C. Signing of Abstract D. Adjournment November 10, 2026, 10:00 AM Provisional Canvass All meetings occur in the Office of the General Registrar located at 601 Caroline Street 5th Floor Fredericksburg VA 22401. Once convened, the Electoral Board will remain in session, and will recess from time-to-time, for a date and time certain, to complete the requirements of the election and to properly conduct and conclude other business required by the Code of the Commonwealth or the State Department of Elections, in finalizing the election, the fiscal year, and any old or unfinished business from this and prior meetings. Portions of this meeting \u2013 beginning November 3rd, 2026, until their final adjournment \u2013 may include Closed Sessions as allowed by VFOIA \u00a72.2-3711(A)(1, 7 & 8) and/or \u00a724.2- 653. 601 Caroline Street Suite 500 Fredericksburg, VA 22401 Email: vote@vote.fredericksburgva.gov Web: www.fredericksburgVA.gov/Vote Telephone: 540-372-1030 Fax: 540-373-8381",
+      "session_type": "Regular Session",
+      "body": "Electoral Board",
+      "time": "10:00 AM",
+      "lines": [
+        "AGENDA",
+        "Electoral Board Meeting",
+        "November 4th, 2026, 10 AM",
+        "Office of Voter Registration and Elections",
+        "Fredericksburg City Center",
+        "Purpose: to administer duties related to the November 3rd General and",
+        "Special Election",
+        "A. Call to Order",
+        "B. Electoral Board Completion of Duties",
+        "a. Canvass of Election Results from all precincts reported Election",
+        "Night",
+        "b. Provisional Canvass",
+        "i. Electoral Board will vote to accept or deny provisionals",
+        "c. Canvass of Post Election Results",
+        "C. Signing of Abstract",
+        "D. Adjournment",
+        "November 10, 2026, 10:00 AM Provisional Canvass",
+        "All meetings occur in the Office of the General Registrar located at 601",
+        "Caroline Street 5th Floor Fredericksburg VA 22401.",
+        "Once convened, the Electoral Board will remain in session, and will recess from time-to-time, for a",
+        "date and time certain, to complete the requirements of the election and to properly conduct and",
+        "conclude other business required by the Code of the Commonwealth or the State Department of",
+        "Elections, in finalizing the election, the fiscal year, and any old or unfinished business from this and",
+        "prior meetings. Portions of this meeting \u2013 beginning November 3rd, 2026, until their final",
+        "adjournment \u2013 may include Closed Sessions as allowed by VFOIA \u00a72.2-3711(A)(1, 7 & 8) and/or",
+        "\u00a724.2- 653.",
+        "601 Caroline Street Suite 500 Fredericksburg, VA 22401",
+        "Email: vote@vote.fredericksburgva.gov",
+        "Web: www.fredericksburgVA.gov/Vote",
+        "Telephone: 540-372-1030          Fax: 540-373-8381"
+      ],
+      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_11042026-2219?html=true",
+      "date": "2026-11-04",
+      "agenda_id": "2219"
+    },
     {
       "format": "html",
       "session_type": "Regular Session",
@@ -1402,394 +1982,6 @@
       ],
       "video_duration_sec": 4952,
       "video_lobby_only": false
-    },
-    {
-      "format": "html",
-      "date_label": "October 13, 2026,",
-      "time": "4:00 pm",
-      "session_type": "Work Session",
-      "body": "City Council",
-      "location": "Council Chambers",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Dog Park Ribbon Cutting",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "1448 Kenmore Ave",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Work Session",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "City Hall, Large Conference Room,",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Second Floor",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "5:00 pm",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Topics",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Parks Recreation and Events Annual Master Plan",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Small Area 8 Plan",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Legislative Agenda Discussion",
-              "documents": []
-            },
-            {
-              "level": 2,
-              "title": "Utilities Update",
-              "documents": []
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 10/13/2026 City of Fredericksburg, Virginia Hon. Kerry P. Devine, Mayor Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four Hon. Jannan W. Holmes, At-Large Hon. Dr. Will B. Mackintosh, At-Large Hon. Matt D. Rowe, Ward One Hon. Joy Y. Crump, Ward Two Hon. Susanna R. Finn, Ward Three City Council AGENDA Council Chambers 715 Princess Anne Street Fredericksburg, Virginia 22401 October 13, 2026, Dog Park Ribbon Cutting 1448 Kenmore Ave 4:00 pm Work Session City Hall, Large Conference Room, Second Floor 5:00 pm 1. Call to Order 2. Topics A. Parks Recreation and Events Annual Master Plan B. Small Area 8 Plan C. Legislative Agenda Discussion D. Utilities Update 3. Adjournment",
-      "lines": [
-        "Agenda - 10/13/2026",
-        "City of Fredericksburg, Virginia",
-        "Hon. Kerry P. Devine, Mayor",
-        "Hon. Charlie L. Frye, Jr., Vice-Mayor, Ward Four",
-        "Hon. Jannan W. Holmes, At-Large",
-        "Hon. Dr. Will B. Mackintosh, At-Large",
-        "Hon. Matt D. Rowe, Ward One",
-        "Hon. Joy Y. Crump, Ward Two",
-        "Hon. Susanna R. Finn, Ward Three",
-        "City Council",
-        "AGENDA",
-        "Council Chambers",
-        "715 Princess Anne Street",
-        "Fredericksburg, Virginia 22401",
-        "October 13, 2026,",
-        "Dog Park Ribbon Cutting",
-        "1448 Kenmore Ave",
-        "4:00 pm",
-        "Work Session",
-        "City Hall, Large Conference Room,",
-        "Second Floor",
-        "5:00 pm",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Topics",
-        "A.",
-        "Parks Recreation and Events Annual Master Plan",
-        "B.",
-        "Small Area 8 Plan",
-        "C.",
-        "Legislative Agenda Discussion",
-        "D.",
-        "Utilities Update",
-        "3.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10132026-2213?html=true",
-      "date": "2026-10-13",
-      "agenda_id": "2213"
-    },
-    {
-      "format": "html",
-      "session_type": "Regular Session",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Agenda",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Call to Order",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination of a quorum",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Determination that public notice requirements have been met",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "October 12, 2026 Public Notice",
-              "documents": [
-                "3 2026-10-12_2ndprint_public notice_ARBhearing.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Approval of Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "October 12, 2026 Agenda",
-              "documents": [
-                "1 10-12-2026_ARB Agenda.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Announcements and Reports",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Review of Minutes",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "September 14, 2026 \u2013 Public Hearing Minutes",
-              "documents": [
-                "6A 2026-09-14 ARB Minutes DRAFT.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Ex Parte Communication",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Disclosure of Conflicts of Interest",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Consent Agenda",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "COA 2609-0249 \u2013 610 Caroline Street \u2013 Sign Installation",
-              "documents": [
-                "9A COA2609-0249_Administrative Review Form_610 Caroline Street_signed.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Public Hearing",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "New Applications",
-              "documents": [
-                "10A COA 2609-0246_ARBmemo_706 Caroline Street.pdf",
-                "10B COA 2609-0248_ARBmemo_1320 Caroline Street.pdf",
-                "10C COA 2609-0247_ARBmemo_307 Fauquier Street.pdf",
-                "10D COA 2609-0243_ARBmemo_210 Ferdinand Street.pdf",
-                "10DE Qcells_Data_sheet_Q.PEAK_DUO_XL-G11S.Y3-BFG_series_580-605_DCA_2026-05.pdf",
-                "10E COA 2609-0245_ARBmemo_3 Learning Lane.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "General Public Comment",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Other Business",
-          "subitems": [
-            {
-              "level": 2,
-              "title": "Mayfield National Register of Historic Places District Nomination",
-              "documents": [
-                "12A ARBmemo_Mayfield.pdf",
-                "For distribution-MayfieldHD_Nomination_Form_10-900-NRHP_Last Draft.pdf"
-              ]
-            }
-          ]
-        },
-        {
-          "level": 1,
-          "title": "Staff Update",
-          "subitems": []
-        },
-        {
-          "level": 1,
-          "title": "Adjournment",
-          "subitems": []
-        }
-      ],
-      "raw_text": "Agenda - 10/12/2026 ARCHITECTURAL REVIEW BOARD AGENDA October 12, 2026 7:00 P.M. Live streaming available during meetings and archived meeting videos are also available. View Meeting Stream Agenda 1. Call to Order 2. Determination of a quorum 3. Determination that public notice requirements have been met 3.A. October 12, 2026 Public Notice Documents: 3 2026-10-12_2ndprint_public notice_ARBhearing.pdf 4. Approval of Agenda 4.A. October 12, 2026 Agenda Documents: 1 10-12-2026_ARB Agenda.pdf 5. Announcements and Reports 6. Review of Minutes 6.A. September 14, 2026 \u2013 Public Hearing Minutes Documents: 6A 2026-09-14 ARB Minutes DRAFT.pdf 7. Disclosure of Ex Parte Communication 8. Disclosure of Conflicts of Interest 9. Consent Agenda 9.A. COA 2609-0249 \u2013 610 Caroline Street \u2013 Sign Installation Documents: 9A COA2609-0249_Administrative Review Form_610 Caroline Street_signed.pdf 10. Public Hearing 10.A. New Applications 10.A.i. COA 2609-0246 \u2013 706 Caroline Street Joshua Grady requests to modify the previously approved COA 2506-0127 to make alterations to this commercial building including windows and mechanical equipment screening. Documents: 10A COA 2609-0246_ARBmemo_706 Caroline Street.pdf 10.A.ii. COA 2609-0248 \u2013 1320 Caroline Street Maggie Burke-Miller requests to modify the previously approved COA FY22-0069 and requests after-the-fact approval of the wood-grained surface appearance of the LP SmartSide siding installed on the new addition and window replacement on the rear second-story of this single-family residence. Documents: 10B COA 2609-0248_ARBmemo_1320 Caroline Street.pdf 10.A.iii. COA 2609-0247 \u2013 307 Fauquier Street H. Sweet requests to change the roofing material from cedar shake to standing seam metal at this single-family residence. Documents: 10C COA 2609-0247_ARBmemo_307 Fauquier Street.pdf 10.A.iv. COA 2609-0243 \u2013 210 Ferdinand Street Craig Lilly requests to install solar panels on the roof of the Walker Grant Center. Documents: 10D COA 2609-0243_ARBmemo_210 Ferdinand Street.pdf 10DE Qcells_Data_sheet_Q.PEAK_DUO_XL-G11S.Y3-BFG_series_580-605_DCA_2026-05.pdf 10.A.v. COA 2609-0245 \u2013 3 Learning Lane Craig Lilly requests to install solar panels on the roof of Lafayette Elementary School. Documents: 10E COA 2609-0245_ARBmemo_3 Learning Lane.pdf 11. General Public Comment Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to [email protected] . Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting. 12. Other Business 12.A. Mayfield National Register of Historic Places District Nomination Documents: 12A ARBmemo_Mayfield.pdf 12.A.i. For distribution-MayfieldHD_Nomination_Form Documents: For distribution-MayfieldHD_Nomination_Form_10-900-NRHP_Last Draft.pdf 13. Staff Update 14. Adjournment",
-      "lines": [
-        "Agenda - 10/12/2026",
-        "ARCHITECTURAL REVIEW BOARD",
-        "AGENDA",
-        "October 12, 2026",
-        "7:00 P.M.",
-        "Live streaming available during meetings and archived meeting videos are also available.",
-        "View Meeting Stream",
-        "Agenda",
-        "1.",
-        "Call to Order",
-        "2.",
-        "Determination of a quorum",
-        "3.",
-        "Determination that public notice requirements have been met",
-        "3.A.",
-        "October 12, 2026 Public Notice",
-        "Documents:",
-        "3     2026-10-12_2ndprint_public notice_ARBhearing.pdf",
-        "4.",
-        "Approval of Agenda",
-        "4.A.",
-        "October 12, 2026 Agenda",
-        "Documents:",
-        "1     10-12-2026_ARB Agenda.pdf",
-        "5.",
-        "Announcements and Reports",
-        "6.",
-        "Review of Minutes",
-        "6.A.",
-        "September 14, 2026 \u2013 Public Hearing Minutes",
-        "Documents:",
-        "6A     2026-09-14 ARB Minutes DRAFT.pdf",
-        "7.",
-        "Disclosure of Ex Parte Communication",
-        "8.",
-        "Disclosure of Conflicts of Interest",
-        "9.",
-        "Consent Agenda",
-        "9.A.",
-        "COA 2609-0249 \u2013 610 Caroline Street \u2013 Sign Installation",
-        "Documents:",
-        "9A     COA2609-0249_Administrative Review Form_610 Caroline Street_signed.pdf",
-        "10.",
-        "Public Hearing",
-        "10.A.",
-        "New Applications",
-        "10.A.i.",
-        "COA 2609-0246 \u2013 706 Caroline Street",
-        "Joshua Grady requests to modify the previously approved COA 2506-0127 to make alterations to this commercial building including windows and mechanical equipment screening.",
-        "Documents:",
-        "10A     COA 2609-0246_ARBmemo_706 Caroline Street.pdf",
-        "10.A.ii.",
-        "COA 2609-0248 \u2013 1320 Caroline Street",
-        "Maggie Burke-Miller requests to modify the previously approved COA FY22-0069 and requests after-the-fact approval of the wood-grained surface appearance of the LP SmartSide siding installed on the new addition and window replacement on the rear second-story of this single-family residence.",
-        "Documents:",
-        "10B     COA 2609-0248_ARBmemo_1320 Caroline Street.pdf",
-        "10.A.iii.",
-        "COA 2609-0247 \u2013 307 Fauquier Street",
-        "H. Sweet requests to change the roofing material from cedar shake to standing seam metal at this single-family residence.",
-        "Documents:",
-        "10C     COA 2609-0247_ARBmemo_307 Fauquier Street.pdf",
-        "10.A.iv.",
-        "COA 2609-0243 \u2013 210 Ferdinand Street",
-        "Craig Lilly requests to install solar panels on the roof of the Walker Grant Center.",
-        "Documents:",
-        "10D     COA 2609-0243_ARBmemo_210 Ferdinand Street.pdf",
-        "10DE   Qcells_Data_sheet_Q.PEAK_DUO_XL-G11S.Y3-BFG_series_580-605_DCA_2026-05.pdf",
-        "10.A.v.",
-        "COA 2609-0245 \u2013 3 Learning Lane",
-        "Craig Lilly requests to install solar panels on the roof of Lafayette Elementary School.",
-        "Documents:",
-        "10E     COA 2609-0245_ARBmemo_3 Learning Lane.pdf",
-        "11.",
-        "General Public Comment",
-        "Public comments may be submitted in one of the following ways: (1) dropping them in the Community Planning and Building drop box at 601 Caroline Street, (2) U.S. Mail, or (3) email to",
-        "[email\u00a0protected]",
-        ". Comments received before 1:30 p.m. on the day of the meeting will be read into the record at the meeting. Comments must include your name and address, including zip code, be limited to 5 minutes or less (read aloud), and address a topic of ARB business. Public comments will not be accepted on video feeds during the meeting.",
-        "12.",
-        "Other Business",
-        "12.A.",
-        "Mayfield National Register of Historic Places District Nomination",
-        "Documents:",
-        "12A     ARBmemo_Mayfield.pdf",
-        "12.A.i.",
-        "For distribution-MayfieldHD_Nomination_Form",
-        "Documents:",
-        "For distribution-MayfieldHD_Nomination_Form_10-900-NRHP_Last Draft.pdf",
-        "13.",
-        "Staff Update",
-        "14.",
-        "Adjournment"
-      ],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10122026-2214?html=true",
-      "date": "2026-10-12",
-      "agenda_id": "2214",
-      "body": "Architectural Review Board"
-    },
-    {
-      "format": "docx",
-      "body": "Electoral Board",
-      "lines": [
-        "AGENDA",
-        "Electoral Board Meeting",
-        "Tuesday, October 6, 2026, 5:00 pm",
-        "Office of Voter Registration and Elections",
-        "Fredericksburg City Center",
-        "Public Speakers",
-        "The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired.",
-        "Observers",
-        "At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business.",
-        "Public Comment",
-        "Introduction of New Electoral Board Member and Board Reorganization",
-        "Approval of the Agenda",
-        "Approval of Minutes",
-        "September 1, 2026 Canvass",
-        "General Registrar Report",
-        "Old Business",
-        "November 3rd, 2026 General and Special Election",
-        "New Business",
-        "Closed Session",
-        "Certification of Closed Session",
-        "Approval of Election Day Officers of Election",
-        "Approval of New Officers of Election",
-        "Remaining Meeting Dates for 2026",
-        "November 4 Canvass",
-        "December 1st at 5pm (GR not available)",
-        "Adjournment"
-      ],
-      "raw_text": "AGENDA Electoral Board Meeting Tuesday, October 6, 2026, 5:00 pm Office of Voter Registration and Elections Fredericksburg City Center Public Speakers The Electoral Board provides this opportunity for comments from voters before the start of the meeting. Comments relevant to the registration of voters, the establishment of voting precincts, and polling places, and the conduct of the elections are welcome. To be fair to everyone, please observe the five-minute time limit and yield the floor when the Chair of the Electoral Board indicates that your time has expired. Observers At this point the Board will Open the Meeting. All speakers and those observers who have waived their right to speak are reminded that at this point you are clearly and only observers. You are not invited to interrupt nor attempt to engage Board members in discussion of Board Agenda items or other business. Public Comment Introduction of New Electoral Board Member and Board Reorganization Approval of the Agenda Approval of Minutes September 1, 2026 Canvass General Registrar Report Old Business November 3rd, 2026 General and Special Election New Business Closed Session Certification of Closed Session Approval of Election Day Officers of Election Approval of New Officers of Election Remaining Meeting Dates for 2026 November 4 Canvass December 1st at 5pm (GR not available) Adjournment",
-      "sections": [],
-      "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_10062026-2211?html=true",
-      "date": "2026-10-06",
-      "agenda_id": "2211"
     },
     {
       "date": "2026-08-25",
