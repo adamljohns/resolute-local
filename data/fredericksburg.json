@@ -2,8 +2,8 @@
   "city": "Fredericksburg",
   "state": "VA",
   "slug": "fredericksburg",
-  "updated": "2026-11-06T02:30:04Z",
-  "updated_local": "2026-11-05 21:30 EST",
+  "updated": "2026-11-06T11:12:05Z",
+  "updated_local": "2026-11-06 06:12 EST",
   "source": "fredericksburgva.gov/AgendaCenter",
   "agenda_center": "https://www.fredericksburgva.gov/AgendaCenter",
   "council": [
@@ -5753,6 +5753,13 @@
       "summary": "The Fredericksburg City Council will vote on Ordinance 26 to transition utility billing from bi-monthly to monthly statements, alongside approving the Fiscal Year 2027 budget amendments for capital projects. The session also includes the approval of a contract for public safety computer-aided dispatch upgrades and the adoption of the legislative agenda for the 2027 Virginia General Assembly. Additionally, the council will recognize new museum leadership and honor individuals through a Wall of Honor ceremony.",
       "why": "Switching to monthly utility billing may alter how residents manage cash flow and view their utility costs, while the budget amendments determine the allocation of funds for specific capital improvements. Approving the public safety dispatch upgrade directly impacts emergency response capabilities and infrastructure reliability. These decisions collectively influence the city's operational efficiency, fiscal health, and the quality of essential services provided to local families.",
       "how": "Residents can attend the meeting on October 27, 2026, at 7:30 pm at 715 Princess Anne Street, or submit written comments by 1:30 pm on the meeting date via U.S. mail or email to the Clerk of Council. For public hearings, comments must be clearly identified and will be read aloud; for general public comment, speakers must sign up with the Clerk beforehand and adhere to the five-minute time limit. All submissions must include the resident's name, address, and zip code to be valid.",
+      "source": "auto-llm",
+      "model": "qwen3.6-35b-a3b"
+    },
+    "2026-11-10": {
+      "summary": "The City Council will review updates on United Methodist Church projects, discuss the city's policy on using artificial intelligence, and vote on regulations for massage therapists and related businesses. The session also includes a segment for written public comments to be submitted to the council. These items address local development, technology governance, and small business licensing.",
+      "why": "Decisions on massage therapist regulations affect local business operations and consumer safety standards, which influence the neighborhood commercial mix. The AI policy discussion determines how city data and services are managed, impacting transparency and operational efficiency for residents. Updates on church projects may involve land use or community resource allocation relevant to the local tax base and zoning.",
+      "how": "Attend the meeting on Tuesday, November 10, 2026, at 5:00 PM in the City Hall Large Conference Room on the Second Floor at 715 Princess Anne Street. You may submit written public comments to the council as indicated in the agenda, ensuring you follow any specific submission deadlines. You can also email council members directly to express your views on the AI policy or business regulations before the session.",
       "source": "auto-llm",
       "model": "qwen3.6-35b-a3b"
     }
