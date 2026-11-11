@@ -520,7 +520,59 @@
       ],
       "url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Agenda/_11102026-2221?html=true",
       "date": "2026-11-10",
-      "agenda_id": "2221"
+      "agenda_id": "2221",
+      "youtube_url": "https://www.youtube.com/watch?v=akyu8UGZ17Y",
+      "short_url": "https://www.youtube.com/watch?v=7cCsznhMEW4",
+      "vimeo_id": "1245637278",
+      "vimeo_event_url": "https://vimeo.com/event/898581",
+      "video_clips": [
+        {
+          "section_title": "Public Safety Recognition: Police Heroism",
+          "start_sec": 1153,
+          "end_sec": 1256,
+          "vimeo_id": "1245637278",
+          "vimeo_url": "https://vimeo.com/1245637278#t=1153s",
+          "summary": "A presentation highlights officers who swiftly lifted and carried a woman in distress out of her home, showcasing the department's dedication to going 'above and beyond the call of duty.' This moment resonates with residents' desire for safe, compassionate policing.",
+          "significance": "highlight",
+          "importance": 3,
+          "youtube_url": "https://www.youtube.com/watch?v=akyu8UGZ17Y"
+        },
+        {
+          "section_title": "Mayfield Small Area Plan Adoption & Anti-Displacement Commitment",
+          "start_sec": 5594,
+          "end_sec": 5743,
+          "vimeo_id": "1245637278",
+          "vimeo_url": "https://vimeo.com/1245637278#t=5594s",
+          "summary": "Council adopts the Mayfield Small Area Plan with a critical amendment: they commit to tracking median income and housing values to prevent displacement. This addresses the community's fear that revitalization will erase the historic Black neighborhood, ensuring current residents can stay and benefit.",
+          "significance": "highlight",
+          "importance": 5,
+          "youtube_url": "https://www.youtube.com/watch?v=akyu8UGZ17Y"
+        },
+        {
+          "section_title": "Architectural Review Board Affirmation: Caroline Street Wall Removal",
+          "start_sec": 13534,
+          "end_sec": 13646,
+          "vimeo_id": "1245637278",
+          "vimeo_url": "https://vimeo.com/1245637278#t=13534s",
+          "summary": "Council votes 7-0 to affirm the ARB's decision to allow the removal of a historic 12-inch retaining wall on Lower Caroline Street for a new driveway. A council member notes the procedural tension, while the vote signals a prioritization of private property rights over streetscape integrity in this specific waiver case.",
+          "significance": "lowlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=akyu8UGZ17Y"
+        },
+        {
+          "section_title": "Zoning Code Update for Faith & Nonprofit Institutions",
+          "start_sec": 14777,
+          "end_sec": 14927,
+          "vimeo_id": "1245637278",
+          "vimeo_url": "https://vimeo.com/1245637278#t=14777s",
+          "summary": "Council unanimously passes an ordinance updating local zoning to align with state law, allowing religious and nonprofit organizations to build taller structures (up to 45 feet) and include non-residential facilities like shelters. This removes barriers for faith-based groups providing community services.",
+          "significance": "highlight",
+          "importance": 4,
+          "youtube_url": "https://www.youtube.com/watch?v=akyu8UGZ17Y"
+        }
+      ],
+      "video_duration_sec": 15670,
+      "video_lobby_only": false
     },
     {
       "format": "html",
