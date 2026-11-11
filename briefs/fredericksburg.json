@@ -62,5 +62,61 @@
     "how": "Residents can attend the meeting on July 14, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to speak during the public comment period. For public hearings, written comments must be submitted via mail or email to the Clerk of Council by 1:30 p.m. on the meeting date to be read aloud.",
     "source": "auto-llm",
     "model": "qwen3.6-35b-a3b"
+  },
+  "2026-08-14": {
+    "summary": "The Fredericksburg City Council will review budget amendments to fund the city's 300th Anniversary celebration and approve a lease for Department of Social Services office space at 608 Jackson Street. The council will also initiate zoning updates to align local development codes with state law and consider a resolution to apply for regional vanpool funding.",
+    "why": "These decisions directly impact the city's financial health by allocating funds for a major civic event and adjusting property use regulations that affect neighborhood character and development. The social services lease and transit funding applications influence local resource distribution and transportation options for residents.",
+    "how": "Residents may submit written comments via mail or email to the Clerk of Council by 1:30 p.m. on August 14, 2026, to have them read during the public hearing. In-person public comment is available before the meeting starts at 7:30 p.m. at 715 Princess Anne Street, subject to a five-minute time limit.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-08-25": {
+    "summary": "This session will vote on two personnel appointments: John N. Siegler as Deputy Clerk of Council and Alexandra B. Rhodes as Senior Assistant City Attorney. The council will also review administrative reports, including nominations for the 2026 Wall of Honor and minutes from various advisory boards and commissions.",
+    "why": "These appointments shape the administrative and legal support for city government operations, affecting how efficiently council business is managed and how city laws are interpreted. Reviewing the Wall of Honor nominations allows residents to see who is being recognized for community service, reflecting local values and history.",
+    "how": "Residents may attend the meeting at 715 Princess Anne Street on August 25, 2026, at 7:30 p.m. to observe proceedings or speak during the public comment period. You can also email your council members regarding these appointments or review the attached memos and resolutions online prior to the session.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-09-08": {
+    "summary": "The city council will review progress on the third phase of the shopping center redevelopment project, which impacts local land use and infrastructure. Additionally, the council will hold a closed session with legal counsel to discuss enforcement strategies for defacing public property, a matter exempt from public scrutiny under state law.",
+    "why": "The redevelopment update affects the local tax base, neighborhood aesthetics, and the mix of commercial businesses available to residents. The closed legal discussion concerns public safety and the maintenance of community assets, which can influence how city resources are allocated for enforcement and repairs.",
+    "how": "Attend the work session on September 8, 2026, at 5:30 pm at 715 Princess Anne Street to observe the public portion of the meeting. Submit public comment during the designated time or email council members regarding the redevelopment update before the session. Note that the closed session on legal enforcement is not open to the public.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-09-22": {
+    "summary": "This session will finalize supplemental funding for Fredericksburg City Schools and update regulations governing towing services, private alarm systems, and zoning for technology districts. The council will also appoint an Assistant City Attorney and consider a draft legislative agenda for the 2027 General Assembly session. These actions adjust local codes and budget allocations to align with state law and community needs.",
+    "why": "Changes to towing fees and alarm permit procedures directly impact household costs and home security compliance. Zoning updates for technology districts influence local business development and property use standards. Supplemental school appropriations ensure adequate resources for education, while the legislative agenda shapes future state-level policies affecting local governance.",
+    "how": "Residents may attend the regular session on September 22, 2026, at 7:30 PM in the Council Chambers at 715 Princess Anne Street. Public comment periods are typically available during the meeting; check the agenda for specific time limits. You may also submit written comments via email to the City Clerk prior to the session to ensure your input is recorded in the official minutes.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-10-13": {
+    "summary": "The City Council will finalize the Fiscal Year 2026 budget adjustments and approve capital budget carryovers, which determine how remaining funds are allocated for city services and infrastructure. The session also includes the adoption of minutes from various advisory boards and a ceremonial proclamation for Dysautonomia Awareness Month. These actions formalize financial decisions that have already been reviewed by staff and commissions.",
+    "why": "Finalizing the budget directly impacts the quality of public services, including road maintenance, park upkeep, and emergency response capabilities, which affect every resident's daily life. Approving capital budget carryovers ensures that ongoing construction and improvement projects continue without unnecessary delays or funding gaps. Understanding these financial adjustments helps citizens know how their tax dollars are being managed and prioritized for community needs.",
+    "how": "Residents can attend the meeting on October 13, 2026, at 7:30 p.m. in the Council Chambers at 715 Princess Anne Street to listen to discussions. To provide public comment, you must identify yourself by name and address, keeping in-person remarks to five minutes or submitted letters to three minutes. Written comments for any public hearing must be emailed or mailed to the Clerk of Council by 1:30 p.m. on the meeting date.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-10-12": {
+    "summary": "The detailed agenda for the Fredericksburg City Council session on October 12, 2026, is not yet available, so specific legislative actions cannot be identified at this time. Once published, the agenda will list the exact ordinances, contracts, or budget items scheduled for discussion and vote. Residents should check the city's official website closer to the date for the finalized list of business items.",
+    "why": "City council decisions directly impact local property values, zoning regulations, and the allocation of funds for public schools and infrastructure. Understanding the agenda helps residents see how tax dollars are spent on public safety, road maintenance, and community services. Engaging with these decisions ensures that local family needs and neighborhood character are considered in municipal planning.",
+    "how": "Monitor the City of Fredericksburg's official agenda page for updates on the October 12, 2026, meeting details. Attend the session at the Council Chambers to listen to presentations and submit public comments during the designated time slot. You may also contact council members via email or phone to express your views on specific agenda items before the meeting concludes.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-10-27": {
+    "summary": "The Fredericksburg City Council will vote on Ordinance 26 to transition utility billing from bi-monthly to monthly statements, alongside approving the Fiscal Year 2027 budget amendments for capital projects. The session also includes the approval of a contract for public safety computer-aided dispatch upgrades and the adoption of the legislative agenda for the 2027 Virginia General Assembly. Additionally, the council will recognize new museum leadership and honor individuals through a Wall of Honor ceremony.",
+    "why": "Switching to monthly utility billing may alter how residents manage cash flow and view their utility costs, while the budget amendments determine the allocation of funds for specific capital improvements. Approving the public safety dispatch upgrade directly impacts emergency response capabilities and infrastructure reliability. These decisions collectively influence the city's operational efficiency, fiscal health, and the quality of essential services provided to local families.",
+    "how": "Residents can attend the meeting on October 27, 2026, at 7:30 pm at 715 Princess Anne Street, or submit written comments by 1:30 pm on the meeting date via U.S. mail or email to the Clerk of Council. For public hearings, comments must be clearly identified and will be read aloud; for general public comment, speakers must sign up with the Clerk beforehand and adhere to the five-minute time limit. All submissions must include the resident's name, address, and zip code to be valid.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
+  },
+  "2026-11-10": {
+    "summary": "The City Council will review updates on United Methodist Church projects, discuss the city's policy on using artificial intelligence, and vote on regulations for massage therapists and related businesses. The session also includes a segment for written public comments to be submitted to the council. These items address local development, technology governance, and small business licensing.",
+    "why": "Decisions on massage therapist regulations affect local business operations and consumer safety standards, which influence the neighborhood commercial mix. The AI policy discussion determines how city data and services are managed, impacting transparency and operational efficiency for residents. Updates on church projects may involve land use or community resource allocation relevant to the local tax base and zoning.",
+    "how": "Attend the meeting on Tuesday, November 10, 2026, at 5:00 PM in the City Hall Large Conference Room on the Second Floor at 715 Princess Anne Street. You may submit written public comments to the council as indicated in the agenda, ensuring you follow any specific submission deadlines. You can also email council members directly to express your views on the AI policy or business regulations before the session.",
+    "source": "auto-llm",
+    "model": "qwen3.6-35b-a3b"
   }
 }
