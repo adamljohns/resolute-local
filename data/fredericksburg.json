@@ -1831,6 +1831,453 @@
       "video_lobby_only": false
     },
     {
+      "date": "2026-09-22",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_09222026-2207",
+      "minutes_pages": 285,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Ph.D"
+      ],
+      "council_absent": [
+        "D"
+      ],
+      "resolutions_voted": [
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the council priorities implementation plan and Councilor Finn seconded the motion",
+          "motion_by": "Frye",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 6,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Finn",
+            "Holmes",
+            "Mackintosh"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the consent agenda",
+          "motion_by": "Rowe",
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 4,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve entering into a lease with the Fredericksburg Department of Social Services for office space and parking at 608 Jackson Street",
+          "motion_by": "Rowe",
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to accept the appointment of Kenneth Lappin to the RACSB",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Frye",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": "Holmes",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for Smart Scale Round 7 application - Fall Hill Avenue corridor improvements",
+          "motion_by": "Holmes",
+          "seconded_by": "Rowe",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution for authorizing the City Manager to award a contract for police camera and related technology to Axon, Inc",
+          "motion_by": "Frye",
+          "seconded_by": "Crump",
+          "result": "passed",
+          "ayes_count": 5,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Crump",
+            "Holmes",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
+      "date": "2026-09-08",
+      "body": "City Council",
+      "session_type": "Regular Session",
+      "url": null,
+      "sections": [],
+      "minutes_available": true,
+      "minutes_url": "https://www.fredericksburgva.gov/AgendaCenter/ViewFile/Minutes/_09082026-2202",
+      "minutes_pages": 188,
+      "council_present": [
+        "Crump",
+        "Devine",
+        "Finn",
+        "Frye",
+        "Holmes",
+        "Mackintosh",
+        "Rowe"
+      ],
+      "council_absent": [],
+      "resolutions_voted": [
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution, and Vice-Mayor Frye seconded the motion",
+          "motion_by": "Mackintosh",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to approve the resolution, and Councilor Mackintosh seconded the motion",
+          "motion_by": "Rowe",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to appoint Jennifer Evans to the board, stating she had reviewed the applications and felt Ms",
+          "motion_by": "Finn",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to pass the ordinance, and Councilor Holmes seconded the motion",
+          "motion_by": "Rowe",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to pass the ordinance, and Councilor Crump seconded the motion",
+          "motion_by": "Rowe",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "Motion to pass the ordinance, and Councilor Holmes seconded the motion",
+          "motion_by": "Rowe",
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        },
+        {
+          "title": "(motion)",
+          "motion_by": null,
+          "seconded_by": null,
+          "result": "passed",
+          "ayes_count": 7,
+          "ayes": [
+            "Devine",
+            "Frye",
+            "Mackintosh",
+            "Holmes",
+            "Crump",
+            "Finn",
+            "Rowe"
+          ],
+          "nays_count": 0,
+          "nays": [],
+          "abstain_count": 0,
+          "abstain": []
+        }
+      ],
+      "historical_injection": true
+    },
+    {
       "date": "2026-08-25",
       "body": "City Council",
       "session_type": "Work Session",
